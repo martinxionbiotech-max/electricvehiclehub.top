@@ -19,13 +19,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Xinhua/ifeng: ¥99,900 (秦MAX DM-i), 320 km CLTC EV, 2370 km combined"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Qin"
 image: "/images/vehicles/byd-qin-max-dm-i.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:BYD_Qin_L_001.jpg"
+battery_type: "LFP (Blade)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # BYD Qin Max DM-i
 

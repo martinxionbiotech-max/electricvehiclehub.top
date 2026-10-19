@@ -22,13 +22,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["neta", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "哪吒X RMB 89,800 (太平洋汽车/汽车之家)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta X"
 image: "/images/vehicles/neta-x.jpg"
 image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Showcar_Neta_X_No-plate_2025-01-11.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Neta X
 
