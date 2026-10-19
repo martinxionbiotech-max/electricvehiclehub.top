@@ -24,13 +24,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geometry", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "几何G6 RMB 119,800 (CarNewsChina, 2023-09)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry G6"
 image: "/images/vehicles/geometry-g6.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_Geely_Geometry_G6.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Geometry G6
 

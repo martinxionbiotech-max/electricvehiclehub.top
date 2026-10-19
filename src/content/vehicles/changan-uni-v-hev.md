@@ -21,13 +21,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "IT之家: ¥109,900 (UNI-V蓝鲸超擎混动), 180 kW"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "UNI-V"
 image: "/images/vehicles/changan-uni-v-hev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=147815437"
+battery_type: "NMC (ternary)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
+charging_adapter: "N/A"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Changan UNI-V HEV
 

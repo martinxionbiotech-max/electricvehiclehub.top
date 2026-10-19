@@ -24,13 +24,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac-refine", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "瑞风M3 PHEV RMB 114,900（58汽车/易车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Refine M3"
 image: "/images/vehicles/jac-refine-m3-phev.jpg"
 image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=93982815"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # JAC Refine M3 PHEV
 
