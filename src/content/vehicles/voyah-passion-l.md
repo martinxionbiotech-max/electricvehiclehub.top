@@ -20,13 +20,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["voyah", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "岚图追光L RMB 279,900 (岚图官网/搜狐汽车)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Passion"
 image: "/images/vehicles/voyah-passion-l.jpg"
 image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:(CHN-Shanghai)_Showcar_Voyah_Passion_L_No-plate_2025-12-21.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "AWD (dual motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Voyah Passion L
 

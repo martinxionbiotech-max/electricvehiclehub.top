@@ -24,13 +24,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Wikipedia/吉利银河官网: ¥299,900 (29.99万起), 100 kWh, 200 kW, CLTC 570 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "LEVC L380"
 image: "/images/vehicles/geely-galaxy-l380.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_V900_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Geely Galaxy LEVC L380
 
