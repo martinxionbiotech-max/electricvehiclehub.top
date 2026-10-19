@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["zeekr", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "autohome/新出行/Wikipedia: ¥202,900 (20.29万起), 75 kWh, 310 kW, CLTC 650 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Zeekr 007"
 image: "/images/vehicles/zeekr-007-gt.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Zeekr_007_GT_001.jpg"
+battery_type: "LFP / NMC"
+drive_type: "RWD / AWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+drag_coefficient: 0.219
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Zeekr 007 GT
 

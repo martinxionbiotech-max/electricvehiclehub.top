@@ -21,13 +21,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["stelato", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "ArenaEV/Wikipedia (Huawei-BAIC Stelato): ¥399,800 S9 Max, 100 kWh NMC, 816 km CLTC RWD, 230 kW"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "S9"
 image: "/images/vehicles/stelato-s9.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Stelato_S9_001.jpg"
+battery_type: "LFP / NMC"
+drive_type: "RWD / AWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Stelato S9
 
