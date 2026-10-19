@@ -23,13 +23,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xiaomi", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Xiaomi SkyNomad N70 RMB 209,900 (小米汽车官网/IT之家, 2026-09)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "SkyNomad"
 image: "/images/vehicles/xiaomi-skynomad-n70.jpg"
 image_credit: "Partydoos / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_SkyNomad_N70.jpg"
+battery_type: "NMC (Qilin, CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Xiaomi SkyNomad N70
 

@@ -24,13 +24,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["avatr", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "阿维塔07增程 指导价21.99万元（腾讯新闻/易车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 07"
 image: "/images/vehicles/avatr-07-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155242223"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Avatr 07 EREV
 
