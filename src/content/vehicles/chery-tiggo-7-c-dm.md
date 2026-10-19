@@ -24,13 +24,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "瑞虎7 C-DM RMB 119,900（搜狐汽车/易车；18.66kWh/120km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tiggo 7"
 image: "/images/vehicles/chery-tiggo-7-c-dm.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Tiggo_7_(%E7%91%9E%E8%99%8E7)_III_C-DM_01_China_2025-03-31.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Chery Tiggo 7 C-DM
 

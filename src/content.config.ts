@@ -66,6 +66,35 @@ const vehicles = defineCollection({
     data_reviewed: z.boolean().optional(),
     confidence: z.string().optional(),
     family: z.string().optional(),
+    // ── EVHub Top deep-profile fields (five-section template; all optional) ──
+    // ① Entity Snapshot
+    trim: z.string().optional(),
+    range_wltp_km: z.number().nullable().optional(),
+    fob_price_usd_min: z.number().nullable().optional(),
+    fob_price_usd_max: z.number().nullable().optional(),
+    // ② Powertrain & Architecture
+    battery_type: z.string().optional(),
+    drive_type: z.string().optional(),
+    motor_type: z.string().optional(),
+    motor_model: z.string().optional(),
+    total_power_kw: z.number().nullable().optional(),
+    battery_thermal: z.string().optional(),
+    heat_pump: z.string().optional(),
+    suspension_front: z.string().optional(),
+    suspension_rear: z.string().optional(),
+    brakes: z.string().optional(),
+    drag_coefficient: z.number().nullable().optional(),
+    // ③ Dimensions & Logistics
+    gross_weight_kg: z.number().nullable().optional(),
+    ground_clearance_mm: z.number().nullable().optional(),
+    trunk_l: z.number().nullable().optional(),
+    // ④ Market Compliance & Export Profile
+    charging_interface: z.string().optional(),
+    charging_adapter: z.string().optional(),
+    infotainment_language: z.string().optional(),
+    network_bands: z.string().optional(),
+    certification_notes: z.string().optional(),
+    hs_code: z.string().optional(),
   }),
 });
 

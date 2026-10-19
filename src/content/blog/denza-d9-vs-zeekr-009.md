@@ -190,10 +190,10 @@ This is my analysis of published EU tariff law and the EV Hub landed-cost record
 
 ## Sources
 
-1. EV Hub — Denza D9 catalog record: $43,630 base, 620 km CLTC, 103.36 kWh, 200 kW, 17.0% BYD-group CVD, 30-market landed-cost table (data updated 7 September 2026) — https://electricvehiclehub.net/vehicles/denza-d9/ — accessed 23 September 2026.
-2. EV Hub — Zeekr 009 catalog record: $61,830 base, 740 km CLTC, 108 kWh, 310 kW, 18.8% Geely-group CVD, 30-market landed-cost table (data updated 7 September 2026) — https://electricvehiclehub.net/vehicles/zeekr-009/ — accessed 23 September 2026.
+1. EV Hub — Denza D9 catalog record: $43,630 base, 620 km CLTC, 103.36 kWh, 200 kW, 17.0% BYD-group CVD, 30-market landed-cost table (data updated 7 September 2026) — https://electricvehiclehub.top/vehicles/denza-d9/ — accessed 23 September 2026.
+2. EV Hub — Zeekr 009 catalog record: $61,830 base, 740 km CLTC, 108 kWh, 310 kW, 18.8% Geely-group CVD, 30-market landed-cost table (data updated 7 September 2026) — https://electricvehiclehub.top/vehicles/zeekr-009/ — accessed 23 September 2026.
 3. European Commission / EUR-Lex — Commission Implementing Regulation (EU) 2024/2754: definitive countervailing duties on battery-electric vehicles from China (BYD group 17.0%, Geely group 18.8%, SAIC group 35.3%, other cooperating 20.7%, non-cooperating 35.3%, Tesla Shanghai 7.8%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force from 30 October 2024 (accessed 23 September 2026).
-4. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table": brand-to-group rate mapping, sampled vs non-sampled attribution — https://electricvehiclehub.net/blog/china-ev-brand-cvd-master-table/ — 19 September 2026.
-5. EV Hub — "Zeekr's 18.8% Countervailing Duty: The Premium Brand Stuck With Geely's Rate": group attribution for Zeekr's rate — https://electricvehiclehub.net/blog/zeekr-countervailing-duty/ — 15 September 2026.
-6. EV Hub — "Landed Cost Methodology": compounding formula and fixed-cost benchmarks — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 September 2026.
+4. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table": brand-to-group rate mapping, sampled vs non-sampled attribution — https://electricvehiclehub.top/blog/china-ev-brand-cvd-master-table/ — 19 September 2026.
+5. EV Hub — "Zeekr's 18.8% Countervailing Duty: The Premium Brand Stuck With Geely's Rate": group attribution for Zeekr's rate — https://electricvehiclehub.top/blog/zeekr-countervailing-duty/ — 15 September 2026.
+6. EV Hub — "Landed Cost Methodology": compounding formula and fixed-cost benchmarks — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 September 2026.
 7. ExchangeRate-API — USD reference snapshot, rates last updated 23 September 2026 00:02 UTC (USD/EUR 0.873207; 1 EUR = $1.1452) — https://open.er-api.com/v6/latest/USD — accessed 23 September 2026.

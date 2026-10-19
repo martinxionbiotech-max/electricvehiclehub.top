@@ -133,8 +133,8 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 8. Wikipedia — "Nio ES6" (second generation sold in Europe as the Nio EL6) — https://en.wikipedia.org/wiki/NIO_ES6 — accessed 22 Sep 2026
 9. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (Tesla Shanghai 7.8%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 22 Sep 2026
 10. ExchangeRate-API — USD reference rates, 22 Sep 2026: EUR 0.87176 · GBP 0.747749 · NOK 9.435161 · AUD 1.404334 · AED 3.6725 · THB 33.257692 · MYR 4.076947 per USD — https://open.er-api.com/v6/latest/USD — accessed 22 Sep 2026
-11. EV Hub — NIO ES6 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/nio-es6/ — accessed 22 Sep 2026
-12. EV Hub — "XPeng G6 vs Tesla Model Y: Landed Cost, Taxes, and the Real Gap" (Berlin-built European Model Y supply; Tesla's 7.8% China rate) — https://electricvehiclehub.net/blog/xpeng-g6-vs-tesla-model-y/ — accessed 22 Sep 2026
+11. EV Hub — NIO ES6 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/nio-es6/ — accessed 22 Sep 2026
+12. EV Hub — "XPeng G6 vs Tesla Model Y: Landed Cost, Taxes, and the Real Gap" (Berlin-built European Model Y supply; Tesla's 7.8% China rate) — https://electricvehiclehub.top/blog/xpeng-g6-vs-tesla-model-y/ — accessed 22 Sep 2026
 
 ## Related reading
 

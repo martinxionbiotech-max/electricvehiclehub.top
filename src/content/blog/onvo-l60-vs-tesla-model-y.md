@@ -123,7 +123,7 @@ This is my analysis and opinion, not verified fact, and not financial advice. L6
 9. ONVO official site (onvo.cn) — L60 China listing: ¥192,800 outright; ¥135,800 with battery rental (BaaS) — https://www.onvo.cn/ — accessed 22 Sep 2026
 10. Trading Economics — reference rates, 22 Sep 2026: EUR/USD 1.1439 · GBP/USD 1.3332 · AUD/USD 0.7104 · USD/AED 3.6731 · USD/THB 33.1480 · USD/CNH ≈6.6987 — accessed 22 Sep 2026
 11. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 (producer-specific countervailing duties: Tesla Shanghai 7.8%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 22 Sep 2026
-12. EV Hub — Onvo L60 vehicle record and 30-market landed-cost data (data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/onvo-l60/
+12. EV Hub — Onvo L60 vehicle record and 30-market landed-cost data (data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/onvo-l60/
 13. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
 14. Automobile Propre — "Le Tesla Model Y d'entrée de gamme augmente son prix" (French Propulsion entry rose €1,000 to €40,990 on 22 April 2026; LFP ~62 kWh; 534 km WLTP) — https://www.automobile-propre.com/articles/tesla-augmentation-prix-model-y-propulsion-standard/ — accessed 22 Sep 2026
 

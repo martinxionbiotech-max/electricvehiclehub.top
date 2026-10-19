@@ -32,7 +32,7 @@ data_reviewed: false
 family: "Dongfeng E PI Nammi 06"
 image: "/images/vehicles/dongfeng-epi-nammi-06.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Dongfeng E PI Nammi 06
 

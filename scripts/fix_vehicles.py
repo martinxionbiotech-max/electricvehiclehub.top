@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""One-shot content+data fix for electricvehiclehub.net vehicle pages.
+"""One-shot content+data fix for electricvehiclehub.top vehicle pages.
 
 1. Fix micro-car body types (SUV -> Hatchback) + empty type (Stelato S9T -> Sedan)
 2. Fix URL spelling: chery-tiggo-7-plus-new-energe -> -new-energy

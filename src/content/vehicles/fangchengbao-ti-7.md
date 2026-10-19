@@ -32,7 +32,7 @@ data_reviewed: false
 family: "TI 7"
 image: "/images/vehicles/fangchengbao-ti-7.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Fangchengbao TI 7
 

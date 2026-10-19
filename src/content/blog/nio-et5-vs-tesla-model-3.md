@@ -140,10 +140,10 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 5. tbreak.com — "Best Electric Cars in the UAE for 2026" (Model 3 Standard introduced at AED 144,990, January 2026) — https://tbreak.com/best-electric-cars-uae-2026/ — 21 Mar 2026
 6. paultan.org — "2026 Tesla Model 3 Standard launched in Thailand" (1.149 million baht) — https://paultan.org/2026/01/09/2026-tesla-model-3-standard-launched-in-thailand-decontented-base-variant-534-km-range-rm149k/ — 9 Jan 2026
 7. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (Tesla Shanghai 7.8%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 20 Sep 2026
-8. EV Hub — NIO ET5 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/nio-et5/ — accessed 20 Sep 2026
-9. EV Hub — "BYD Seal vs Tesla Model 3: Landed-Cost Reality Check in the EU" (Shanghai-sourced Model 3 for Europe; 7.8% rate embedded in retail) — https://electricvehiclehub.net/blog/byd-seal-vs-tesla-model-3/ — accessed 20 Sep 2026
+8. EV Hub — NIO ET5 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/nio-et5/ — accessed 20 Sep 2026
+9. EV Hub — "BYD Seal vs Tesla Model 3: Landed-Cost Reality Check in the EU" (Shanghai-sourced Model 3 for Europe; 7.8% rate embedded in retail) — https://electricvehiclehub.top/blog/byd-seal-vs-tesla-model-3/ — accessed 20 Sep 2026
 10. ExchangeRate-API — USD reference rates, 20 Sep 2026: EUR/USD 1.1477 · GBP/USD 1.3370 · NOK/USD 0.1062 · AUD/USD 0.7118 · AED/USD 0.2723 · THB/USD 0.0300 — https://open.er-api.com/v6/latest/USD — accessed 20 Sep 2026
-11. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+11. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
 
 ## Related reading
 

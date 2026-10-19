@@ -32,7 +32,7 @@ data_reviewed: false
 family: "RX C"
 image: "/images/vehicles/exeed-rx-c-dm.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Exeed RX C DM
 

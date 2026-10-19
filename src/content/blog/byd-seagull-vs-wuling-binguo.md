@@ -152,8 +152,8 @@ This is my analysis of EU regulation and EV Hub's landed-cost records — opinio
 
 1. European Commission — Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (BYD 17.0%; SAIC group incl. Wuling 35.3%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force since 31 October 2024.
 2. ExchangeRate-API — USD reference rates (0.873207 USD→EUR used for the euro conversions) — https://open.er-api.com/v6/latest/USD — last updated 23 September 2026 00:02 UTC; retrieved 23 September 2026.
-3. EV Hub — Landed Cost Methodology: compounding order and the fixed-cost block — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 September 2026.
-4. EV Hub — vehicle records: BYD Seagull and Wuling Bingo, 30-market landed-cost matrices with Germany itemization, plus tariff datasets (tariffs.json / market-master.json) — https://electricvehiclehub.net/vehicles/byd-seagull/ and https://electricvehiclehub.net/vehicles/wuling-binguo/ — data updated 7–15 September 2026.
+3. EV Hub — Landed Cost Methodology: compounding order and the fixed-cost block — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 September 2026.
+4. EV Hub — vehicle records: BYD Seagull and Wuling Bingo, 30-market landed-cost matrices with Germany itemization, plus tariff datasets (tariffs.json / market-master.json) — https://electricvehiclehub.top/vehicles/byd-seagull/ and https://electricvehiclehub.top/vehicles/wuling-binguo/ — data updated 7–15 September 2026.
 
 ## Related reading
 

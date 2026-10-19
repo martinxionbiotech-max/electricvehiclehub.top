@@ -1,4 +1,4 @@
-# KEYWORD_MAP — electricvehiclehub.net blog (16 articles)
+# KEYWORD_MAP — electricvehiclehub.top blog (16 articles)
 
 > 主词 = 每篇唯一目标查询；次词 = 支撑/长尾变体。目标：每篇 H1/标题/描述自然含主词，不堆砌。
 

@@ -31,7 +31,7 @@ data_reviewed: false
 family: "A600Ev"
 image: "/images/vehicles/kaicene-a600ev.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Kaicene A600Ev
 

@@ -157,9 +157,9 @@ This is my analysis and opinion, not verified fact, and not financial or legal a
 
 1. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (BYD 17.0%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force since 31 October 2024; rate schedule as recorded in EV Hub's tariff dataset, last verified 15 Sep 2026
 2. EV Hub — `tariffs.json` and `market-master.json` — standard duty, countervailing-duty, VAT and registration inputs for all seven markets; fixed-cost components (verified 15 Sep 2026)
-3. EV Hub — XPeng Mona M03 vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://electricvehiclehub.net/vehicles/xpeng-mona-m03/
-4. EV Hub — BYD Dolphin vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://electricvehiclehub.net/vehicles/byd-dolphin/
-5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty" (rate classification for XPeng; the ~$24,600 ET9 countervailing-duty figure) — https://electricvehiclehub.net/blog/nio-xpeng-leapmotor-countervailing-duty/ — 15 Sep 2026
+3. EV Hub — XPeng Mona M03 vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://electricvehiclehub.top/vehicles/xpeng-mona-m03/
+4. EV Hub — BYD Dolphin vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://electricvehiclehub.top/vehicles/byd-dolphin/
+5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty" (rate classification for XPeng; the ~$24,600 ET9 countervailing-duty figure) — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — 15 Sep 2026
 6. ExchangeRate-API — USD reference rates — https://open.er-api.com/v6/latest/USD — retrieved 23 Sep 2026 (API update stamp: Wed 23 Sep 2026 00:02 UTC; USD/EUR 0.873207 used for the two illustrative euro equivalents)
 
 ## Related reading

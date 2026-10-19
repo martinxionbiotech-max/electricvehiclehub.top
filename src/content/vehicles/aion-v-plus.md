@@ -19,13 +19,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aion", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Aion V Plus RMB 149,900 (搜狐汽车车型库)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion V"
 image: "/images/vehicles/aion-v-plus.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_V_Plus_(front).jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Aion V Plus
 

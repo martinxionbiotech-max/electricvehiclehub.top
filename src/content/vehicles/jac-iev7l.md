@@ -29,7 +29,7 @@ data_reviewed: False
 family: "iEV7L"
 image: "/images/vehicles/jac-iev7l.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # JAC iEV7L
 

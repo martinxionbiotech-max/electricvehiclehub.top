@@ -1,9 +1,9 @@
 # Cloudflare Pages 重定向
-http://electricvehiclehub.net/index.php   https://electricvehiclehub.net/  301
-http://electricvehiclehub.net/index.htm   https://electricvehiclehub.net/  301
+http://electricvehiclehub.top/index.php   https://electricvehiclehub.top/  301
+http://electricvehiclehub.top/index.htm   https://electricvehiclehub.top/  301
 /sitemap.xml /sitemap-index.xml 301
-https://www.electricvehiclehub.net/*  https://electricvehiclehub.net/:splat  301
-# 旧 WordPress 首页别名（GSC 报 404：http://electricvehiclehub.net/index.php）
+https://www.electricvehiclehub.top/*  https://electricvehiclehub.top/:splat  301
+# 旧 WordPress 首页别名（GSC 报 404：http://electricvehiclehub.top/index.php）
 /index.php  /  301
 /index.htm  /  301
 # 分页第 1 页与 /blog/ 重复（noindex + canonical 已指 /blog）→ 301 消除重复

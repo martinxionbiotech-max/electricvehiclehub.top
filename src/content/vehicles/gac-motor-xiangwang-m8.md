@@ -20,7 +20,7 @@ data_reviewed: False
 family: "Xiangwang"
 image: "/images/vehicles/gac-motor-xiangwang-m8.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # GAC Xiangwang M8
 

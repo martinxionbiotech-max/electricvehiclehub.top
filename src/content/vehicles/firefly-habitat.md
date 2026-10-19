@@ -29,7 +29,7 @@ data_reviewed: False
 family: "Halo"
 image: "/images/vehicles/firefly-habitat.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # firefly Habitat
 

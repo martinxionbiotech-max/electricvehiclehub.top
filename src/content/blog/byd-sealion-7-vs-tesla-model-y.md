@@ -143,10 +143,10 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 6. tbreak.com — "Tesla's Six-Seat Model Y L Premium Hits UAE Order Books at AED 224,990" (five-seat Model Y Premium RWD AED 174,990) — https://tbreak.com/tesla-six-seat-model-y-l-premium-uae/ — 3 Jul 2026
 7. paultan.org — "Tesla Model Y Juniper facelift announced in Thailand — RWD and Long Range AWD, from RM224k" (RWD from 1.719 million baht) — https://paultan.org/2025/04/03/tesla-model-y-juniper-facelift-announced-in-thailand-rwd-and-long-range-awd-from-rm224k-q3-delivery/ — 3 Apr 2025
 8. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (BYD 17.0%; Tesla Shanghai 7.8%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 20 Sep 2026
-9. EV Hub — Germany import guide (Giga Berlin Model Y outside the countervailing measure) — https://electricvehiclehub.net/blog/germany-import-guide/ — accessed 20 Sep 2026
-10. EV Hub — BYD Sealion 07 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/byd-sealion-07/ — accessed 20 Sep 2026
+9. EV Hub — Germany import guide (Giga Berlin Model Y outside the countervailing measure) — https://electricvehiclehub.top/blog/germany-import-guide/ — accessed 20 Sep 2026
+10. EV Hub — BYD Sealion 07 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/byd-sealion-07/ — accessed 20 Sep 2026
 11. ExchangeRate-API — USD reference rates, 20 Sep 2026: EUR/USD 1.1477 · GBP/USD 1.3370 · NOK/USD 0.1062 · AUD/USD 0.7118 · AED/USD 0.2723 · THB/USD 0.0300 — https://open.er-api.com/v6/latest/USD — accessed 20 Sep 2026
-12. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+12. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
 
 ## Related reading
 

@@ -158,10 +158,10 @@ This is my analysis and opinion, not verified fact, and not financial advice. La
 
 ## Sources
 
-1. EV Hub — Geely Galaxy E5 vehicle record and 30-market landed-cost data (base price $15,460; German breakdown; data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/geely-galaxy-e5/ — accessed 23 Sep 2026
-2. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price $16,260; German breakdown; data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/byd-atto-3/ — accessed 23 Sep 2026
-3. EV Hub — Landed Cost Methodology (compounding order, fixed-cost benchmarks, producer-specific CVD table) — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 Sep 2026
-4. EV Hub — tariffs.json and market-master.json (standard duty, producer-specific CVD, VAT/GST and registration inputs by market; verified 15 Sep 2026) — internal data files, inputs documented at https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+1. EV Hub — Geely Galaxy E5 vehicle record and 30-market landed-cost data (base price $15,460; German breakdown; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/geely-galaxy-e5/ — accessed 23 Sep 2026
+2. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price $16,260; German breakdown; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/byd-atto-3/ — accessed 23 Sep 2026
+3. EV Hub — Landed Cost Methodology (compounding order, fixed-cost benchmarks, producer-specific CVD table) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+4. EV Hub — tariffs.json and market-master.json (standard duty, producer-specific CVD, VAT/GST and registration inputs by market; verified 15 Sep 2026) — internal data files, inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
 5. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (Geely group 18.8%; BYD 17.0%; other cooperating producers 20.7%); five-year duration, in force since October 2024 — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 23 Sep 2026
 6. ExchangeRate-API — USD-base reference-rate snapshot, open.er-api.com/v6/latest/USD (USD/EUR 0.873207 — 1 EUR = $1.1452; snapshot for the 22 September 2026 data pull, rates last updated 23 Sep 2026 00:02 UTC) — https://open.er-api.com/v6/latest/USD — accessed 23 Sep 2026
 

@@ -157,9 +157,9 @@ This is my analysis and opinion, not verified fact, and not financial advice. P7
 7. paultan.org — "2026 Tesla Model 3 Standard launched in Thailand" (1.149 million baht) — https://paultan.org/2026/01/09/2026-tesla-model-3-standard-launched-in-thailand-decontented-base-variant-534-km-range-rm149k/ — 9 January 2026
 8. TESMAG — Tesla Model 3 EU volume tied to Giga Shanghai; individual countervailing rate context — https://www.teslaacessories.com/blogs/news/how-new-tariffs-are-reshaping-tesla-market-strategy-in-europe — accessed 20 Sep 2026
 9. ExchangeRate-API — USD reference rates, 22 Sep 2026 snapshot (updated 23 Sep 2026 00:02 UTC): EUR 1.1452 · GBP 1.3345 · NOK 0.1059 · AUD 0.7110 · AED 0.2723 · THB 0.0302 — https://open.er-api.com/v6/latest/USD — accessed 23 Sep 2026
-10. EV Hub — XPeng P7+ vehicle record and landed-cost markets (base $28,000; Germany breakdown; 30-market rows; updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/xpeng-p7-plus/ — accessed 23 Sep 2026
-11. EV Hub — `tariffs.json` and `market-master.json` (duty, VAT and countervailing-duty inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 Sep 2026
-12. EV Hub — "NIO ET5 vs Tesla Model 3: Landed-Cost Comparison for Premium Sedan Buyers" (Model 3 reference prices carried; series comparison basis) — https://electricvehiclehub.net/blog/nio-et5-vs-tesla-model-3/ — accessed 23 Sep 2026
+10. EV Hub — XPeng P7+ vehicle record and landed-cost markets (base $28,000; Germany breakdown; 30-market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/xpeng-p7-plus/ — accessed 23 Sep 2026
+11. EV Hub — `tariffs.json` and `market-master.json` (duty, VAT and countervailing-duty inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+12. EV Hub — "NIO ET5 vs Tesla Model 3: Landed-Cost Comparison for Premium Sedan Buyers" (Model 3 reference prices carried; series comparison basis) — https://electricvehiclehub.top/blog/nio-et5-vs-tesla-model-3/ — accessed 23 Sep 2026
 
 ## Related reading
 

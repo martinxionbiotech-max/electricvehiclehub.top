@@ -5,13 +5,13 @@
  * EV Hub: Chinese EV export intelligence platform.
  * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
  * Author: Wei Wang, EV & Battery Industry Analyst
- * Primary contact: info@electricvehiclehub.net (business email)
+ * Primary contact: info@electricvehiclehub.top (business email)
  */
 
 import type { SocialLinks, LegalConfig } from '../lib/types';
 
 /** Site name displayed in header, footer, and meta tags */
-export const name = import.meta.env.SITE_NAME || 'EV Hub';
+export const name = import.meta.env.SITE_NAME || 'EVHub Top';
 
 /** Site description for SEO and meta tags */
 export const description =
@@ -19,7 +19,7 @@ export const description =
   'The real landed cost of importing Chinese EVs to Europe and key export markets — duties, countervailing tariffs, VAT, freight, and certification, broken down transparently.';
 
 /** Production URL of your site (used for sitemap, RSS, canonical URLs) */
-export const url = import.meta.env.SITE_URL || 'https://electricvehiclehub.net';
+export const url = import.meta.env.SITE_URL || 'https://electricvehiclehub.top';
 
 /** Author name for meta tags and copyright */
 export const author = import.meta.env.SITE_AUTHOR || 'Wei Wang';
@@ -43,9 +43,9 @@ export const company = {
   legalName: 'Jinzhou Chengguang Power Source Co., Ltd.',
   description:
     'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an automotive battery manufacturer founded in 2002 whose quality management system is certified to IATF 16949, providing independent landed-cost intelligence and cross-border research for Chinese EV importers.',
-  url: 'https://electricvehiclehub.net',
+  url: 'https://electricvehiclehub.top',
   logo: '/logo.svg',
-  email: 'info@electricvehiclehub.net',
+  email: 'info@electricvehiclehub.top',
   author: 'Wei Wang',
   authorRole: 'EV & Battery Industry Analyst',
   authorBio:
@@ -54,7 +54,7 @@ export const company = {
 
 /** Legal configuration for privacy policy and terms pages */
 export const legal: LegalConfig = {
-  privacyEmail: 'privacy@electricvehiclehub.net',
-  legalEmail: 'legal@electricvehiclehub.net',
+  privacyEmail: 'privacy@electricvehiclehub.top',
+  legalEmail: 'legal@electricvehiclehub.top',
   lastUpdated: 'September 5, 2026',
 };

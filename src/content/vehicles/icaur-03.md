@@ -32,7 +32,7 @@ data_reviewed: false
 family: "Icaur 03"
 image: "/images/vehicles/icaur-03.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Icaur 03
 

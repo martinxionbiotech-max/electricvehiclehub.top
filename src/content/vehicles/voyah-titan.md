@@ -32,7 +32,7 @@ data_reviewed: false
 family: "Titan"
 image: "/images/vehicles/voyah-titan.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Voyah Titan
 

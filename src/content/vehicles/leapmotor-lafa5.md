@@ -32,7 +32,7 @@ data_reviewed: false
 family: "Lafa5"
 image: "/images/vehicles/leapmotor-lafa5.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Leapmotor Lafa5
 

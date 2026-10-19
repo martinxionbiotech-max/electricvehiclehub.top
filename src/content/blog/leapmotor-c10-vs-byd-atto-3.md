@@ -117,12 +117,12 @@ This is my analysis and opinion, not verified fact, and not financial advice. Al
 
 ## Sources
 
-1. EV Hub — Leapmotor C10 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/leapmotor-c10/ — accessed 20 Sep 2026
-2. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/byd-atto-3/ — accessed 20 Sep 2026
+1. EV Hub — Leapmotor C10 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/leapmotor-c10/ — accessed 20 Sep 2026
+2. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/byd-atto-3/ — accessed 20 Sep 2026
 3. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (BYD 17.0%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 20 Sep 2026
-4. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (Leapmotor's default-rate treatment across markets) — https://electricvehiclehub.net/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 20 Sep 2026
-5. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 20 Sep 2026
-6. EV Hub — Landed Cost Methodology (compounding formula and fixed-cost benchmarks) — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+4. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (Leapmotor's default-rate treatment across markets) — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 20 Sep 2026
+5. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+6. EV Hub — Landed Cost Methodology (compounding formula and fixed-cost benchmarks) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
 
 ## Related reading
 

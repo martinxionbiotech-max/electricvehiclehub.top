@@ -28,7 +28,7 @@ data_reviewed: False
 family: "G"
 image: "/images/vehicles/xpeng-g9l.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Xpeng G9L
 

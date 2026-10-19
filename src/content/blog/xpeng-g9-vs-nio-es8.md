@@ -118,12 +118,12 @@ This is my analysis and opinion, not verified fact, and not financial advice. Bo
 
 ## Sources
 
-1. EV Hub — XPeng G9 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/xpeng-g9/ — accessed 23 Sep 2026
-2. EV Hub — NIO ES8 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/nio-es8/ — accessed 23 Sep 2026
+1. EV Hub — XPeng G9 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/xpeng-g9/ — accessed 23 Sep 2026
+2. EV Hub — NIO ES8 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/nio-es8/ — accessed 23 Sep 2026
 3. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754: definitive countervailing duties on Chinese BEVs; "other cooperating companies" rate 20.7%, in force for five years from late October 2024 — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 23 Sep 2026
-4. EV Hub — tariff and market datasets (`tariffs.json`, `market-master.json`: CVD defaults, market duty/VAT schedules; rates verified 15 Sep 2026) — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 Sep 2026
-5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (rate-tier context; published 15 Sep 2026) — https://electricvehiclehub.net/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 23 Sep 2026
-6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" (sampled vs other-cooperating rate tiers; published 19 Sep 2026) — https://electricvehiclehub.net/blog/china-ev-brand-cvd-master-table/ — accessed 23 Sep 2026
+4. EV Hub — tariff and market datasets (`tariffs.json`, `market-master.json`: CVD defaults, market duty/VAT schedules; rates verified 15 Sep 2026) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (rate-tier context; published 15 Sep 2026) — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 23 Sep 2026
+6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" (sampled vs other-cooperating rate tiers; published 19 Sep 2026) — https://electricvehiclehub.top/blog/china-ev-brand-cvd-master-table/ — accessed 23 Sep 2026
 
 ## Related reading
 

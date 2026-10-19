@@ -8,31 +8,31 @@ CNEVhub shows the real landed cost of importing Chinese EVs — the itemized dut
 
 ## Key documents
 
-- [Landed Cost Methodology](https://electricvehiclehub.net/landed-cost-methodology/): the formula, data sources, and assumptions behind every estimate.
-- [Vehicle Database](https://electricvehiclehub.net/vehicles/): 517 Chinese EV models with specs, trims, and landed-cost breakdowns by destination market.
-- [Home](https://electricvehiclehub.net/): platform overview.
+- [Landed Cost Methodology](https://electricvehiclehub.top/landed-cost-methodology/): the formula, data sources, and assumptions behind every estimate.
+- [Vehicle Database](https://electricvehiclehub.top/vehicles/): 517 Chinese EV models with specs, trims, and landed-cost breakdowns by destination market.
+- [Home](https://electricvehiclehub.top/): platform overview.
 
 ## Vehicles
 
-- [BYD Seal](https://electricvehiclehub.net/vehicles/byd-seal/): sporty mid-size RWD sedan, 61.44 kWh Blade battery, $24,690 base → $44,413 landed (Germany, +79.9%).
-- [BYD Song Plus](https://electricvehiclehub.net/vehicles/byd-song-plus/): compact SUV, $19,130 base → $35,898 landed (+87.7%).
-- [BYD Qin Plus](https://electricvehiclehub.net/vehicles/byd-qin-plus/): budget sedan, $11,080 base → $23,569 landed (+112.7%).
-- [BYD Han](https://electricvehiclehub.net/vehicles/byd-han/): premium flagship sedan, $23,700 base → $42,897 landed (+81.0%).
-- [BYD Dolphin](https://electricvehiclehub.net/vehicles/byd-dolphin/): city hatchback, $14,020 base → $28,072 landed (+100.2%).
-- [BYD Atto 3](https://electricvehiclehub.net/vehicles/byd-atto-3/): compact SUV, $16,260 base → $31,503 landed (+93.7%).
-- [Xiaomi SU7](https://electricvehiclehub.net/vehicles/xiaomi-su7/): tech-flagship sedan, $30,320 base → $53,750 landed (+77.3%).
-- [Zeekr 001](https://electricvehiclehub.net/vehicles/zeekr-001/): performance liftback, $38,000 base → $65,694 landed (+72.9%).
-- [GAC Aion Y](https://electricvehiclehub.net/vehicles/aion-y/): spacious urban SUV, $14,060 base → $28,465 landed (+102.5%).
-- [Denza D9](https://electricvehiclehub.net/vehicles/denza-d9/): premium electric MPV, $43,630 base → $74,449 landed (+70.6%).
+- [BYD Seal](https://electricvehiclehub.top/vehicles/byd-seal/): sporty mid-size RWD sedan, 61.44 kWh Blade battery, $24,690 base → $44,413 landed (Germany, +79.9%).
+- [BYD Song Plus](https://electricvehiclehub.top/vehicles/byd-song-plus/): compact SUV, $19,130 base → $35,898 landed (+87.7%).
+- [BYD Qin Plus](https://electricvehiclehub.top/vehicles/byd-qin-plus/): budget sedan, $11,080 base → $23,569 landed (+112.7%).
+- [BYD Han](https://electricvehiclehub.top/vehicles/byd-han/): premium flagship sedan, $23,700 base → $42,897 landed (+81.0%).
+- [BYD Dolphin](https://electricvehiclehub.top/vehicles/byd-dolphin/): city hatchback, $14,020 base → $28,072 landed (+100.2%).
+- [BYD Atto 3](https://electricvehiclehub.top/vehicles/byd-atto-3/): compact SUV, $16,260 base → $31,503 landed (+93.7%).
+- [Xiaomi SU7](https://electricvehiclehub.top/vehicles/xiaomi-su7/): tech-flagship sedan, $30,320 base → $53,750 landed (+77.3%).
+- [Zeekr 001](https://electricvehiclehub.top/vehicles/zeekr-001/): performance liftback, $38,000 base → $65,694 landed (+72.9%).
+- [GAC Aion Y](https://electricvehiclehub.top/vehicles/aion-y/): spacious urban SUV, $14,060 base → $28,465 landed (+102.5%).
+- [Denza D9](https://electricvehiclehub.top/vehicles/denza-d9/): premium electric MPV, $43,630 base → $74,449 landed (+70.6%).
 
 ## Policies and compliance
 
-- [Landed Cost Methodology](https://electricvehiclehub.net/landed-cost-methodology/): formula, inputs and assumptions behind every estimate.
-- [Evidence & Data Methodology](https://electricvehiclehub.net/methodology/): how sources are selected, verified and dated.
-- [Editorial Independence Policy](https://electricvehiclehub.net/editorial-independence/): ownership vs editorial control, review process, corrections, advertising and affiliate disclosure.
-- [Image Credits and Copyright](https://electricvehiclehub.net/image-credits/): full attribution and licence for every freely licensed photograph used on the site.
-- [Copyright, Trademarks and Takedown Policy](https://electricvehiclehub.net/copyright/): permitted reuse of our content and figures, trademark usage, and the notice-and-takedown procedure.
-- [Privacy Policy](https://electricvehiclehub.net/privacy/) | [Cookie Policy](https://electricvehiclehub.net/cookies/) | [Terms of Use](https://electricvehiclehub.net/terms/) | [Disclaimer](https://electricvehiclehub.net/disclaimer/) | [Accessibility Statement](https://electricvehiclehub.net/accessibility/)
+- [Landed Cost Methodology](https://electricvehiclehub.top/landed-cost-methodology/): formula, inputs and assumptions behind every estimate.
+- [Evidence & Data Methodology](https://electricvehiclehub.top/methodology/): how sources are selected, verified and dated.
+- [Editorial Independence Policy](https://electricvehiclehub.top/editorial-independence/): ownership vs editorial control, review process, corrections, advertising and affiliate disclosure.
+- [Image Credits and Copyright](https://electricvehiclehub.top/image-credits/): full attribution and licence for every freely licensed photograph used on the site.
+- [Copyright, Trademarks and Takedown Policy](https://electricvehiclehub.top/copyright/): permitted reuse of our content and figures, trademark usage, and the notice-and-takedown procedure.
+- [Privacy Policy](https://electricvehiclehub.top/privacy/) | [Cookie Policy](https://electricvehiclehub.top/cookies/) | [Terms of Use](https://electricvehiclehub.top/terms/) | [Disclaimer](https://electricvehiclehub.top/disclaimer/) | [Accessibility Statement](https://electricvehiclehub.top/accessibility/)
 
 ## Machine-readable markdown
 
@@ -43,14 +43,14 @@ Every vehicle and blog page has a clean Markdown variant at the same path with a
 
 Examples:
 
-- https://electricvehiclehub.net/vehicles/byd-seal.md
-- https://electricvehiclehub.net/vehicles/xiaomi-su7.md
-- https://electricvehiclehub.net/vehicles/zeekr-001.md
-- https://electricvehiclehub.net/blog/byd-seal-deep-review.md
-- https://electricvehiclehub.net/blog/chinese-ev-export-landscape-2026.md
+- https://electricvehiclehub.top/vehicles/byd-seal.md
+- https://electricvehiclehub.top/vehicles/xiaomi-su7.md
+- https://electricvehiclehub.top/vehicles/zeekr-001.md
+- https://electricvehiclehub.top/blog/byd-seal-deep-review.md
+- https://electricvehiclehub.top/blog/chinese-ev-export-landscape-2026.md
 
 ## Company
 
 - Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) — IATF 16949-certified automotive battery manufacturer, publishing independent landed-cost intelligence and cross-border research for Chinese EV importers.
 - Author: Wei Wang, EV & Battery Industry Analyst.
-- Contact: info@electricvehiclehub.net
+- Contact: info@electricvehiclehub.top

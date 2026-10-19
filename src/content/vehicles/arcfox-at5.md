@@ -33,7 +33,7 @@ data_reviewed: false
 family: "AT5"
 image: "/images/vehicles/arcfox-at5.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Arcfox AT5
 

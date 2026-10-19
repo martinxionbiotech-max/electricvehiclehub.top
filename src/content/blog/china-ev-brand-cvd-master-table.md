@@ -155,14 +155,14 @@ Two forces drive the pattern. A higher group rate adds thousands before VAT — 
 
 ## Sources
 
-1. EV Hub — "BYD's 17% Countervailing Duty: The Complete Landed-Cost Math (2026)" — https://electricvehiclehub.net/blog/byd-countervailing-duty-landed-cost/ — accessed 2026-09-19
-2. EV Hub — "Geely's 18.8% Countervailing Duty: What It Means for Zeekr, Lynk & Co, and Galaxy Buyers" — https://electricvehiclehub.net/blog/geely-188-countervailing-duty/ — accessed 2026-09-19
-3. EV Hub — "Why MG/SAIC Pays 35.3%: The Most Tariff-Hit Chinese EV Brand (2026)" — https://electricvehiclehub.net/blog/saic-35-percent-countervailing-duty/ — accessed 2026-09-19
-4. EV Hub — "Chery's 20.7% Countervailing Duty: What It Means for Fulwin, Chery New Energy, and Exeed Buyers" — https://electricvehiclehub.net/blog/chery-countervailing-duty/ — accessed 2026-09-19
-5. EV Hub — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://electricvehiclehub.net/blog/changan-countervailing-duty/ — accessed 2026-09-19
-6. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" — https://electricvehiclehub.net/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 2026-09-19
-7. EV Hub — "Zeekr's 18.8% Countervailing Duty: The Premium Brand Stuck With Geely's Rate" — https://electricvehiclehub.net/blog/zeekr-countervailing-duty/ — accessed 2026-09-19
-8. EV Hub — "Xiaomi and Hongqi's 20.7% Countervailing Duty: A Tech Challenger and a State Flagship, Same Rate" — https://electricvehiclehub.net/blog/xiaomi-hongqi-countervailing-duty/ — accessed 2026-09-19
+1. EV Hub — "BYD's 17% Countervailing Duty: The Complete Landed-Cost Math (2026)" — https://electricvehiclehub.top/blog/byd-countervailing-duty-landed-cost/ — accessed 2026-09-19
+2. EV Hub — "Geely's 18.8% Countervailing Duty: What It Means for Zeekr, Lynk & Co, and Galaxy Buyers" — https://electricvehiclehub.top/blog/geely-188-countervailing-duty/ — accessed 2026-09-19
+3. EV Hub — "Why MG/SAIC Pays 35.3%: The Most Tariff-Hit Chinese EV Brand (2026)" — https://electricvehiclehub.top/blog/saic-35-percent-countervailing-duty/ — accessed 2026-09-19
+4. EV Hub — "Chery's 20.7% Countervailing Duty: What It Means for Fulwin, Chery New Energy, and Exeed Buyers" — https://electricvehiclehub.top/blog/chery-countervailing-duty/ — accessed 2026-09-19
+5. EV Hub — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://electricvehiclehub.top/blog/changan-countervailing-duty/ — accessed 2026-09-19
+6. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 2026-09-19
+7. EV Hub — "Zeekr's 18.8% Countervailing Duty: The Premium Brand Stuck With Geely's Rate" — https://electricvehiclehub.top/blog/zeekr-countervailing-duty/ — accessed 2026-09-19
+8. EV Hub — "Xiaomi and Hongqi's 20.7% Countervailing Duty: A Tech Challenger and a State Flagship, Same Rate" — https://electricvehiclehub.top/blog/xiaomi-hongqi-countervailing-duty/ — accessed 2026-09-19
 9. Publications Office of the European Union — Commission Implementing Regulation (EU) 2024/2754 (definitive countervailing duty on BEVs from China; rate table and cooperating-company annex) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 2026-09-19
-10. EV Hub — brand-master.json (72-brand parent-company register) and tariffs.json (brand CVD schedule) — https://electricvehiclehub.net/methodology/ — accessed 2026-09-19
-11. EV Hub — vehicle landed-cost records (catalog models × 30 markets; figures quoted in this article) — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 2026-09-19
+10. EV Hub — brand-master.json (72-brand parent-company register) and tariffs.json (brand CVD schedule) — https://electricvehiclehub.top/methodology/ — accessed 2026-09-19
+11. EV Hub — vehicle landed-cost records (catalog models × 30 markets; figures quoted in this article) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 2026-09-19

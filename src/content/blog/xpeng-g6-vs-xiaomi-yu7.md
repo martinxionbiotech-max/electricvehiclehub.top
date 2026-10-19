@@ -142,12 +142,12 @@ The limits, honestly stated:
 ## Sources
 
 1. European Commission (EUR-Lex) — "Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on battery electric vehicles from China" — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 2026-09-19.
-2. EV Hub — "XPENG G6 vehicle record and 30-market landed-cost data (tier-1; ex-factory $24,830; Germany landed $45,830.48)" — https://electricvehiclehub.net/vehicles/xpeng-g6/ — accessed 2026-09-19.
-3. EV Hub — "Xiaomi YU7 vehicle record and 30-market landed-cost data (tier-1; ex-factory $35,700; Germany landed $63,004.68)" — https://electricvehiclehub.net/vehicles/xiaomi-yu7/ — accessed 2026-09-19.
+2. EV Hub — "XPENG G6 vehicle record and 30-market landed-cost data (tier-1; ex-factory $24,830; Germany landed $45,830.48)" — https://electricvehiclehub.top/vehicles/xpeng-g6/ — accessed 2026-09-19.
+3. EV Hub — "Xiaomi YU7 vehicle record and 30-market landed-cost data (tier-1; ex-factory $35,700; Germany landed $63,004.68)" — https://electricvehiclehub.top/vehicles/xiaomi-yu7/ — accessed 2026-09-19.
 4. EV Hub — "tariffs.json — tariff schedule and producer-specific countervailing-duty rates (data file; updated 2026-09-15)" — repository file `src/data/tariffs.json` — accessed 2026-09-19.
 5. EV Hub — "market-master.json — standard duties, VAT/GST rates, and registration fees by market (data file; updated 2026-09-15)" — repository file `src/data/market-master.json` — accessed 2026-09-19.
-6. EV Hub — "Landed Cost Methodology — the formula, fixed-cost benchmarks, and assumptions behind every landed-cost number" — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 2026-09-19.
-7. EV Hub — "Why the Sticker Price Is Never the Landed Price: The Complete Import Cost Stack" — https://electricvehiclehub.net/blog/sticker-vs-landed-price/ — accessed 2026-09-19.
+6. EV Hub — "Landed Cost Methodology — the formula, fixed-cost benchmarks, and assumptions behind every landed-cost number" — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 2026-09-19.
+7. EV Hub — "Why the Sticker Price Is Never the Landed Price: The Complete Import Cost Stack" — https://electricvehiclehub.top/blog/sticker-vs-landed-price/ — accessed 2026-09-19.
 
 ## Related reading
 

@@ -23,7 +23,7 @@ data_reviewed: False
 family: "Yi Chi"
 image: "/images/vehicles/jmc-yi-chi-05.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # JMC Yi Chi 05
 

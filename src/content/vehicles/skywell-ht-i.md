@@ -27,7 +27,7 @@ data_reviewed: False
 family: "HT-i"
 image: "/images/vehicles/skywell-ht-i.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Skywell HT-i
 

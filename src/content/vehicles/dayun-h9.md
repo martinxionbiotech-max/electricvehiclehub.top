@@ -31,7 +31,7 @@ data_reviewed: False
 family: "H9"
 image: "/images/vehicles/dayun-h9.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Dayun Yuanhang H9
 

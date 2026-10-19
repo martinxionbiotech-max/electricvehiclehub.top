@@ -29,7 +29,7 @@ data_reviewed: false
 family: "Huge"
 image: "/images/vehicles/aeolus-huge.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Aeolus Huge
 

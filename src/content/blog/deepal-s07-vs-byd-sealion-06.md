@@ -157,11 +157,11 @@ This is my analysis and opinion, not verified fact, and not legal, tax or financ
 ## Sources
 
 1. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (BYD sampled at 17.0%; "other cooperating companies" 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force 30 October 2024
-2. EV Hub — Deepal S07 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://electricvehiclehub.net/vehicles/deepal-s07/ — accessed 23 September 2026
-3. EV Hub — BYD Sealion 06 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://electricvehiclehub.net/vehicles/byd-sealion-06/ — accessed 23 September 2026
-4. EV Hub — tariffs.json and market-master.json: duty, countervailing-duty, VAT/GST and fixed-cost inputs (last verified 15 September 2026) — inputs documented at https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 September 2026
-5. EV Hub — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://electricvehiclehub.net/blog/changan-countervailing-duty/ — 15 September 2026
-6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" — https://electricvehiclehub.net/blog/china-ev-brand-cvd-master-table/ — 19 September 2026
+2. EV Hub — Deepal S07 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://electricvehiclehub.top/vehicles/deepal-s07/ — accessed 23 September 2026
+3. EV Hub — BYD Sealion 06 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://electricvehiclehub.top/vehicles/byd-sealion-06/ — accessed 23 September 2026
+4. EV Hub — tariffs.json and market-master.json: duty, countervailing-duty, VAT/GST and fixed-cost inputs (last verified 15 September 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 September 2026
+5. EV Hub — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://electricvehiclehub.top/blog/changan-countervailing-duty/ — 15 September 2026
+6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" — https://electricvehiclehub.top/blog/china-ev-brand-cvd-master-table/ — 19 September 2026
 7. ExchangeRate-API — USD reference rates used by EV Hub for local-currency conversions (no conversion applied to this article's figures) — https://open.er-api.com/v6/latest/USD — most recent published batch: 20 September 2026
 
 ## Related reading

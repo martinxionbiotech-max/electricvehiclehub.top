@@ -17,7 +17,7 @@ import { join } from 'node:path';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const DIST = join(ROOT, 'dist');
-const SITE = 'https://electricvehiclehub.net';
+const SITE = 'https://electricvehiclehub.top';
 
 const checks = [];
 const failures = [];

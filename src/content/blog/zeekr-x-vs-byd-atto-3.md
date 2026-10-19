@@ -141,10 +141,10 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 ## Sources
 
 1. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (BYD 17.0%; Geely incl. Zeekr 18.8%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 19 Sep 2026
-2. EV Hub — Landed Cost Methodology (formula, compounding order, fixed-cost benchmarks, CVD table) — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 19 Sep 2026
-3. EV Hub — Zeekr X vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://electricvehiclehub.net/vehicles/zeekr-x/ — accessed 19 Sep 2026
-4. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://electricvehiclehub.net/vehicles/byd-atto-3/ — accessed 19 Sep 2026
-5. EV Hub — tariffs.json and market-master.json (standard duty, VAT/GST and registration inputs by market; updated 15 Sep 2026) — internal data files; inputs documented at https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 19 Sep 2026
+2. EV Hub — Landed Cost Methodology (formula, compounding order, fixed-cost benchmarks, CVD table) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 19 Sep 2026
+3. EV Hub — Zeekr X vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://electricvehiclehub.top/vehicles/zeekr-x/ — accessed 19 Sep 2026
+4. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://electricvehiclehub.top/vehicles/byd-atto-3/ — accessed 19 Sep 2026
+5. EV Hub — tariffs.json and market-master.json (standard duty, VAT/GST and registration inputs by market; updated 15 Sep 2026) — internal data files; inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 19 Sep 2026
 
 ## Related reading
 

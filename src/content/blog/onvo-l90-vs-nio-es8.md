@@ -132,14 +132,14 @@ This is my analysis and opinion, not verified fact, and not financial advice. Al
 
 ## Sources
 
-1. EV Hub — Onvo L90 vehicle record and 30-market landed-cost data (base $37,440; Germany total $65,753.82; CVD 20.7%; data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/onvo-l90/ — accessed 23 Sep 2026
-2. EV Hub — NIO ES8 vehicle record and 30-market landed-cost data (base $57,130; Germany total $96,863.29; CVD 20.7%; data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/nio-es8/ — accessed 23 Sep 2026
+1. EV Hub — Onvo L90 vehicle record and 30-market landed-cost data (base $37,440; Germany total $65,753.82; CVD 20.7%; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/onvo-l90/ — accessed 23 Sep 2026
+2. EV Hub — NIO ES8 vehicle record and 30-market landed-cost data (base $57,130; Germany total $96,863.29; CVD 20.7%; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/nio-es8/ — accessed 23 Sep 2026
 3. EV Hub — dataset snapshot: `tariffs.json` (brand CVD registry — NIO and Onvo under the 20.7% "other cooperating" default; fixed-cost block $6,600), `market-master.json` (30 markets; duty, VAT/GST, registration), `brand-master.json` (Onvo and NIO parent records) — repository dataset, files verified 15 Sep 2026 — no public URL
 4. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on Chinese battery-electric vehicles (other cooperating companies: 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force since 30 Oct 2024, accessed 23 Sep 2026
-5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty" (rate tiers and the "other cooperating" category) — https://electricvehiclehub.net/blog/nio-xpeng-leapmotor-countervailing-duty/ — 15 Sep 2026
-6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" (Onvo and NIO both at 20.7%, non-sampled) — https://electricvehiclehub.net/blog/china-ev-brand-cvd-master-table/ — 19 Sep 2026
-7. EV Hub — Landed-cost methodology (formula, compounding order, fixed-cost treatment) — https://electricvehiclehub.net/docs/landed-cost-methodology/ — accessed 23 Sep 2026
-8. EV Hub — "Why the Sticker Price Is Never the Landed Price" (cost-versus-sticker framing) — https://electricvehiclehub.net/blog/sticker-vs-landed-price/ — accessed 23 Sep 2026
+5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty" (rate tiers and the "other cooperating" category) — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — 15 Sep 2026
+6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" (Onvo and NIO both at 20.7%, non-sampled) — https://electricvehiclehub.top/blog/china-ev-brand-cvd-master-table/ — 19 Sep 2026
+7. EV Hub — Landed-cost methodology (formula, compounding order, fixed-cost treatment) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+8. EV Hub — "Why the Sticker Price Is Never the Landed Price" (cost-versus-sticker framing) — https://electricvehiclehub.top/blog/sticker-vs-landed-price/ — accessed 23 Sep 2026
 
 ## Related reading
 

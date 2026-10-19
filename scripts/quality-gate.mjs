@@ -9,7 +9,7 @@ import { readFileSync, readdirSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 const ROOT = new URL('..', import.meta.url).pathname;
-const SITE = 'https://electricvehiclehub.net';
+const SITE = 'https://electricvehiclehub.top';
 const load = (p) => JSON.parse(readFileSync(join(ROOT, p), 'utf8'));
 
 const ALLOWED_POWERTRAINS = new Set(['BEV','PHEV','EREV','HEV','ICE','FCEV','Unknown']);

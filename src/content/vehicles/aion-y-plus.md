@@ -24,13 +24,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aion", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Aion Y Plus RMB 99,800 (CnEVPost/Gasgoo 2024-03)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion Y"
 image: "/images/vehicles/aion-y-plus.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_GAC_Aion_Y_Plus.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Aion Y Plus
 

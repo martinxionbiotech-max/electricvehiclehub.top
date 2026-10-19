@@ -28,7 +28,7 @@ data_reviewed: false
 family: "Eg10"
 image: "/images/vehicles/maxus-eg10.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Maxus Eg10
 

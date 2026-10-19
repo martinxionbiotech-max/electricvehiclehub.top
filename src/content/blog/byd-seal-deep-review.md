@@ -297,4 +297,4 @@ A: Not necessarily. The Seal's ex-factory price is lower, but BYD's 17% counterv
 7. Zecar — BYD Seal review and spec verification — https://zecar.com/ — 2025
 8. Reddit r/BYD — owner-reported German market prices (€38,000–41,000 Comfort trim) — https://www.reddit.com/ — 2025
 9. German VAT Act / input-VAT recovery rules — Bundesministerium der Justiz, gesetze-im-internet.de — https://www.gesetze-im-internet.de/ — accessed 2026
-10. EV Hub first-party data — BYD Seal landed-cost record and methodology (China MSRP + per-market breakdown) — https://electricvehiclehub.net/ — 2026
+10. EV Hub first-party data — BYD Seal landed-cost record and methodology (China MSRP + per-market breakdown) — https://electricvehiclehub.top/ — 2026

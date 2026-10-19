@@ -27,7 +27,7 @@ data_reviewed: False
 family: "R7"
 image: "/images/vehicles/roewe-r7.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Roewe R7
 

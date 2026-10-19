@@ -11,9 +11,9 @@ import type { ContactInfo, ContactMethod, ContactFAQ } from '../lib/types';
 
 /** Contact information used across contact page and legal pages */
 export const contact: ContactInfo = {
-  email: 'info@electricvehiclehub.net',
-  supportEmail: 'info@electricvehiclehub.net',
-  salesEmail: 'info@electricvehiclehub.net',
+  email: 'info@electricvehiclehub.top',
+  supportEmail: 'info@electricvehiclehub.top',
+  salesEmail: 'info@electricvehiclehub.top',
   address: {
     street: '',
     city: 'Jinzhou',
@@ -28,8 +28,8 @@ export const contactMethods: ContactMethod[] = [
   {
     icon: 'lucide:mail',
     label: 'Email',
-    value: 'info@electricvehiclehub.net',
-    href: 'mailto:info@electricvehiclehub.net',
+    value: 'info@electricvehiclehub.top',
+    href: 'mailto:info@electricvehiclehub.top',
   },
 ];
 

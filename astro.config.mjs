@@ -7,7 +7,7 @@ import { siteConfig } from './src/config';
 import rehypeDropLeadingH1 from './src/plugins/rehype-drop-leading-h1.mjs';
 
 // Site URL from environment variable with localhost fallback
-const siteUrl = process.env.SITE_URL || 'https://electricvehiclehub.net';
+const siteUrl = process.env.SITE_URL || 'https://electricvehiclehub.top';
 
 // Custom integration to warn about missing environment variables after build
 function envCheckIntegration() {
@@ -18,7 +18,7 @@ function envCheckIntegration() {
         if (!process.env.SITE_URL) {
           console.warn('='.repeat(60));
           console.warn('WARNING: SITE_URL environment variable not set');
-          console.warn('Build completed with fallback URL: https://electricvehiclehub.net');
+          console.warn('Build completed with fallback URL: https://electricvehiclehub.top');
           console.warn('For production, create .env file and set SITE_URL');
           console.warn('='.repeat(60) + '\n');
         }

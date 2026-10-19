@@ -30,7 +30,7 @@ data_reviewed: False
 family: "eπ008"
 image: "/images/vehicles/dongfeng-epi-008-erev.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.net/image-credits/"
+image_source: "https://electricvehiclehub.top/image-credits/"
 ---
 # Dongfeng eπ008 EREV
 
