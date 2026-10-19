@@ -26,13 +26,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["onvo", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Onvo L80 RMB 242,800 with battery (CnEVPost/Electrek/EVKX)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "L"
 image: "/images/vehicles/onvo-l80.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Onvo_L80_001.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Onvo L80
 

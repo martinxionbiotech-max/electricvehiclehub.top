@@ -20,13 +20,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "零跑D99 RMB 249,800 (新浪汽车/CCTV, 2026-06-25)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "D"
 image: "/images/vehicles/leapmotor-d99.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2026_Leapmotor_D99_(front).jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Leapmotor D99
 
