@@ -24,13 +24,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Sohu/Bitauto: ¥135,800 (2025款宋PLUS DM-i), 12.9 kWh, 75 km CLTC EV, 160 kW/260 Nm"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Song"
 image: "/images/vehicles/byd-song-plus-dm-i.jpg"
 image_credit: "Mateusmatsuda / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:BYD_SONG_PLUS_DM-I_FRONT.jpg"
+battery_type: "LFP (Blade)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # BYD Song Plus DM-i
 

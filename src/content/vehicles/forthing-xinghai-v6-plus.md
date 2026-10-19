@@ -18,13 +18,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "星海V6 PLUS RMB 151,900 (东风风行官网)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xinghai"
 image: "/images/vehicles/forthing-xinghai-v6-plus.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=157560513"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Forthing Xinghai V6 Plus
 

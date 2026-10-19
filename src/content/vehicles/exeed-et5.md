@@ -21,13 +21,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["exeed", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新华网 2025-11-29/EV视界: ¥144,900–159,900, 195 kW, CLTC 210 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "ET5"
 image: "/images/vehicles/exeed-et5.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Exeed_ET5_001.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Exeed ET5
 

@@ -21,13 +21,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["skywell", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "创维HT-i RMB 146,800 (CarNewsChina/AutoHome, 2022-09)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "HT-i"
 image: "/images/vehicles/skywell-ht-i.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.top/image-credits/"
+battery_type: "NMC (ternary)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Skywell HT-i
 

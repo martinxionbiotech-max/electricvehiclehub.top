@@ -23,13 +23,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["lynk-co", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新华网/领克官网: ¥157,800 (15.78万起), 1.5T PHEV 390 kW/765 Nm, CLTC 200 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Lynk & Co 07"
 image: "/images/vehicles/lynk-co-07-gt.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Lynk_%26_Co_07_GT_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "AWD (dual motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Lynk & Co 07 GT
 

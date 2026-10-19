@@ -21,13 +21,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["roewe", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "荣威R7 RMB 159,900 (上汽荣威官网; Wikipedia SAIC Rising R7)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "R7"
 image: "/images/vehicles/roewe-r7.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.top/image-credits/"
+battery_type: "LFP (NMC option)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Roewe R7
 
