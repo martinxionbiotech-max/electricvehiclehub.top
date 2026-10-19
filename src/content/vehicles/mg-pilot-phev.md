@@ -20,13 +20,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["mg", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "MG领航PHEV RMB 166,800（上汽名爵官网；16.6kWh/75km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Pilot"
 image: "/images/vehicles/mg-pilot-phev.jpg"
 image_credit: "Zotyefan / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=105095440"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # MG Pilot PHEV
 

@@ -22,13 +22,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["icaur", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Wikipedia/Autohome 2026-03-13: ¥169,800, 34.3 kWh, 185 kW, CLTC 200 km / 1200 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "V27"
 image: "/images/vehicles/icaur-v27.jpg"
 image_credit: "Chanokchon / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2026_iCaur_V27_Prestige_AWD.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # iCAR V27
 
