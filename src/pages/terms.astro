@@ -1,0 +1,169 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { siteConfig } from '@/config';
+
+const { legal, contact } = siteConfig;
+const fullAddress = `${contact.address.street}, ${contact.address.city}, ${contact.address.state}, ${contact.address.country}`;
+---
+
+<MarketingLayout
+  title={`Terms of Use - ${siteConfig.name}`}
+  description={`Terms of Use for ${siteConfig.name}. Please read these terms carefully before using our information platform.`}
+>
+  <section class="py-section">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <header class="mb-12">
+        <h1 class="text-4xl font-bold text-text">Terms of Use</h1>
+        <p class="mt-4 text-text-muted">Last updated: {legal.lastUpdated}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none dark:prose-invert">
+        <p>
+          Welcome to {siteConfig.name} ({siteConfig.url}). These Terms of Use ("Terms") govern your
+          access to and use of this website and the information, tools, and services made available
+          through it (collectively, the "Platform"). By accessing or using the Platform, you agree to
+          be bound by these Terms. If you do not agree, please do not use the Platform.
+        </p>
+
+        <h2>1. Nature of the Platform</h2>
+        <p>
+          {siteConfig.name} is an <strong>information and research platform</strong>. We provide
+          reference material about importing Chinese electric vehicles (EVs), including estimated
+          landed-cost breakdowns, model and brand data, and educational guides. We are <strong>not</strong> a
+          vehicle dealer, broker, importer, or financial advisor. We do not sell vehicles, and we do not
+          act on behalf of any manufacturer, exporter, or government body.
+        </p>
+        <p>
+          The Platform is operated by Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.).
+          Unless otherwise stated, no affiliation, endorsement, or sponsorship by any vehicle
+          manufacturer or importer is implied by the inclusion of their name, product, or data on
+          this Platform.
+        </p>
+
+        <h2>2. Informational Purposes Only</h2>
+        <p>All content on the Platform is provided for <strong>general informational purposes only</strong> and:</p>
+        <ul>
+          <li>Does not constitute professional, legal, tax, customs, financial, or investment advice</li>
+          <li>Should not be relied upon as a substitute for advice from a qualified professional</li>
+          <li>May become outdated, as tariffs, duties, prices, regulations, and vehicle specifications change frequently</li>
+          <li>Is provided "as is" without any guarantee of accuracy, completeness, or timeliness</li>
+        </ul>
+
+        <h2>3. Landed-Cost Estimates</h2>
+        <p>
+          The landed-cost calculator and all estimated cost figures on the Platform are <strong>approximate,
+          illustrative calculations</strong> intended to help you understand the potential components of an
+          import transaction. Actual costs depend on factors we cannot know, including current exchange
+          rates, customs rulings, your exact vehicle configuration, freight conditions, and applicable
+          duties and taxes at the time of import. You must verify all figures with the relevant customs
+          authority, importer, or qualified professional before making any purchasing or import decision.
+          Detailed limitations are set out in our <a href="/disclaimer">Disclaimer</a>.
+        </p>
+
+        <h2>4. No Purchase, Payment, or Account</h2>
+        <p>
+          The Platform does not itself act as a vehicle dealer, importer, customs broker, or
+          legal/tax adviser, and does not process payments or require an account. If you make
+          contact with a vehicle supplier, dealer, or importer through information found on this
+          Platform, any resulting transaction is solely between you and that third party —
+          {siteConfig.name} is not a party to it.
+        </p>
+
+        <h2>5. Acceptable Use</h2>
+        <p>You agree not to:</p>
+        <ul>
+          <li>Use the Platform for any unlawful purpose or in violation of any applicable law or regulation</li>
+          <li>Attempt to gain unauthorized access to, interfere with, or disrupt the Platform or its systems</li>
+          <li>Use automated means (scripts, scrapers, bots) to harvest or extract data at scale without our prior written consent</li>
+          <li>Misrepresent the Platform's content, distortions, or present our estimates as guarantees</li>
+          <li>Introduce malicious code, viruses, or other harmful material</li>
+        </ul>
+
+        <h2>6. Intellectual Property</h2>
+        <p>
+          Unless otherwise indicated, the Platform and all original content on it — including text,
+          graphics, logos, data compilations, and original tables — are owned by or licensed to us and
+          protected by applicable copyright and intellectual-property laws.
+        </p>
+        <p>
+          <strong>Third-party data:</strong> Vehicle names, brand names, logos, and specifications belong
+          to their respective owners and are used for identification and reference purposes only. Their
+          mention does not imply endorsement.
+        </p>
+        <p>
+          You may view, download, and print content from the Platform for your personal, non-commercial
+          use only. You may not reproduce, distribute, modify, or commercially exploit any content without
+          our prior written consent.
+        </p>
+
+        <h2>7. Third-Party Links and Services</h2>
+        <p>
+          The Platform may contain links to third-party websites and services. We do not control, and are
+          not responsible for, the content, privacy practices, or terms of those third parties. Your use
+          of any third-party website or service is at your own risk and subject to that third party's own
+          terms and policies.
+        </p>
+
+        <h2>8. Disclaimer of Warranties</h2>
+        <p>
+          THE PLATFORM AND ALL CONTENT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT
+          WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION IMPLIED
+          WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ACCURACY.
+          WE DO NOT WARRANT THAT THE PLATFORM WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF HARMFUL
+          COMPONENTS.
+        </p>
+
+        <h2>9. Limitation of Liability</h2>
+        <p>
+          TO THE MAXIMUM EXTENT PERMITTED BY LAW, {siteConfig.name.toUpperCase()}, ITS OPERATOR, AND ITS
+          AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT,
+          INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES — OR FOR ANY LOSS OF PROFITS, REVENUE,
+          DATA, OR BUSINESS OPPORTUNITY — ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF, OR RELIANCE ON,
+          THE PLATFORM OR ITS CONTENT. THIS LIMITATION APPLIES WHETHER THE CLAIM IS BASED IN CONTRACT,
+          TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF
+          SUCH DAMAGES.
+        </p>
+
+        <h2>10. Indemnification</h2>
+        <p>
+          You agree to indemnify, defend, and hold harmless {siteConfig.name}, its operator, and their
+          respective officers, directors, employees, and agents from and against any claims, liabilities,
+          damages, losses, and expenses (including reasonable legal fees) arising out of or in connection
+          with your use of the Platform, your violation of these Terms, or your violation of any
+          third-party rights.
+        </p>
+
+        <h2>11. Changes to the Platform and These Terms</h2>
+        <p>
+          We may modify, suspend, or discontinue the Platform, in whole or in part, at any time without
+          notice. We may also update these Terms from time to time by posting the revised version on this
+          page and updating the "Last updated" date. Your continued use of the Platform after any such
+          change constitutes your acceptance of the revised Terms.
+        </p>
+
+        <h2>12. Governing Law</h2>
+        <p>
+          These Terms shall be governed by and construed in accordance with the laws of {contact.address.country},
+          without regard to its conflict-of-law provisions. Any dispute arising out of or relating to these
+          Terms or the Platform shall be subject to the exclusive jurisdiction of the competent courts of
+          {contact.address.city}, {contact.address.country}.
+        </p>
+
+        <h2>13. General Provisions</h2>
+        <ul>
+          <li><strong>Entire Agreement:</strong> These Terms constitute the entire agreement between you and us regarding the Platform.</li>
+          <li><strong>Severability:</strong> If any provision is found unenforceable, the remaining provisions remain in full force and effect.</li>
+          <li><strong>Waiver:</strong> Our failure to enforce any provision shall not be deemed a waiver of that or any other provision.</li>
+          <li><strong>Assignment:</strong> You may not assign or transfer your rights under these Terms without our prior written consent.</li>
+        </ul>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions about these Terms of Use, please contact us at:</p>
+        <ul>
+          <li>Email: <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a></li>
+          <li>Address: {fullAddress}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</MarketingLayout>

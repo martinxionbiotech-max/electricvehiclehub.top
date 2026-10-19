@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- 圆形闪电图标背景 -->
+  <rect x="2" y="8" width="44" height="44" rx="12" fill="#16a34a" />
+  <!-- 闪电 -->
+  <path d="M27 16 L17 32 L24 32 L21 44 L33 27 L26 27 Z" fill="#ffffff" />
+  <!-- EV Hub 文字 -->
+  <text x="56" y="39" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="800" fill="#16a34a">EV</text>
+  <text x="96" y="39" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="600" fill="#374151">Hub</text>
+</svg>
+

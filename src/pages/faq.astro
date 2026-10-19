@@ -1,0 +1,150 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import PageHeader from '@sections/content/PageHeader.astro';
+import FAQSection from '@sections/content/FAQSection.astro';
+import CTA from '@sections/marketing/CTA.astro';
+import { siteConfig } from '@/config';
+
+const faqCategories = [
+  {
+    name: 'About the Platform',
+    faqs: [
+      {
+        question: 'What is ' + siteConfig.name + '?',
+        answer:
+          siteConfig.name +
+          ' is an independent information platform that helps you understand the real cost of importing a Chinese electric vehicle (EV). We provide model and brand data, transparent landed-cost breakdowns, and educational guides on duties, VAT, freight, and certification.',
+      },
+      {
+        question: 'Do you sell vehicles?',
+        answer:
+          'No. ' +
+          siteConfig.name +
+          ' is not a dealer, importer, or broker. We do not sell vehicles or act on behalf of any manufacturer. We provide independent reference information and landed-cost intelligence only.',
+      },
+      {
+        question: 'Is ' + siteConfig.name + ' affiliated with any manufacturer?',
+        answer:
+          'No. We are an independent platform. Vehicle names, brand names, and logos belong to their respective owners and are shown for identification and reference purposes only. Their inclusion does not imply endorsement or affiliation.',
+      },
+    ],
+  },
+  {
+    name: 'Landed Cost',
+    faqs: [
+      {
+        question: 'What is "landed cost"?',
+        answer:
+          'Landed cost is the total cost of getting a vehicle from the factory to your destination, including the vehicle price, freight and insurance, import duties and countervailing tariffs, VAT/taxes, and certification or compliance costs.',
+      },
+      {
+        question: 'How accurate are your landed-cost estimates?',
+        answer:
+          'Our estimates are approximate and illustrative. Actual costs depend on many factors we cannot know, including current duties, exchange rates, your exact configuration, and freight conditions. Always verify figures with a customs broker or qualified professional before committing to an import.',
+      },
+      {
+        question: 'Do your estimates include all taxes and duties?',
+        answer:
+          'We include the common components — duties, countervailing tariffs where applicable, and VAT — based on publicly available information at the time of writing. However, specific customs classifications and rulings for your exact vehicle can change the result. Treat every figure as a starting point, not a guarantee.',
+      },
+    ],
+  },
+  {
+    name: 'Data & Coverage',
+    faqs: [
+      {
+        question: 'Which vehicles and brands do you cover?',
+        answer:
+          'We cover a broad range of Chinese EV models and brands exported to overseas markets, including major manufacturers and popular models. Coverage is updated as new models are announced for export.',
+      },
+      {
+        question: 'Where does your data come from?',
+        answer:
+          'Our data is compiled from publicly available sources, including manufacturer specifications, official announcements, and trade publications. We aim to keep it accurate, but specifications and prices change frequently and may become outdated.',
+      },
+      {
+        question: 'How often is the data updated?',
+        answer:
+          'We review and update our data periodically, but there is no fixed schedule. Tariffs and regulations in particular can change quickly, so you should always verify current figures with official sources.',
+      },
+    ],
+  },
+  {
+    name: 'Using the Platform',
+    faqs: [
+      {
+        question: 'Do I need to create an account?',
+        answer:
+          'No. ' +
+          siteConfig.name +
+          ' does not require an account, subscription, or payment. All information is freely accessible.',
+      },
+      {
+        question: 'Can you help me source a specific vehicle?',
+        answer:
+          'We can provide landed-cost guidance for a specific model and destination country. Send us the model and destination, and we will provide a transparent breakdown. We do not, however, act as a purchasing agent or broker.',
+      },
+      {
+        question: 'How do I contact you?',
+        answer:
+          'You can reach us via email — see our contact page for full details. We typically respond within 24 hours on business days (GMT+8).',
+      },
+    ],
+  },
+  {
+    name: 'Legal & Compliance',
+    faqs: [
+      {
+        question: 'Is your information legal or financial advice?',
+        answer:
+          'No. Our content is for general informational purposes only and does not constitute legal, tax, customs, financial, or investment advice. Always consult qualified professionals before making import decisions. See our Disclaimer for details.',
+      },
+      {
+        question: 'How do you handle my privacy?',
+        answer:
+          'We collect only minimal personal information — primarily what you choose to send us directly. We do not sell your data and we do not use advertising cookies. See our Privacy Policy and Cookie Policy for full details.',
+      },
+      {
+        question: 'What if I dispute the accuracy of your information?',
+        answer:
+          'If you believe any information is inaccurate or outdated, please contact us and we will review it promptly. We welcome corrections and are committed to keeping our content as accurate as possible.',
+      },
+    ],
+  },
+];
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqCategories.flatMap((c) =>
+    c.faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.question,
+      acceptedAnswer: { '@type': 'Answer', text: f.answer },
+    }))
+  ),
+};
+---
+
+<MarketingLayout
+  title={`FAQ - ${siteConfig.name}`}
+  description={`Frequently asked questions about ${siteConfig.name} — importing Chinese EVs, landed cost, data coverage, and using the platform.`}
+>
+  <PageHeader
+    title="Frequently Asked Questions"
+    subtitle={`Everything you need to know about ${siteConfig.name}. Can't find what you're looking for?`}
+  >
+    <a href="/contact" class="text-primary hover:underline">Contact our team</a>.
+  </PageHeader>
+
+  <FAQSection categories={faqCategories} variant="accordion" background="default" />
+
+  <CTA
+    title="Still have questions?"
+    description="Can't find the answer you're looking for? Our team is here to help."
+    action={{ label: 'Contact Us', href: '/contact' }}
+    background="muted"
+  />
+
+  <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+</MarketingLayout>

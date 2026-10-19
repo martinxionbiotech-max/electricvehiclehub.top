@@ -1,0 +1,313 @@
+---
+import { getCollection, render } from 'astro:content';
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { url as siteUrl } from '@/config/site';
+import { brandLabelMap, vehicleAlt } from '@/lib/brand-label';
+
+export async function getStaticPaths() {
+  const vehicles = await getCollection('vehicles');
+  return vehicles.map((v) => ({
+    params: { slug: v.data.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const vehicles = await getCollection('vehicles');
+const brandMap = await brandLabelMap();
+const vehicle = vehicles.find((v) => v.data.slug === slug);
+const { data } = vehicle;
+const { Content } = await render(vehicle);
+const sameBrandVehicles = vehicles
+  .filter((v) => v.data.brand === data.brand && v.data.slug !== slug)
+  .slice(0, 4);
+const lc = data.landed_cost || {};
+const multiLc = (data.landed_cost_markets || []).filter((m) => m && m.total_landed_usd);
+
+// 主市场（landed_cost）逐项成本，用于模板层标注「EV Hub estimate」
+const lcBreakdown = lc && lc.breakdown
+  ? [
+      { label: 'Base price', value: data.price_usd, est: false },
+      { label: 'Standard import duty', value: lc.breakdown.duty_cif_usd, est: false },
+      { label: 'Countervailing duty', value: lc.breakdown.countervailing_duty_usd, est: false },
+      { label: 'VAT', value: lc.breakdown.vat_usd, est: false },
+      { label: 'RoRo freight', value: lc.breakdown.freight_roro_usd, est: true },
+      { label: 'Customs clearance', value: lc.breakdown.customs_clearance_usd, est: true },
+      { label: 'Certification', value: lc.breakdown.certification_usd, est: true },
+      { label: 'Registration', value: lc.breakdown.registration_usd, est: true },
+      { label: 'Inland transport', value: lc.breakdown.inland_transport_usd, est: true },
+    ].filter((b) => typeof b.value === 'number')
+  : [];
+
+// 规格表数据项
+const specs = [
+  { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
+  { label: 'Powertrain', value: data.powertrain },
+  { label: 'Body type', value: data.type },
+  { label: 'Range (CLTC)', value: data.range_cltc_km ? `${data.range_cltc_km} km` : null },
+  { label: 'Battery', value: data.battery_kwh ? `${data.battery_kwh} kWh` : null },
+  { label: 'Motor power', value: data.motor_power_kw ? `${data.motor_power_kw} kW` : null },
+  { label: 'Torque', value: data.torque_nm ? `${data.torque_nm} Nm` : null },
+  { label: '0-100 km/h', value: data.accel_0_100_s ? `${data.accel_0_100_s} s` : null },
+  { label: 'Top speed', value: data.top_speed_kmh ? `${data.top_speed_kmh} km/h` : null },
+  { label: 'Length', value: data.length_mm ? `${data.length_mm} mm` : null },
+  { label: 'Width', value: data.width_mm ? `${data.width_mm} mm` : null },
+  { label: 'Height', value: data.height_mm ? `${data.height_mm} mm` : null },
+  { label: 'Wheelbase', value: data.wheelbase_mm ? `${data.wheelbase_mm} mm` : null },
+  { label: 'Curb weight', value: data.weight_kg ? `${data.weight_kg} kg` : null },
+  { label: 'Efficiency', value: data.efficiency_kwh_100km ? `${data.efficiency_kwh_100km} kWh/100km` : null },
+  { label: 'Fast charge', value: data.fast_charge ? data.fast_charge : null },
+].filter((s) => s.value);
+
+// 多国落地成本的最低价（用于高亮最有优势的市场）
+const lowestTotal = multiLc.length ? Math.min(...multiLc.map((m) => m.total_landed_usd)) : 0;
+
+// 落地成本置信度（渲染层标注）：优先读 frontmatter confidence（§7 溯源约定）；
+// 缺失时按来源组合推导：官方 MSRP + 官方关税，但运费/认证为固定估算 → 部分估算 → Medium
+const costConfidence = data.confidence || 'Medium';
+const costLastVerified = data.data_updated || '2026-09-15';
+
+// 结构化数据/社交分享用的绝对图片地址：优先该车型图片，缺图时回退站内 OG 图
+const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
+const vehicleImage = new URL(data.image || '/og-image.png', siteUrl).href;
+
+// JSON-LD Vehicle schema（Vehicle ⊂ Product：必须带 offers，价格为页面同源的 ex-factory 参考价）
+const fuelTypeByPowertrain = {
+  BEV: 'Electric',
+  PHEV: 'Plug-in hybrid',
+  EREV: 'Extended-range electric',
+  HEV: 'Hybrid',
+  ICE: 'Gasoline',
+  Unknown: undefined,
+};
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Vehicle',
+  '@id': `${pageUrl}#vehicle`,
+  url: pageUrl,
+  image: [vehicleImage],
+  name: data.title,
+  description: data.description,
+  brand: { '@type': 'Brand', name: data.brand.toUpperCase() },
+  vehicleModelDate: '2026',
+  bodyType: data.type,
+  fuelType: fuelTypeByPowertrain[data.powertrain],
+  numberOfDoors: 4,
+  vehicleEngine: data.motor_power_kw ? { '@type': 'EngineSpecification', enginePower: { '@type': 'QuantitativeValue', value: data.motor_power_kw, unitCode: 'KWT' } } : undefined,
+  // Google 把 Vehicle（schema.org 中 Product 的子类型）按产品处理：缺少 offers /
+  // review / aggregateRating 会报「产品摘要 应指定 offers、review 或 aggregateRating」。
+  // 此处价格与页面可见价格同源（price_usd / currency），不声明 seller（本站提供价格情报，
+  // 不直接销售车辆），也不添加任何评分或评论。
+  offers: data.price_usd
+    ? {
+        '@type': 'Offer',
+        url: pageUrl,
+        price: data.price_usd,
+        priceCurrency: data.currency || 'USD',
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        description:
+          `${data.price_type || 'China ex-factory price (MSRP)'} — indicative starting price for ` +
+          `export buyers, before freight, duties and certification. Confirm with a supplier quote.`,
+      }
+    : undefined,
+};
+
+---
+
+<MarketingLayout
+  title={data.title}
+  description={data.description}
+  image={vehicleImage}
+  breadcrumb={[
+    { name: 'Home', item: siteUrl },
+    { name: 'Vehicles', item: `${siteUrl}/vehicles/` },
+    { name: data.brand.toUpperCase(), item: `${siteUrl}/brands/${data.brand}/` },
+    { name: data.title },
+  ]}
+  type="article"
+  publishedDate={data.publishedDate}
+  author={data.author}
+  tags={data.tags}
+>
+<article class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+    <a href="/" class="hover:text-green-600">Home</a> / <a href="/vehicles/" class="hover:text-green-600">Vehicles</a> / <a href={`/brands/${data.brand}/`} class="hover:text-green-600">{data.brand.toUpperCase()}</a> / <span class="text-gray-700">{data.title}</span>
+  </nav>
+
+  <!-- 标题 + 标签 -->
+  <div class="mb-8">
+    <div class="flex flex-wrap items-center gap-2 mb-4">
+      <span class="inline-block px-3 py-1 bg-green-600/10 text-green-700 rounded-full text-xs font-semibold">{data.type}</span>
+      <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-semibold">{data.powertrain}</span>
+      <a href={`/brands/${data.brand}/`} class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-semibold hover:bg-green-600/10 hover:text-green-700">{data.brand.toUpperCase()} brand</a>
+    </div>
+    <h1 class="text-4xl md:text-5xl font-bold mb-3 text-gray-900">{data.title}</h1>
+    <p class="text-2xl text-green-700 font-bold">${data.price_usd.toLocaleString()} <span class="text-sm font-normal text-gray-500">starting price (ex-factory China)</span></p>
+  </div>
+
+  <!-- 全宽 hero 图片 -->
+  {data.image && (
+    <div class="mb-10 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
+      <img
+        src={data.image}
+        alt={vehicleAlt(data, brandMap)}
+        class="w-full h-auto object-cover"
+        loading="eager"
+        width="1200"
+        height="675"
+      />
+      {data.image_credit && (
+        <p class="px-4 py-2 text-xs text-gray-500 bg-gray-50 border-t border-gray-200">
+          {/EV Hub original/i.test(data.image_credit) ? 'Illustration' : 'Photo'}: {data.image_credit}
+          {data.image_source && (<> · <a href={data.image_source} rel="nofollow noopener" target="_blank" class="underline hover:text-green-700">source</a></>)}
+        </p>
+      )}
+    </div>
+  )}
+
+  <!-- 关键指标卡片 -->
+  <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
+    {data.range_cltc_km && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.range_cltc_km} km</div><div class="text-xs text-gray-500 mt-1">Range (CLTC)</div></div>}
+    {data.battery_kwh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.battery_kwh} kWh</div><div class="text-xs text-gray-500 mt-1">Battery capacity</div></div>}
+    {data.motor_power_kw && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.motor_power_kw} kW</div><div class="text-xs text-gray-500 mt-1">Motor power</div></div>}
+    {data.accel_0_100_s && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.accel_0_100_s}s</div><div class="text-xs text-gray-500 mt-1">0-100 km/h</div></div>}
+    {data.top_speed_kmh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.top_speed_kmh} km/h</div><div class="text-xs text-gray-500 mt-1">Top speed</div></div>}
+    {data.fast_charge && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.fast_charge}</div><div class="text-xs text-gray-500 mt-1">Fast charge</div></div>}
+  </div>
+
+  <!-- 多国落地成本可视化 -->
+  {multiLc.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-2 text-gray-900">Estimated Landed Cost by Market</h2>
+      <p class="text-sm text-gray-500 mb-3">Estimated total import cost to each destination — includes duty, countervailing duty, VAT/GST, freight, and compliance.</p>
+      <p class="text-xs text-gray-400 mb-6">Confidence: <span class="font-semibold text-amber-600">{costConfidence}</span> (official MSRP and EU duty rates; freight, certification, registration and customs are EV Hub estimates) · Last verified: {costLastVerified}</p>
+      <div class="space-y-3">
+        {multiLc.map((m) => {
+          const isLowest = m.total_landed_usd === lowestTotal;
+          const barWidth = Math.min(100, Math.round((m.total_landed_usd / (lowestTotal || 1)) * 100));
+          return (
+            <a href={`/landed-cost-calculator/`} class="block">
+              <div class="flex items-center gap-4 p-4 rounded-xl border border-gray-200 hover:border-green-300 hover:bg-green-50/50 transition">
+                <div class="w-44 shrink-0">
+                  <div class="font-semibold text-gray-900 text-sm">{m.market}</div>
+                  <div class="text-xs text-gray-400">{m.region}</div>
+                </div>
+                <div class="flex-1 hidden sm:block">
+                  <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
+                    <div class={`h-full rounded-full ${isLowest ? 'bg-green-500' : 'bg-gray-300'}`} style={`width:${barWidth}%`}></div>
+                  </div>
+                </div>
+                <div class="text-right shrink-0">
+                  <div class={`text-xl font-bold ${isLowest ? 'text-green-600' : 'text-gray-900'}`}>${Math.round(m.total_landed_usd).toLocaleString()}</div>
+                  <div class="text-xs text-gray-500">+{m.premium_pct}% over base</div>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
+
+  <!-- 主市场落地成本逐项明细（模板层标注 EV Hub estimate） -->
+  {lcBreakdown.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-2 text-gray-900">Estimated Landed Cost Breakdown — {lc.market || 'Germany'}</h2>
+      <p class="text-sm text-gray-500 mb-4">Official rates from EU Reg 2024/2754 and market VAT legislation. Freight, certification, registration and customs figures are EV Hub estimates — confirm with a supplier quote before ordering.</p>
+      <div class="rounded-xl border border-gray-200 overflow-hidden">
+        <table class="w-full text-sm">
+          <tbody>
+            {lcBreakdown.map((b, i) => (
+              <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+                <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">
+                  {b.label}
+                  {b.est && <span class="ml-2 inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-semibold">EV Hub estimate</span>}
+                </td>
+                <td class="px-5 py-3.5 text-gray-900">${Math.round(b.value).toLocaleString()}</td>
+              </tr>
+            ))}
+            <tr class="bg-green-50">
+              <td class="px-5 py-4 font-bold text-gray-900">Estimated landed cost (total)</td>
+              <td class="px-5 py-4 font-bold text-green-700">${lc.total_landed_usd ? Math.round(lc.total_landed_usd).toLocaleString() : '—'}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )}
+
+  <!-- 数据来源与验证分层：SOURCE DATA vs EV HUB CALCULATION -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-4 text-gray-900">Data Sources &amp; Verification</h2>
+    <div class="grid md:grid-cols-2 gap-4">
+      <div class="p-5 bg-white border border-gray-200 rounded-xl">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="inline-block px-2 py-0.5 bg-green-100 text-green-700 rounded-full text-xs font-bold uppercase tracking-wide">Source data</span>
+        </div>
+        <ul class="text-sm text-gray-700 space-y-2">
+          <li class="flex gap-2"><span class="text-green-600">✓</span> Manufacturer specifications (base price, range, battery, dimensions)</li>
+          <li class="flex gap-2"><span class="text-green-600">✓</span> EU Reg 2024/2754 tariff rates (standard &amp; countervailing duty)</li>
+          <li class="flex gap-2"><span class="text-green-600">✓</span> Market VAT / GST rates (official legislation)</li>
+        </ul>
+      </div>
+      <div class="p-5 bg-white border border-amber-200 rounded-xl">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-bold uppercase tracking-wide">EV Hub calculation</span>
+        </div>
+        <ul class="text-sm text-gray-700 space-y-2">
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> RoRo freight</li>
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> Certification</li>
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> Registration</li>
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> Customs clearance</li>
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> Landed cost total</li>
+        </ul>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-4">
+      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'} · Confidence: {costConfidence} · Status: {data.data_reviewed ? 'Reviewed' : 'Pending review'}
+    </p>
+  </section>
+
+  <!-- 完整规格表 -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-4 text-gray-900">Specifications</h2>
+    <div class="rounded-xl border border-gray-200 overflow-hidden">
+      <table class="w-full text-sm">
+        <tbody>
+          {specs.map((s, i) => (
+            <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+              <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">{s.label}</td>
+              <td class="px-5 py-3.5 text-gray-900">{s.value}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- markdown 正文（含详细 breakdown 表格） -->
+  <div class="prose prose-lg max-w-none mb-12">
+    <Content />
+  </div>
+
+  {sameBrandVehicles.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Related models from {data.brand.toUpperCase()}</h2>
+      <ul class="space-y-2">
+        {sameBrandVehicles.map((v) => (
+          <li>
+            <a href={`/vehicles/${v.data.slug}/`} class="text-green-700 hover:underline font-medium">{v.data.title || v.data.model}</a>
+            <span class="text-gray-500 text-sm"> — {v.data.range_standard ? `${v.data.range_standard} km` : 'range TBA'}{v.data.price_usd ? ` · $${Number(v.data.price_usd).toLocaleString()}` : ''}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <div class="border-t pt-6 text-sm text-gray-500">
+    Author: {data.author} (EV & Battery Industry Analyst) · Chengguang Energy · Updated {data.publishedDate ? data.publishedDate.toISOString().split('T')[0] : '2026-09-05'} · <a href="/contact/" class="text-green-700 hover:underline">Contact</a>
+  </div>
+</article>
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+</MarketingLayout>
