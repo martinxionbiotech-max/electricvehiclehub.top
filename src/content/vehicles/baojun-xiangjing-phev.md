@@ -23,13 +23,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["baojun", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "宝骏享境插混 起售价12.98万元（新出行/新华网）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiangjing"
 image: "/images/vehicles/baojun-xiangjing-phev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Baojun_Xiangjing_PHEV_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Baojun Xiangjing PHEV
 
