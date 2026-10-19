@@ -37,6 +37,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "N/A (non-plug-in HEV)"
 certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
 data_updated: "2026-10-19"
 data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---

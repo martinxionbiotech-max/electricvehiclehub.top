@@ -23,13 +23,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["baw", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "元宝 RMB 29,700（ZOL/汽车之家；9.6kWh/120km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yuanbao"
 image: "/images/vehicles/baw-yuanbao.jpg"
 image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_BAW_(Beijing-Beiqi)_Yuanbao_EV,_front_8.3.24.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # BAW Yuanbao
 

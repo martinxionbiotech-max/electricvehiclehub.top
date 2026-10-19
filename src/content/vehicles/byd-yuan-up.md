@@ -24,13 +24,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "BYD official/Autohome: ¥74,800 (元UP 7.48–11.98万), 45.12 kWh Blade, 401 km CLTC, 130 kW/290 Nm"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yuan"
 image: "/images/vehicles/byd-yuan-up.jpg"
 image_credit: "iMoD Official / Wikimedia Commons / CC BY 3.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2024_BYD_Yuan_Up_-_Atto_2_01.png"
+battery_type: "LFP (Blade)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # BYD Yuan Up
 

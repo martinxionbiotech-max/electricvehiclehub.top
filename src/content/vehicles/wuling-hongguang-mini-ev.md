@@ -39,6 +39,7 @@ suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC (China domestic, slow charge)"
 charging_adapter: "Type 2 (AC) adapter for EU slow charging"
 certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
 data_updated: "2026-10-19"
 data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---

@@ -22,13 +22,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["sehol", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "思皓E10X RMB 39,900（EV世纪/新浪汽车；31.4kWh/302km NEDC）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "E10X"
 image: "/images/vehicles/sehol-e10x.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2021_JAC_Sehol_E10X_(front).jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Sehol E10X
 

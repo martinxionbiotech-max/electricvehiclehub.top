@@ -42,6 +42,7 @@ drag_coefficient: 0.229
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
 charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
 certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
 data_updated: "2026-10-19"
 data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
