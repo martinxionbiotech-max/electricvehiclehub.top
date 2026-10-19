@@ -25,13 +25,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["denza", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "腾势Z9 GT DM-i 起售价33.48万元（CarNewsChina/维基百科）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Z9"
 image: "/images/vehicles/denza-z9-gt-dm-i.jpg"
 image_credit: "iMoD Official / Wikimedia Commons / CC BY 3.0"
 image_source: "https://commons.wikimedia.org/wiki/File:BYD_Shark_6,_Denza_N7,_Denza_Z9_GT_and_BYD_Sealion_6_DM-i.png"
+battery_type: "LFP (Blade)"
+drive_type: "AWD (tri-motor)"
+motor_type: "PMSM (tri-motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Denza Z9 GT DM-i
 
