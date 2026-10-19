@@ -23,13 +23,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["mg", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "MG6 PHEV RMB 142,800（上汽名爵官网；11.1kWh/70km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "MG6"
 image: "/images/vehicles/mg6-phev.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.top/image-credits/"
+battery_type: "NMC"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # MG6 PHEV
 
