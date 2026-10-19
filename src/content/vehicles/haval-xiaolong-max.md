@@ -25,13 +25,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["haval", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "哈弗枭龙MAX RMB 111,800 (CarNewsChina EV Database)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiaolong"
 image: "/images/vehicles/haval-xiaolong-max.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Haval_Xiaolong_Max_001.jpg"
+battery_type: "NMC"
+drive_type: "AWD"
+motor_type: "PMSM (dual motor, Hi4)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Haval Xiaolong Max
 

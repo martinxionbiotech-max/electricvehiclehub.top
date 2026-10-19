@@ -20,13 +20,21 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["gac-motor", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "传祺向往S7 RMB 169,800 (新华网/IT之家, 2025-03)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiangwang"
 image: "/images/vehicles/gac-motor-xiangwang-s7.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Trumpchi_Xiangwang_S7_001.jpg"
+battery_type: "NMC"
+drive_type: "FWD / AWD"
+motor_type: "PMSM (DHT hybrid)"
+battery_thermal: "Liquid cooling"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # GAC Xiangwang S7
 
