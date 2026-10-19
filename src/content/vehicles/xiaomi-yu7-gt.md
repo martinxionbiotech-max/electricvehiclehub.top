@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xiaomi", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "小米YU7 GT RMB 389,900 (搜狐汽车/网通社, 2026-05)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "YU7"
 image: "/images/vehicles/xiaomi-yu7-gt.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_YU7_GT_001.jpg"
+battery_type: "NMC (Qilin, CATL)"
+drive_type: "AWD (dual-motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Five-link (multi-link)"
+drag_coefficient: 0.245
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Xiaomi YU7 GT
 

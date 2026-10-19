@@ -21,13 +21,22 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dayun", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "远航Y7 RMB 399,800 (汽车之家, 2024)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Y7"
 image: "/images/vehicles/dayun-y7.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.top/image-credits/"
+drive_type: "AWD"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Dayun Yuanhang Y7
 

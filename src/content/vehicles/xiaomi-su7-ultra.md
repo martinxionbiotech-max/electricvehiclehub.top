@@ -26,13 +26,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xiaomi", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "小米SU7 Ultra RMB 529,900 (小米汽车官网/百度百科, 2025-02-27)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "SU7"
 image: "/images/vehicles/xiaomi-su7-ultra.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg"
+battery_type: "NMC (Qilin 2.0, CATL)"
+drive_type: "AWD (tri-motor)"
+motor_type: "PMSM (tri-motor)"
+total_power_kw: 1138
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+drag_coefficient: 0.195
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # Xiaomi SU7 Ultra
 

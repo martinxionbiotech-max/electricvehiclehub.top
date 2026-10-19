@@ -25,13 +25,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["nio", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "NIO ES9 RMB 498,000 with battery (NIO 2026-05-27, EVKX/CnEVPost)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "ES"
 image: "/images/vehicles/nio-es9.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Nio_ES9_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "AWD (dual-motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+data_updated: "2026-10-19"
+data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
 ---
 # NIO ES9
 
