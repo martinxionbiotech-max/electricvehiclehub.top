@@ -1,6 +1,6 @@
 ---
 title: "Denza N9"
-description: "Denza N9 is a suv from Denza, a 46.9 kWh battery and 680 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Denza N9 is an SUV fully electric offered by Denza, offering a CLTC-rated range of 165 km, a 46 kWh battery, 680 kW peak output, and NMC (LFP option) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "denza-n9"
 brand: "denza"
 type: "SUV"
@@ -57,7 +57,7 @@ Denza N9 (starting at $54,900) is a SUV from DENZA.
 
 ## Overview
 
-The Denza N9 is a full-size SUV battery-electric from DENZA, with 680 kW of motor power, a 3.9-second 0–100 km/h time. It is positioned as a premium import, priced from $54,900 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $64,977 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
+Denza N9 is an SUV fully electric offered by Denza. Specification highlights are 165 km of CLTC range and 0–100 km/h in 3.9 seconds. Chassis details include NMC (LFP option) cells, plus Double wishbone front / Multi-link (air) rear suspension. At an ex-factory price of $54,900, it sits in the premium segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +12.6% over base ($61,825 landed); meanwhile, Germany applies a 17% countervailing duty on top of the 10% standard tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Kaiyi Kunlun iHD"
-description: "Kaiyi Kunlun iHD is a SUV plug-in hybrid from Cowin, and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Cowin's Kaiyi Kunlun iHD is an SUV plug-in hybrid electric, offering 150 kW peak output and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "cowin-kunlun-ihd"
 brand: "cowin"
 type: "SUV"
@@ -31,8 +31,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -47,8 +47,7 @@ Kaiyi Kunlun iHD (starting at $22,210) is a SUV from COWIN.
 
 ## Overview
 
-The Kaiyi Kunlun iHD is a suv plug-in hybrid from Cowin, with 150 kW of motor power. It is positioned as a value-focused import, priced from $22,210 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,936 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Cowin's Kaiyi Kunlun iHD is an SUV plug-in hybrid electric. Its specification includes peak output of 150 kW. Chassis details include FWD drivetrain, plus LFP cells. The ex-factory price of $22,210 positions it as a value-focused import. Across export markets, the lowest landed premium is Qatar at roughly +23.8% over base (about $27,500 landed) — Germany levies only the 10% standard tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

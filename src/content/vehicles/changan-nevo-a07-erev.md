@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A07 EREV"
-description: "Changan Nevo A07 EREV is a Sedan extended-range electric from Changan Nevo, offering 230 km of CLTC range a 28.39 kWh battery and 160 kW of motor power. Full la"
+description: "Changan Nevo A07 EREV is a sedan extended-range electric offered by ChangAn NEVO with a CLTC-rated range of 230 km, a 28 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-nevo-a07-erev"
 brand: "changan-nevo"
 type: "Sedan"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ Changan Nevo A07 EREV (starting at $16,650) is a Sedan from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo A07 EREV is a sedan extended-range electric from Changan Nevo, with 160 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Changan Nevo A07 EREV is a sedan extended-range electric from ChangAn NEVO. It carries a 28 kWh battery and peak output of 160 kW. The platform pairs LFP chemistry with RWD drive. At an ex-factory price of $16,650, it sits in the value segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed); meanwhile, Germany levies only the 10% standard tariff. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

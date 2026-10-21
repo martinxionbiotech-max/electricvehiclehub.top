@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI-V HEV"
-description: "Changan UNI-V HEV is a Sedan hybrid from Changan, a 1.7 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan UNI-V HEV is a sedan non-plug-in hybrid from ChangAn, offering 1 kWh of battery, 180 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-uni-v-hev"
 brand: "changan"
 type: "Sedan"
@@ -34,7 +34,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,8 +51,7 @@ Changan UNI-V HEV (starting at $15,260) is a Sedan from CHANGAN.
 
 ## Overview
 
-The Changan UNI-V HEV is a sedan hybrid from Changan, with 180 kW of motor power, a 6.98-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,260 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,274 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Changan UNI-V HEV is ChangAn's sedan hybrid. Specification highlights are a 180 kW electric motor and a 6.98-second 0–100 km/h time. Chassis details include NMC (ternary) chemistry, plus MacPherson strut front / Multi-link rear suspension. Pricing starts at $15,260 ex-factory, placing it in the value tier. On landed cost, the lowest landed premium is Qatar at roughly +32.4% over base (about $20,203 landed) — Germany levies only the 10% standard tariff. This positions it for private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

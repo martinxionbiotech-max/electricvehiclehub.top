@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI V IDD"
-description: "Changan UNI V IDD is a suv from Changan, a 18.99 kWh battery and 158 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan UNI V IDD is ChangAn's SUV plug-in hybrid electric with 136 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "changan-uni-v-idd"
 brand: "changan"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Changan UNI V IDD (starting at $16,180) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan UNI V IDD is a compact SUV plug-in hybrid from CHANGAN, with 158 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,288 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.8 kWh/100km efficiency is strong for its 1,625 kg curb weight. It suits families and fleet buyers who need practicality.
+The Changan UNI V IDD is ChangAn's SUV plug-in hybrid. Specification highlights are peak torque of 330 Nm and a top speed of 185 km/h. The platform pairs NMC (ternary) cells with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $16,180, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +30.8% over base ($21,169 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

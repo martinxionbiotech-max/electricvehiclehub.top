@@ -1,6 +1,6 @@
 ---
 title: "Deepal SL03 EREV"
-description: "Deepal SL03 EREV is a Sedan extended-range electric from Deepal, offering 140 km of CLTC range a 18.99 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Deepal SL03 EREV is a sedan extended-range electric offered by Deepal, offering 140 km of CLTC range, 18 kWh of battery, 160 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "deepal-sl03-erev"
 brand: "deepal"
 type: "Sedan"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ Deepal SL03 EREV (starting at $16,650) is a Sedan from DEEPAL.
 
 ## Overview
 
-The Deepal SL03 EREV is a sedan extended-range electric from Deepal, with 160 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Deepal SL03 EREV is a sedan extended-range electric offered by Deepal. Specification highlights are 0–100 km/h in 7.5 seconds and 320 Nm of torque. The platform pairs RWD drivetrain with LFP cells. It is positioned as a mainstream-value import, priced from $16,650 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

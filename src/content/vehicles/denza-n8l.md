@@ -1,6 +1,6 @@
 ---
 title: "Denza N8L"
-description: "Denza N8L is a suv from Denza, offering 1300 km of CLTC range a 46.9 kWh battery and 560 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Denza N8L is Denza's SUV plug-in hybrid, offering a CLTC-rated range of 230 km, a 46 kWh battery, 560 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "denza-n8l"
 brand: "denza"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Denza N8L (starting at $42,230) is a SUV from DENZA.
 
 ## Overview
 
-The Denza N8L is a full-size SUV plug-in hybrid from DENZA, with 1,300 km of CLTC range, 560 kW of motor power, a 3.9-second 0–100 km/h time. It is positioned as a premium import, priced from $42,230 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $51,009 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
+Denza N8L is an SUV plug-in hybrid offered by Denza. Specification highlights are 230 km of CLTC range and 0–100 km/h in 3.9 seconds. Chassis details include Double wishbone front / Multi-link (air) rear suspension, plus LFP (Blade) chemistry. At an ex-factory price of $42,230, it sits in the premium segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +14.9% over base (≈ $48,521 landed) — Germany levies only the 10% standard tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

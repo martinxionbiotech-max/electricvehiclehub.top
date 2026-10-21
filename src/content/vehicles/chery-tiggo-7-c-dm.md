@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 7 C-DM"
-description: "Chery Tiggo 7 C-DM is a SUV plug-in hybrid from Chery, offering 120 km of CLTC range a 18.66 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Tiggo 7 C-DM is Chery's SUV plug-in hybrid, offering a CLTC-rated range of 120 km, 18 kWh of battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-tiggo-7-c-dm"
 brand: "chery"
 type: "SUV"
@@ -37,8 +37,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Chery Tiggo 7 C-DM (starting at $16,650) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 7 C-DM is a suv plug-in hybrid from Chery, with 150 kW of motor power. It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Tiggo 7 C-DM is an SUV plug-in hybrid electric from Chery. Specification highlights are a rated range of 120 km (CLTC) and 310 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. The ex-factory price of $16,650 positions it as a value-segment import. Across export markets, Qatar offers the cheapest entry at about +30.1% over base (≈ $21,662 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

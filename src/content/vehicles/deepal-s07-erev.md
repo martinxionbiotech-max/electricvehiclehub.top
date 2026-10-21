@@ -1,6 +1,6 @@
 ---
 title: "Deepal S07 EREV"
-description: "Deepal S07 EREV is a SUV extended-range electric from Deepal, offering 125 km of CLTC range a 18.99 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Deepal S07 EREV is Deepal's SUV range-extended electric, offering a CLTC-rated range of 125 km, 18 kWh of battery, 175 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "deepal-s07-erev"
 brand: "deepal"
 type: "SUV"
@@ -34,8 +34,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ Deepal S07 EREV (starting at $20,820) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal S07 EREV is a suv extended-range electric from Deepal, with 175 kW of motor power. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,404 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Deepal S07 EREV is an SUV extended-range electric offered by Deepal. It carries 18 kWh of battery capacity, peak torque of 320 Nm, and a 175 kW electric motor. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus RWD drive. Pricing starts at $20,820 ex-factory, placing it in the value tier. On landed cost, the lowest landed premium is Qatar at roughly +25.1% over base (about $26,041 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ 007 Plus"
-description: "Dongfeng eπ 007 Plus is a Sedan extended-range electric from Dongfeng eπ,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Dongfeng eπ 007 Plus is a sedan extended-range electric offered by Dongfeng eπ with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "dongfeng-epi-007-plus"
 brand: "dongfeng-e"
 type: "Sedan"
@@ -30,8 +30,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -45,8 +45,7 @@ Dongfeng eπ 007 Plus (starting at $18,040) is a Sedan from DONGFENG E.
 
 ## Overview
 
-The Dongfeng eπ 007 Plus is a sedan extended-range electric from Dongfeng eπ, . It is positioned as a value-focused import, priced from $18,040 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,339 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Dongfeng eπ 007 Plus is Dongfeng eπ's sedan range-extended electric. The platform pairs RWD drivetrain with LFP cells. It is positioned as a mainstream-value import, priced from $18,040 ex-factory. For importers, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed), while Germany levies only the 10% standard tariff. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

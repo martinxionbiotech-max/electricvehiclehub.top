@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3"
-description: "Chery Fulwin X3 is a SUV battery-electric from Chery Fulwin,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Fulwin X3 is Chery Fulwin's SUV fully electric, offering a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-x3"
 brand: "chery-fulwin"
 type: "SUV"
@@ -41,8 +41,7 @@ Chery Fulwin X3 (starting at $12,490) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin X3 is a suv battery-electric from Chery Fulwin, . It is positioned as a value-focused import, priced from $12,490 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,220 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery Fulwin X3 is an SUV fully electric offered by Chery Fulwin. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drivetrain. The ex-factory price of $12,490 positions it as an entry-level import. Across export markets, the least-costly destination is Qatar, near +38.5% over base ($17,294 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

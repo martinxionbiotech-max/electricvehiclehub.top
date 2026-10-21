@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang L DM-i"
-description: "BYD Tang L DM-i is a SUV plug-in hybrid from BYD, offering 215 km of CLTC range a 35.62 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Tang L DM-i is an SUV plug-in hybrid electric from BYD, offering a CLTC-rated range of 215 km, 35 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-tang-l-dm-i"
 brand: "byd"
 type: "SUV"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ BYD Tang L DM-i (starting at $31,920) is a SUV from BYD.
 
 ## Overview
 
-The BYD Tang L DM-i is a suv plug-in hybrid from BYD, with 200 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $31,920 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $39,641 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The BYD Tang L DM-i is an SUV plug-in hybrid from BYD. It carries a 7.9-second 0–100 km/h time and peak output of 200 kW. The platform pairs LFP (Blade) chemistry with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $31,920, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +18.1% over base (about $37,696 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

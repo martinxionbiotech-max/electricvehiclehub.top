@@ -1,6 +1,6 @@
 ---
 title: "Exeed EX7"
-description: "Exeed EX7 is a SUV extended-range electric from Exeed, offering 245 km of CLTC range a 41.0 kWh battery and 227 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Exeed EX7 is an SUV extended-range electric from Exeed, offering 245 km of CLTC range, 41 kWh of battery, 227 kW peak output, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "exeed-ex7"
 brand: "exeed"
 type: "SUV"
@@ -34,8 +34,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ Exeed EX7 (starting at $27,760) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed EX7 is a suv extended-range electric from Exeed, with 227 kW of motor power. It is positioned as a value-focused import, priced from $27,760 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,055 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Exeed EX7 is an SUV extended-range electric offered by Exeed. It carries a 227 kW electric motor and a rated range of 245 km (CLTC). The platform pairs a MacPherson strut front / Multi-link rear suspension setup with RWD drivetrain. It is positioned as a mid-tier import, priced from $27,760 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +20.1% over base (about $33,328 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

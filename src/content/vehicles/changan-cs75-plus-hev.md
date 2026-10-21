@@ -1,6 +1,6 @@
 ---
 title: "Changan CS75 PLUS HEV"
-description: "Changan CS75 PLUS HEV is a SUV hybrid from Changan, and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Changan CS75 PLUS HEV is an SUV non-plug-in hybrid offered by ChangAn, offering 180 kW peak output and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-cs75-plus-hev"
 brand: "changan"
 type: "SUV"
@@ -32,7 +32,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -47,8 +47,7 @@ Changan CS75 PLUS HEV (starting at $15,260) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan CS75 PLUS HEV is a suv hybrid from Changan, with 180 kW of motor power. It is positioned as a value-focused import, priced from $15,260 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,274 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Changan CS75 PLUS HEV is an SUV non-plug-in hybrid offered by ChangAn. Its specification includes peak output of 180 kW. The platform pairs MacPherson strut front / Multi-link rear suspension with NMC (ternary) chemistry. Pricing starts at $15,260 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +32.4% over base (≈ $20,203 landed) — Germany levies only the 10% standard tariff. This positions it for importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

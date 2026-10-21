@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A06 EREV"
-description: "Changan Nevo A06 EREV is a Sedan extended-range electric from Changan Nevo, offering 240 km of CLTC range a 28.39 kWh battery and 120 kW of motor power. Full la"
+description: "The Changan Nevo A06 EREV is ChangAn NEVO's sedan extended-range electric with a CLTC-rated range of 240 km, a 28 kWh battery, 120 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-a06-erev"
 brand: "changan-nevo"
 type: "Sedan"
@@ -33,8 +33,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,8 +51,7 @@ Changan Nevo A06 EREV (starting at $16,650) is a Sedan from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo A06 EREV is a sedan extended-range electric from Changan Nevo, with 120 kW of motor power. It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Changan Nevo A06 EREV is ChangAn NEVO's sedan extended-range electric. Specification highlights are 28 kWh of battery capacity and a 120 kW electric motor. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP chemistry. Pricing starts at $16,650 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

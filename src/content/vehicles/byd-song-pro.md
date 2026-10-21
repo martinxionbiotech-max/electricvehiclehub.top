@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Pro"
-description: "BYD Song Pro is a suv from Byd, a 18.3 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Song Pro is BYD's SUV plug-in hybrid, offering a CLTC-rated range of 115 km, 18 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-song-pro"
 brand: "byd"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd Song PRO (starting at $14,480) is a SUV from BYD.
 
 ## Overview
 
-The Byd Song PRO is a compact SUV plug-in hybrid from BYD, with 120 kW of motor power. It is positioned as a value-focused import, priced from $14,480 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +41% over base (about $20,414 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 14.5 kWh/100km efficiency is strong for its 1,730 kg curb weight. It suits families and fleet buyers who need practicality.
+The BYD Song Pro is BYD's SUV plug-in hybrid. Specification highlights are a rated range of 115 km (CLTC), a 8.4-second 0–100 km/h time, and 210 Nm of torque. The platform pairs LFP (Blade) chemistry with FWD drivetrain. Pricing starts at $14,480 ex-factory, placing it in the entry-level tier. On landed cost, the lowest landed premium is Qatar at roughly +33.9% over base (about $19,384 landed), while Germany levies only the 10% standard tariff. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Deepal G318"
-description: "Deepal G318 is a suv from Deepal, a 35.07 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Deepal G318 is an SUV range-extended electric offered by Deepal, offering a CLTC-rated range of 190 km, a 35 kWh battery, 185 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "deepal-g318"
 brand: "deepal"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Deepal G318 (starting at $26,180) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal G318 is a full-size SUV extended-range electric from DEEPAL, with 185 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,313 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.1 kWh/100km efficiency is unremarkable for its 2,252 kg curb weight. It suits large families and executive fleets.
+The Deepal G318 is Deepal's SUV range-extended electric. Specification highlights are 0–100 km/h in 8.6 seconds and 175 km/h top speed. Chassis details include LFP chemistry, plus a Double wishbone front / Multi-link rear suspension setup. At an ex-factory price of $26,180, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +21% over base (≈ $31,669 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

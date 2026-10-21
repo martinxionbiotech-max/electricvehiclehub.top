@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T9"
-description: "Chery Fulwin T9 is a suv from Chery Fulwin, a 18.67 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Chery Fulwin T9 is an SUV plug-in hybrid electric offered by Chery Fulwin with 100 km of CLTC range, 18 kWh of battery, 150 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-t9"
 brand: "chery-fulwin"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Chery Fulwin T9 (starting at $18,720) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T9 is a compact SUV plug-in hybrid from CHERY-FULWIN, with 150 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,720 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $25,089 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.5 kWh/100km efficiency is strong for its 1,970 kg curb weight. It suits families and fleet buyers who need practicality.
+The Chery Fulwin T9 is an SUV plug-in hybrid from Chery Fulwin. It carries 180 km/h top speed, a 18 kWh battery, and peak torque of 310 Nm. The platform pairs LFP cells with FWD drivetrain. Pricing starts at $18,720 ex-factory, placing it in the value tier. On landed cost, the least-costly destination is Qatar, near +27.3% over base ($23,836 landed) — Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

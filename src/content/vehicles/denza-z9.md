@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9"
-description: "Denza Z9 is a suv from Denza, offering 1101 km of CLTC range a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Denza Z9 is a sedan fully electric from Denza, offering a CLTC-rated range of 630 km, 100 kWh of battery, 640 kW peak output, and NMC (LFP option) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "denza-z9"
 brand: "denza"
 type: "Sedan"
@@ -60,7 +60,7 @@ Denza Z9 (starting at $47,150) is a SUV from DENZA.
 
 ## Overview
 
-The Denza Z9 is a full-size SUV battery-electric from DENZA, with 1,101 km of CLTC range, 640 kW of motor power, a 3.6-second 0–100 km/h time. It is positioned as a premium import, priced from $47,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $56,433 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.4 kWh/100km efficiency is unremarkable for its 2,780 kg curb weight. It suits large families and executive fleets.
+The Denza Z9 is Denza's sedan battery-electric. It carries peak output of 640 kW and 100 kWh of battery capacity. Chassis details include NMC (LFP option) chemistry, plus a Double wishbone front / Multi-link (air) rear suspension setup. The ex-factory price of $47,150 positions it as an upper-mid import. Across export markets, the lowest landed premium is Qatar at roughly +13.9% over base (about $53,687 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

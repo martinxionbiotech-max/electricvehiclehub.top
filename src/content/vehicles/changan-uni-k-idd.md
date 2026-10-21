@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI K IDD"
-description: "Changan UNI K IDD is a suv from Changan, a 28.4 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan UNI K IDD is an SUV plug-in hybrid electric from ChangAn, offering a CLTC-rated range of 135 km, a 28 kWh battery, 110 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-uni-k-idd"
 brand: "changan"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Changan UNI K IDD (starting at $26,460) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan UNI K IDD is a midsize SUV plug-in hybrid from CHANGAN, with 110 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,622 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.4 kWh/100km efficiency is strong for its 2,075 kg curb weight. It suits family and executive buyers prioritizing space.
+Changan UNI K IDD is an SUV plug-in hybrid offered by ChangAn. It carries 135 km of CLTC range, a 8.1-second 0–100 km/h time, and peak torque of 330 Nm. The platform pairs NMC (ternary) chemistry with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $26,460 positions it as a mid-tier import. On landed cost, the lowest landed premium is Qatar at roughly +20.8% over base (about $31,963 landed); meanwhile, Germany levies only the 10% standard tariff. It suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

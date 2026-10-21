@@ -1,6 +1,6 @@
 ---
 title: "Chery Explore 06 C-DM"
-description: "Chery Explore 06 C-DM is a SUV plug-in hybrid from Chery, offering 120 km of CLTC range a 18.3 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Chery Explore 06 C-DM is an SUV plug-in hybrid electric offered by Chery, offering 120 km of CLTC range, 18 kWh of battery, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "chery-explore-06-c-dm"
 brand: "chery"
 type: "SUV"
@@ -33,8 +33,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -50,8 +50,7 @@ Chery Explore 06 C-DM (starting at $16,650) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Explore 06 C-DM is a suv plug-in hybrid from Chery, . It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Explore 06 C-DM is Chery's SUV plug-in hybrid. It carries a rated range of 120 km (CLTC) and 18 kWh of battery capacity. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus LFP cells. The ex-factory price of $16,650 positions it as a value-segment import. Across export markets, the least-costly destination is Qatar, near +30.1% over base ($21,662 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

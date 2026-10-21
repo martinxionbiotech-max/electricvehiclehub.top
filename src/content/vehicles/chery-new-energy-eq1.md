@@ -1,6 +1,6 @@
 ---
 title: "Chery New Energy EQ1"
-description: "Chery New Energy EQ1 is a hatchback from Chery New Energy, offering 251 km of CLTC range a 25.05 kWh battery and 36 kW of motor power. Full landed-cost break..."
+description: "The Chery New Energy EQ1 is Chery New Energy's hatchback battery-electric with a CLTC-rated range of 251 km, 25 kWh of battery, 36 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-new-energy-eq1"
 brand: "chery-new-energy"
 type: "Hatchback"
@@ -57,7 +57,7 @@ Chery New Energy EQ1 (starting at $7,730) is a Hatchback from CHERY NEW ENERGY.
 
 ## Overview
 
-The Chery New Energy EQ1 is a micro hatchback battery-electric from CHERY-NEW-ENERGY, with 251 km of CLTC range, 36 kW of motor power, a 6.0-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $7,730 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +68% over base (about $12,972 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 10.7 kWh/100km efficiency is strong for its 920 kg curb weight. It suits private urban buyers and small delivery fleets.
+The Chery New Energy EQ1 is Chery New Energy's hatchback fully electric. It carries a top speed of 100 km/h and a 25 kWh battery. The platform pairs LFP cells with MacPherson strut front / Torsion beam rear suspension. Pricing starts at $7,730 ex-factory, placing it in the entry-level tier. On landed cost, the lowest landed premium is Qatar at roughly +59.1% over base (about $12,296 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for importers targeting urban runabout demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

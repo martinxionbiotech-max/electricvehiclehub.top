@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo E07 EREV"
-description: "Changan Nevo E07 EREV is a SUV extended-range electric from Changan Nevo, offering 245 km of CLTC range a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan Nevo E07 EREV is an SUV extended-range electric from ChangAn NEVO with a CLTC-rated range of 245 km, 39 kWh of battery, 231 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "changan-nevo-e07-erev"
 brand: "changan-nevo"
 type: "SUV"
@@ -33,8 +33,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,8 +51,7 @@ Changan Nevo E07 EREV (starting at $30,540) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo E07 EREV is a suv extended-range electric from Changan Nevo, with 231 kW of motor power. It is positioned as a value-focused import, priced from $30,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $38,120 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Changan Nevo E07 EREV is an SUV extended-range electric offered by ChangAn NEVO. Specification highlights are a 231 kW electric motor and 39 kWh of battery capacity. Chassis details include LFP cells, plus MacPherson strut front / Multi-link rear suspension. It is positioned as a mid-tier import, priced from $30,540 ex-factory. Across export markets, the least-costly destination is Qatar, near +18.7% over base ($36,247 landed), while Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

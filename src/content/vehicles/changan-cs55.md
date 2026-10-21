@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs55"
-description: "Changan Cs55 is a suv from Changan,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan Cs55 is an SUV battery-electric from ChangAn, offering 605 km of CLTC range, 84 kWh of battery, 160 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-cs55"
 brand: "changan"
 type: "SUV"
@@ -49,7 +49,7 @@ Changan Cs55 (starting at $11,920) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan Cs55 is a compact SUV battery-electric from CHANGAN, with a compact electric powertrain. It sits at the affordable end of the Chinese EV export range, priced from $11,920 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +48% over base (about $17,592 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
+The Changan Cs55 is ChangAn's SUV fully electric. It carries 84 kWh of battery capacity and a 160 kW electric motor. Chassis details include FWD drive, plus NMC (ternary) cells. It is positioned as an affordable-end import, priced from $11,920 ex-factory. On landed cost, the least-costly destination is Qatar, near +40.1% over base ($16,696 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

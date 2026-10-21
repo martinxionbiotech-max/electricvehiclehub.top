@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3L"
-description: "Chery Fulwin X3L is a suv from Chery Fulwin, a 20.64 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Fulwin X3L is an SUV extended-range electric from Chery Fulwin with 215 km of CLTC range, a 33 kWh battery, 185 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-fulwin-x3l"
 brand: "chery-fulwin"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,7 +54,7 @@ Chery Fulwin X3L (starting at $16,890) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin X3L is a compact SUV extended-range electric from CHERY-FULWIN, with 185 kW of motor power. It is positioned as a value-focused import, priced from $16,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,071 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.7 kWh/100km efficiency is strong for its 1,842 kg curb weight. It suits families and fleet buyers who need practicality.
+The Chery Fulwin X3L is Chery Fulwin's SUV extended-range electric. Specification highlights are 215 km of CLTC range and peak output of 185 kW. Chassis details include FWD drive, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $16,890, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed) — Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

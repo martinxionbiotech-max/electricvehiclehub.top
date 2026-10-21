@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A8L"
-description: "Chery Fulwin A8L is a Sedan plug-in hybrid from Chery Fulwin, offering 145 km of CLTC range a 18.67 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Fulwin A8L is Chery Fulwin's sedan plug-in hybrid electric with a CLTC-rated range of 145 km, 18 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-a8l"
 brand: "chery-fulwin"
 type: "Sedan"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ Chery Fulwin A8L (starting at $15,260) is a Sedan from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin A8L is a sedan plug-in hybrid from Chery Fulwin, . It is positioned as a value-focused import, priced from $15,260 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,274 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Fulwin A8L is Chery Fulwin's sedan plug-in hybrid electric. Specification highlights are 18 kWh of battery capacity, 185 km/h top speed, and 145 km of CLTC range. Chassis details include LFP chemistry, plus FWD drivetrain. It is positioned as a value-focused import, priced from $15,260 ex-factory. On landed cost, the least-costly destination is Qatar, near +32.4% over base ($20,203 landed), while Germany levies only the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

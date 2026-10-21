@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs75 Plus IDD"
-description: "Changan Cs75 Plus IDD is a suv from Changan, a 28.39 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Changan Cs75 Plus IDD is an SUV plug-in hybrid offered by ChangAn with a CLTC-rated range of 150 km, a 28 kWh battery, 110 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-cs75-plus-idd"
 brand: "changan"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,7 +55,7 @@ Changan Cs75 PLUS IDD (starting at $23,930) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan Cs75 PLUS IDD is a compact SUV plug-in hybrid from CHANGAN, with 110 kW of motor power, a 7.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $23,930 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,833 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+Changan Cs75 Plus IDD is an SUV plug-in hybrid electric offered by ChangAn. Specification highlights are a 110 kW electric motor and a top speed of 230 km/h. The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $23,930 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,306 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

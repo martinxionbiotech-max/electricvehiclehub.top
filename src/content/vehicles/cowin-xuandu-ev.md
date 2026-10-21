@@ -1,6 +1,6 @@
 ---
 title: "Cowin Xuandu EV"
-description: "Cowin Xuandu EV is a Sedan battery-electric from Cowin, offering 420 km of CLTC range a 53.6 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Cowin Xuandu EV is a sedan fully electric from Cowin, offering 420 km of CLTC range, a 53 kWh battery, 120 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "cowin-xuandu-ev"
 brand: "cowin"
 type: "Sedan"
@@ -51,8 +51,7 @@ Cowin Xuandu EV (starting at $20,820) is a Sedan from COWIN.
 
 ## Overview
 
-The Cowin Xuandu EV is a sedan battery-electric from Cowin, with 120 kW of motor power. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,404 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Cowin Xuandu EV is Cowin's sedan battery-electric. It carries 420 km of CLTC range, a 120 kW electric motor, and a 53 kWh battery. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with FWD drive. It is positioned as a mainstream-value import, priced from $20,820 ex-factory. Across export markets, the least-costly destination is Qatar, near +25.1% over base ($26,041 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

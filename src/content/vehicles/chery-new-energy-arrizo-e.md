@@ -1,6 +1,6 @@
 ---
 title: "Chery Arrizo e"
-description: "Chery Arrizo e is a Sedan battery-electric from Chery New Energy, offering 405 km of CLTC range a 48.16 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Arrizo e is Chery New Energy's sedan battery-electric with a CLTC-rated range of 405 km, a 48 kWh battery, 100 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-new-energy-arrizo-e"
 brand: "chery-new-energy"
 type: "Sedan"
@@ -54,8 +54,7 @@ Chery Arrizo e (starting at $21,220) is a Sedan from CHERY NEW ENERGY.
 
 ## Overview
 
-The Chery Arrizo e is a sedan battery-electric from Chery New Energy, with 100 kW of motor power. It is positioned as a value-focused import, priced from $21,220 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,845 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 12.7 kWh/100km efficiency is reasonable for its 1,435 kg curb weight; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery New Energy's Chery Arrizo e is a sedan battery-electric. It carries a 100 kW electric motor and 48 kWh of battery capacity. The platform pairs LFP chemistry with MacPherson strut front / Torsion beam rear suspension. Pricing starts at $21,220 ex-factory, placing it in the value tier. Across export markets, Qatar offers the cheapest entry at about +24.7% over base (≈ $26,461 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

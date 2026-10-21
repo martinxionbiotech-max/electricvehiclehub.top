@@ -1,6 +1,6 @@
 ---
 title: "Denza D9"
-description: "The Denza D9 is BYD and Mercedes-Benz's premium MPV — a 5,250 mm luxury people-mover that has become the de facto executive van of choice in China's corporate s"
+description: "The Denza D9 is an MPV battery-electric from Denza, offering a CLTC-rated range of 620 km, 103 kWh of battery, 200 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "denza-d9"
 brand: "denza"
 type: "MPV"
@@ -59,7 +59,7 @@ Denza D9 (starting at $43,630) is a SUV from DENZA.
 
 ## Overview
 
-The Denza D9 is a full-size SUV battery-electric from DENZA, with 200 kW of motor power. It is positioned as a premium import, priced from $43,630 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $52,552 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.9 kWh/100km efficiency is unremarkable for its 2,695 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits large families and executive fleets.
+The Denza D9 is an MPV fully electric from Denza. Specification highlights are a 8.6-second 0–100 km/h time, peak output of 200 kW, and 103 kWh of battery capacity. The platform pairs FWD / AWD drivetrain with LFP (Blade) chemistry. At an ex-factory price of $43,630, it sits in the premium segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +14.6% over base ($49,991 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits shuttle and charter fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

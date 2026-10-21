@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 DM-i"
-description: "Denza Z9 DM-i is a Sedan plug-in hybrid from Denza, offering 201 km of CLTC range a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Denza Z9 DM-i is a sedan plug-in hybrid electric offered by Denza, offering a CLTC-rated range of 201 km, 38 kWh of battery, 640 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "denza-z9-dm-i"
 brand: "denza"
 type: "Sedan"
@@ -36,8 +36,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Denza Z9 DM-i (starting at $46,500) is a Sedan from DENZA.
 
 ## Overview
 
-The Denza Z9 DM-i is a sedan plug-in hybrid from Denza, with 640 kW of motor power, a 3.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $46,500 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $55,716 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Denza Z9 DM-i is a sedan plug-in hybrid electric offered by Denza. Specification highlights are a rated range of 201 km (CLTC) and a 38 kWh battery. Chassis details include LFP (Blade) chemistry, plus a Double wishbone front / Multi-link (air) rear suspension setup. It is positioned as an upper-mid import, priced from $46,500 ex-factory. Across export markets, Qatar offers the cheapest entry at about +14% over base (≈ $53,005 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

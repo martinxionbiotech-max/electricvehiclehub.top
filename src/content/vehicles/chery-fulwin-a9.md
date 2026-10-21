@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A9"
-description: "Chery Fulwin A9 is a Sedan battery-electric from Chery Fulwin, offering 655 km of CLTC range a 70.11 kWh battery and 178 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Fulwin A9 is Chery Fulwin's sedan fully electric with a CLTC-rated range of 655 km, a 70 kWh battery, 178 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-a9"
 brand: "chery-fulwin"
 type: "Sedan"
@@ -54,8 +54,7 @@ Chery Fulwin A9 (starting at $16,100) is a Sedan from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin A9 is a sedan battery-electric from Chery Fulwin, with 178 kW of motor power. It is positioned as a value-focused import, priced from $16,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,200 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery Fulwin A9 is a sedan battery-electric offered by Chery Fulwin. Specification highlights are a 178 kW electric motor and a rated range of 655 km (CLTC). Chassis details include LFP cells, plus FWD drive. At an ex-factory price of $16,100, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +31% over base ($21,085 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

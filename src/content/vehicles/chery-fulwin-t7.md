@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T7"
-description: "Chery Fulwin T7 is a SUV battery-electric from Chery Fulwin, offering 600 km of CLTC range a 65.05 kWh battery and 178 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Chery Fulwin T7 is an SUV battery-electric offered by Chery Fulwin with a CLTC-rated range of 600 km, 65 kWh of battery, 178 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "chery-fulwin-t7"
 brand: "chery-fulwin"
 type: "SUV"
@@ -51,8 +51,7 @@ Chery Fulwin T7 (starting at $13,600) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T7 is a suv battery-electric from Chery Fulwin, with 178 kW of motor power. It is positioned as a value-focused import, priced from $13,600 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,444 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Fulwin T7 is Chery Fulwin's SUV battery-electric. It carries a CLTC-rated range of 600 km, a 178 kW electric motor, and 65 kWh of battery capacity. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP cells. It is positioned as an entry-level import, priced from $13,600 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +35.7% over base (about $18,460 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

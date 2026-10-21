@@ -1,6 +1,6 @@
 ---
 title: "Changan Eado HEV"
-description: "Changan Eado HEV is a Sedan hybrid from Changan, and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan Eado HEV is ChangAn's sedan hybrid with 180 kW of motor power and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-eado-hev"
 brand: "changan"
 type: "Sedan"
@@ -32,7 +32,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -47,8 +47,7 @@ Changan Eado HEV (starting at $11,100) is a Sedan from CHANGAN.
 
 ## Overview
 
-The Changan Eado HEV is a sedan hybrid from Changan, with 180 kW of motor power. It is positioned as a value-focused import, priced from $11,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,687 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Changan Eado HEV is a sedan hybrid from ChangAn. Its specification includes peak output of 180 kW. The platform pairs FWD drivetrain with MacPherson strut front / Torsion beam rear suspension. It is positioned as an affordable-end import, priced from $11,100 ex-factory. Across export markets, Qatar offers the cheapest entry at about +42.7% over base (≈ $15,835 landed), while Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

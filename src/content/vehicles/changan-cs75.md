@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs75 PHEV"
-description: "Changan Cs75 is a suv from Changan,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Changan Cs75 PHEV is an SUV plug-in hybrid electric offered by ChangAn with 150 kW of motor power and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "changan-cs75"
 brand: "changan"
 type: "SUV"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,7 +51,7 @@ Changan Cs75 (starting at $12,060) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan Cs75 is a compact SUV battery-electric from CHANGAN, with a compact electric powertrain. It is positioned as a value-focused import, priced from $12,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +47% over base (about $17,746 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
+Changan Cs75 PHEV is an SUV plug-in hybrid electric offered by ChangAn. Specification highlights are a 11.8-second 0–100 km/h time, peak output of 150 kW, and 190 km/h top speed. Chassis details include NMC (ternary) chemistry, plus FWD drive. It is positioned as a budget import, priced from $12,060 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +39.7% over base (about $16,843 landed); meanwhile, Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

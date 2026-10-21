@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 8 Pro New Energy"
-description: "Chery Tiggo 8 Pro New Energy is a SUV plug-in hybrid from Chery, offering 100 km of CLTC range and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Tiggo 8 Pro New Energy is an SUV plug-in hybrid electric from Chery, offering 100 km of CLTC range, 125 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-tiggo-8-pro-new-energy"
 brand: "chery"
 type: "SUV"
@@ -33,8 +33,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,8 +51,7 @@ Chery Tiggo 8 Pro New Energy (starting at $19,150) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 8 Pro New Energy is a suv plug-in hybrid from Chery, with 125 kW of motor power, a 7.2-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,562 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Tiggo 8 Pro New Energy is an SUV plug-in hybrid from Chery. Specification highlights are a 7.2-second 0–100 km/h time, a rated range of 100 km (CLTC), and peak output of 125 kW. The platform pairs LFP cells with FWD drive. At an ex-factory price of $19,150, it sits in the value segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +26.8% over base (about $24,287 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

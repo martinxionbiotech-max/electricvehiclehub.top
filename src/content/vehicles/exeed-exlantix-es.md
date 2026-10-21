@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ES"
-description: "Exeed Exlantix ES is a suv from Exeed, a 34.7 kWh battery and 195 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Exeed Exlantix ES is a sedan battery-electric offered by Exeed, offering 905 km of CLTC range, 97 kWh of battery, 195 kW peak output, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "exeed-exlantix-es"
 brand: "exeed"
 type: "Sedan"
@@ -58,7 +58,7 @@ Exeed Exlantix ES (starting at $21,520) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed Exlantix ES is a midsize SUV battery-electric from EXEED, with 195 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,176 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.4 kWh/100km efficiency is strong for its 2,080 kg curb weight. It suits family and executive buyers prioritizing space.
+The Exeed Exlantix ES is Exeed's sedan fully electric. It carries a 97 kWh battery and 0–100 km/h in 7.6 seconds. The platform pairs LFP / NMC cells with Double wishbone front / Multi-link (air) rear suspension. The ex-factory price of $21,520 positions it as a mainstream-value import. On landed cost, the lowest landed premium is Qatar at roughly +24.4% over base (about $26,776 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo E07"
-description: "Changan Nevo E07 is a suv from Changan Nevo, a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan Nevo E07 is an SUV battery-electric from ChangAn NEVO with 651 km of CLTC range, 89 kWh of battery, 231 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-e07"
 brand: "changan-nevo"
 type: "SUV"
@@ -57,7 +57,7 @@ Changan Nevo E07 (starting at $30,970) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo E07 is a midsize SUV battery-electric from CHANGAN-NEVO, with 231 kW of motor power, a 7.1-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $30,970 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $38,594 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 20.0 kWh/100km efficiency is strong for its 2,325 kg curb weight. It suits family and executive buyers prioritizing space.
+The Changan Nevo E07 is ChangAn NEVO's SUV battery-electric. It carries 89 kWh of battery capacity and peak output of 231 kW. The platform pairs MacPherson strut front / Multi-link rear suspension with RWD drivetrain. At an ex-factory price of $30,970, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +18.5% over base ($36,698 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

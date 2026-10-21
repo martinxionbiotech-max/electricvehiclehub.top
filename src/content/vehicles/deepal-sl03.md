@@ -1,6 +1,6 @@
 ---
 title: "Deepal Sl03"
-description: "Deepal Sl03 is a suv from Deepal, a 18.99 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Deepal Sl03 is Deepal's sedan battery-electric, offering 705 km of CLTC range, a 79 kWh battery, 175 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "deepal-sl03"
 brand: "deepal"
 type: "Sedan"
@@ -57,7 +57,7 @@ Deepal Sl03 (starting at $16,890) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal Sl03 is a midsize SUV battery-electric from DEEPAL, with 175 kW of motor power, a 7.2-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,071 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.1 kWh/100km efficiency is strong for its 1,780 kg curb weight. It suits family and executive buyers prioritizing space.
+The Deepal Sl03 is Deepal's sedan fully electric. Specification highlights are 320 Nm of torque, 705 km of CLTC range, and a 7.2-second 0–100 km/h time. The platform pairs LFP cells with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $16,890 ex-factory. On landed cost, Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

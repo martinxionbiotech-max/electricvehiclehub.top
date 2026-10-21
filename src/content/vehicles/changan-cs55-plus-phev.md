@@ -1,6 +1,6 @@
 ---
 title: "Changan CS55 PLUS PHEV"
-description: "Changan CS55 PLUS PHEV is a SUV plug-in hybrid from Changan, offering 125 km of CLTC range a 18.4 kWh battery and 158 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan CS55 PLUS PHEV is ChangAn's SUV plug-in hybrid with a CLTC-rated range of 125 km, a 18 kWh battery, 158 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-cs55-plus-phev"
 brand: "changan"
 type: "SUV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Changan CS55 PLUS PHEV (starting at $15,680) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan CS55 PLUS PHEV is a suv plug-in hybrid from Changan, with 158 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,680 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $21,737 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Changan CS55 PLUS PHEV is an SUV plug-in hybrid electric from ChangAn. Specification highlights are 180 km/h top speed, a 158 kW electric motor, and peak torque of 330 Nm. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drivetrain. It is positioned as a mainstream-value import, priced from $15,680 ex-factory. On landed cost, the least-costly destination is Qatar, near +31.7% over base ($20,644 landed); meanwhile, Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T10"
-description: "Chery Fulwin T10 is a suv from Chery Fulwin, a 34.46 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Chery Fulwin T10 is an SUV plug-in hybrid electric offered by Chery Fulwin with a CLTC-rated range of 210 km, a 34 kWh battery, 165 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "chery-fulwin-t10"
 brand: "chery-fulwin"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Chery Fulwin T10 (starting at $26,750) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T10 is a midsize SUV plug-in hybrid from CHERY-FULWIN, with 165 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,750 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,942 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 19.2 kWh/100km efficiency is strong for its 2,028 kg curb weight. It suits family and executive buyers prioritizing space.
+The Chery Fulwin T10 is Chery Fulwin's SUV plug-in hybrid. Specification highlights are 180 km/h top speed and 210 km of CLTC range. Chassis details include FWD drive, plus LFP chemistry. The ex-factory price of $26,750 positions it as a mid-market import. For importers, the least-costly destination is Qatar, near +20.6% over base ($32,267 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

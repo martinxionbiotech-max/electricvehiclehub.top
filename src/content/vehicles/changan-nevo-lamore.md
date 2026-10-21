@@ -1,6 +1,6 @@
 ---
 title: "Changan Lamore"
-description: "Changan Lamore is a sedan from Changan. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan Lamore is a sedan petrol from ChangAn. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-nevo-lamore"
 brand: "changan"
 type: "Sedan"
@@ -53,7 +53,7 @@ Changan Nevo Lamore (starting at $11,110) is a Sedan from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo Lamore is a compact sedan petrol from CHANGAN-NEVO, with 140 kW of motor power, a 7.9-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $11,110 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,699 landed), while the Germany estimate applies the 10% standard tariff only — no countervailing duty applies to petrol powertrains. In practice, the 10.7 kWh/100km efficiency is strong for its 1,425 kg curb weight. It suits families and fleet buyers who need practicality.
+The Changan Lamore is a sedan petrol from ChangAn. Specification highlights are a top speed of 185 km/h and a 7.9-second 0–100 km/h time. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with FWD drive. At an ex-factory price of $11,110, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +42.6% over base (≈ $15,845 landed) — Germany levies only the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

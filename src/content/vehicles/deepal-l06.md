@@ -1,6 +1,6 @@
 ---
 title: "Deepal L06"
-description: "Deepal L06 is a suv from Deepal, offering 560 km of CLTC range a 56.12 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Deepal L06 is Deepal's SUV fully electric, offering a CLTC-rated range of 560 km, 56 kWh of battery, 200 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "deepal-l06"
 brand: "deepal"
 type: "SUV"
@@ -57,7 +57,7 @@ Deepal L06 (starting at $19,000) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal L06 is a midsize SUV battery-electric from DEEPAL, with 560 km of CLTC range, 200 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $25,398 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.5 kWh/100km efficiency is strong for its 1,750 kg curb weight. It suits family and executive buyers prioritizing space.
+The Deepal L06 is Deepal's SUV battery-electric. Specification highlights are a top speed of 185 km/h and peak output of 200 kW. Chassis details include RWD drive, plus LFP cells. At an ex-factory price of $19,000, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +27% over base (≈ $24,130 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

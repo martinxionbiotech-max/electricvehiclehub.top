@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 7 Plus New Energy"
-description: "Chery Tiggo 7 Plus New Energy is a suv from Chery, a 16.7 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Tiggo 7 Plus New Energy is an SUV plug-in hybrid from Chery, offering a CLTC-rated range of 100 km, 16 kWh of battery, 125 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-tiggo-7-plus-new-energy"
 brand: "chery"
 type: "SUV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ Chery Tiggo 7 PLUS New Energy (starting at $18,300) is a SUV from CHERY.
 
 ## Overview
 
-Chery Tiggo 7 PLUS New Energy is a suv from Chery, a 16.7 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets included fo...
-
+The Chery Tiggo 7 Plus New Energy is Chery's SUV plug-in hybrid electric. It carries a 125 kW electric motor and 16 kWh of battery capacity. The platform pairs LFP cells with MacPherson strut front / Multi-link rear suspension. Pricing starts at $18,300 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +27.8% over base (≈ $23,395 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

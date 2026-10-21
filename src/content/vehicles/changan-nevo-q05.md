@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q05"
-description: "Changan Nevo Q05 is a suv from Changan Nevo, offering 1215 km of CLTC range a 18.4 kWh battery and 158 kW of motor power. Full landed-cost breakdown to the E..."
+description: "The Changan Nevo Q05 is an SUV plug-in hybrid electric from ChangAn NEVO with 125 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-q05"
 brand: "changan-nevo"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Changan Nevo Q05 (starting at $13,650) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo Q05 is a compact SUV plug-in hybrid from CHANGAN-NEVO, with 1,215 km of CLTC range, 158 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,499 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.3 kWh/100km efficiency is strong for its 1,655 kg curb weight. It suits families and fleet buyers who need practicality.
+The Changan Nevo Q05 is an SUV plug-in hybrid electric from ChangAn NEVO. Specification highlights are peak torque of 330 Nm and a CLTC-rated range of 125 km. The platform pairs LFP cells with FWD drive. The ex-factory price of $13,650 positions it as an affordable-end import. Across export markets, Qatar offers the cheapest entry at about +35.6% over base (≈ $18,512 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

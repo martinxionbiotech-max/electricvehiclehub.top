@@ -1,6 +1,6 @@
 ---
 title: "Deepal L07 EREV"
-description: "Deepal L07 EREV is a Sedan extended-range electric from Deepal, offering 240 km of CLTC range a 28.39 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Deepal L07 EREV is a sedan range-extended electric from Deepal with a CLTC-rated range of 240 km, a 28 kWh battery, 175 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "deepal-l07-erev"
 brand: "deepal"
 type: "Sedan"
@@ -34,8 +34,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ Deepal L07 EREV (starting at $18,880) is a Sedan from DEEPAL.
 
 ## Overview
 
-The Deepal L07 EREV is a sedan extended-range electric from Deepal, with 175 kW of motor power. It is positioned as a value-focused import, priced from $18,880 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,265 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Deepal L07 EREV is Deepal's sedan range-extended electric. It carries a 28 kWh battery and peak output of 175 kW. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus RWD drivetrain. At an ex-factory price of $18,880, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +27.1% over base (≈ $24,004 landed) — Germany levies only the 10% standard tariff. The profile suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

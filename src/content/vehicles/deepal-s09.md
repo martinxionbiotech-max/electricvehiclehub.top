@@ -1,6 +1,6 @@
 ---
 title: "Deepal S09"
-description: "Deepal S09 is a suv from Deepal, a 40.18 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Deepal S09 is an SUV extended-range electric from Deepal with 210 km of CLTC range, a 40 kWh battery, 231 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "deepal-s09"
 brand: "deepal"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Deepal S09 (starting at $33,790) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal S09 is a full-size SUV extended-range electric from DEEPAL, with 231 kW of motor power, a 7.9-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $33,790 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $41,703 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.2 kWh/100km efficiency is unremarkable for its 2,510 kg curb weight. It suits large families and executive fleets.
+Deepal S09 is an SUV range-extended electric offered by Deepal. Specification highlights are a CLTC-rated range of 210 km and 205 km/h top speed. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP chemistry. The ex-factory price of $33,790 positions it as a mid-tier import. For importers, the least-costly destination is Qatar, near +17.4% over base ($39,659 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

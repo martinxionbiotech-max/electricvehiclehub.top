@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3 Plus"
-description: "Chery Fulwin X3 Plus is a SUV battery-electric from Chery Fulwin, offering 401 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Fulwin X3 Plus is Chery Fulwin's SUV fully electric, offering 401 km of CLTC range and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "chery-fulwin-x3-plus"
 brand: "chery-fulwin"
 type: "SUV"
@@ -47,8 +47,7 @@ Chery Fulwin X3 Plus (starting at $15,260) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin X3 Plus is a suv battery-electric from Chery Fulwin, . It is positioned as a value-focused import, priced from $15,260 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,274 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Fulwin X3 Plus is Chery Fulwin's SUV fully electric. Its specification includes a rated range of 401 km (CLTC). Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drivetrain. Pricing starts at $15,260 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +32.4% over base ($20,203 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

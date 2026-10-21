@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang"
-description: "BYD Tang is a suv from Byd, a 21.5 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Tang is BYD's SUV plug-in hybrid with a CLTC-rated range of 112 km, a 21 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-tang"
 brand: "byd"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "DM-i / DM-p 尊贵型 / 旗舰型"
 brakes: "Front ventilated disc / rear disc"
@@ -58,7 +58,7 @@ Byd Tang (starting at $25,250) is a SUV from BYD.
 
 ## Overview
 
-The Byd Tang is a midsize SUV plug-in hybrid from BYD, with 200 kW of motor power, a 7.5-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,288 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 17.8 kWh/100km efficiency is strong for its 2,130 kg curb weight. It suits family and executive buyers prioritizing space.
+The BYD Tang is BYD's SUV plug-in hybrid. Specification highlights are 112 km of CLTC range and peak torque of 315 Nm. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD / AWD drivetrain. Pricing starts at $25,250 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +21.6% over base (≈ $30,692 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

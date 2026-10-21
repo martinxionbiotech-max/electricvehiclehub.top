@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Max"
-description: "BYD Song Max is a mpv from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Song Max is an MPV plug-in hybrid from BYD with a CLTC-rated range of 105 km, 18 kWh of battery, 132 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-song-max"
 brand: "byd"
 type: "MPV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd Song MAX (starting at $20,820) is a MPV from BYD.
 
 ## Overview
 
-The Byd Song MAX is a MPV plug-in hybrid from BYD, with 132 kW of motor power. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $27,404 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 13.2 kWh/100km efficiency is strong for its 1,715 kg curb weight. It suits shuttle operators and large families.
+BYD Song Max is an MPV plug-in hybrid offered by BYD. It carries a 132 kW electric motor, a rated range of 105 km (CLTC), and 18 kWh of battery capacity. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with LFP (Blade) cells. The ex-factory price of $20,820 positions it as a value-focused import. On landed cost, Qatar offers the cheapest entry at about +25.1% over base (≈ $26,041 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

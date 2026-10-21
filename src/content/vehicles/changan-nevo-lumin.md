@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Lumin"
-description: "Changan Nevo Lumin is a hatchback from Changan Nevo, offering 130 km of CLTC range a 13.41 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the ..."
+description: "The Changan Nevo Lumin is a hatchback battery-electric from ChangAn NEVO, offering 130 km of CLTC range, 13 kWh of battery, 30 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-nevo-lumin"
 brand: "changan-nevo"
 type: "Hatchback"
@@ -57,8 +57,7 @@ Changan Nevo Lumin (starting at $5,300) is a Hatchback from CHANGAN NEVO.
 
 ## Overview
 
-Changan Nevo Lumin is a hatchback from Changan Nevo, offering 130 km of CLTC range a 13.41 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the ...
-
+Changan Nevo Lumin is a hatchback fully electric offered by ChangAn NEVO. It carries 130 km of CLTC range and peak output of 30 kW. Chassis details include LFP chemistry, plus RWD drivetrain. It is positioned as a budget import, priced from $5,300 ex-factory. Across export markets, Qatar offers the cheapest entry at about +83.9% over base (≈ $9,745 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for urban commuters and fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

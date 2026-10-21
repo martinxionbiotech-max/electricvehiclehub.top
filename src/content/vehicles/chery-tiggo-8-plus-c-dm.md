@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 8 Plus C DM"
-description: "Chery Tiggo 8 Plus C DM is a suv from Chery, and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Tiggo 8 Plus C DM is Chery's SUV plug-in hybrid electric, offering a CLTC-rated range of 130 km, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-tiggo-8-plus-c-dm"
 brand: "chery"
 type: "SUV"
@@ -37,8 +37,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,7 +53,7 @@ Chery Tiggo 8 PLUS C DM (starting at $18,300) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 8 PLUS C DM is a compact SUV plug-in hybrid from CHERY, with 150 kW of motor power. It is positioned as a value-focused import, priced from $18,300 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,626 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The Chery Tiggo 8 Plus C DM is an SUV plug-in hybrid from Chery. Specification highlights are 18 kWh of battery capacity and peak torque of 310 Nm. Chassis details include LFP cells, plus FWD drivetrain. The ex-factory price of $18,300 positions it as a value-segment import. For importers, the least-costly destination is Qatar, near +27.8% over base ($23,395 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

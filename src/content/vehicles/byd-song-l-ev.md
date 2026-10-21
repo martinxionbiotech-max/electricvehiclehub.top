@@ -1,6 +1,6 @@
 ---
 title: "BYD Song L EV"
-description: "BYD Song L EV is a suv from Byd, offering 550 km of CLTC range a 71.8 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "BYD Song L EV is an SUV battery-electric offered by BYD with a CLTC-rated range of 550 km, a 71 kWh battery, 150 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-song-l-ev"
 brand: "byd"
 type: "SUV"
@@ -59,7 +59,7 @@ Byd Song L EV (starting at $26,730) is a SUV from BYD.
 
 ## Overview
 
-The Byd Song L EV is a midsize SUV battery-electric from BYD, with 550 km of CLTC range, 150 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,730 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,920 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 14.9 kWh/100km efficiency is strong for its 2,158 kg curb weight. It suits family and executive buyers prioritizing space.
+BYD Song L EV is an SUV fully electric offered by BYD. It carries a top speed of 199 km/h and 71 kWh of battery capacity. The platform pairs a drag coefficient of 0.255 with LFP (Blade) chemistry. It is positioned as a mid-market import, priced from $26,730 ex-factory. For importers, Qatar offers the cheapest entry at about +20.6% over base (≈ $32,246 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. It suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

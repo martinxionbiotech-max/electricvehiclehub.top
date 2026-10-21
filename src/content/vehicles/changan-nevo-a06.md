@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A06"
-description: "Changan Nevo A06 is a suv from Changan Nevo, a 28.39 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Changan Nevo A06 is a sedan battery-electric from ChangAn NEVO, offering a CLTC-rated range of 630 km, 63 kWh of battery, 120 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-a06"
 brand: "changan-nevo"
 type: "Sedan"
@@ -56,7 +56,7 @@ Changan Nevo A06 (starting at $16,890) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo A06 is a midsize SUV battery-electric from CHANGAN-NEVO, with 120 kW of motor power. It is positioned as a value-focused import, priced from $16,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,071 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.6 kWh/100km efficiency is strong for its 1,800 kg curb weight. It suits family and executive buyers prioritizing space.
+Changan Nevo A06 is a sedan fully electric offered by ChangAn NEVO. It carries 190 Nm of torque, a 120 kW electric motor, and a top speed of 160 km/h. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP chemistry. Pricing starts at $16,890 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +29.7% over base (about $21,914 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

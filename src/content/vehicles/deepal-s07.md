@@ -1,6 +1,6 @@
 ---
 title: "Deepal S07"
-description: "Deepal S07 is a suv from Deepal, a 31.73 kWh battery and 190 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Deepal S07 is Deepal's SUV fully electric with 620 km of CLTC range, 79 kWh of battery, 190 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "deepal-s07"
 brand: "deepal"
 type: "SUV"
@@ -58,7 +58,7 @@ Deepal S07 (starting at $21,110) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal S07 is a compact SUV battery-electric from DEEPAL, with 190 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,110 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,724 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.4 kWh/100km efficiency is strong for its 1,970 kg curb weight. It suits families and fleet buyers who need practicality.
+The Deepal S07 is an SUV fully electric from Deepal. It carries a CLTC-rated range of 620 km and 0–100 km/h in 7.5 seconds. Chassis details include LFP cells, plus RWD / AWD drive. At an ex-factory price of $21,110, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,345 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

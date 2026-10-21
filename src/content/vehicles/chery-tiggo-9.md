@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 9"
-description: "Chery Tiggo 9 is a suv from Chery, a 18.67 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Chery Tiggo 9 is an SUV plug-in hybrid electric offered by Chery with 210 km of CLTC range, a 34 kWh battery, 165 kW peak output, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-tiggo-9"
 brand: "chery"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Chery Tiggo 9 (starting at $23,370) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 9 is a midsize SUV plug-in hybrid from CHERY, with 165 kW of motor power. It is positioned as a value-focused import, priced from $23,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,215 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.0 kWh/100km efficiency is strong for its 1,935 kg curb weight. It suits family and executive buyers prioritizing space.
+The Chery Tiggo 9 is Chery's SUV plug-in hybrid. It carries a 34 kWh battery and 390 Nm of torque. The platform pairs LFP / NMC chemistry with MacPherson strut front / Multi-link rear suspension. The ex-factory price of $23,370 positions it as a value-segment import. For importers, the least-costly destination is Qatar, near +22.9% over base ($28,718 landed), while Germany levies only the 10% standard tariff. It suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

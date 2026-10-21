@@ -1,6 +1,6 @@
 ---
 title: "Denza D9 DM-i"
-description: "Denza D9 DM-i is a MPV plug-in hybrid from Denza, offering 98 km of CLTC range a 20.39 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Denza D9 DM-i is Denza's MPV plug-in hybrid with a CLTC-rated range of 98 km, a 20 kWh battery, 170 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "denza-d9-dm-i"
 brand: "denza"
 type: "MPV"
@@ -36,8 +36,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "DM-i 尊贵型 / 旗舰型"
 brakes: "Front ventilated disc / rear disc"
@@ -56,8 +56,7 @@ Denza D9 DM-i (starting at $47,190) is a MPV from DENZA.
 
 ## Overview
 
-The Denza D9 DM-i is a mpv plug-in hybrid from Denza, with 170 kW of motor power, a 9.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $47,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $56,476 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Denza D9 DM-i is Denza's MPV plug-in hybrid electric. Specification highlights are peak output of 170 kW and a CLTC-rated range of 98 km. The platform pairs FWD / AWD drive with LFP (Blade) cells. It is positioned as a premium import, priced from $47,190 ex-factory. For importers, the least-costly destination is Qatar, near +13.9% over base ($53,729 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits premium-tier importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

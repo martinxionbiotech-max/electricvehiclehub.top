@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Plus"
-description: "The Song Plus is a compact SUV that has quietly become one of BYD's biggest export drivers, and for good reason. A 160 kW electric motor moves a 4,775 mm five-s"
+description: "The BYD Song Plus is BYD's SUV fully electric with a CLTC-rated range of 605 km, 87 kWh of battery, 160 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-song-plus"
 brand: "byd"
 type: "SUV"
@@ -59,7 +59,7 @@ BYD Song Plus (starting at $19,130) is a SUV from BYD.
 
 ## Overview
 
-The BYD Song Plus is a compact SUV battery-electric from BYD, with 160 kW of motor power, a 7.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,130 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $25,541 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 13.2 kWh/100km efficiency is strong for its 1,785 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
+The BYD Song Plus is an SUV battery-electric from BYD. It carries 260 Nm of torque and 180 km/h top speed. The platform pairs LFP (Blade) chemistry with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $19,130 positions it as a value-focused import. Across export markets, the lowest landed premium is Qatar at roughly +26.9% over base (about $24,266 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
