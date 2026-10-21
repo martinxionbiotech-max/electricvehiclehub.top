@@ -46,7 +46,7 @@ IM LS8 (starting at $34,690) is a SUV from IM.
 
 ## Overview
 
-The IM LS8 is an SUV range-extended electric from IM. Chassis details include NMC (CATL) chemistry, plus Double wishbone front / Multi-link (air) rear suspension. The ex-factory price of $34,690 positions it as a mid-market import. For importers, Qatar offers the cheapest entry at about +17% over base (≈ $40,604 landed) — Germany levies only the 10% standard tariff. This positions it for family and fleet buyers needing practical space.
+IM LS8 is an SUV range-extended electric from IM, in dual-motor all-wheel-drive form. Across export markets for the SUV range-extended electric, Germany levies only the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +17% over base (≈ $40,604 landed). Key figures are NMC (CATL) chemistry and Double wishbone front / Multi-link (air) rear suspension. With a $34,690 ex-factory price, the SUV range-extended electric reads as mid-market. In the SUV range-extended electric segment, it serves importers targeting the family-SUV segment balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

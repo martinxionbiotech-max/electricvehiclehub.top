@@ -53,7 +53,7 @@ Changan Nevo Lamore (starting at $11,110) is a Sedan from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Lamore is a sedan petrol from ChangAn. Specification highlights are a top speed of 185 km/h and a 7.9-second 0–100 km/h time. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with FWD drive. At an ex-factory price of $11,110, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +42.6% over base (≈ $15,845 landed) — Germany levies only the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
+The Changan Lamore is a front-wheel-drive petrol sedan from ChangAn. It carries 330 Nm of torque and a MacPherson strut front / Torsion beam rear suspension layout. Across export markets for the sedan petrol, the lowest landed premium is Qatar at roughly +42.6% over base (about $15,845 landed); Germany levies only the 10% standard tariff. Priced from $11,110 ex-factory, the sedan petrol falls in the entry-level tier. For the sedan petrol buyer, it suits executive and corporate fleet buyers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

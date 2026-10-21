@@ -1,6 +1,6 @@
 ---
 title: "JAC iC5"
-description: "JAC iC5 is a sedan fully electric offered by JAC, offering 530 km of CLTC range, a 64 kWh battery, 142 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "JAC's JAC iC5 is a sedan fully electric, offering 530 km of CLTC range, a 64 kWh battery, 142 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "jac-ic5"
 brand: "jac"
 type: "Sedan"
@@ -54,7 +54,7 @@ JAC iC5 (starting at $20,820) is a Sedan from JAC.
 
 ## Overview
 
-JAC iC5 is a sedan battery-electric offered by JAC. It carries a rated range of 530 km (CLTC), a 64 kWh battery, and 0–100 km/h in 7.6 seconds. The platform pairs FWD drive with a MacPherson strut front / Torsion beam rear suspension setup. At an ex-factory price of $20,820, it sits in the value segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +25.1% over base (about $26,041 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits private buyers and ride-hailing operators.
+JAC's JAC iC5 is a front-wheel-drive battery-electric sedan. Key figures are a MacPherson strut front / Torsion beam rear suspension layout, 64 kWh of capacity, and a 7.6-second 0–100 km/h time. Across export markets for the sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +25.1% over base (≈ $26,041 landed). Priced from $20,820 ex-factory, the sedan battery-electric falls in the value-oriented tier. As a sedan battery-electric, it is aimed at importers serving the sedan segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Kaiyi Shiyue Max"
-description: "The Kaiyi Shiyue Max is Cowin's hatchback fully electric with a CLTC-rated range of 310 km, 28 kWh of battery, 55 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Cowin's Kaiyi Shiyue Max is a hatchback fully electric with a CLTC-rated range of 310 km, 28 kWh of battery, 55 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "cowin-shiyue"
 brand: "cowin"
 type: "Hatchback"
@@ -54,7 +54,7 @@ Kaiyi Shiyue Max (starting at $6,650) is a Hatchback from COWIN.
 
 ## Overview
 
-Cowin's Kaiyi Shiyue Max is a hatchback fully electric. It carries peak torque of 106 Nm and 100 km/h top speed. Chassis details include FWD drivetrain, plus LFP cells. The ex-factory price of $6,650 positions it as an entry-level import. For importers, the least-costly destination is Qatar, near +67.9% over base ($11,162 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers targeting urban runabout demand.
+The Kaiyi Shiyue Max is a front-wheel-drive fully electric hatchback from Cowin. Key figures are a 55 kW electric motor, a top speed of 100 km/h, and 28 kWh of capacity. Across export markets for the hatchback fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +67.9% over base ($11,162 landed). This hatchback fully electric is positioned as an entry-level import, from $6,650 ex-factory. For the hatchback fully electric buyer, it suits importers targeting urban runabout demand watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

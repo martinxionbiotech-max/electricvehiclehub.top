@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin L DM-i"
-description: "BYD Qin L DM-i is a sedan plug-in hybrid electric offered by BYD, offering a CLTC-rated range of 80 km, 10 kWh of battery, 120 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Qin L DM-i, a sedan plug-in hybrid electric from BYD with a CLTC-rated range of 80 km, 10 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-qin-l-dm-i"
 brand: "byd"
 type: "Sedan"
@@ -56,7 +56,7 @@ BYD Qin L DM-i (starting at $13,860) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Qin L DM-i is a sedan plug-in hybrid electric from BYD. Specification highlights are 180 km/h top speed and peak output of 120 kW. Chassis details include FWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as an entry-level import, priced from $13,860 ex-factory. For importers, the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits private buyers and ride-hailing operators.
+BYD's BYD Qin L DM-i is a front-wheel-drive plug-in hybrid sedan. This sedan plug-in hybrid is positioned as an entry-level import, from $13,860 ex-factory. For the sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty, while Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed). It carries 0–100 km/h in 7.9 seconds and 80 km of CLTC range. For the sedan plug-in hybrid buyer, it suits executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

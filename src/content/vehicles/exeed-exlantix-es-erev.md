@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ES EREV"
-description: "Exeed Exlantix ES EREV is a sedan extended-range electric offered by Exeed, offering 255 km of CLTC range, 32 kWh of battery, 195 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Exeed's Exeed Exlantix ES EREV is a sedan extended-range electric, offering a CLTC-rated range of 255 km, a 32 kWh battery, 195 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "exeed-exlantix-es-erev"
 brand: "exeed"
 type: "Sedan"
@@ -54,7 +54,7 @@ Exeed Exlantix ES EREV (starting at $21,220) is a Sedan from EXEED.
 
 ## Overview
 
-The Exeed Exlantix ES EREV is Exeed's sedan extended-range electric. Specification highlights are 324 Nm of torque, a 195 kW electric motor, and 0–100 km/h in 7.6 seconds. The platform pairs LFP cells with RWD drive. At an ex-factory price of $21,220, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +24.7% over base ($26,461 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for business fleets and long-distance commuters.
+The Exeed Exlantix ES EREV is a rear-wheel-drive extended-range electric sedan from Exeed. This sedan extended-range electric is positioned as a value-segment import, from $21,220 ex-factory. It carries 324 Nm of torque and Double wishbone front / Multi-link rear suspension. On landed cost for this sedan extended-range electric, Germany levies only the 10% standard tariff, while Qatar offers the cheapest entry at about +24.7% over base (≈ $26,461 landed). For the sedan extended-range electric buyer, it suits private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

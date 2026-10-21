@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 7 MAX"
-description: "Geely Galaxy Starshine 7 MAX is a sedan plug-in hybrid electric offered by Geely Galaxy, offering a CLTC-rated range of 220 km and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Galaxy Starshine 7 MAX is Geely Galaxy's sedan plug-in hybrid electric, offering a CLTC-rated range of 220 km and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-starshine-7"
 brand: "geely-galaxy"
 type: "Sedan"
@@ -46,7 +46,7 @@ Geely Galaxy Starshine 7 MAX (starting at $13,720) is a Sedan from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy Starshine 7 MAX is a sedan plug-in hybrid electric offered by Geely Galaxy. Its specification includes a CLTC-rated range of 220 km. Chassis details include LFP chemistry, plus MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $13,720, it sits in the entry-level segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +35.5% over base (≈ $18,586 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits price-sensitive importers.
+Geely Galaxy Starshine 7 MAX is a sedan plug-in hybrid from Geely Galaxy, in front-wheel-drive form. Specification highlights are LFP chemistry and a CLTC-rated range of 220 km. For the sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +35.5% over base (≈ $18,586 landed). Priced from $13,720 ex-factory, the sedan plug-in hybrid falls in the entry-level tier. As a sedan plug-in hybrid, it is aimed at executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor E9"
-description: "The GAC Motor E9 is an SUV plug-in hybrid from GAC Motor with a CLTC-rated range of 106 km, 25 kWh of battery, and 134 kW of motor power. Landed-cost analysis across 30 key export markets for importers."
+description: "GAC Motor's GAC Motor E9 is an SUV plug-in hybrid with a CLTC-rated range of 106 km, 25 kWh of battery, and 134 kW of motor power. Landed-cost analysis across 30 key export markets for importers."
 slug: "gac-motor-e9"
 brand: "gac-motor"
 type: "SUV"
@@ -55,7 +55,7 @@ Gac Motor E9 (starting at $45,460) is a SUV from GAC MOTOR.
 
 ## Overview
 
-GAC Motor E9 is an SUV plug-in hybrid electric offered by GAC Motor. It carries 0–100 km/h in 8.8 seconds, 25 kWh of battery capacity, and 175 km/h top speed. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drive. At an ex-factory price of $45,460, it sits in the premium segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +14.2% over base (≈ $51,913 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+GAC Motor's GAC Motor E9 is an front-wheel-drive plug-in hybrid electric SUV. Specification highlights are peak torque of 300 Nm and 175 km/h top speed. At $45,460 ex-factory, this SUV plug-in hybrid electric sits in the premium segment. For the SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; the least-costly destination is Qatar, near +14.2% over base ($51,913 landed). In the SUV plug-in hybrid electric segment, it serves importers targeting the family-SUV segment focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

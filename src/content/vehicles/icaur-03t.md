@@ -1,6 +1,6 @@
 ---
 title: "iCAR 03T"
-description: "iCAR 03T is an SUV battery-electric offered by iCAUR with LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The iCAR 03T, an SUV battery-electric from iCAUR with LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "icaur-03t"
 brand: "icaur"
 type: "SUV"
@@ -45,7 +45,7 @@ iCAR 03T (starting at $19,420) is a SUV from ICAUR.
 
 ## Overview
 
-The iCAR 03T is an SUV fully electric from iCAUR. The platform pairs RWD drive with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $19,420 ex-factory. On landed cost, the least-costly destination is Qatar, near +26.5% over base ($24,571 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+The iCAR 03T is an rear-wheel-drive fully electric SUV from iCAUR. Key figures are MacPherson strut front / Multi-link rear suspension and LFP chemistry. For this SUV fully electric, the least-costly destination is Qatar, near +26.5% over base ($24,571 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. With a $19,420 ex-factory price, the SUV fully electric reads as value. This SUV fully electric is positioned for family and fleet buyers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -57,7 +57,7 @@ Fangchengbao TI 7 (starting at $25,320) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-The Fangchengbao TI 7 is an SUV plug-in hybrid electric from Fangchengbao. It carries a 200 kW electric motor and a top speed of 190 km/h. Chassis details include LFP (Blade) cells, plus a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $25,320 ex-factory. On landed cost, the least-costly destination is Qatar, near +21.5% over base ($30,766 landed); meanwhile, Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
+Fangchengbao's Fangchengbao TI 7 is an dual-motor all-wheel-drive plug-in hybrid electric SUV. At $25,320 ex-factory, this SUV plug-in hybrid electric sits in the mid-market segment. Specification highlights are LFP (Blade) chemistry, 315 Nm of torque, and 26 kWh of capacity. On landed cost for this SUV plug-in hybrid electric, Germany levies only the 10% standard tariff; the least-costly destination is Qatar, near +21.5% over base ($30,766 landed). This SUV plug-in hybrid electric is positioned for families and commercial fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

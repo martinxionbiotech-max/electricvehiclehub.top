@@ -1,6 +1,6 @@
 ---
 title: "Deepal G318"
-description: "Deepal G318 is an SUV range-extended electric offered by Deepal, offering a CLTC-rated range of 190 km, a 35 kWh battery, 185 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Deepal G318, an SUV range-extended electric from Deepal with 190 km of CLTC range, a 35 kWh battery, 185 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "deepal-g318"
 brand: "deepal"
 type: "SUV"
@@ -56,7 +56,7 @@ Deepal G318 (starting at $26,180) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal G318 is Deepal's SUV range-extended electric. Specification highlights are 0–100 km/h in 8.6 seconds and 175 km/h top speed. Chassis details include LFP chemistry, plus a Double wishbone front / Multi-link rear suspension setup. At an ex-factory price of $26,180, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +21% over base (≈ $31,669 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits private buyers and fleet managers.
+Deepal G318 is an SUV extended-range electric from Deepal, in rear-wheel-drive form. For the SUV extended-range electric, Germany levies only the 10% standard tariff — the least-costly destination is Qatar, near +21% over base ($31,669 landed). Key figures are 35 kWh of capacity and a Double wishbone front / Multi-link rear suspension layout. As a mid-tier SUV extended-range electric, it starts at $26,180 ex-factory. The SUV extended-range electric profile suits family and fleet buyers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

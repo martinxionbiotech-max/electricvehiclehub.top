@@ -1,6 +1,6 @@
 ---
 title: "Kaiyi Kunlun iHD"
-description: "Cowin's Kaiyi Kunlun iHD is an SUV plug-in hybrid electric, offering 150 kW peak output and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Kaiyi Kunlun iHD is Cowin's SUV plug-in hybrid electric, offering 150 kW peak output and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "cowin-kunlun-ihd"
 brand: "cowin"
 type: "SUV"
@@ -47,7 +47,7 @@ Kaiyi Kunlun iHD (starting at $22,210) is a SUV from COWIN.
 
 ## Overview
 
-Cowin's Kaiyi Kunlun iHD is an SUV plug-in hybrid electric. Its specification includes peak output of 150 kW. Chassis details include FWD drivetrain, plus LFP cells. The ex-factory price of $22,210 positions it as a value-focused import. Across export markets, the lowest landed premium is Qatar at roughly +23.8% over base (about $27,500 landed) — Germany levies only the 10% standard tariff. It suits family and fleet buyers needing practical space.
+Kaiyi Kunlun iHD is an SUV plug-in hybrid electric from Cowin, in front-wheel-drive form. With a $22,210 ex-factory price, the SUV plug-in hybrid electric reads as mainstream-value. It carries peak output of 150 kW and MacPherson strut front / Multi-link rear suspension. Across export markets for the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +23.8% over base ($27,500 landed). For the SUV plug-in hybrid electric buyer, it suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

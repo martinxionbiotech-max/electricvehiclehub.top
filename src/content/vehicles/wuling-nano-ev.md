@@ -1,6 +1,6 @@
 ---
 title: "Wuling Nano EV"
-description: "The Wuling Nano EV is a hatchback fully electric from Wuling, offering 305 km of CLTC range, 28 kWh of battery, 24 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Wuling's Wuling Nano EV is a hatchback fully electric, offering 305 km of CLTC range, 28 kWh of battery, 24 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "wuling-nano-ev"
 brand: "wuling"
 type: "Hatchback"
@@ -54,7 +54,7 @@ Wuling Nano EV (starting at $8,560) is a Hatchback from WULING.
 
 ## Overview
 
-The Wuling Nano EV is Wuling's hatchback battery-electric. Specification highlights are a CLTC-rated range of 305 km and 28 kWh of battery capacity. The platform pairs LFP cells with MacPherson strut front / Torsion beam rear suspension. Pricing starts at $8,560 ex-factory, placing it in the entry-level tier. Across export markets, the lowest landed premium is Qatar at roughly +53.8% over base (about $13,168 landed); meanwhile, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for city-focused buyers and delivery fleets.
+The Wuling Nano EV is a hatchback battery-electric with rear-wheel-drive from Wuling. With a $8,560 ex-factory price, the hatchback battery-electric reads as budget. Specification highlights are LFP chemistry, a 24 kW electric motor, and peak torque of 85 Nm. For the hatchback battery-electric, the least-costly destination is Qatar, near +53.8% over base ($13,168 landed); Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. As a hatchback battery-electric, it is aimed at urban commuters and fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai T5"
-description: "The Forthing Xinghai T5 is an SUV fully electric from Forthing with a CLTC-rated range of 530 km, a 64 kWh battery, 120 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Forthing's Forthing Xinghai T5 is an SUV fully electric with a CLTC-rated range of 530 km, a 64 kWh battery, 120 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "forthing-xinghai-t5"
 brand: "forthing"
 type: "SUV"
@@ -55,7 +55,7 @@ Forthing Xinghai T5 (starting at $21,380) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai T5 is Forthing's SUV fully electric. It carries 530 km of CLTC range and a 120 kW electric motor. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP chemistry. It is positioned as a mainstream-value import, priced from $21,380 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +24.6% over base (about $26,629 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits family and fleet buyers needing practical space.
+Forthing Xinghai T5 is an SUV fully electric from Forthing, in front-wheel-drive form. As a value-oriented SUV fully electric, it starts at $21,380 ex-factory. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +24.6% over base ($26,629 landed). Specification highlights are 160 km/h top speed and LFP cells. In the SUV fully electric segment, it serves regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

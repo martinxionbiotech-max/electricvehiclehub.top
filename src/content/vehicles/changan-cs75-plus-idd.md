@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs75 Plus IDD"
-description: "Changan Cs75 Plus IDD is an SUV plug-in hybrid offered by ChangAn with a CLTC-rated range of 150 km, a 28 kWh battery, 110 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Cs75 Plus IDD, an SUV plug-in hybrid from ChangAn with 150 km of CLTC range, 28 kWh of battery, 110 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "changan-cs75-plus-idd"
 brand: "changan"
 type: "SUV"
@@ -55,7 +55,7 @@ Changan Cs75 PLUS IDD (starting at $23,930) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan Cs75 Plus IDD is an SUV plug-in hybrid electric offered by ChangAn. Specification highlights are a 110 kW electric motor and a top speed of 230 km/h. The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $23,930 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,306 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+The Changan Cs75 Plus IDD is an front-wheel-drive plug-in hybrid electric SUV from ChangAn. It carries a CLTC-rated range of 150 km, 0–100 km/h in 7.1 seconds, and peak output of 110 kW. This SUV plug-in hybrid electric is positioned as a value-focused import, from $23,930 ex-factory. For the SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,306 landed) — Germany levies only the 10% standard tariff. For the SUV plug-in hybrid electric buyer, it suits importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

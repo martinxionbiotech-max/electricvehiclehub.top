@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3L"
-description: "The Chery Fulwin X3L is an SUV extended-range electric from Chery Fulwin with 215 km of CLTC range, a 33 kWh battery, 185 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery Fulwin's Chery Fulwin X3L is an SUV extended-range electric with 215 km of CLTC range, a 33 kWh battery, 185 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-fulwin-x3l"
 brand: "chery-fulwin"
 type: "SUV"
@@ -54,7 +54,7 @@ Chery Fulwin X3L (starting at $16,890) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin X3L is Chery Fulwin's SUV extended-range electric. Specification highlights are 215 km of CLTC range and peak output of 185 kW. Chassis details include FWD drive, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $16,890, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed) — Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
+Chery Fulwin X3L is an SUV extended-range electric from Chery Fulwin, in front-wheel-drive form. It carries LFP cells, a CLTC-rated range of 215 km, and 170 km/h top speed. This SUV extended-range electric is positioned as a value-focused import, from $16,890 ex-factory. On landed cost for this SUV extended-range electric, the least-costly destination is Qatar, near +29.7% over base ($21,914 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The SUV extended-range electric profile suits family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

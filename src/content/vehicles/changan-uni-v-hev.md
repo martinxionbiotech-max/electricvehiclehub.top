@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI-V HEV"
-description: "The Changan UNI-V HEV is a sedan non-plug-in hybrid from ChangAn, offering 1 kWh of battery, 180 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "ChangAn's Changan UNI-V HEV is a sedan non-plug-in hybrid, offering 1 kWh of battery, 180 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-uni-v-hev"
 brand: "changan"
 type: "Sedan"
@@ -51,7 +51,7 @@ Changan UNI-V HEV (starting at $15,260) is a Sedan from CHANGAN.
 
 ## Overview
 
-The Changan UNI-V HEV is ChangAn's sedan hybrid. Specification highlights are a 180 kW electric motor and a 6.98-second 0–100 km/h time. Chassis details include NMC (ternary) chemistry, plus MacPherson strut front / Multi-link rear suspension. Pricing starts at $15,260 ex-factory, placing it in the value tier. On landed cost, the lowest landed premium is Qatar at roughly +32.4% over base (about $20,203 landed) — Germany levies only the 10% standard tariff. This positions it for private buyers and ride-hailing operators.
+ChangAn's Changan UNI-V HEV is a front-wheel-drive hybrid sedan. This sedan hybrid is positioned as a mainstream-value import, from $15,260 ex-factory. Key figures are a 6.98-second 0–100 km/h time, NMC (ternary) chemistry, and a 1 kWh battery. For this sedan hybrid, Qatar offers the cheapest entry at about +32.4% over base (≈ $20,203 landed); Germany levies only the 10% standard tariff. This sedan hybrid is positioned for private buyers and ride-hailing operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

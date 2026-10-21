@@ -54,7 +54,7 @@ Lynk Co 02 (starting at $16,870) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk Co 02 is an SUV battery-electric from Lynk & Co. Specification highlights are 0–100 km/h in 8.9 seconds and a CLTC-rated range of 530 km. Chassis details include LFP (CATL) cells, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $16,870 ex-factory, placing it in the value tier. On landed cost, the least-costly destination is Qatar, near +29.8% over base ($21,893 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits families and commercial fleet operators.
+The Lynk Co 02 is an front-wheel-drive battery-electric SUV from Lynk & Co. At $16,870 ex-factory, this SUV battery-electric sits in the value segment. Key figures are 0–100 km/h in 8.9 seconds, a CLTC-rated range of 530 km, and a 61 kWh battery. On landed cost for this SUV battery-electric, Qatar offers the cheapest entry at about +29.8% over base (≈ $21,893 landed); Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. The SUV battery-electric profile suits regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

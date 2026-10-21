@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Max EV"
-description: "BYD Qin Max EV is a sedan fully electric offered by BYD, offering 240 kW of motor power and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Qin Max EV is a sedan fully electric from BYD, offering 240 kW peak output and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-qin-max-ev"
 brand: "byd"
 type: "Sedan"
@@ -49,7 +49,7 @@ BYD Qin Max EV (starting at $13,880) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Qin Max EV is BYD's sedan fully electric. Specification highlights are 0–100 km/h in 5.9 seconds and a 240 kW electric motor. The platform pairs LFP (Blade) chemistry with FWD drivetrain. At an ex-factory price of $13,880, it sits in the entry-level segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +35.1% over base (≈ $18,754 landed); meanwhile, Germany's estimate carries a 17% countervailing duty over the 10% base tariff. This positions it for price-sensitive importers.
+BYD's BYD Qin Max EV is a front-wheel-drive fully electric sedan. At $13,880 ex-factory, this sedan fully electric sits in the budget segment. On landed cost for this sedan fully electric, Germany's estimate carries a 17% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +35.1% over base (about $18,754 landed). Specification highlights are a 240 kW electric motor and a MacPherson strut front / Torsion beam rear suspension layout. In the sedan fully electric segment, it serves private buyers and ride-hailing operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

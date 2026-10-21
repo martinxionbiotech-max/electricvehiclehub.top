@@ -51,7 +51,7 @@ Changan CS55 PLUS HEV (starting at $13,740) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan CS55 PLUS HEV is an SUV hybrid offered by ChangAn. Specification highlights are a 7.8-second 0–100 km/h time, 1 kWh of battery capacity, and a 180 kW electric motor. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. The ex-factory price of $13,740 positions it as an entry-level import. On landed cost, the least-costly destination is Qatar, near +35.4% over base ($18,607 landed); meanwhile, Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
+ChangAn's Changan CS55 PLUS HEV is an front-wheel-drive hybrid SUV. Specification highlights are a 180 kW electric motor, a 7.8-second 0–100 km/h time, and a MacPherson strut front / Multi-link rear suspension layout. With a $13,740 ex-factory price, the SUV hybrid reads as affordable-end. On landed cost for this SUV hybrid, Qatar offers the cheapest entry at about +35.4% over base (≈ $18,607 landed), while Germany levies only the 10% standard tariff. For the SUV hybrid buyer, it suits private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

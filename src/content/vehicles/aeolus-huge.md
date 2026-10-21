@@ -1,6 +1,6 @@
 ---
 title: "Aeolus Huge"
-description: "Aeolus Huge is an SUV hybrid offered by Aeolus, offering 1 kWh of battery, 130 kW of motor power, and NMC (Li-ion) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aeolus Huge, an SUV hybrid from Aeolus, offering a 1 kWh battery, 130 kW of motor power, and NMC (Li-ion) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aeolus-huge"
 brand: "aeolus"
 type: "SUV"
@@ -50,7 +50,7 @@ Aeolus Huge (starting at $19,700) is a SUV from AEOLUS.
 
 ## Overview
 
-Aeolus Huge is an SUV non-plug-in hybrid offered by Aeolus. Specification highlights are peak output of 130 kW and a 1 kWh battery. Chassis details include NMC (Li-ion) chemistry, plus MacPherson strut front / Multi-link rear suspension. The ex-factory price of $19,700 positions it as a value-focused import. For importers, Qatar offers the cheapest entry at about +26.2% over base (≈ $24,865 landed) — Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Aeolus Huge is an SUV non-plug-in hybrid with front-wheel-drive from Aeolus. On landed cost for this SUV non-plug-in hybrid, the lowest landed premium is Qatar at roughly +26.2% over base (about $24,865 landed) — Germany applies the 10% standard tariff with no countervailing duty. Specification highlights are NMC (Li-ion) cells and 1 kWh of capacity. As a mainstream-value SUV non-plug-in hybrid, it starts at $19,700 ex-factory. The SUV non-plug-in hybrid profile suits private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

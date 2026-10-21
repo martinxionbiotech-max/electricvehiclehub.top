@@ -1,6 +1,6 @@
 ---
 title: "Neta V"
-description: "The Neta V is an SUV fully electric from Neta with 301 km of CLTC range, a 35 kWh battery, 55 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Neta's Neta V is an SUV fully electric with 301 km of CLTC range, a 35 kWh battery, 55 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "neta-v"
 brand: "neta"
 type: "SUV"
@@ -52,7 +52,7 @@ Neta V (starting at $8,320) is a SUV from NETA.
 
 ## Overview
 
-Neta V is an SUV fully electric offered by Neta. It carries 175 Nm of torque and a 35 kWh battery. Chassis details include FWD drivetrain, plus a MacPherson strut front / Torsion beam rear suspension setup. Pricing starts at $8,320 ex-factory, placing it in the entry-level tier. Across export markets, Qatar offers the cheapest entry at about +55.2% over base (≈ $12,916 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits regional distributors serving family and logistics demand.
+The Neta V is an front-wheel-drive fully electric SUV from Neta. On landed cost for this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the least-costly destination is Qatar, near +55.2% over base ($12,916 landed). The $8,320 ex-factory price places this SUV fully electric in the affordable-end band. It carries a 35 kWh battery, a CLTC-rated range of 301 km, and a MacPherson strut front / Torsion beam rear suspension layout. The SUV fully electric profile suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

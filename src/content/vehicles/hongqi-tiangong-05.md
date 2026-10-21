@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Tiangong 05"
-description: "The Hongqi Tiangong 05 is Hongqi's sedan battery-electric, offering a CLTC-rated range of 550 km, 62 kWh of battery, 210 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hongqi Tiangong 05, a sedan battery-electric from Hongqi, offering a CLTC-rated range of 550 km, 62 kWh of battery, 210 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-tiangong-05"
 brand: "hongqi"
 type: "Sedan"
@@ -56,7 +56,7 @@ Hongqi Tiangong 05 (starting at $22,190) is a Sedan from HONGQI.
 
 ## Overview
 
-Hongqi Tiangong 05 is a sedan fully electric offered by Hongqi. Specification highlights are peak output of 210 kW and 317 Nm of torque. The platform pairs RWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $22,190, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +23.8% over base (≈ $27,479 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for importers serving the executive-sedan segment.
+The Hongqi Tiangong 05 is a rear-wheel-drive fully electric sedan from Hongqi. It carries a MacPherson strut front / Multi-link rear suspension layout, LFP chemistry, and 317 Nm of torque. Across export markets for the sedan fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +23.8% over base ($27,479 landed). At $22,190 ex-factory, this sedan fully electric sits in the mainstream-value segment. This sedan fully electric is positioned for importers serving the sedan segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

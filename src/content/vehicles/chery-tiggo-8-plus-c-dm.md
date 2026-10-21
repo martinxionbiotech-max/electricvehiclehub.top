@@ -53,7 +53,7 @@ Chery Tiggo 8 PLUS C DM (starting at $18,300) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 8 Plus C DM is an SUV plug-in hybrid from Chery. Specification highlights are 18 kWh of battery capacity and peak torque of 310 Nm. Chassis details include LFP cells, plus FWD drivetrain. The ex-factory price of $18,300 positions it as a value-segment import. For importers, the least-costly destination is Qatar, near +27.8% over base ($23,395 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
+Chery's Chery Tiggo 8 Plus C DM is an front-wheel-drive plug-in hybrid SUV. The $18,300 ex-factory price places this SUV plug-in hybrid in the value band. Specification highlights are 18 kWh of capacity and a top speed of 175 km/h. For this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +27.8% over base ($23,395 landed). This SUV plug-in hybrid is positioned for private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

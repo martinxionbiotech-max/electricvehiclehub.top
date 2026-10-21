@@ -1,6 +1,6 @@
 ---
 title: "Geometry E"
-description: "Geometry E is an SUV fully electric offered by Geometry, offering 33 kWh of battery, 60 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geometry E, an SUV fully electric from Geometry, offering a 33 kWh battery, 60 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geometry-e"
 brand: "geometry"
 type: "SUV"
@@ -51,7 +51,7 @@ Geometry E (starting at $12,060) is a SUV from GEOMETRY.
 
 ## Overview
 
-The Geometry E is an SUV battery-electric from Geometry. It carries 33 kWh of battery capacity and a top speed of 121 km/h. The platform pairs MacPherson strut front / Torsion beam rear suspension with FWD drivetrain. The ex-factory price of $12,060 positions it as an entry-level import. For importers, the least-costly destination is Qatar, near +39.7% over base ($16,843 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Geometry E is an SUV battery-electric with front-wheel-drive from Geometry. For the SUV battery-electric, the lowest landed premium is Qatar at roughly +39.7% over base (about $16,843 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. As a budget SUV battery-electric, it starts at $12,060 ex-factory. It carries peak torque of 130 Nm and LFP chemistry. This SUV battery-electric is positioned for private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng E PI Nammi 06"
-description: "Dongfeng eπ's Dongfeng E PI Nammi 06 is an SUV battery-electric, offering 401 km of CLTC range, 44 kWh of battery, 135 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Dongfeng E PI Nammi 06 is Dongfeng eπ's SUV battery-electric, offering 401 km of CLTC range, 44 kWh of battery, 135 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "dongfeng-epi-nammi-06"
 brand: "dongfeng-e"
 type: "SUV"
@@ -57,7 +57,7 @@ Dongfeng E PI Nammi 06 (starting at $12,660) is a SUV from DONGFENG E.
 
 ## Overview
 
-Dongfeng eπ's Dongfeng E PI Nammi 06 is an SUV battery-electric. Specification highlights are 290 Nm of torque and a top speed of 150 km/h. The platform pairs FWD drivetrain with LFP cells. At an ex-factory price of $12,660, it sits in the entry-level segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +38% over base (about $17,473 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+Dongfeng E PI Nammi 06 is an SUV battery-electric from Dongfeng eπ, in front-wheel-drive form. Priced from $12,660 ex-factory, the SUV battery-electric falls in the budget tier. Key figures are a CLTC-rated range of 401 km, 150 km/h top speed, and a 3.6-second 0–100 km/h time. For the SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +38% over base ($17,473 landed). This SUV battery-electric is positioned for private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

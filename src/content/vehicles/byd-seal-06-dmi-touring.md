@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 DM-i Touring"
-description: "The BYD Seal 06 DM-i Touring is BYD's sedan plug-in hybrid, offering 150 km of CLTC range, a 18 kWh battery, 120 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Seal 06 DM-i Touring, a sedan plug-in hybrid from BYD, offering 150 km of CLTC range, a 18 kWh battery, 120 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-seal-06-dmi-touring"
 brand: "byd"
 type: "Sedan"
@@ -56,7 +56,7 @@ Byd Seal 06 DMI Touring (starting at $15,460) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Seal 06 DM-i Touring is BYD's sedan plug-in hybrid. Specification highlights are peak torque of 210 Nm and 0–100 km/h in 8.7 seconds. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drive. It is positioned as a mainstream-value import, priced from $15,460 ex-factory. Across export markets, the least-costly destination is Qatar, near +32% over base ($20,413 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for executive and corporate fleet buyers.
+The BYD Seal 06 DM-i Touring is a sedan plug-in hybrid with front-wheel-drive from BYD. As a value-oriented sedan plug-in hybrid, it starts at $15,460 ex-factory. For the sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty — the least-costly destination is Qatar, near +32% over base ($20,413 landed). It carries a MacPherson strut front / Multi-link rear suspension layout and 150 km of CLTC range. The sedan plug-in hybrid profile suits business fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

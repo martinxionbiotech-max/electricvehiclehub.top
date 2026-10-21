@@ -52,7 +52,7 @@ Leapmotor C01 EREV (starting at $20,250) is a Sedan from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C01 EREV is a sedan range-extended electric from Leapmotor. Specification highlights are a CLTC-rated range of 216 km, peak output of 200 kW, and 360 Nm of torque. The platform pairs Double wishbone front / Five-link rear suspension with RWD drivetrain. It is positioned as a value-segment import, priced from $20,250 ex-factory. Across export markets, the least-costly destination is Qatar, near +25.6% over base ($25,442 landed); meanwhile, Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
+The Leapmotor C01 EREV is a rear-wheel-drive range-extended electric sedan from Leapmotor. Key figures are peak output of 200 kW, peak torque of 360 Nm, and LFP chemistry. For this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; the least-costly destination is Qatar, near +25.6% over base ($25,442 landed). The $20,250 ex-factory price places this sedan range-extended electric in the value band. As a sedan range-extended electric, it is aimed at business fleets prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

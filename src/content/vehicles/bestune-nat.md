@@ -1,6 +1,6 @@
 ---
 title: "Bestune NAT"
-description: "The Bestune NAT is Bestune's SUV battery-electric with 425 km of CLTC range, a 54 kWh battery, 120 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Bestune NAT, an SUV battery-electric from Bestune with 425 km of CLTC range, a 54 kWh battery, 120 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "bestune-nat"
 brand: "bestune"
 type: "SUV"
@@ -57,7 +57,7 @@ Bestune NAT (starting at $19,690) is a SUV from BESTUNE.
 
 ## Overview
 
-Bestune NAT is an SUV battery-electric offered by Bestune. It carries a 120 kW electric motor and a 10.21-second 0–100 km/h time. The platform pairs FWD drivetrain with MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $19,690 positions it as a value-segment import. On landed cost, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits regional distributors serving family and logistics demand.
+Bestune's Bestune NAT is an front-wheel-drive battery-electric SUV. Priced from $19,690 ex-factory, the SUV battery-electric falls in the mainstream-value tier. It carries 54 kWh of capacity and a 10.21-second 0–100 km/h time. For this SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +26.2% over base ($24,854 landed). In the SUV battery-electric segment, it serves regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

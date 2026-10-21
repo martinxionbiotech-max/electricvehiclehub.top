@@ -1,6 +1,6 @@
 ---
 title: "Geely Emgrand L HIP"
-description: "Geely Emgrand L HIP is an SUV plug-in hybrid electric offered by Geely with a CLTC-rated range of 100 km, 15 kWh of battery, 100 kW of motor power, and NMC (CTP) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Emgrand L HIP is Geely's SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, a 15 kWh battery, 100 kW of motor power, and a NMC (CTP) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-emgrand-l-hip"
 brand: "geely"
 type: "SUV"
@@ -55,7 +55,7 @@ Geely Emgrand L HIP (starting at $12,650) is a SUV from GEELY.
 
 ## Overview
 
-Geely Emgrand L HIP is an SUV plug-in hybrid offered by Geely. Specification highlights are 0–100 km/h in 6.9 seconds and a 100 kW electric motor. The platform pairs NMC (CTP) cells with MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $12,650 positions it as an affordable-end import. Across export markets, the lowest landed premium is Qatar at roughly +38% over base (about $17,462 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
+The Geely Emgrand L HIP is an front-wheel-drive plug-in hybrid SUV from Geely. At $12,650 ex-factory, this SUV plug-in hybrid sits in the budget segment. It carries a 15 kWh battery, a MacPherson strut front / Torsion beam rear suspension layout, and a top speed of 230 km/h. For this SUV plug-in hybrid, the least-costly destination is Qatar, near +38% over base ($17,462 landed), while Germany applies the 10% standard tariff with no countervailing duty. As a SUV plug-in hybrid, it is aimed at family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -59,7 +59,7 @@ Avatr 06 (starting at $29,560) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 06 is Avatr's sedan fully electric. It carries a rated range of 650 km (CLTC) and a 6.6-second 0–100 km/h time. The platform pairs RWD drive with a Double wishbone front / Multi-link rear suspension setup. The ex-factory price of $29,560 positions it as a mid-market import. For importers, the lowest landed premium is Qatar at roughly +19.1% over base (about $35,218 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits executive and corporate fleet buyers.
+Avatr 06 is a sedan fully electric from Avatr, in rear-wheel-drive form. It carries peak output of 231 kW and 0–100 km/h in 6.6 seconds. Across export markets for the sedan fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +19.1% over base (≈ $35,218 landed). At $29,560 ex-factory, this sedan fully electric sits in the mid-tier segment. In the sedan fully electric segment, it serves executive and corporate fleet buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

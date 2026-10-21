@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 GT"
-description: "The Denza Z9 GT is a sedan battery-electric from Denza with a CLTC-rated range of 630 km, a 100 kWh battery, 640 kW peak output, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Denza's Denza Z9 GT is a sedan battery-electric with a CLTC-rated range of 630 km, a 100 kWh battery, 640 kW peak output, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "denza-z9-gt"
 brand: "denza"
 type: "Sedan"
@@ -60,7 +60,7 @@ Denza Z9 GT (starting at $47,150) is a SUV from DENZA.
 
 ## Overview
 
-The Denza Z9 GT is Denza's sedan fully electric. It carries peak torque of 1,035 Nm and 100 kWh of battery capacity. The platform pairs AWD (tri-motor) drive with a Double wishbone front / Multi-link (air) rear suspension setup. At an ex-factory price of $47,150, it sits in the premium segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +13.9% over base ($53,687 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. This positions it for business fleets and long-distance commuters.
+Denza's Denza Z9 GT is a tri-motor all-wheel-drive fully electric sedan. It carries peak torque of 1,035 Nm and a top speed of 230 km/h. For the sedan fully electric, the least-costly destination is Qatar, near +13.9% over base ($53,687 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. Priced from $47,150 ex-factory, the sedan fully electric falls in the upper-mid tier. This sedan fully electric is positioned for business fleets evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

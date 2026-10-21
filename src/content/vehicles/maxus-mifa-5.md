@@ -1,6 +1,6 @@
 ---
 title: "Maxus MIFA 5"
-description: "The Maxus MIFA 5 is an MPV battery-electric from Maxus, offering 510 km of CLTC range, a 70 kWh battery, 118 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Maxus's Maxus MIFA 5 is an MPV battery-electric, offering 510 km of CLTC range, a 70 kWh battery, 118 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "maxus-mifa-5"
 brand: "maxus"
 type: "MPV"
@@ -48,7 +48,7 @@ Maxus MIFA 5 (starting at $29,970) is a MPV from MAXUS.
 
 ## Overview
 
-The Maxus MIFA 5 is an MPV fully electric from Maxus. It carries peak output of 118 kW and a 70 kWh battery. Chassis details include FWD drive, plus LFP chemistry. At an ex-factory price of $29,970, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +18.9% over base (about $35,648 landed), while Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. The profile suits people-carrier operators and family buyers.
+The Maxus MIFA 5 is an MPV fully electric with front-wheel-drive from Maxus. The $29,970 ex-factory price places this MPV fully electric in the mid-market band. On landed cost for this MPV fully electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +18.9% over base ($35,648 landed). Key figures are peak output of 118 kW, 225 Nm of torque, and 70 kWh of capacity. This MPV fully electric is positioned for people-carrier operators and family buyers balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

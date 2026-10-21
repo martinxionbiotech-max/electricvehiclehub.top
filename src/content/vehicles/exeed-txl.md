@@ -1,6 +1,6 @@
 ---
 title: "Exeed TXL"
-description: "The Exeed TXL is an SUV range-extended electric from Exeed with a CLTC-rated range of 165 km, 32 kWh of battery, 195 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Exeed's Exeed TXL is an SUV range-extended electric with a CLTC-rated range of 165 km, 32 kWh of battery, 195 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "exeed-txl"
 brand: "exeed"
 type: "SUV"
@@ -56,7 +56,7 @@ Exeed TXL (starting at $20,410) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed TXL is an SUV range-extended electric from Exeed. Specification highlights are 32 kWh of battery capacity and 165 km of CLTC range. Chassis details include LFP chemistry, plus RWD drivetrain. It is positioned as a value-segment import, priced from $20,410 ex-factory. On landed cost, the least-costly destination is Qatar, near +25.5% over base ($25,610 landed) — Germany levies only the 10% standard tariff. It suits private buyers and fleet managers.
+Exeed TXL is an SUV range-extended electric from Exeed, in rear-wheel-drive form. Key figures are peak torque of 324 Nm, a 195 kW electric motor, and LFP chemistry. As a value SUV range-extended electric, it starts at $20,410 ex-factory. For this SUV range-extended electric, Germany levies only the 10% standard tariff, while Qatar offers the cheapest entry at about +25.5% over base (≈ $25,610 landed). This SUV range-extended electric is positioned for regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L8"
-description: "Aeolus L8 is an SUV plug-in hybrid electric offered by Aeolus, offering 185 km of CLTC range, 18 kWh of battery, 100 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Aeolus L8 is an SUV plug-in hybrid electric from Aeolus with a CLTC-rated range of 185 km, 18 kWh of battery, 100 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "aeolus-l8"
 brand: "aeolus"
 type: "SUV"
@@ -54,7 +54,7 @@ Aeolus L8 (starting at $18,300) is a SUV from AEOLUS.
 
 ## Overview
 
-Aeolus L8 is an SUV plug-in hybrid electric offered by Aeolus. Specification highlights are a 18 kWh battery and peak torque of 260 Nm. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $18,300, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +27.8% over base ($23,395 landed) — Germany levies only the 10% standard tariff. This positions it for budget-conscious fleet buyers.
+The Aeolus L8 is an front-wheel-drive plug-in hybrid SUV from Aeolus. Specification highlights are 260 Nm of torque, a MacPherson strut front / Multi-link rear suspension layout, and 185 km of CLTC range. Across export markets for the SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +27.8% over base ($23,395 landed). This SUV plug-in hybrid is positioned as a mainstream-value import, from $18,300 ex-factory. This SUV plug-in hybrid is positioned for importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

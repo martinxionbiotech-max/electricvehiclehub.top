@@ -1,6 +1,6 @@
 ---
 title: "Wey 80"
-description: "The Wey 80 is an SUV plug-in hybrid from WEY, offering a CLTC-rated range of 183 km, 44 kWh of battery, 215 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "WEY's Wey 80 is an SUV plug-in hybrid, offering a CLTC-rated range of 183 km, 44 kWh of battery, 215 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wey-80"
 brand: "wey"
 type: "SUV"
@@ -57,7 +57,7 @@ Wey 80 (starting at $40,250) is a SUV from WEY.
 
 ## Overview
 
-The Wey 80 is WEY's SUV plug-in hybrid. It carries a 5.7-second 0–100 km/h time, a rated range of 183 km (CLTC), and 44 kWh of battery capacity. The platform pairs AWD drive with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $40,250 positions it as a premium import. For importers, Qatar offers the cheapest entry at about +15.4% over base (≈ $46,442 landed), while Germany levies only the 10% standard tariff. This positions it for private buyers and fleet managers.
+Wey 80 is an SUV plug-in hybrid from WEY, in all-wheel-drive form. The $40,250 ex-factory price places this SUV plug-in hybrid in the upper-mid band. For the SUV plug-in hybrid, the least-costly destination is Qatar, near +15.4% over base ($46,442 landed); meanwhile, Germany levies only the 10% standard tariff. Specification highlights are peak torque of 402 Nm and a 44 kWh battery. As a SUV plug-in hybrid, it is aimed at families and commercial fleet operators prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

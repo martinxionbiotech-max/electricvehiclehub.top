@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 08"
-description: "Lynk Co 08 is an SUV plug-in hybrid offered by Lynk & Co, offering 185 km of CLTC range, 28 kWh of battery, 180 kW peak output, and LFP (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Lynk Co 08, an SUV plug-in hybrid from Lynk & Co, offering 185 km of CLTC range, 28 kWh of battery, 180 kW peak output, and LFP (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "lynk-co-08"
 brand: "lynk-co"
 type: "SUV"
@@ -54,7 +54,7 @@ Lynk Co 08 (starting at $24,760) is a SUV from LYNK CO.
 
 ## Overview
 
-Lynk & Co's Lynk Co 08 is an SUV plug-in hybrid. It carries a top speed of 190 km/h, 28 kWh of battery capacity, and a rated range of 185 km (CLTC). Chassis details include LFP (CATL) chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $24,760 positions it as a mainstream-value import. Across export markets, the least-costly destination is Qatar, near +21.9% over base ($30,178 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
+Lynk Co 08 is an SUV plug-in hybrid from Lynk & Co, in dual-motor all-wheel-drive form. Specification highlights are LFP (CATL) chemistry and peak torque of 350 Nm. For the SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, Qatar offers the cheapest entry at about +21.9% over base (≈ $30,178 landed). As a value-oriented SUV plug-in hybrid, it starts at $24,760 ex-factory. For the SUV plug-in hybrid buyer, it suits regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

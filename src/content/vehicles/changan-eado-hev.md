@@ -47,7 +47,7 @@ Changan Eado HEV (starting at $11,100) is a Sedan from CHANGAN.
 
 ## Overview
 
-The Changan Eado HEV is a sedan hybrid from ChangAn. Its specification includes peak output of 180 kW. The platform pairs FWD drivetrain with MacPherson strut front / Torsion beam rear suspension. It is positioned as an affordable-end import, priced from $11,100 ex-factory. Across export markets, Qatar offers the cheapest entry at about +42.7% over base (≈ $15,835 landed), while Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
+The Changan Eado HEV is a sedan hybrid with front-wheel-drive from ChangAn. It carries a 180 kW electric motor, a MacPherson strut front / Torsion beam rear suspension layout, and NMC (ternary) cells. At $11,100 ex-factory, this sedan hybrid sits in the entry-level segment. For this sedan hybrid, Qatar offers the cheapest entry at about +42.7% over base (≈ $15,835 landed); meanwhile, Germany levies only the 10% standard tariff. This sedan hybrid is positioned for executive and corporate fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C11 EREV"
-description: "The Leapmotor C11 EREV is Leapmotor's SUV extended-range electric with 285 km of CLTC range, a 43 kWh battery, 200 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Leapmotor C11 EREV, an SUV extended-range electric from Leapmotor with 285 km of CLTC range, a 43 kWh battery, 200 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "leapmotor-c11-erev"
 brand: "leapmotor"
 type: "SUV"
@@ -52,7 +52,7 @@ Leapmotor C11 EREV (starting at $20,810) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C11 EREV is an SUV range-extended electric from Leapmotor. Specification highlights are peak output of 200 kW and 43 kWh of battery capacity. Chassis details include RWD drive, plus LFP chemistry. It is positioned as a value-focused import, priced from $20,810 ex-factory. For importers, Qatar offers the cheapest entry at about +25.1% over base (≈ $26,030 landed), while Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
+Leapmotor's Leapmotor C11 EREV is an rear-wheel-drive range-extended electric SUV. Across export markets for the SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; Qatar offers the cheapest entry at about +25.1% over base (≈ $26,030 landed). With a $20,810 ex-factory price, the SUV range-extended electric reads as value. Key figures are peak torque of 360 Nm and a Double wishbone front / Multi-link rear suspension layout. The SUV range-extended electric profile suits family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

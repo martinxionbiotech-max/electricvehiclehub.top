@@ -42,7 +42,7 @@ drag_coefficient: 0.28
 range_wltp_km: 350
 charging_interface: "CCS2 (DC) + Type 2 (AC) — EU export spec; GB/T (China)"
 charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
-certification_notes: "EU: WVTA type approval (CCS2 native, no adapter required). GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
 hs_code: "87038000"
 trim: "标准版 / 长续航 / XPower"
 brakes: "Front ventilated disc / rear disc"
@@ -61,7 +61,7 @@ Mg 4 (starting at $9,690) is a Hatchback from MG.
 
 ## Overview
 
-The MG 4 is a hatchback battery-electric from MG. It carries peak torque of 250 Nm and a 120 kW electric motor. The platform pairs a MacPherson strut front / Five-link rear suspension setup with RWD drive. Pricing starts at $9,690 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +48.1% over base (≈ $14,354 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. It suits city-focused buyers and delivery fleets.
+The MG 4 is a hatchback battery-electric with rear-wheel-drive from MG. Specification highlights are 160 km/h top speed, LFP chemistry, and 250 Nm of torque. As a entry-level hatchback battery-electric, it starts at $9,690 ex-factory. For the hatchback battery-electric, Qatar offers the cheapest entry at about +48.1% over base (≈ $14,354 landed); meanwhile, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. The hatchback battery-electric profile suits city-focused buyers and delivery fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

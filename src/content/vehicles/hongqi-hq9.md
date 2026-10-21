@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HQ9"
-description: "The Hongqi HQ9 is an SUV plug-in hybrid electric from Hongqi, offering 220 km of CLTC range, 20 kWh of battery, 210 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Hongqi's Hongqi HQ9 is an SUV plug-in hybrid electric, offering 220 km of CLTC range, 20 kWh of battery, 210 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "hongqi-hq9"
 brand: "hongqi"
 type: "SUV"
@@ -56,7 +56,7 @@ Hongqi HQ9 (starting at $50,540) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi HQ9 is an SUV plug-in hybrid electric from Hongqi. It carries peak output of 210 kW and a top speed of 180 km/h. The platform pairs NMC (ternary) cells with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $50,540, it sits in the premium segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +13.3% over base (about $57,247 landed), while Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
+The Hongqi HQ9 is an SUV plug-in hybrid electric with front-wheel-drive from Hongqi. Specification highlights are NMC (ternary) cells, MacPherson strut front / Multi-link rear suspension, and 180 km/h top speed. At $50,540 ex-factory, this SUV plug-in hybrid electric sits in the premium segment. On landed cost for this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +13.3% over base (about $57,247 landed). The SUV plug-in hybrid electric profile suits regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

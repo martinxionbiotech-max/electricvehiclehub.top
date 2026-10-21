@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L7"
-description: "The Jetour Shanhai L7 is an SUV plug-in hybrid from Jetour with a CLTC-rated range of 110 km, a 18 kWh battery, 199 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Jetour's Jetour Shanhai L7 is an SUV plug-in hybrid with a CLTC-rated range of 110 km, a 18 kWh battery, 199 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jetour-shanhai-l7"
 brand: "jetour"
 type: "SUV"
@@ -54,7 +54,7 @@ Jetour Shanhai L7 (starting at $21,100) is a SUV from JETOUR.
 
 ## Overview
 
-Jetour Shanhai L7 is an SUV plug-in hybrid electric offered by Jetour. It carries 18 kWh of battery capacity, a CLTC-rated range of 110 km, and peak torque of 395 Nm. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drivetrain. Pricing starts at $21,100 ex-factory, placing it in the value tier. On landed cost, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,335 landed), while Germany levies only the 10% standard tariff. This positions it for importers targeting the family-SUV segment.
+The Jetour Shanhai L7 is an front-wheel-drive plug-in hybrid electric SUV from Jetour. As a mainstream-value SUV plug-in hybrid electric, it starts at $21,100 ex-factory. It carries a 199 kW electric motor, 18 kWh of capacity, and LFP chemistry. For the SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed); Germany levies only the 10% standard tariff. As a SUV plug-in hybrid electric, it is aimed at importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

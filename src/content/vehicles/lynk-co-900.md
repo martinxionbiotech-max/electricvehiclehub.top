@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 900"
-description: "Lynk Co 900 is an SUV plug-in hybrid offered by Lynk & Co, offering 280 km of CLTC range, 44 kWh of battery, 390 kW of motor power, and NMC (CALB / CATL Freevoy) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Lynk Co 900, an SUV plug-in hybrid from Lynk & Co, offering 280 km of CLTC range, 44 kWh of battery, 390 kW of motor power, and NMC (CALB / CATL Freevoy) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "lynk-co-900"
 brand: "lynk-co"
 type: "SUV"
@@ -58,7 +58,7 @@ Lynk Co 900 (starting at $43,650) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk Co 900 is an SUV plug-in hybrid from Lynk & Co. It carries a 390 kW electric motor, a top speed of 210 km/h, and peak torque of 700 Nm. Chassis details include NMC (CALB / CATL Freevoy) chemistry, plus a Double wishbone front / Multi-link (air) rear suspension setup. The ex-factory price of $43,650 positions it as a premium import. Across export markets, the least-costly destination is Qatar, near +14.6% over base ($50,012 landed) — Germany levies only the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+Lynk & Co's Lynk Co 900 is an multi-motor all-wheel-drive plug-in hybrid SUV. On landed cost for this SUV plug-in hybrid, Germany levies only the 10% standard tariff — the least-costly destination is Qatar, near +14.6% over base ($50,012 landed). The $43,650 ex-factory price places this SUV plug-in hybrid in the premium band. Key figures are 700 Nm of torque, a 390 kW electric motor, and a drag coefficient of 0.291. This SUV plug-in hybrid is positioned for private buyers and fleet managers seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

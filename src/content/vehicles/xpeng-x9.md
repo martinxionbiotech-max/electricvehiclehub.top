@@ -58,7 +58,7 @@ Xpeng X9 (starting at $43,630) is a SUV from XPENG.
 
 ## Overview
 
-XPENG X9 is an SUV fully electric offered by XPeng. It carries 0–100 km/h in 8 seconds, 180 km/h top speed, and a 101 kWh battery. Chassis details include Double wishbone front / Multi-link (air) rear suspension, plus RWD / AWD drivetrain. Pricing starts at $43,630 ex-factory, placing it in the premium tier. On landed cost, the least-costly destination is Qatar, near +14.6% over base ($49,991 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits family and fleet buyers needing practical space.
+XPeng's XPENG X9 is an rear- or all-wheel-drive fully electric SUV. For this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, the lowest landed premium is Qatar at roughly +14.6% over base (about $49,991 landed). With a $43,630 ex-factory price, the SUV fully electric reads as premium. Specification highlights are a 8-second 0–100 km/h time, 180 km/h top speed, and Double wishbone front / Multi-link (air) rear suspension. The SUV fully electric profile suits families and commercial fleet operators evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

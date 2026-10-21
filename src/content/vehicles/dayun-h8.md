@@ -1,6 +1,6 @@
 ---
 title: "Dayun Yuanhang H8"
-description: "Dayun Yuanhang H8 is an SUV battery-electric offered by Dayun Yuanhang with 610 km of CLTC range, 88 kWh of battery, and 250 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Dayun Yuanhang's Dayun Yuanhang H8 is an SUV battery-electric, offering a CLTC-rated range of 610 km, a 88 kWh battery, and 250 kW peak output. Landed-cost analysis across 30 key export markets for importers."
 slug: "dayun-h8"
 brand: "dayun"
 type: "SUV"
@@ -55,7 +55,7 @@ Dayun Yuanhang H8 (starting at $48,580) is a SUV from DAYUN.
 
 ## Overview
 
-The Dayun Yuanhang H8 is Dayun Yuanhang's SUV battery-electric. It carries 400 Nm of torque and a top speed of 210 km/h. Chassis details include Double wishbone front / Multi-link rear suspension, plus RWD drivetrain. Pricing starts at $48,580 ex-factory, placing it in the premium tier. Across export markets, the least-costly destination is Qatar, near +13.6% over base ($55,189 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+The Dayun Yuanhang H8 is an SUV battery-electric with rear-wheel-drive from Dayun Yuanhang. It carries 88 kWh of capacity and a 6.5-second 0–100 km/h time. Priced from $48,580 ex-factory, the SUV battery-electric falls in the upper-mid tier. On landed cost for this SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff, while the lowest landed premium is Qatar at roughly +13.6% over base (about $55,189 landed). For the SUV battery-electric buyer, it suits regional distributors focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

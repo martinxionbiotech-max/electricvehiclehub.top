@@ -1,6 +1,6 @@
 ---
 title: "Roewe Erx5"
-description: "Roewe Erx5 is an SUV plug-in hybrid electric offered by Roewe with a CLTC-rated range of 61 km, 12 kWh of battery, 180 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Roewe Erx5, an SUV plug-in hybrid electric from Roewe with a CLTC-rated range of 61 km, a 12 kWh battery, 180 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "roewe-erx5"
 brand: "roewe"
 type: "SUV"
@@ -56,7 +56,7 @@ Roewe Erx5 (starting at $21,680) is a SUV from ROEWE.
 
 ## Overview
 
-The Roewe Erx5 is Roewe's SUV plug-in hybrid electric. Specification highlights are a top speed of 200 km/h and a CLTC-rated range of 61 km. The platform pairs FWD drive with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $21,680, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +24.3% over base (about $26,944 landed), while Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+The Roewe Erx5 is an SUV plug-in hybrid electric with front-wheel-drive from Roewe. For the SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +24.3% over base (about $26,944 landed), while Germany applies the 10% standard tariff with no countervailing duty. Key figures are peak torque of 270 Nm, 61 km of CLTC range, and peak output of 180 kW. With a $21,680 ex-factory price, the SUV plug-in hybrid electric reads as value. For the SUV plug-in hybrid electric buyer, it suits families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

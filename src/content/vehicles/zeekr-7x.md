@@ -58,7 +58,7 @@ Zeekr 7X (starting at $32,370) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 7X is an SUV battery-electric from Zeekr. It carries a 5.4-second 0–100 km/h time and 620 km of CLTC range. The platform pairs RWD / AWD drive with LFP / NMC chemistry. The ex-factory price of $32,370 positions it as a mid-tier import. Across export markets, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,168 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits family and fleet buyers needing practical space.
+Zeekr 7X is an SUV battery-electric from Zeekr, in rear- or all-wheel-drive form. For this SUV battery-electric, the least-costly destination is Qatar, near +17.9% over base ($38,168 landed), while Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. Specification highlights are peak output of 370 kW, LFP / NMC cells, and a 75 kWh battery. This SUV battery-electric is positioned as a mid-tier import, from $32,370 ex-factory. This SUV battery-electric is positioned for family and fleet buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

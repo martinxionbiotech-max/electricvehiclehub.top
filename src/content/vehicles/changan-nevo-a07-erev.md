@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A07 EREV"
-description: "Changan Nevo A07 EREV is a sedan extended-range electric offered by ChangAn NEVO with a CLTC-rated range of 230 km, a 28 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Changan Nevo A07 EREV, a sedan extended-range electric from ChangAn NEVO with 230 km of CLTC range, 28 kWh of battery, 160 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-a07-erev"
 brand: "changan-nevo"
 type: "Sedan"
@@ -54,7 +54,7 @@ Changan Nevo A07 EREV (starting at $16,650) is a Sedan from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo A07 EREV is a sedan extended-range electric from ChangAn NEVO. It carries a 28 kWh battery and peak output of 160 kW. The platform pairs LFP chemistry with RWD drive. At an ex-factory price of $16,650, it sits in the value segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed); meanwhile, Germany levies only the 10% standard tariff. It suits price-sensitive importers.
+The Changan Nevo A07 EREV is a rear-wheel-drive extended-range electric sedan from ChangAn NEVO. Key figures are peak output of 160 kW, a 28 kWh battery, and peak torque of 320 Nm. As a value sedan extended-range electric, it starts at $16,650 ex-factory. For this sedan extended-range electric, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed) — Germany applies the 10% standard tariff with no countervailing duty. For the sedan extended-range electric buyer, it suits executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

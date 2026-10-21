@@ -57,7 +57,7 @@ Deepal S09 (starting at $33,790) is a SUV from DEEPAL.
 
 ## Overview
 
-Deepal S09 is an SUV range-extended electric offered by Deepal. Specification highlights are a CLTC-rated range of 210 km and 205 km/h top speed. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP chemistry. The ex-factory price of $33,790 positions it as a mid-tier import. For importers, the least-costly destination is Qatar, near +17.4% over base ($39,659 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
+Deepal's Deepal S09 is an rear-wheel-drive range-extended electric SUV. For this SUV range-extended electric, the lowest landed premium is Qatar at roughly +17.4% over base (about $39,659 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. With a $33,790 ex-factory price, the SUV range-extended electric reads as mid-market. Specification highlights are 205 km/h top speed, peak torque of 375 Nm, and LFP chemistry. As a SUV range-extended electric, it is aimed at families and commercial fleet operators evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

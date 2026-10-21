@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 05 MD I"
-description: "BYD Seal 05 MD I is a sedan plug-in hybrid electric offered by BYD, offering a CLTC-rated range of 120 km, a 15 kWh battery, 120 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Seal 05 MD I, a sedan plug-in hybrid electric from BYD, offering 120 km of CLTC range, 15 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-seal-05-md-i"
 brand: "byd"
 type: "Sedan"
@@ -56,7 +56,7 @@ Byd Seal 05 MD I (starting at $11,210) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Seal 05 MD I is a sedan plug-in hybrid from BYD. Specification highlights are 120 km of CLTC range and 210 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. At an ex-factory price of $11,210, it sits in the entry-level segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +42.3% over base ($15,950 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
+The BYD Seal 05 MD I is a front-wheel-drive plug-in hybrid sedan from BYD. On landed cost for this sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +42.3% over base ($15,950 landed). It carries 180 km/h top speed, a MacPherson strut front / Multi-link rear suspension layout, and a 7.6-second 0–100 km/h time. Priced from $11,210 ex-factory, the sedan plug-in hybrid falls in the affordable-end tier. As a sedan plug-in hybrid, it is aimed at private buyers and ride-hailing operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

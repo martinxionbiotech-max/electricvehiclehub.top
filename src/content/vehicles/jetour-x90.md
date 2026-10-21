@@ -1,6 +1,6 @@
 ---
 title: "Jetour X90"
-description: "Jetour X90 is an SUV plug-in hybrid electric offered by Jetour with a CLTC-rated range of 108 km, 19 kWh of battery, 199 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Jetour X90, an SUV plug-in hybrid electric from Jetour, offering a CLTC-rated range of 108 km, 19 kWh of battery, 199 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jetour-x90"
 brand: "jetour"
 type: "SUV"
@@ -57,7 +57,7 @@ Jetour X90 (starting at $23,230) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour X90 is Jetour's SUV plug-in hybrid electric. It carries 0–100 km/h in 7.8 seconds, peak output of 199 kW, and 395 Nm of torque. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drive. The ex-factory price of $23,230 positions it as a value-segment import. Across export markets, the least-costly destination is Qatar, near +23% over base ($28,571 landed), while Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
+The Jetour X90 is an SUV plug-in hybrid electric with front-wheel-drive from Jetour. It carries LFP cells and 395 Nm of torque. At $23,230 ex-factory, this SUV plug-in hybrid electric sits in the value-oriented segment. On landed cost for this SUV plug-in hybrid electric, Germany levies only the 10% standard tariff — the least-costly destination is Qatar, near +23% over base ($28,571 landed). As a SUV plug-in hybrid electric, it is aimed at regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

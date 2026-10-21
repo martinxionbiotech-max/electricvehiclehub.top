@@ -1,6 +1,6 @@
 ---
 title: "Im L6"
-description: "The Im L6 is IM's SUV battery-electric, offering a CLTC-rated range of 690 km, 74 kWh of battery, 245 kW of motor power, and a LFP / NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Im L6, an SUV battery-electric from IM, offering a CLTC-rated range of 690 km, 74 kWh of battery, 245 kW of motor power, and a LFP / NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "im-l6"
 brand: "im"
 type: "SUV"
@@ -58,7 +58,7 @@ Im L6 (starting at $30,970) is a SUV from IM.
 
 ## Overview
 
-The Im L6 is IM's SUV fully electric. It carries 430 Nm of torque, a CLTC-rated range of 690 km, and a top speed of 200 km/h. The platform pairs RWD / AWD drive with LFP / NMC cells. Pricing starts at $30,970 ex-factory, placing it in the mid-market tier. On landed cost, the least-costly destination is Qatar, near +18.5% over base ($36,698 landed); meanwhile, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The profile suits families and commercial fleet operators.
+The Im L6 is an SUV fully electric with rear- or all-wheel-drive from IM. With a $30,970 ex-factory price, the SUV fully electric reads as mid-tier. Specification highlights are 430 Nm of torque and Double wishbone front / Multi-link rear suspension. Across export markets for the SUV fully electric, the least-costly destination is Qatar, near +18.5% over base ($36,698 landed) — Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The SUV fully electric profile suits importers targeting the family-SUV segment balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

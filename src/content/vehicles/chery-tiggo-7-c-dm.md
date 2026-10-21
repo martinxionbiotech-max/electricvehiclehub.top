@@ -55,7 +55,7 @@ Chery Tiggo 7 C-DM (starting at $16,650) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 7 C-DM is an SUV plug-in hybrid electric from Chery. Specification highlights are a rated range of 120 km (CLTC) and 310 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. The ex-factory price of $16,650 positions it as a value-segment import. Across export markets, Qatar offers the cheapest entry at about +30.1% over base (≈ $21,662 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+The Chery Tiggo 7 C-DM is an front-wheel-drive plug-in hybrid electric SUV from Chery. Across export markets for the SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty — the least-costly destination is Qatar, near +30.1% over base ($21,662 landed). This SUV plug-in hybrid electric is positioned as a value-segment import, from $16,650 ex-factory. Specification highlights are MacPherson strut front / Multi-link rear suspension and a CLTC-rated range of 120 km. For the SUV plug-in hybrid electric buyer, it suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -51,7 +51,7 @@ Wuling Victory (starting at $18,280) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Victory is an SUV hybrid from Wuling. It carries peak torque of 320 Nm and peak output of 130 kW. Chassis details include FWD drivetrain, plus NMC (Li-ion) cells. It is positioned as a mainstream-value import, priced from $18,280 ex-factory. Across export markets, the least-costly destination is Qatar, near +27.9% over base ($23,374 landed) — Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+The Wuling Victory is an SUV hybrid with front-wheel-drive from Wuling. With a $18,280 ex-factory price, the SUV hybrid reads as value. Key figures are a top speed of 145 km/h and 320 Nm of torque. For this SUV hybrid, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +27.9% over base (about $23,374 landed). This SUV hybrid is positioned for importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

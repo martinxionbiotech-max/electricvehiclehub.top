@@ -60,7 +60,7 @@ Byd Seagull (starting at $8,940) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Seagull is a sedan battery-electric from BYD. Specification highlights are 130 km/h top speed and a 4.9-second 0–100 km/h time. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP (Blade) chemistry. At an ex-factory price of $8,940, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +51.8% over base (about $13,567 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. The profile suits budget-conscious fleet buyers.
+The BYD Seagull is a front-wheel-drive battery-electric sedan from BYD. As a entry-level sedan battery-electric, it starts at $8,940 ex-factory. For the sedan battery-electric, the lowest landed premium is Qatar at roughly +51.8% over base (about $13,567 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. Specification highlights are LFP (Blade) chemistry and a CLTC-rated range of 305 km. For the sedan battery-electric buyer, it suits private buyers and ride-hailing operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

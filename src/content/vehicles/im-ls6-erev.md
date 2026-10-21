@@ -52,7 +52,7 @@ IM LS6 EREV (starting at $29,850) is a SUV from IM.
 
 ## Overview
 
-IM LS6 EREV is an SUV extended-range electric offered by IM. It carries a CLTC-rated range of 370 km, 52 kWh of battery capacity, and a 230 kW electric motor. The platform pairs Double wishbone front / Multi-link (air) rear suspension with NMC (CATL) cells. It is positioned as a mid-tier import, priced from $29,850 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +19% over base (about $35,522 landed) — Germany levies only the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+IM LS6 EREV is an SUV extended-range electric from IM, in rear-wheel-drive form. Across export markets for the SUV extended-range electric, the lowest landed premium is Qatar at roughly +19% over base (about $35,522 landed), while Germany levies only the 10% standard tariff. At $29,850 ex-factory, this SUV extended-range electric sits in the mid-market segment. Key figures are peak output of 230 kW, 370 km of CLTC range, and NMC (CATL) chemistry. In the SUV extended-range electric segment, it serves regional distributors focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

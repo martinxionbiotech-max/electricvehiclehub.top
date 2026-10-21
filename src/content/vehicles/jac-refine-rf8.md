@@ -57,7 +57,7 @@ Jac Refine RF8 (starting at $52,100) is a MPV from JAC REFINE.
 
 ## Overview
 
-JAC Refine RF8 is an MPV plug-in hybrid offered by JAC Refine. It carries 44 kWh of battery capacity and a 7.3-second 0–100 km/h time. The platform pairs FWD drivetrain with LFP chemistry. The ex-factory price of $52,100 positions it as an upper-mid import. For importers, the least-costly destination is Qatar, near +13% over base ($58,885 landed) — Germany levies only the 10% standard tariff. This positions it for importers serving the multi-passenger segment.
+JAC Refine RF8 is an MPV plug-in hybrid from JAC Refine, in front-wheel-drive form. Key figures are a 7.3-second 0–100 km/h time and peak output of 160 kW. This MPV plug-in hybrid is positioned as an upper-mid import, from $52,100 ex-factory. For this MPV plug-in hybrid, Germany levies only the 10% standard tariff; the least-costly destination is Qatar, near +13% over base ($58,885 landed). As a MPV plug-in hybrid, it is aimed at shuttle and charter fleet operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

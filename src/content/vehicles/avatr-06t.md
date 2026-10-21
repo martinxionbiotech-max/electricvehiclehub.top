@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06T"
-description: "Avatr 06T is a sedan fully electric offered by Avatr with a CLTC-rated range of 652 km, 75 kWh of battery, 450 kW of motor power, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Avatr 06T is Avatr's sedan fully electric with a CLTC-rated range of 652 km, a 75 kWh battery, 450 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "avatr-06t"
 brand: "avatr"
 type: "Sedan"
@@ -56,7 +56,7 @@ Avatr 06T (starting at $30,540) is a Sedan from AVATR.
 
 ## Overview
 
-Avatr 06T is a sedan fully electric offered by Avatr. It carries 75 kWh of battery capacity and 0–100 km/h in 3.74 seconds. Chassis details include Double wishbone front / Multi-link rear suspension, plus RWD drive. At an ex-factory price of $30,540, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +18.7% over base ($36,247 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers serving the executive-sedan segment.
+Avatr 06T is a sedan fully electric from Avatr, in rear-wheel-drive form. The $30,540 ex-factory price places this sedan fully electric in the mid-tier band. For this sedan fully electric, the lowest landed premium is Qatar at roughly +18.7% over base (about $36,247 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Key figures are Double wishbone front / Multi-link rear suspension and 0–100 km/h in 3.74 seconds. This sedan fully electric is positioned for business fleets evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

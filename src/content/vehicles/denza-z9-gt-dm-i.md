@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 GT DM-i"
-description: "Denza Z9 GT DM-i is a sedan plug-in hybrid electric offered by Denza, offering a CLTC-rated range of 201 km, 38 kWh of battery, 640 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Denza Z9 GT DM-i is Denza's sedan plug-in hybrid electric, offering a CLTC-rated range of 201 km, a 38 kWh battery, 640 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "denza-z9-gt-dm-i"
 brand: "denza"
 type: "Sedan"
@@ -57,7 +57,7 @@ Denza Z9 GT DM-i (starting at $46,500) is a Sedan from DENZA.
 
 ## Overview
 
-The Denza Z9 GT DM-i is Denza's sedan plug-in hybrid. It carries 230 km/h top speed and peak torque of 935 Nm. The platform pairs a Double wishbone front / Multi-link (air) rear suspension setup with LFP (Blade) chemistry. The ex-factory price of $46,500 positions it as an upper-mid import. For importers, the least-costly destination is Qatar, near +14% over base ($53,005 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and ride-hailing operators.
+The Denza Z9 GT DM-i is a tri-motor all-wheel-drive plug-in hybrid sedan from Denza. For the sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; Qatar offers the cheapest entry at about +14% over base (≈ $53,005 landed). Priced from $46,500 ex-factory, the sedan plug-in hybrid falls in the upper-mid tier. It carries a 3.6-second 0–100 km/h time and a CLTC-rated range of 201 km. For the sedan plug-in hybrid buyer, it suits private buyers and ride-hailing operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

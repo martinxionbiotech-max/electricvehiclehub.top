@@ -48,7 +48,7 @@ Wuling Jiachen (starting at $16,310) is a MPV from WULING.
 
 ## Overview
 
-The Wuling Jiachen is an MPV petrol from Wuling. Specification highlights are peak torque of 320 Nm and a 130 kW electric motor. The platform pairs FWD drivetrain with MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $16,310 positions it as a value-segment import. On landed cost, Qatar offers the cheapest entry at about +30.6% over base (≈ $21,305 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits people-carrier operators and family buyers.
+Wuling's Wuling Jiachen is an front-wheel-drive petrol MPV. Across export markets for the MPV petrol, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +30.6% over base (≈ $21,305 landed). With a $16,310 ex-factory price, the MPV petrol reads as value. It carries a top speed of 140 km/h and a 130 kW electric motor. For the MPV petrol buyer, it suits shuttle and charter fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

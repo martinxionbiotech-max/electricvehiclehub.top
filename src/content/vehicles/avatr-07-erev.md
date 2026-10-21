@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07 EREV"
-description: "The Avatr 07 EREV is Avatr's SUV extended-range electric with a CLTC-rated range of 245 km, 39 kWh of battery, 231 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Avatr 07 EREV, an SUV extended-range electric from Avatr with a CLTC-rated range of 245 km, 39 kWh of battery, 231 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "avatr-07-erev"
 brand: "avatr"
 type: "SUV"
@@ -56,7 +56,7 @@ Avatr 07 EREV (starting at $30,540) is a SUV from AVATR.
 
 ## Overview
 
-Avatr 07 EREV is an SUV extended-range electric offered by Avatr. Specification highlights are peak torque of 367 Nm and peak output of 231 kW. The platform pairs NMC (CATL) chemistry with Double wishbone front / Multi-link rear suspension. Pricing starts at $30,540 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +18.7% over base (≈ $36,247 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits family and fleet buyers needing practical space.
+The Avatr 07 EREV is an SUV extended-range electric with rear-wheel-drive from Avatr. With a $30,540 ex-factory price, the SUV extended-range electric reads as mid-tier. It carries a top speed of 190 km/h, Double wishbone front / Multi-link rear suspension, and 245 km of CLTC range. For the SUV extended-range electric, Qatar offers the cheapest entry at about +18.7% over base (≈ $36,247 landed); meanwhile, Germany levies only the 10% standard tariff. This SUV extended-range electric is positioned for importers targeting the family-SUV segment evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

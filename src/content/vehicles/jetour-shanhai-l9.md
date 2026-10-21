@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L9"
-description: "The Jetour Shanhai L9 is an SUV plug-in hybrid electric from Jetour, offering 108 km of CLTC range, 19 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Jetour's Jetour Shanhai L9 is an SUV plug-in hybrid electric, offering 108 km of CLTC range, 19 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jetour-shanhai-l9"
 brand: "jetour"
 type: "SUV"
@@ -46,7 +46,7 @@ Jetour Shanhai L9 (starting at $23,180) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour Shanhai L9 is an SUV plug-in hybrid from Jetour. It carries 19 kWh of battery capacity and a rated range of 108 km (CLTC). The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $23,180, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +23% over base ($28,519 landed) — Germany levies only the 10% standard tariff. It suits importers targeting the family-SUV segment.
+Jetour's Jetour Shanhai L9 is an front-wheel-drive plug-in hybrid SUV. Priced from $23,180 ex-factory, the SUV plug-in hybrid falls in the value tier. It carries a 19 kWh battery, LFP cells, and 108 km of CLTC range. Across export markets for the SUV plug-in hybrid, the least-costly destination is Qatar, near +23% over base ($28,519 landed); Germany applies the 10% standard tariff with no countervailing duty. This SUV plug-in hybrid is positioned for regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

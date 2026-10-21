@@ -58,7 +58,7 @@ M Hero 917 (starting at $89,820) is a SUV from M HERO.
 
 ## Overview
 
-The M Hero 917 is an SUV fully electric from M-Hero. It carries a 142 kWh battery, peak output of 600 kW, and 1,050 Nm of torque. Chassis details include Double wishbone front / Multi-link rear suspension, plus NMC (ternary) cells. The ex-factory price of $89,820 positions it as a flagship import. On landed cost, the least-costly destination is Qatar, near +9.7% over base ($98,491 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+M Hero 917 is an SUV fully electric from M-Hero, in quad-motor all-wheel-drive form. On landed cost for this SUV fully electric, Qatar offers the cheapest entry at about +9.7% over base (≈ $98,491 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The $89,820 ex-factory price places this SUV fully electric in the flagship band. Key figures are a 6-second 0–100 km/h time, Double wishbone front / Multi-link rear suspension, and 1,050 Nm of torque. As a SUV fully electric, it is aimed at importers targeting the family-SUV segment seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Chery New Energy Wujie Pro"
-description: "The Chery New Energy Wujie Pro is Chery New Energy's hatchback fully electric with 301 km of CLTC range, a 28 kWh battery, 55 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery New Energy Wujie Pro, a hatchback fully electric from Chery New Energy with 301 km of CLTC range, a 28 kWh battery, 55 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-new-energy-wujie-pro"
 brand: "chery-new-energy"
 type: "Hatchback"
@@ -57,7 +57,7 @@ Chery New Energy Wujie PRO (starting at $11,960) is a Hatchback from CHERY NEW E
 
 ## Overview
 
-The Chery New Energy Wujie Pro is a hatchback battery-electric from Chery New Energy. Specification highlights are peak output of 55 kW and a CLTC-rated range of 301 km. The platform pairs MacPherson strut front / Torsion beam rear suspension with LFP cells. At an ex-factory price of $11,960, it sits in the entry-level segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +39.9% over base (≈ $16,738 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits city-focused buyers and delivery fleets.
+The Chery New Energy Wujie Pro is a front-wheel-drive battery-electric hatchback from Chery New Energy. It carries 0–100 km/h in 5.5 seconds, a MacPherson strut front / Torsion beam rear suspension layout, and 150 Nm of torque. With a $11,960 ex-factory price, the hatchback battery-electric reads as entry-level. Across export markets for the hatchback battery-electric, the least-costly destination is Qatar, near +39.9% over base ($16,738 landed); Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The hatchback battery-electric profile suits urban commuters and fleet operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

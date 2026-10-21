@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor Lafa5"
-description: "The Leapmotor Lafa5 is Leapmotor's SUV fully electric with 515 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Leapmotor Lafa5, an SUV fully electric from Leapmotor with 515 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-lafa5"
 brand: "leapmotor"
 type: "SUV"
@@ -57,7 +57,7 @@ Leapmotor Lafa5 (starting at $13,770) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-Leapmotor Lafa5 is an SUV fully electric offered by Leapmotor. Specification highlights are 56 kWh of battery capacity and peak torque of 175 Nm. Chassis details include FWD drivetrain, plus MacPherson strut front / Multi-link rear suspension. Pricing starts at $13,770 ex-factory, placing it in the entry-level tier. On landed cost, Qatar offers the cheapest entry at about +35.4% over base (≈ $18,638 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits family and fleet buyers needing practical space.
+Leapmotor Lafa5 is an SUV fully electric from Leapmotor, in front-wheel-drive form. On landed cost for this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the least-costly destination is Qatar, near +35.4% over base ($18,638 landed). This SUV fully electric is positioned as a budget import, from $13,770 ex-factory. Key figures are 0–100 km/h in 8.7 seconds, a 56 kWh battery, and MacPherson strut front / Multi-link rear suspension. As a SUV fully electric, it is aimed at importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

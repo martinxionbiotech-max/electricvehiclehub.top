@@ -59,7 +59,7 @@ Fangchengbao BAO 8 (starting at $53,490) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-The Fangchengbao BAO 8 is an SUV plug-in hybrid from Fangchengbao. Specification highlights are peak torque of 760 Nm and a 4.8-second 0–100 km/h time. The platform pairs AWD drive with LFP (Blade) cells. At an ex-factory price of $53,490, it sits in the premium segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +12.8% over base (about $60,344 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits family and fleet buyers needing practical space.
+Fangchengbao's Fangchengbao BAO 8 is an all-wheel-drive plug-in hybrid SUV. Key figures are peak torque of 760 Nm and peak output of 500 kW. For this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +12.8% over base ($60,344 landed). Priced from $53,490 ex-factory, the SUV plug-in hybrid falls in the premium tier. This SUV plug-in hybrid is positioned for family and fleet buyers seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

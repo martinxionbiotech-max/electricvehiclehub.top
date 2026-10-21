@@ -1,6 +1,6 @@
 ---
 title: "Venucia VX6"
-description: "The Venucia VX6 is an SUV fully electric from Venucia with a CLTC-rated range of 520 km, a 62 kWh battery, 160 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Venucia's Venucia VX6 is an SUV fully electric with a CLTC-rated range of 520 km, a 62 kWh battery, 160 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "venucia-vx6"
 brand: "venucia"
 type: "SUV"
@@ -54,7 +54,7 @@ Venucia VX6 (starting at $18,740) is a SUV from VENUCIA.
 
 ## Overview
 
-The Venucia VX6 is Venucia's SUV battery-electric. It carries 520 km of CLTC range and peak torque of 275 Nm. The platform pairs FWD drive with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $18,740, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +27.3% over base (about $23,857 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+Venucia's Venucia VX6 is an front-wheel-drive battery-electric SUV. Specification highlights are a 160 kW electric motor and LFP cells. For this SUV battery-electric, the lowest landed premium is Qatar at roughly +27.3% over base (about $23,857 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. As a value-oriented SUV battery-electric, it starts at $18,740 ex-factory. In the SUV battery-electric segment, it serves families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

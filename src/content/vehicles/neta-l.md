@@ -1,6 +1,6 @@
 ---
 title: "Neta L"
-description: "The Neta L is an SUV extended-range electric from Neta with a CLTC-rated range of 310 km, 40 kWh of battery, 170 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Neta's Neta L is an SUV extended-range electric with a CLTC-rated range of 310 km, 40 kWh of battery, 170 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "neta-l"
 brand: "neta"
 type: "SUV"
@@ -51,7 +51,7 @@ Neta L (starting at $18,040) is a SUV from NETA.
 
 ## Overview
 
-Neta L is an SUV range-extended electric offered by Neta. It carries 40 kWh of battery capacity and a CLTC-rated range of 310 km. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $18,040 positions it as a value-focused import. On landed cost, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+The Neta L is an rear-wheel-drive range-extended electric SUV from Neta. For this SUV range-extended electric, the least-costly destination is Qatar, near +28.2% over base ($23,122 landed) — Germany levies only the 10% standard tariff. Specification highlights are LFP chemistry, a CLTC-rated range of 310 km, and a 170 kW electric motor. As a mainstream-value SUV range-extended electric, it starts at $18,040 ex-factory. The SUV range-extended electric profile suits importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

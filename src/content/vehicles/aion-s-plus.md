@@ -1,6 +1,6 @@
 ---
 title: "Aion S Plus"
-description: "Aion S Plus is a sedan battery-electric offered by AION, offering 602 km of CLTC range, 69 kWh of battery, 150 kW peak output, and a LFP / NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "AION's Aion S Plus is a sedan battery-electric with a CLTC-rated range of 602 km, 69 kWh of battery, 150 kW peak output, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "aion-s-plus"
 brand: "aion"
 type: "Sedan"
@@ -54,7 +54,7 @@ Aion S Plus (starting at $19,420) is a Sedan from AION.
 
 ## Overview
 
-Aion S Plus is a sedan fully electric offered by AION. It carries 602 km of CLTC range and peak output of 150 kW. Chassis details include LFP / NMC cells, plus a MacPherson strut front / Torsion beam rear suspension setup. The ex-factory price of $19,420 positions it as a value-focused import. Across export markets, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,571 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
+Aion S Plus is a sedan battery-electric from AION, in front-wheel-drive form. Across export markets for the sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,571 landed). Key figures are a 69 kWh battery, 602 km of CLTC range, and MacPherson strut front / Torsion beam rear suspension. As a value-oriented sedan battery-electric, it starts at $19,420 ex-factory. The sedan battery-electric profile suits private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

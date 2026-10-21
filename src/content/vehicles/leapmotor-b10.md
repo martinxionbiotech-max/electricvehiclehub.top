@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor B10"
-description: "The Leapmotor B10 is Leapmotor's SUV battery-electric with 510 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Leapmotor B10, an SUV battery-electric from Leapmotor with 510 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "leapmotor-b10"
 brand: "leapmotor"
 type: "SUV"
@@ -58,7 +58,7 @@ Leapmotor B10 (starting at $14,060) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor B10 is Leapmotor's SUV battery-electric. It carries a 56 kWh battery and 160 km/h top speed. The platform pairs RWD drivetrain with LFP cells. Pricing starts at $14,060 ex-factory, placing it in the entry-level tier. Across export markets, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Leapmotor B10 is an rear-wheel-drive battery-electric SUV from Leapmotor. It carries 56 kWh of capacity and a CLTC-rated range of 510 km. On landed cost for this SUV battery-electric, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. As a budget SUV battery-electric, it starts at $14,060 ex-factory. This SUV battery-electric is positioned for families and commercial fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -57,7 +57,7 @@ Hongqi H5 Phev (starting at $26,090) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi H5 Phev is an SUV plug-in hybrid from Hongqi. It carries a 7.6-second 0–100 km/h time and 340 Nm of torque. Chassis details include NMC (CATL) chemistry, plus FWD drive. The ex-factory price of $26,090 positions it as a mid-tier import. On landed cost, the least-costly destination is Qatar, near +21% over base ($31,574 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
+The Hongqi H5 Phev is an SUV plug-in hybrid with front-wheel-drive from Hongqi. The $26,090 ex-factory price places this SUV plug-in hybrid in the mid-market band. Key figures are a 18 kWh battery, a CLTC-rated range of 130 km, and 0–100 km/h in 7.6 seconds. For the SUV plug-in hybrid, Germany levies only the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +21% over base (≈ $31,574 landed). For the SUV plug-in hybrid buyer, it suits family and fleet buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

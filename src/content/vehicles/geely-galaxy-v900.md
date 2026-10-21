@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy V900"
-description: "Geely Galaxy V900 is an MPV extended-range electric offered by Geely Galaxy with 202 km of CLTC range, a 50 kWh battery, 340 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Geely Galaxy V900 is an MPV extended-range electric from Geely Galaxy with 202 km of CLTC range, 50 kWh of battery, 340 kW of motor power, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-v900"
 brand: "geely-galaxy"
 type: "MPV"
@@ -56,7 +56,7 @@ Geely Galaxy V900 (starting at $37,470) is a MPV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy V900 is Geely Galaxy's MPV range-extended electric. It carries a rated range of 202 km (CLTC) and 0–100 km/h in 6.5 seconds. The platform pairs NMC (CATL) chemistry with a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $37,470 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +16.2% over base (about $43,523 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers serving the multi-passenger segment.
+The Geely Galaxy V900 is an MPV range-extended electric with dual-motor all-wheel-drive from Geely Galaxy. At $37,470 ex-factory, this MPV range-extended electric sits in the mid-market segment. Across export markets for the MPV range-extended electric, the lowest landed premium is Qatar at roughly +16.2% over base (about $43,523 landed); Germany applies the 10% standard tariff with no countervailing duty. It carries NMC (CATL) chemistry and MacPherson strut front / Multi-link rear suspension. The MPV range-extended electric profile suits shuttle and charter fleet operators comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

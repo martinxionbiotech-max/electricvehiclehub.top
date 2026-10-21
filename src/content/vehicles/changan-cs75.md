@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs75 PHEV"
-description: "Changan Cs75 PHEV is an SUV plug-in hybrid electric offered by ChangAn with 150 kW of motor power and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "ChangAn's Changan Cs75 PHEV is an SUV plug-in hybrid electric, offering 150 kW of motor power and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-cs75"
 brand: "changan"
 type: "SUV"
@@ -51,7 +51,7 @@ Changan Cs75 (starting at $12,060) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan Cs75 PHEV is an SUV plug-in hybrid electric offered by ChangAn. Specification highlights are a 11.8-second 0–100 km/h time, peak output of 150 kW, and 190 km/h top speed. Chassis details include NMC (ternary) chemistry, plus FWD drive. It is positioned as a budget import, priced from $12,060 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +39.7% over base (about $16,843 landed); meanwhile, Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
+The Changan Cs75 PHEV is an front-wheel-drive plug-in hybrid electric SUV from ChangAn. Priced from $12,060 ex-factory, the SUV plug-in hybrid electric falls in the affordable-end tier. Across export markets for the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff; the least-costly destination is Qatar, near +39.7% over base ($16,843 landed). It carries NMC (ternary) cells and a 150 kW electric motor. For the SUV plug-in hybrid electric buyer, it suits family and fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

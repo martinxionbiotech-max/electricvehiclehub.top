@@ -1,6 +1,6 @@
 ---
 title: "Wuling Air EV"
-description: "Wuling Air EV is a hatchback fully electric offered by Wuling with 300 km of CLTC range, 26 kWh of battery, 30 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Wuling's Wuling Air EV is a hatchback fully electric with a CLTC-rated range of 300 km, 26 kWh of battery, 30 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "wuling-air-ev"
 brand: "wuling"
 type: "Hatchback"
@@ -55,7 +55,7 @@ Wuling AIR EV (starting at $8,140) is a Hatchback from WULING.
 
 ## Overview
 
-Wuling Air EV is a hatchback battery-electric offered by Wuling. Specification highlights are a 30 kW electric motor and 110 Nm of torque. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus LFP cells. The ex-factory price of $8,140 positions it as a budget import. On landed cost, the lowest landed premium is Qatar at roughly +56.4% over base (about $12,727 landed); meanwhile, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. The profile suits city-focused buyers and delivery fleets.
+The Wuling Air EV is a hatchback fully electric with rear-wheel-drive from Wuling. Across export markets for the hatchback fully electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff; meanwhile, the least-costly destination is Qatar, near +56.4% over base ($12,727 landed). Key figures are 100 km/h top speed, a 26 kWh battery, and LFP chemistry. This hatchback fully electric is positioned as an affordable-end import, from $8,140 ex-factory. As a hatchback fully electric, it is aimed at city-focused buyers and delivery fleets watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

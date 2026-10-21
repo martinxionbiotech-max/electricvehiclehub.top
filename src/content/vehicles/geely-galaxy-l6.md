@@ -57,7 +57,7 @@ Geely Galaxy L6 (starting at $11,240) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy L6 is an SUV plug-in hybrid electric offered by Geely Galaxy. It carries peak torque of 262 Nm and 115 km of CLTC range. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP cells. Pricing starts at $11,240 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +42.2% over base (≈ $15,982 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+Geely Galaxy's Geely Galaxy L6 is an front-wheel-drive plug-in hybrid electric SUV. Key figures are peak torque of 262 Nm and LFP cells. This SUV plug-in hybrid electric is positioned as an affordable-end import, from $11,240 ex-factory. Across export markets for the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +42.2% over base (about $15,982 landed). The SUV plug-in hybrid electric profile suits family and fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

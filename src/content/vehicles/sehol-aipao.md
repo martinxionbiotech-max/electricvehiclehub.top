@@ -1,6 +1,6 @@
 ---
 title: "Sehol Aipao"
-description: "The Sehol Aipao is a sedan battery-electric from Sehol with 602 km of CLTC range, 64 kWh of battery, 142 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Sehol's Sehol Aipao is a sedan battery-electric with 602 km of CLTC range, 64 kWh of battery, 142 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "sehol-aipao"
 brand: "sehol"
 type: "Sedan"
@@ -54,7 +54,7 @@ Sehol Aipao (starting at $19,430) is a Sedan from SEHOL.
 
 ## Overview
 
-The Sehol Aipao is a sedan battery-electric from Sehol. It carries 64 kWh of battery capacity, a 142 kW electric motor, and 0–100 km/h in 7.6 seconds. The platform pairs LFP chemistry with a MacPherson strut front / Torsion beam rear suspension setup. The ex-factory price of $19,430 positions it as a mainstream-value import. Across export markets, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,581 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for private buyers and ride-hailing operators.
+Sehol's Sehol Aipao is a front-wheel-drive battery-electric sedan. Specification highlights are 64 kWh of capacity and a 7.6-second 0–100 km/h time. For the sedan battery-electric, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,581 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Priced from $19,430 ex-factory, the sedan battery-electric falls in the value tier. For the sedan battery-electric buyer, it suits importers serving the sedan segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Deepal SL03 EREV"
-description: "Deepal SL03 EREV is a sedan extended-range electric offered by Deepal, offering 140 km of CLTC range, 18 kWh of battery, 160 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Deepal SL03 EREV is a sedan extended-range electric from Deepal with a CLTC-rated range of 140 km, a 18 kWh battery, 160 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "deepal-sl03-erev"
 brand: "deepal"
 type: "Sedan"
@@ -54,7 +54,7 @@ Deepal SL03 EREV (starting at $16,650) is a Sedan from DEEPAL.
 
 ## Overview
 
-Deepal SL03 EREV is a sedan extended-range electric offered by Deepal. Specification highlights are 0–100 km/h in 7.5 seconds and 320 Nm of torque. The platform pairs RWD drivetrain with LFP cells. It is positioned as a mainstream-value import, priced from $16,650 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
+Deepal's Deepal SL03 EREV is a rear-wheel-drive extended-range electric sedan. For this sedan extended-range electric, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed). With a $16,650 ex-factory price, the sedan extended-range electric reads as value. Key figures are 18 kWh of capacity and a MacPherson strut front / Multi-link rear suspension layout. For the sedan extended-range electric buyer, it suits business fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

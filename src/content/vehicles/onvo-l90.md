@@ -1,6 +1,6 @@
 ---
 title: "Onvo L90"
-description: "Onvo L90 is an SUV battery-electric offered by Onvo, offering a CLTC-rated range of 605 km, a 85 kWh battery, 340 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Onvo L90 is Onvo's SUV battery-electric, offering 605 km of CLTC range, 85 kWh of battery, 340 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "onvo-l90"
 brand: "onvo"
 type: "SUV"
@@ -58,7 +58,7 @@ Onvo L90 (starting at $37,440) is a SUV from ONVO.
 
 ## Overview
 
-Onvo L90 is an SUV battery-electric offered by Onvo. It carries a rated range of 605 km (CLTC), 85 kWh of battery capacity, and a top speed of 200 km/h. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $37,440 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +16.2% over base (about $43,492 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for importers targeting the family-SUV segment.
+The Onvo L90 is an rear-wheel-drive fully electric SUV from Onvo. With a $37,440 ex-factory price, the SUV fully electric reads as mid-market. Specification highlights are 605 km of CLTC range and 85 kWh of capacity. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +16.2% over base ($43,492 landed). The SUV fully electric profile suits private buyers and fleet managers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Tank 500"
-description: "Tank 500 is an SUV plug-in hybrid offered by Tank, offering 120 km of CLTC range, 37 kWh of battery, 300 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Tank 500 is an SUV plug-in hybrid from Tank, offering a CLTC-rated range of 120 km, a 37 kWh battery, 300 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "tank-500"
 brand: "tank"
 type: "SUV"
@@ -60,7 +60,7 @@ Tank 500 (starting at $47,180) is a SUV from TANK.
 
 ## Overview
 
-The Tank 500 is an SUV plug-in hybrid from Tank. It carries a 37 kWh battery, 180 km/h top speed, and a CLTC-rated range of 120 km. The platform pairs AWD drivetrain with NMC (ternary) chemistry. Pricing starts at $47,180 ex-factory, placing it in the premium tier. For importers, the least-costly destination is Qatar, near +13.9% over base ($53,719 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits premium-tier importers.
+The Tank 500 is an SUV plug-in hybrid with all-wheel-drive from Tank. With a $47,180 ex-factory price, the SUV plug-in hybrid reads as premium. For this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; Qatar offers the cheapest entry at about +13.9% over base (≈ $53,719 landed). It carries NMC (ternary) cells and Double wishbone front / Multi-link rear suspension. As a SUV plug-in hybrid, it is aimed at family and fleet buyers prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

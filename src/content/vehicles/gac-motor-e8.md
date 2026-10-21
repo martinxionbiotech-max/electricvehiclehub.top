@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor E8"
-description: "The GAC Motor E8 is an SUV plug-in hybrid electric from GAC Motor with 136 km of CLTC range, a 25 kWh battery, 134 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "GAC Motor's GAC Motor E8 is an SUV plug-in hybrid electric with 136 km of CLTC range, a 25 kWh battery, 134 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "gac-motor-e8"
 brand: "gac-motor"
 type: "SUV"
@@ -54,7 +54,7 @@ Gac Motor E8 (starting at $32,790) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The GAC Motor E8 is GAC Motor's SUV plug-in hybrid electric. Specification highlights are peak output of 134 kW and 300 Nm of torque. Chassis details include NMC chemistry, plus FWD drive. At an ex-factory price of $32,790, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +17.7% over base (about $38,609 landed) — Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+The GAC Motor E8 is an front-wheel-drive plug-in hybrid electric SUV from GAC Motor. As a mid-tier SUV plug-in hybrid electric, it starts at $32,790 ex-factory. Specification highlights are a top speed of 170 km/h and a 25 kWh battery. On landed cost for this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +17.7% over base (≈ $38,609 landed); meanwhile, Germany levies only the 10% standard tariff. The SUV plug-in hybrid electric profile suits importers targeting the family-SUV segment balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

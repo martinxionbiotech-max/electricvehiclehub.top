@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor ES9"
-description: "The GAC Motor ES9 is an SUV plug-in hybrid from GAC Motor with a CLTC-rated range of 143 km, 25 kWh of battery, 134 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "GAC Motor's GAC Motor ES9 is an SUV plug-in hybrid with a CLTC-rated range of 143 km, 25 kWh of battery, 134 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "gac-motor-es9"
 brand: "gac-motor"
 type: "SUV"
@@ -56,7 +56,7 @@ Gac Motor ES9 (starting at $32,370) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The GAC Motor ES9 is GAC Motor's SUV plug-in hybrid electric. It carries peak torque of 300 Nm and a 134 kW electric motor. The platform pairs NMC (ternary) chemistry with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $32,370, it sits in the mid-market segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +17.9% over base ($38,168 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for family and fleet buyers needing practical space.
+The GAC Motor ES9 is an SUV plug-in hybrid electric with front-wheel-drive from GAC Motor. This SUV plug-in hybrid electric is positioned as a mid-tier import, from $32,370 ex-factory. For the SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +17.9% over base (≈ $38,168 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. Specification highlights are MacPherson strut front / Multi-link rear suspension, a top speed of 180 km/h, and peak output of 134 kW. In the SUV plug-in hybrid electric segment, it serves family and fleet buyers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

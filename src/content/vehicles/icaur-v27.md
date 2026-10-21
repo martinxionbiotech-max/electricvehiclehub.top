@@ -1,6 +1,6 @@
 ---
 title: "iCAR V27"
-description: "iCAR V27 is an SUV extended-range electric offered by iCAUR, offering a CLTC-rated range of 200 km, 34 kWh of battery, 185 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The iCAR V27, an SUV extended-range electric from iCAUR, offering a CLTC-rated range of 200 km, 34 kWh of battery, 185 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "icaur-v27"
 brand: "icaur"
 type: "SUV"
@@ -52,7 +52,7 @@ iCAR V27 (starting at $23,580) is a SUV from ICAUR.
 
 ## Overview
 
-iCAUR's iCAR V27 is an SUV extended-range electric. It carries a CLTC-rated range of 200 km and peak output of 185 kW. The platform pairs RWD drive with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-segment import, priced from $23,580 ex-factory. For importers, the lowest landed premium is Qatar at roughly +22.7% over base (about $28,939 landed), while Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
+iCAR V27 is an SUV extended-range electric from iCAUR, in rear-wheel-drive form. For this SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty — the lowest landed premium is Qatar at roughly +22.7% over base (about $28,939 landed). With a $23,580 ex-factory price, the SUV extended-range electric reads as mainstream-value. It carries a 34 kWh battery, a CLTC-rated range of 200 km, and a 185 kW electric motor. As a SUV extended-range electric, it is aimed at family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Ora Lightning CAT"
-description: "The Ora Lightning CAT is Ora's sedan battery-electric, offering a CLTC-rated range of 555 km, 64 kWh of battery, 150 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Ora Lightning CAT, a sedan battery-electric from Ora, offering a CLTC-rated range of 555 km, 64 kWh of battery, 150 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "ora-lightning-cat"
 brand: "ora"
 type: "Sedan"
@@ -55,7 +55,7 @@ Ora Lightning CAT (starting at $29,410) is a Sedan from ORA.
 
 ## Overview
 
-Ora Lightning CAT is a sedan fully electric offered by Ora. Specification highlights are 170 km/h top speed and peak torque of 340 Nm. The platform pairs NMC (ternary) cells with MacPherson strut front / Multi-link rear suspension. Pricing starts at $29,410 ex-factory, placing it in the mid-market tier. Across export markets, the lowest landed premium is Qatar at roughly +19.2% over base (about $35,060 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits private buyers and ride-hailing operators.
+The Ora Lightning CAT is a sedan fully electric with front- or all-wheel-drive from Ora. For the sedan fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff, while the least-costly destination is Qatar, near +19.2% over base ($35,060 landed). Specification highlights are NMC (ternary) cells, a 150 kW electric motor, and 340 Nm of torque. Priced from $29,410 ex-factory, the sedan fully electric falls in the mid-tier tier. As a sedan fully electric, it is aimed at executive and corporate fleet buyers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

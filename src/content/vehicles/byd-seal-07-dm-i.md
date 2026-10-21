@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 07 DM I"
-description: "The BYD Seal 07 DM I is a sedan plug-in hybrid from BYD, offering 125 km of CLTC range, 17 kWh of battery, 160 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "BYD's BYD Seal 07 DM I is a sedan plug-in hybrid, offering 125 km of CLTC range, 17 kWh of battery, 160 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-seal-07-dm-i"
 brand: "byd"
 type: "Sedan"
@@ -56,7 +56,7 @@ Byd Seal 07 DM I (starting at $21,100) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Seal 07 DM I is BYD's sedan plug-in hybrid electric. It carries 260 Nm of torque and 17 kWh of battery capacity. Chassis details include LFP (Blade) cells, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $21,100 positions it as a mainstream-value import. On landed cost, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits importers serving the executive-sedan segment.
+BYD's BYD Seal 07 DM I is a front-wheel-drive plug-in hybrid electric sedan. Priced from $21,100 ex-factory, the sedan plug-in hybrid electric falls in the value-oriented tier. Key figures are LFP (Blade) cells and a 8-second 0–100 km/h time. Across export markets for the sedan plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed). In the sedan plug-in hybrid electric segment, it serves business fleets watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

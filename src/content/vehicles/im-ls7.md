@@ -1,6 +1,6 @@
 ---
 title: "Im LS7"
-description: "The Im LS7 is an SUV battery-electric from IM, offering 700 km of CLTC range, a 100 kWh battery, 579 kW peak output, and a NMC / LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "IM's Im LS7 is an SUV battery-electric, offering 700 km of CLTC range, a 100 kWh battery, 579 kW peak output, and a NMC / LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "im-ls7"
 brand: "im"
 type: "SUV"
@@ -58,7 +58,7 @@ Im LS7 (starting at $47,870) is a SUV from IM.
 
 ## Overview
 
-Im LS7 is an SUV fully electric offered by IM. Specification highlights are peak output of 579 kW and 700 km of CLTC range. Chassis details include RWD / AWD drive, plus Double wishbone front / Multi-link (air) rear suspension. Pricing starts at $47,870 ex-factory, placing it in the premium tier. On landed cost, Qatar offers the cheapest entry at about +13.7% over base (≈ $54,443 landed); meanwhile, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The profile suits high-spec private buyers.
+IM's Im LS7 is an rear- or all-wheel-drive fully electric SUV. Key figures are Double wishbone front / Multi-link (air) rear suspension and a 100 kWh battery. Across export markets for the SUV fully electric, Qatar offers the cheapest entry at about +13.7% over base (≈ $54,443 landed) — Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. At $47,870 ex-factory, this SUV fully electric sits in the upper-mid segment. In the SUV fully electric segment, it serves importers targeting the family-SUV segment focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

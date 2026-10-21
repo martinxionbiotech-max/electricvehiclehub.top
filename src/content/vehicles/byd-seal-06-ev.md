@@ -57,7 +57,7 @@ Byd Seal 06 EV (starting at $15,460) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Seal 06 EV is a sedan fully electric from BYD. Specification highlights are a 110 kW electric motor and a 46 kWh battery. Chassis details include FWD drive, plus LFP (Blade) chemistry. At an ex-factory price of $15,460, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +32% over base (about $20,413 landed); meanwhile, Germany applies a 17% countervailing duty on top of the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
+BYD Seal 06 EV is a sedan fully electric from BYD, in front-wheel-drive form. With a $15,460 ex-factory price, the sedan fully electric reads as value. It carries LFP (Blade) cells and peak output of 110 kW. For this sedan fully electric, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed), while Germany applies a 17% countervailing duty on top of the 10% standard tariff. In the sedan fully electric segment, it serves importers serving the sedan segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

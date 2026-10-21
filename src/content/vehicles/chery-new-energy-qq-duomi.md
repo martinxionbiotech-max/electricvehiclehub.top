@@ -1,6 +1,6 @@
 ---
 title: "Chery New Energy QQ Duomi"
-description: "The Chery New Energy QQ Duomi is Chery New Energy's hatchback fully electric, offering 305 km of CLTC range, 28 kWh of battery, 40 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery New Energy QQ Duomi, a hatchback fully electric from Chery New Energy, offering 305 km of CLTC range, 28 kWh of battery, 40 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-new-energy-qq-duomi"
 brand: "chery-new-energy"
 type: "Hatchback"
@@ -55,7 +55,7 @@ Chery New Energy QQ Duomi (starting at $8,440) is a Hatchback from CHERY NEW ENE
 
 ## Overview
 
-Chery New Energy QQ Duomi is a hatchback fully electric offered by Chery New Energy. Specification highlights are a rated range of 305 km (CLTC), peak torque of 110 Nm, and a top speed of 100 km/h. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus LFP chemistry. Pricing starts at $8,440 ex-factory, placing it in the entry-level tier. For importers, the lowest landed premium is Qatar at roughly +54.5% over base (about $13,042 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits city-focused buyers and delivery fleets.
+Chery New Energy QQ Duomi is a hatchback fully electric from Chery New Energy, in front-wheel-drive form. As a affordable-end hatchback fully electric, it starts at $8,440 ex-factory. For this hatchback fully electric, the lowest landed premium is Qatar at roughly +54.5% over base (about $13,042 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Specification highlights are peak torque of 110 Nm and a MacPherson strut front / Torsion beam rear suspension layout. For the hatchback fully electric buyer, it suits city-focused buyers and delivery fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

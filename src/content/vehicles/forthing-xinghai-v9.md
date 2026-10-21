@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V9"
-description: "Forthing Xinghai V9 is an SUV plug-in hybrid electric offered by Forthing, offering 200 km of CLTC range, 34 kWh of battery, 150 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Forthing's Forthing Xinghai V9 is an SUV plug-in hybrid electric with a CLTC-rated range of 200 km, 34 kWh of battery, 150 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "forthing-xinghai-v9"
 brand: "forthing"
 type: "SUV"
@@ -56,7 +56,7 @@ Forthing Xinghai V9 (starting at $25,340) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai V9 is an SUV plug-in hybrid from Forthing. It carries a 150 kW electric motor and 0–100 km/h in 9.5 seconds. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $25,340 ex-factory, placing it in the mid-market tier. Across export markets, the lowest landed premium is Qatar at roughly +21.5% over base (about $30,787 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+Forthing Xinghai V9 is an SUV plug-in hybrid from Forthing, in front-wheel-drive form. Specification highlights are a 150 kW electric motor, 34 kWh of capacity, and MacPherson strut front / Multi-link rear suspension. On landed cost for this SUV plug-in hybrid, Qatar offers the cheapest entry at about +21.5% over base (≈ $30,787 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The $25,340 ex-factory price places this SUV plug-in hybrid in the mid-market band. In the SUV plug-in hybrid segment, it serves private buyers and fleet managers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

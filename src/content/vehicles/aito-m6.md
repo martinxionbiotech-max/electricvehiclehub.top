@@ -51,7 +51,7 @@ Aito M6 (starting at $31,920) is a SUV from AITO.
 
 ## Overview
 
-The Aito M6 is AITO's SUV battery-electric. Specification highlights are a 81 kWh battery and 602 km of CLTC range. Chassis details include RWD drivetrain, plus NMC (CATL) cells. At an ex-factory price of $31,920, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +18.1% over base (about $37,696 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
+AITO's Aito M6 is an rear-wheel-drive battery-electric SUV. It carries 81 kWh of capacity and a CLTC-rated range of 602 km. As a mid-tier SUV battery-electric, it starts at $31,920 ex-factory. Across export markets for the SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the lowest landed premium is Qatar at roughly +18.1% over base (about $37,696 landed). As a SUV battery-electric, it is aimed at families and commercial fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

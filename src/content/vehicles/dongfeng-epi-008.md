@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng E PI 008"
-description: "The Dongfeng E PI 008 is Dongfeng eπ's SUV fully electric, offering a CLTC-rated range of 620 km, a 82 kWh battery, 200 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Dongfeng eπ's Dongfeng E PI 008 is an SUV fully electric, offering a CLTC-rated range of 620 km, a 82 kWh battery, 200 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "dongfeng-epi-008"
 brand: "dongfeng-e"
 type: "SUV"
@@ -57,7 +57,7 @@ Dongfeng E PI 008 (starting at $23,930) is a SUV from DONGFENG E.
 
 ## Overview
 
-Dongfeng eπ's Dongfeng E PI 008 is an SUV battery-electric. It carries 82 kWh of battery capacity and a 9-second 0–100 km/h time. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mainstream-value import, priced from $23,930 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,306 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits private buyers and fleet managers.
+Dongfeng eπ's Dongfeng E PI 008 is an rear-wheel-drive battery-electric SUV. Key figures are MacPherson strut front / Multi-link rear suspension, peak output of 200 kW, and a 9-second 0–100 km/h time. For the SUV battery-electric, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,306 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. At $23,930 ex-factory, this SUV battery-electric sits in the value-oriented segment. The SUV battery-electric profile suits importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

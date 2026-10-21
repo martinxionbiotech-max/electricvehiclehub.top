@@ -56,7 +56,7 @@ Exeed VX C DM (starting at $29,560) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed VX C DM is Exeed's SUV plug-in hybrid electric. Specification highlights are 700 Nm of torque and a CLTC-rated range of 180 km. The platform pairs AWD (dual motor) drivetrain with NMC (CATL) cells. At an ex-factory price of $29,560, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +19.1% over base (≈ $35,218 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits regional distributors serving family and logistics demand.
+The Exeed VX C DM is an SUV plug-in hybrid electric with dual-motor all-wheel-drive from Exeed. With a $29,560 ex-factory price, the SUV plug-in hybrid electric reads as mid-tier. It carries peak torque of 700 Nm, peak output of 340 kW, and a 34 kWh battery. For this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +19.1% over base (about $35,218 landed). The SUV plug-in hybrid electric profile suits families and commercial fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

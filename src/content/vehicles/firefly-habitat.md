@@ -53,7 +53,7 @@ firefly Habitat (starting at $18,510) is a Hatchback from FIREFLY.
 
 ## Overview
 
-firefly Habitat is a hatchback fully electric offered by firefly. It carries a rated range of 420 km (CLTC), peak output of 120 kW, and 150 km/h top speed. The platform pairs RWD drive with LFP cells. Pricing starts at $18,510 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +27.6% over base (about $23,615 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits price-sensitive importers.
+firefly Habitat is a hatchback fully electric from firefly, in rear-wheel-drive form. Across export markets for the hatchback fully electric, Qatar offers the cheapest entry at about +27.6% over base (≈ $23,615 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This hatchback fully electric is positioned as a mainstream-value import, from $18,510 ex-factory. It carries 42 kWh of capacity, 150 km/h top speed, and 205 Nm of torque. For the hatchback fully electric buyer, it suits city-focused buyers and delivery fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

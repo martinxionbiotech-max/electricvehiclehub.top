@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ 007 Plus"
-description: "Dongfeng eπ 007 Plus is a sedan extended-range electric offered by Dongfeng eπ with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Dongfeng eπ 007 Plus, a sedan extended-range electric from Dongfeng eπ with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "dongfeng-epi-007-plus"
 brand: "dongfeng-e"
 type: "Sedan"
@@ -45,7 +45,7 @@ Dongfeng eπ 007 Plus (starting at $18,040) is a Sedan from DONGFENG E.
 
 ## Overview
 
-The Dongfeng eπ 007 Plus is Dongfeng eπ's sedan range-extended electric. The platform pairs RWD drivetrain with LFP cells. It is positioned as a mainstream-value import, priced from $18,040 ex-factory. For importers, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed), while Germany levies only the 10% standard tariff. The profile suits price-sensitive importers.
+The Dongfeng eπ 007 Plus is a sedan range-extended electric with rear-wheel-drive from Dongfeng eπ. For this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +28.2% over base (≈ $23,122 landed). Key figures are MacPherson strut front / Multi-link rear suspension and LFP cells. This sedan range-extended electric is positioned as a value-focused import, from $18,040 ex-factory. For the sedan range-extended electric buyer, it suits executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

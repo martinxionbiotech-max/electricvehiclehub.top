@@ -59,7 +59,7 @@ Fangchengbao BAO 5 (starting at $33,770) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-The Fangchengbao BAO 5 is Fangchengbao's SUV plug-in hybrid electric. It carries a 485 kW electric motor and a 4.8-second 0–100 km/h time. Chassis details include LFP (Blade) cells, plus AWD drive. It is positioned as a mid-market import, priced from $33,770 ex-factory. On landed cost, the least-costly destination is Qatar, near +17.4% over base ($39,638 landed) — Germany levies only the 10% standard tariff. It suits private buyers and fleet managers.
+The Fangchengbao BAO 5 is an SUV plug-in hybrid electric with all-wheel-drive from Fangchengbao. As a mid-tier SUV plug-in hybrid electric, it starts at $33,770 ex-factory. Key figures are 125 km of CLTC range, 31 kWh of capacity, and a 4.8-second 0–100 km/h time. On landed cost for this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; Qatar offers the cheapest entry at about +17.4% over base (≈ $39,638 landed). The SUV plug-in hybrid electric profile suits families and commercial fleet operators focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

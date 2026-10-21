@@ -51,7 +51,7 @@ Wuling Asta (starting at $14,060) is a SUV from WULING.
 
 ## Overview
 
-Wuling Asta is an SUV non-plug-in hybrid offered by Wuling. Specification highlights are peak torque of 320 Nm and 145 km/h top speed. Chassis details include NMC (Li-ion) chemistry, plus FWD drivetrain. It is positioned as a budget import, priced from $14,060 ex-factory. For importers, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and fleet managers.
+Wuling Asta is an SUV non-plug-in hybrid from Wuling, in front-wheel-drive form. Specification highlights are a top speed of 145 km/h and MacPherson strut front / Torsion beam rear suspension. For this SUV non-plug-in hybrid, Germany levies only the 10% standard tariff; Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed). With a $14,060 ex-factory price, the SUV non-plug-in hybrid reads as affordable-end. In the SUV non-plug-in hybrid segment, it serves family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

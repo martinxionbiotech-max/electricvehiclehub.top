@@ -58,7 +58,7 @@ Onvo L80 (starting at $33,720) is a SUV from ONVO.
 
 ## Overview
 
-Onvo L80 is an SUV fully electric offered by Onvo. It carries peak output of 340 kW and 605 km of CLTC range. Chassis details include LFP cells, plus MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $33,720, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +17.4% over base ($39,586 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits family and fleet buyers needing practical space.
+Onvo's Onvo L80 is an rear-wheel-drive fully electric SUV. On landed cost for this SUV fully electric, the lowest landed premium is Qatar at roughly +17.4% over base (about $39,586 landed); Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. Key figures are a 340 kW electric motor, a 5.9-second 0–100 km/h time, and 400 Nm of torque. The $33,720 ex-factory price places this SUV fully electric in the mid-tier band. For the SUV fully electric buyer, it suits families and commercial fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A9L"
-description: "Chery Fulwin A9L is an SUV plug-in hybrid electric offered by Chery Fulwin with a CLTC-rated range of 200 km, 33 kWh of battery, 160 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery Fulwin A9L, an SUV plug-in hybrid electric from Chery Fulwin, offering a CLTC-rated range of 200 km, a 33 kWh battery, 160 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "chery-fulwin-a9l"
 brand: "chery-fulwin"
 type: "SUV"
@@ -56,7 +56,7 @@ Chery Fulwin A9L (starting at $21,050) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin A9L is an SUV plug-in hybrid electric offered by Chery Fulwin. It carries 180 km/h top speed and peak output of 160 kW. Chassis details include LFP chemistry, plus FWD drivetrain. At an ex-factory price of $21,050, it sits in the value segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +24.9% over base ($26,282 landed), while Germany levies only the 10% standard tariff. It suits importers targeting the family-SUV segment.
+The Chery Fulwin A9L is an front-wheel-drive plug-in hybrid SUV from Chery Fulwin. Priced from $21,050 ex-factory, the SUV plug-in hybrid falls in the value tier. For the SUV plug-in hybrid, the least-costly destination is Qatar, near +24.9% over base ($26,282 landed); meanwhile, Germany levies only the 10% standard tariff. Key figures are 180 km/h top speed and 200 km of CLTC range. The SUV plug-in hybrid profile suits families and commercial fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

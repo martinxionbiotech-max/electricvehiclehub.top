@@ -57,7 +57,7 @@ Changan Nevo Q05 (starting at $13,650) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo Q05 is an SUV plug-in hybrid electric from ChangAn NEVO. Specification highlights are peak torque of 330 Nm and a CLTC-rated range of 125 km. The platform pairs LFP cells with FWD drive. The ex-factory price of $13,650 positions it as an affordable-end import. Across export markets, Qatar offers the cheapest entry at about +35.6% over base (≈ $18,512 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+The Changan Nevo Q05 is an front-wheel-drive plug-in hybrid electric SUV from ChangAn NEVO. It carries a 7.3-second 0–100 km/h time and LFP cells. The $13,650 ex-factory price places this SUV plug-in hybrid electric in the entry-level band. Across export markets for the SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +35.6% over base (≈ $18,512 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. In the SUV plug-in hybrid electric segment, it serves family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

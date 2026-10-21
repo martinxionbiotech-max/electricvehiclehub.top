@@ -60,7 +60,7 @@ Denza Z9 (starting at $47,150) is a SUV from DENZA.
 
 ## Overview
 
-The Denza Z9 is Denza's sedan battery-electric. It carries peak output of 640 kW and 100 kWh of battery capacity. Chassis details include NMC (LFP option) chemistry, plus a Double wishbone front / Multi-link (air) rear suspension setup. The ex-factory price of $47,150 positions it as an upper-mid import. Across export markets, the lowest landed premium is Qatar at roughly +13.9% over base (about $53,687 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits high-spec private buyers.
+The Denza Z9 is a tri-motor all-wheel-drive battery-electric sedan from Denza. Key figures are a top speed of 230 km/h, a CLTC-rated range of 630 km, and a 3.6-second 0–100 km/h time. Across export markets for the sedan battery-electric, Qatar offers the cheapest entry at about +13.9% over base (≈ $53,687 landed), while Germany applies a 17% countervailing duty on top of the 10% standard tariff. As a upper-mid sedan battery-electric, it starts at $47,150 ex-factory. As a sedan battery-electric, it is aimed at business fleets evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

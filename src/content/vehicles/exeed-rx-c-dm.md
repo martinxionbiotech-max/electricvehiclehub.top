@@ -1,6 +1,6 @@
 ---
 title: "Exeed RX C DM"
-description: "The Exeed RX C DM is Exeed's SUV plug-in hybrid electric with a CLTC-rated range of 182 km, 19 kWh of battery, 150 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Exeed RX C DM, an SUV plug-in hybrid electric from Exeed with a CLTC-rated range of 182 km, 19 kWh of battery, 150 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "exeed-rx-c-dm"
 brand: "exeed"
 type: "SUV"
@@ -56,7 +56,7 @@ Exeed RX C DM (starting at $19,700) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed RX C DM is an SUV plug-in hybrid electric from Exeed. It carries 182 km of CLTC range and 180 km/h top speed. The platform pairs FWD drive with LFP cells. At an ex-factory price of $19,700, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +26.2% over base (about $24,865 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+Exeed's Exeed RX C DM is an front-wheel-drive plug-in hybrid electric SUV. Priced from $19,700 ex-factory, the SUV plug-in hybrid electric falls in the value tier. For this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty — the lowest landed premium is Qatar at roughly +26.2% over base (about $24,865 landed). It carries 0–100 km/h in 8.2 seconds and peak torque of 310 Nm. For the SUV plug-in hybrid electric buyer, it suits importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

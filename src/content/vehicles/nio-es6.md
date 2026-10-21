@@ -1,6 +1,6 @@
 ---
 title: "NIO ES6"
-description: "The NIO ES6 is an SUV battery-electric from NIO with 650 km of CLTC range, a 100 kWh battery, 360 kW of motor power, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "NIO's NIO ES6 is an SUV battery-electric with 650 km of CLTC range, a 100 kWh battery, 360 kW of motor power, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "nio-es6"
 brand: "nio"
 type: "SUV"
@@ -59,7 +59,7 @@ Nio ES6 (starting at $47,460) is a SUV from NIO.
 
 ## Overview
 
-The NIO ES6 is an SUV fully electric from NIO. It carries a top speed of 200 km/h and a 100 kWh battery. Chassis details include AWD drivetrain, plus NMC cells. Pricing starts at $47,460 ex-factory, placing it in the premium tier. Across export markets, the lowest landed premium is Qatar at roughly +13.8% over base (about $54,013 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits premium-tier importers.
+NIO's NIO ES6 is an all-wheel-drive fully electric SUV. Key figures are 0–100 km/h in 4.5 seconds, NMC cells, and a 100 kWh battery. For the SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +13.8% over base (≈ $54,013 landed). Priced from $47,460 ex-factory, the SUV fully electric falls in the premium tier. The SUV fully electric profile suits family and fleet buyers focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Roewe I6 Max"
-description: "Roewe I6 Max is a sedan fully electric offered by Roewe with 605 km of CLTC range, 69 kWh of battery, 120 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Roewe's Roewe I6 Max is a sedan fully electric, offering a CLTC-rated range of 605 km, a 69 kWh battery, 120 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "roewe-i6-max"
 brand: "roewe"
 type: "Sedan"
@@ -53,7 +53,7 @@ Roewe I6 MAX (starting at $36,590) is a Sedan from ROEWE.
 
 ## Overview
 
-Roewe I6 Max is a sedan fully electric offered by Roewe. Specification highlights are 605 km of CLTC range and 280 Nm of torque. Chassis details include FWD drive, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $36,590 positions it as a mid-tier import. For importers, Qatar offers the cheapest entry at about +16.4% over base (≈ $42,599 landed); meanwhile, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
+The Roewe I6 Max is a front-wheel-drive fully electric sedan from Roewe. Priced from $36,590 ex-factory, the sedan fully electric falls in the mid-tier tier. It carries peak torque of 280 Nm, a MacPherson strut front / Multi-link rear suspension layout, and peak output of 120 kW. On landed cost for this sedan fully electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +16.4% over base (≈ $42,599 landed). This sedan fully electric is positioned for private buyers and ride-hailing operators focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

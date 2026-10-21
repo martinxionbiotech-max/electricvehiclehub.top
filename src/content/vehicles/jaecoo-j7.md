@@ -1,6 +1,6 @@
 ---
 title: "Jaecoo J7"
-description: "Jaecoo J7 is an SUV plug-in hybrid offered by Jaecoo with 88 km of CLTC range, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Jaecoo's Jaecoo J7 is an SUV plug-in hybrid, offering a CLTC-rated range of 88 km, 18 kWh of battery, 150 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jaecoo-j7"
 brand: "jaecoo"
 type: "SUV"
@@ -55,7 +55,7 @@ Jaecoo J7 (starting at $16,890) is a SUV from JAECOO.
 
 ## Overview
 
-Jaecoo J7 is an SUV plug-in hybrid electric offered by Jaecoo. It carries a 18 kWh battery and 88 km of CLTC range. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $16,890 ex-factory, placing it in the value tier. On landed cost, the lowest landed premium is Qatar at roughly +29.7% over base (about $21,914 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits price-sensitive importers.
+Jaecoo's Jaecoo J7 is an front-wheel-drive plug-in hybrid electric SUV. For the SUV plug-in hybrid electric, the least-costly destination is Qatar, near +29.7% over base ($21,914 landed), while Germany levies only the 10% standard tariff. Priced from $16,890 ex-factory, the SUV plug-in hybrid electric falls in the value-oriented tier. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout and LFP cells. In the SUV plug-in hybrid electric segment, it serves private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

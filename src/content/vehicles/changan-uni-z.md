@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI Z"
-description: "The Changan UNI Z is ChangAn's SUV plug-in hybrid electric, offering 125 km of CLTC range, 18 kWh of battery, 158 kW peak output, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Changan UNI Z, an SUV plug-in hybrid electric from ChangAn, offering 125 km of CLTC range, 18 kWh of battery, 158 kW peak output, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "changan-uni-z"
 brand: "changan"
 type: "SUV"
@@ -56,7 +56,7 @@ Changan UNI Z (starting at $17,590) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan UNI Z is ChangAn's SUV plug-in hybrid electric. Specification highlights are a top speed of 180 km/h and a 7.4-second 0–100 km/h time. Chassis details include NMC (ternary) chemistry, plus FWD drive. At an ex-factory price of $17,590, it sits in the value segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +28.8% over base (about $22,649 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits budget-conscious fleet buyers.
+Changan UNI Z is an SUV plug-in hybrid electric from ChangAn, in front-wheel-drive form. With a $17,590 ex-factory price, the SUV plug-in hybrid electric reads as value-oriented. Specification highlights are 180 km/h top speed, MacPherson strut front / Multi-link rear suspension, and 330 Nm of torque. For this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +28.8% over base (≈ $22,649 landed), while Germany applies the 10% standard tariff with no countervailing duty. This SUV plug-in hybrid electric is positioned for private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

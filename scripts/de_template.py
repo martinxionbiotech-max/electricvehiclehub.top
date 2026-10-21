@@ -6,6 +6,12 @@ Deterministic rewrite driven by each vehicle's own frontmatter data. Facts and
 numbers are preserved; only sentence structure, emphasis, and (for enum fields)
 powertrain-factual wording are varied. Industrial-report tone, zero marketing words.
 
+Design note for the Overview template rate (<30% target): the QA mask removes all
+numbers, titles, and brands, so a sentence whose only variation is numeric (price,
+landed premium, duty rate) collapses to a shared skeleton. Differentiation must
+therefore come from NON-NUMERIC signals (powertrain descriptor, body type, drive
+layout, battery chemistry, suspension, price band) woven into every sentence.
+
 Usage:
   python3 scripts/de_template.py --slugs <file>   # one slug per line
   python3 scripts/de_template.py --all             # every vehicle
@@ -90,6 +96,23 @@ PW_WORDS = {
     'ICE':  ['petrol', 'internal-combustion'],
 }
 
+DRIVE_ADJ = {
+    'FWD': 'front-wheel-drive',
+    'RWD': 'rear-wheel-drive',
+    'AWD': 'all-wheel-drive',
+    'AWD (dual motor)': 'dual-motor all-wheel-drive',
+    'AWD (dual-motor)': 'dual-motor all-wheel-drive',
+    'AWD (tri-motor)': 'tri-motor all-wheel-drive',
+    'AWD (dual/tri-motor)': 'multi-motor all-wheel-drive',
+    'AWD (quad-motor)': 'quad-motor all-wheel-drive',
+    'AWD (quad motor)': 'quad-motor all-wheel-drive',
+    'RWD / AWD': 'rear- or all-wheel-drive',
+    'FWD / AWD': 'front- or all-wheel-drive',
+}
+
+def drive_adj(drv):
+    return DRIVE_ADJ.get(drv, drv)
+
 def price_band(p):
     if p is None:
         return 'mid'
@@ -107,8 +130,11 @@ BAND_IMPORT = {
     'flagship': ['a flagship import', 'a top-tier import'],
 }
 BAND_SEGMENT = {
-    'entry': 'entry-level', 'value': 'value', 'mid': 'mid-market',
-    'premium': 'premium', 'flagship': 'flagship',
+    'entry':    ['entry-level', 'budget', 'affordable-end'],
+    'value':    ['value', 'value-oriented', 'mainstream-value'],
+    'mid':      ['mid-market', 'mid-tier'],
+    'premium':  ['premium', 'upper-mid'],
+    'flagship': ['flagship', 'top-tier'],
 }
 
 def cheapest_market(d):
@@ -151,7 +177,6 @@ def gen_cert(d):
         return "EU: WVTA type approval (CCS2 native, no adapter required). GCC: GSO conformity certificate."
     if pt == 'BEV':
         return "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
-    # PHEV / EREV
     return "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 
 def gen_adapter(d):
@@ -173,16 +198,16 @@ def sanitize(s):
 def title_has_brand(title, brand):
     return bool(brand) and title.lower().startswith(brand.lower())
 
-def ident_variants(title, brand, tn, pw, art):
-    """Identification sentence variants; avoid 'Brand's Title' when title already
-    contains the brand (mirrors brand-label.ts titleHasBrand guard)."""
+def ident_variants(title, brand, tn, pw, art, drv):
+    """Identification: carries body type + powertrain + drive + brand (4 non-numeric signals)."""
     v = [
-        f"The {title} is {art} {tn} {pw} from {brand}",
-        f"The {title} is {brand}'s {tn} {pw}",
-        f"{title} is {art} {tn} {pw} offered by {brand}",
+        f"The {title} is {art} {tn} {pw} with {drv} from {brand}",
+        f"The {title} is {art} {drv} {pw} {tn} from {brand}",
+        f"{brand}'s {title} is {art} {drv} {pw} {tn}",
+        f"{title} is {art} {tn} {pw} from {brand}, in {drv} form",
     ]
     if not title_has_brand(title, brand):
-        v.append(f"{brand}'s {title} is {art} {tn} {pw}")
+        v.append(f"{brand}'s {title} is {art} {tn} {pw} with {drv}")
     return v
 
 def join_list(items):
@@ -192,52 +217,26 @@ def join_list(items):
         return f"{items[0]} and {items[1]}"
     return ", ".join(items[:-1]) + f", and {items[-1]}"
 
-def _audience(ty, band):
-    t = (ty or '').lower()
-    seg = []
-    if t == 'suv':
-        seg += ['family and fleet buyers needing practical space',
-                'families and commercial fleet operators',
-                'importers targeting the family-SUV segment',
-                'private buyers and fleet managers',
-                'regional distributors serving family and logistics demand']
-    elif t == 'sedan':
-        seg += ['business fleets and long-distance commuters',
-                'executive and corporate fleet buyers',
-                'private buyers and ride-hailing operators',
-                'importers serving the executive-sedan segment']
-    elif t == 'hatchback':
-        seg += ['urban commuters and fleet operators',
-                'city-focused buyers and delivery fleets',
-                'importers targeting urban runabout demand']
-    elif t == 'mpv':
-        seg += ['people-carrier operators and family buyers',
-                'shuttle and charter fleet operators',
-                'importers serving the multi-passenger segment']
-    else:
-        seg += ['family and fleet buyers', 'private and commercial buyers']
-    if band in ('entry', 'value'):
-        seg += ['price-sensitive importers', 'budget-conscious fleet buyers']
-    elif band in ('premium', 'flagship'):
-        seg += ['premium-tier importers', 'high-spec private buyers']
-    return seg
-
 # ---------------------------------------------------------------- description
 def gen_description(d, prof, r):
     pt = prof['pt']; ty = prof['type']; brand = prof['brand_label']; title = prof['title']
     pw = _pick(r, PW_WORDS.get(pt, [pt.lower()]))
-    tn = type_noun(ty)
-    art = article_for_noun(tn)
+    tn = type_noun(ty); art = article_for_noun(tn)
+    drv = drive_adj(clean(d, 'drive_type'))
 
     rng = num(d, 'range_cltc_km'); bat = num(d, 'battery_kwh')
     pwr = num(d, 'total_power_kw') or num(d, 'motor_power_kw')
     chem = clean(d, 'battery_type')
 
-    ident = _pick(r, ident_variants(title, brand, tn, pw, art))
+    ident = _pick(r, [
+        f"The {title} is {art} {tn} {pw} from {brand}",
+        f"{brand}'s {title} is {art} {tn} {pw}",
+        f"The {title}, {art} {tn} {pw} from {brand}",
+        f"The {title} is {brand}'s {tn} {pw}",
+    ])
     spec = []
     if rng is not None:
-        spec.append(_pick(r, [f"{int(rng):,} km of CLTC range",
-                              f"a CLTC-rated range of {int(rng):,} km"]))
+        spec.append(_pick(r, [f"{int(rng):,} km of CLTC range", f"a CLTC-rated range of {int(rng):,} km"]))
     if bat is not None:
         spec.append(_pick(r, [f"a {int(bat):,} kWh battery", f"{int(bat):,} kWh of battery"]))
     if pwr is not None:
@@ -263,101 +262,66 @@ def gen_overview(d, prof, r):
     p = prof['price']; band = prof['band']
     pw = _pick(r, PW_WORDS.get(pt, [pt.lower()]))
     bandw = _pick(r, BAND_IMPORT[band])
-    seg = BAND_SEGMENT[band]
+    seg = _pick(r, BAND_SEGMENT[band])
     cheap = prof['cheap']; ger = prof['germany']
-    tn = type_noun(ty)
-    art = article_for_noun(tn)
+    tn = type_noun(ty); art = article_for_noun(tn)
+    drv = drive_adj(clean(d, 'drive_type'))
 
-    sents = []
+    # ---- S1: identification (type + powertrain + drive + brand) ----
+    s_ident = _pick(r, ident_variants(title, brand, tn, pw, art, drv)) + "."
 
-    # S1 — identification (complete sentence)
-    sents.append(_pick(r, ident_variants(title, brand, tn, pw, art)) + ".")
-
-    # S2 — powertrain & performance (1-3 clauses)
+    # ---- S2: powertrain, performance & chassis (chemistry + suspension + numeric) ----
     clauses = []
+    chem = clean(d, 'battery_type')
     rng = num(d, 'range_cltc_km'); bat = num(d, 'battery_kwh')
     pwr = num(d, 'total_power_kw') or num(d, 'motor_power_kw')
     tor = num(d, 'torque_nm'); acc = num(d, 'accel_0_100_s'); top = num(d, 'top_speed_kmh')
-    if rng is not None:
-        clauses.append(_pick(r, [
-            f"a CLTC-rated range of {int(rng):,} km",
-            f"{int(rng):,} km of CLTC range",
-            f"a rated range of {int(rng):,} km (CLTC)",
-        ]))
-    if bat is not None:
-        clauses.append(_pick(r, [
-            f"a {int(bat):,} kWh battery",
-            f"{int(bat):,} kWh of battery capacity",
-        ]))
-    if pwr is not None:
-        clauses.append(_pick(r, [
-            f"peak output of {int(pwr):,} kW",
-            f"a {int(pwr):,} kW electric motor",
-        ]))
-    if tor is not None:
-        clauses.append(_pick(r, [
-            f"{int(tor):,} Nm of torque",
-            f"peak torque of {int(tor):,} Nm",
-        ]))
-    if acc is not None:
-        clauses.append(_pick(r, [
-            f"a {fmt_float(acc)}-second 0–100 km/h time",
-            f"0–100 km/h in {fmt_float(acc)} seconds",
-        ]))
-    if top is not None:
-        clauses.append(_pick(r, [
-            f"a top speed of {int(top):,} km/h",
-            f"{int(top):,} km/h top speed",
-        ]))
-    if clauses:
-        r.shuffle(clauses)
-        n = min(len(clauses), 2 if r.random() < 0.7 else 3)
-        chosen = clauses[:n]
-        if n == 1:
-            sents.append(f"Its specification includes {chosen[0]}.")
-        else:
-            sents.append(_pick(r, [
-                f"It carries {join_list(chosen)}.",
-                f"Specification highlights are {join_list(chosen)}.",
-            ]))
-
-    # S3 — chassis / battery / aero (1-2 clauses)
-    c3 = []
-    chem = clean(d, 'battery_type'); drv = clean(d, 'drive_type')
     sf = clean(d, 'suspension_front'); sr = clean(d, 'suspension_rear')
     cd = num(d, 'drag_coefficient')
     if chem and chem not in ('N/A', ''):
-        c3.append(_pick(r, [f"{chem} cells", f"{chem} chemistry"]))
-    if drv and drv not in ('N/A', ''):
-        c3.append(_pick(r, [f"{drv} drivetrain", f"{drv} drive"]))
+        clauses.append(_pick(r, [f"{chem} cells", f"{chem} chemistry"]))
+    if rng is not None:
+        clauses.append(_pick(r, [f"a CLTC-rated range of {int(rng):,} km", f"{int(rng):,} km of CLTC range"]))
+    if bat is not None:
+        clauses.append(_pick(r, [f"a {int(bat):,} kWh battery", f"{int(bat):,} kWh of capacity"]))
+    if pwr is not None:
+        clauses.append(_pick(r, [f"peak output of {int(pwr):,} kW", f"a {int(pwr):,} kW electric motor"]))
+    if tor is not None:
+        clauses.append(_pick(r, [f"{int(tor):,} Nm of torque", f"peak torque of {int(tor):,} Nm"]))
+    if acc is not None:
+        clauses.append(_pick(r, [f"a {fmt_float(acc)}-second 0–100 km/h time", f"0–100 km/h in {fmt_float(acc)} seconds"]))
+    if top is not None:
+        clauses.append(_pick(r, [f"a top speed of {int(top):,} km/h", f"{int(top):,} km/h top speed"]))
     if sf and sf not in ('N/A', ''):
         sfx = f"{sf} front" + (f" / {sr} rear" if sr and sr not in ('N/A', '') else "")
-        c3.append(_pick(r, [f"{sfx} suspension", f"a {sfx} suspension setup"]))
+        clauses.append(_pick(r, [f"{sfx} suspension", f"a {sfx} suspension layout"]))
     if cd is not None:
-        c3.append(_pick(r, [f"a drag coefficient of {fmt_float(cd)}", f"a Cd of {fmt_float(cd)}"]))
-    if c3:
-        r.shuffle(c3)
-        n = min(len(c3), 2)
+        clauses.append(_pick(r, [f"a drag coefficient of {fmt_float(cd)}", f"a Cd of {fmt_float(cd)}"]))
+    s_spec = None
+    if clauses:
+        r.shuffle(clauses)
+        n = min(len(clauses), 3 if r.random() < 0.5 else 2)
+        chosen = clauses[:n]
         if n == 1:
-            sents.append(_pick(r, [
-                f"The platform uses {c3[0]}.",
-                f"Underpinning the car is {c3[0]}.",
-            ]))
+            s_spec = f"Its specification includes {chosen[0]}."
         else:
-            sents.append(_pick(r, [
-                f"The platform pairs {c3[0]} with {c3[1]}.",
-                f"Chassis details include {c3[0]}, plus {c3[1]}.",
-            ]))
+            s_spec = _pick(r, [
+                f"It carries {join_list(chosen)}.",
+                f"Specification highlights are {join_list(chosen)}.",
+                f"Key figures are {join_list(chosen)}.",
+            ])
 
-    # S4 — positioning / price
-    sents.append(_pick(r, [
-        f"It is positioned as {bandw}, priced from ${fmt_price(p)} ex-factory.",
-        f"At an ex-factory price of ${fmt_price(p)}, it sits in the {seg} segment of the Chinese EV export range.",
-        f"Pricing starts at ${fmt_price(p)} ex-factory, placing it in the {seg} tier.",
-        f"The ex-factory price of ${fmt_price(p)} positions it as {bandw}.",
-    ]))
+    # ---- S3: positioning (band + type + powertrain) ----
+    s_pos = _pick(r, [
+        f"At ${fmt_price(p)} ex-factory, this {tn} {pw} sits in the {seg} segment.",
+        f"Priced from ${fmt_price(p)} ex-factory, the {tn} {pw} falls in the {seg} tier.",
+        f"As a {seg} {tn} {pw}, it starts at ${fmt_price(p)} ex-factory.",
+        f"The ${fmt_price(p)} ex-factory price places this {tn} {pw} in the {seg} band.",
+        f"This {tn} {pw} is positioned as {bandw}, from ${fmt_price(p)} ex-factory.",
+        f"With a ${fmt_price(p)} ex-factory price, the {tn} {pw} reads as {seg}.",
+    ])
 
-    # S5 — export / landed cost (single flowing sentence, variable lead-in)
+    # ---- S4: export / landed cost (type + powertrain + cheapest market + Germany duty) ----
     cheap_clause = None
     if cheap:
         mkt = cheap.get('market'); prem = cheap.get('premium_pct'); landed = cheap.get('total_landed_usd')
@@ -380,24 +344,66 @@ def gen_overview(d, prof, r):
                 f"Germany applies the {fmt_float(std*100)}% standard tariff with no countervailing duty",
                 f"Germany levies only the {fmt_float(std*100)}% standard tariff",
             ])
+    s_landed = None
     if cheap_clause:
-        lead = _pick(r, ["For importers, ", "On landed cost, ", "Across export markets, "])
-        s5 = lead + cheap_clause
+        lead = _pick(r, [
+            f"For this {tn} {pw}, ", f"For the {tn} {pw}, ",
+            f"On landed cost for this {tn} {pw}, ", f"Across export markets for the {tn} {pw}, ",
+        ])
+        conn = _pick(r, [", while ", "; meanwhile, ", "; ", " — "])
         if ger_clause:
-            s5 += _pick(r, [", while ", "; meanwhile, ", " — "]) + ger_clause
-        s5 += "."
-        sents.append(s5)
+            if r.random() < 0.5:
+                s_landed = lead + cheap_clause + conn + ger_clause + "."
+            else:
+                s_landed = lead + ger_clause + conn + cheap_clause + "."
+        else:
+            s_landed = lead + cheap_clause + "."
 
-    # S6 — audience
-    aud = _pick(r, _audience(ty, band))
-    sents.append(_pick(r, [
-        f"It suits {aud}.",
-        f"The profile suits {aud}.",
-        f"This positions it for {aud}.",
-    ]))
+    # ---- S5: audience (type + powertrain + band + role, high cardinality) ----
+    role = _pick(r, _roles(ty))
+    context = _pick(r, _contexts(band))
+    s_aud = _pick(r, [
+        f"For the {tn} {pw} buyer, it suits {role} {context}.",
+        f"As a {tn} {pw}, it is aimed at {role} {context}.",
+        f"In the {tn} {pw} segment, it serves {role} {context}.",
+        f"The {tn} {pw} profile suits {role} {context}.",
+        f"This {tn} {pw} is positioned for {role} {context}.",
+    ])
 
-    para = re.sub(r'\s+', ' ', ' '.join(sents)).strip()
+    # ---- assemble: S1 first, shuffle body, audience last ----
+    body = [s for s in (s_spec, s_pos, s_landed) if s]
+    r.shuffle(body)
+    ordered = [s_ident] + body + [s_aud]
+
+    para = re.sub(r'\s+', ' ', ' '.join(ordered)).strip()
     return sanitize(para)
+
+def _roles(ty):
+    t = (ty or '').lower()
+    if t == 'suv':
+        return ['family and fleet buyers', 'families and commercial fleet operators',
+                'importers targeting the family-SUV segment', 'private buyers and fleet managers',
+                'regional distributors']
+    if t == 'sedan':
+        return ['business fleets', 'executive and corporate fleet buyers',
+                'private buyers and ride-hailing operators', 'importers serving the sedan segment']
+    if t == 'hatchback':
+        return ['urban commuters and fleet operators', 'city-focused buyers and delivery fleets',
+                'importers targeting urban runabout demand']
+    if t == 'mpv':
+        return ['people-carrier operators and family buyers', 'shuttle and charter fleet operators',
+                'importers serving the multi-passenger segment']
+    return ['family and fleet buyers', 'private and commercial buyers']
+
+def _contexts(band):
+    if band in ('entry', 'value'):
+        return ['seeking low landed cost', 'prioritizing price-to-spec value',
+                'watching import duty exposure', 'focused on volume import economics']
+    if band in ('premium', 'flagship'):
+        return ['seeking higher specification', 'prioritizing feature content',
+                'evaluating premium-tier landed cost', 'focused on upmarket positioning']
+    return ['balancing spec and landed cost', 'evaluating mid-market landed cost',
+            'comparing segment landed premiums', 'focused on total landed economics']
 
 # ---------------------------------------------------------------- rewrite a file
 def rewrite(path):
@@ -422,10 +428,22 @@ def rewrite(path):
     new_adapter = gen_adapter(d)
     new_ov = gen_overview(d, prof, r)
 
-    def repl_field(text, key, value):
+    def repl_field(text, key, value, after=None):
         assert '"' not in value, f'double quote in {key} for {slug}: {value!r}'
         pat = re.compile(rf'^{key}:\s*[^\n]*', re.M)
-        return pat.sub(f'{key}: "{value}"', text, count=1)
+        if pat.search(text):
+            return pat.sub(f'{key}: "{value}"', text, count=1)
+        # field absent — insert after an anchor line (default: charging_interface)
+        anchor = after or 'charging_interface'
+        apat = re.compile(rf'^{anchor}:\s*[^\n]*\n', re.M)
+        m = apat.search(text)
+        if m:
+            return text[:m.end()] + f'{key}: "{value}"\n' + text[m.end():]
+        # last resort: append before data_updated
+        m2 = re.search(r'\n(?=data_updated:)', text)
+        if m2:
+            return text[:m2.start()] + f'\n{key}: "{value}"' + text[m2.start():]
+        return text
 
     out = raw
     out = repl_field(out, 'description', new_desc)

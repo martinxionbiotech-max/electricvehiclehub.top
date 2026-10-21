@@ -55,7 +55,7 @@ Baojun Yunduo (starting at $13,490) is a SUV from BAOJUN.
 
 ## Overview
 
-Baojun Yunduo is an SUV battery-electric offered by Baojun. Specification highlights are 360 km of CLTC range and a top speed of 150 km/h. Chassis details include FWD drivetrain, plus MacPherson strut front / Torsion beam rear suspension. It is positioned as an affordable-end import, priced from $13,490 ex-factory. For importers, the least-costly destination is Qatar, near +36% over base ($18,344 landed); meanwhile, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The profile suits regional distributors serving family and logistics demand.
+Baojun's Baojun Yunduo is an front-wheel-drive battery-electric SUV. It carries a CLTC-rated range of 360 km and LFP chemistry. This SUV battery-electric is positioned as an affordable-end import, from $13,490 ex-factory. On landed cost for this SUV battery-electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +36% over base ($18,344 landed). In the SUV battery-electric segment, it serves importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

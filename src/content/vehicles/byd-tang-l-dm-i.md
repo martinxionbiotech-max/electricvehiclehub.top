@@ -54,7 +54,7 @@ BYD Tang L DM-i (starting at $31,920) is a SUV from BYD.
 
 ## Overview
 
-The BYD Tang L DM-i is an SUV plug-in hybrid from BYD. It carries a 7.9-second 0–100 km/h time and peak output of 200 kW. The platform pairs LFP (Blade) chemistry with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $31,920, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +18.1% over base (about $37,696 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+BYD's BYD Tang L DM-i is an front-wheel-drive plug-in hybrid SUV. It carries LFP (Blade) cells and a 35 kWh battery. As a mid-market SUV plug-in hybrid, it starts at $31,920 ex-factory. For the SUV plug-in hybrid, Germany levies only the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +18.1% over base ($37,696 landed). This SUV plug-in hybrid is positioned for importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Aion Y Plus"
-description: "Aion Y Plus is an SUV fully electric offered by AION, offering a CLTC-rated range of 510 km, a 61 kWh battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Aion Y Plus, an SUV fully electric from AION, offering 510 km of CLTC range, a 61 kWh battery, 150 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "aion-y-plus"
 brand: "aion"
 type: "SUV"
@@ -55,7 +55,7 @@ Aion Y Plus (starting at $13,860) is a SUV from AION.
 
 ## Overview
 
-The Aion Y Plus is AION's SUV fully electric. It carries peak output of 150 kW and a rated range of 510 km (CLTC). Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP cells. At an ex-factory price of $13,860, it sits in the entry-level segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits private buyers and fleet managers.
+The Aion Y Plus is an SUV battery-electric with front-wheel-drive from AION. It carries 225 Nm of torque, LFP cells, and MacPherson strut front / Torsion beam rear suspension. This SUV battery-electric is positioned as a budget import, from $13,860 ex-factory. Across export markets for the SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff, while Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed). For the SUV battery-electric buyer, it suits family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Avatr 12 EREV"
-description: "Avatr 12 EREV is a sedan extended-range electric offered by Avatr with 356 km of CLTC range, 52 kWh of battery, 231 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Avatr's Avatr 12 EREV is a sedan extended-range electric, offering a CLTC-rated range of 356 km, a 52 kWh battery, 231 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "avatr-12-erev"
 brand: "avatr"
 type: "Sedan"
@@ -56,7 +56,7 @@ Avatr 12 EREV (starting at $37,490) is a Sedan from AVATR.
 
 ## Overview
 
-The Avatr 12 EREV is a sedan extended-range electric from Avatr. Specification highlights are peak output of 231 kW and a CLTC-rated range of 356 km. Chassis details include RWD drive, plus Double wishbone front / Multi-link rear suspension. It is positioned as a mid-tier import, priced from $37,490 ex-factory. For importers, the least-costly destination is Qatar, near +16.1% over base ($43,544 landed) — Germany levies only the 10% standard tariff. This positions it for business fleets and long-distance commuters.
+Avatr 12 EREV is a sedan range-extended electric from Avatr, in rear-wheel-drive form. This sedan range-extended electric is positioned as a mid-market import, from $37,490 ex-factory. On landed cost for this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while Qatar offers the cheapest entry at about +16.1% over base (≈ $43,544 landed). It carries peak torque of 367 Nm and Double wishbone front / Multi-link rear suspension. The sedan range-extended electric profile suits business fleets balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

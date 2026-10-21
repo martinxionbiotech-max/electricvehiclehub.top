@@ -58,7 +58,7 @@ Arcfox AT (starting at $28,990) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox AT is Arcfox's SUV fully electric. Specification highlights are a rated range of 480 km (CLTC) and a top speed of 180 km/h. Chassis details include RWD / AWD drivetrain, plus NMC chemistry. At an ex-factory price of $28,990, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +19.4% over base (about $34,619 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits private buyers and fleet managers.
+Arcfox's Arcfox AT is an rear- or all-wheel-drive fully electric SUV. As a mid-tier SUV fully electric, it starts at $28,990 ex-factory. Across export markets for the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; the lowest landed premium is Qatar at roughly +19.4% over base (about $34,619 landed). Key figures are peak output of 160 kW and a CLTC-rated range of 480 km. As a SUV fully electric, it is aimed at importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -54,7 +54,7 @@ Jetour X70 C DM (starting at $21,110) is a SUV from JETOUR.
 
 ## Overview
 
-Jetour X70 C DM is an SUV plug-in hybrid offered by Jetour. It carries 19 kWh of battery capacity and peak output of 199 kW. Chassis details include LFP cells, plus FWD drivetrain. It is positioned as a value-segment import, priced from $21,110 ex-factory. For importers, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,345 landed) — Germany levies only the 10% standard tariff. The profile suits budget-conscious fleet buyers.
+The Jetour X70 C DM is an front-wheel-drive plug-in hybrid SUV from Jetour. For the SUV plug-in hybrid, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,345 landed) — Germany applies the 10% standard tariff with no countervailing duty. Key figures are a CLTC-rated range of 110 km, a 19 kWh battery, and a 199 kW electric motor. The $21,110 ex-factory price places this SUV plug-in hybrid in the mainstream-value band. As a SUV plug-in hybrid, it is aimed at regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -50,7 +50,7 @@ Exeed ET5 (starting at $20,120) is a SUV from EXEED.
 
 ## Overview
 
-Exeed ET5 is an SUV range-extended electric offered by Exeed. Specification highlights are a CLTC-rated range of 210 km and a 195 kW electric motor. The platform pairs RWD drive with a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mainstream-value import, priced from $20,120 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +25.8% over base (about $25,306 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits regional distributors serving family and logistics demand.
+The Exeed ET5 is an SUV range-extended electric with rear-wheel-drive from Exeed. For the SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +25.8% over base ($25,306 landed). Specification highlights are LFP chemistry and 210 km of CLTC range. At $20,120 ex-factory, this SUV range-extended electric sits in the mainstream-value segment. This SUV range-extended electric is positioned for family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

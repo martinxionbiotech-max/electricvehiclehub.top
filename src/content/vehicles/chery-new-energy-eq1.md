@@ -57,7 +57,7 @@ Chery New Energy EQ1 (starting at $7,730) is a Hatchback from CHERY NEW ENERGY.
 
 ## Overview
 
-The Chery New Energy EQ1 is Chery New Energy's hatchback fully electric. It carries a top speed of 100 km/h and a 25 kWh battery. The platform pairs LFP cells with MacPherson strut front / Torsion beam rear suspension. Pricing starts at $7,730 ex-factory, placing it in the entry-level tier. On landed cost, the lowest landed premium is Qatar at roughly +59.1% over base (about $12,296 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for importers targeting urban runabout demand.
+Chery New Energy EQ1 is a hatchback fully electric from Chery New Energy, in rear-wheel-drive form. Specification highlights are 0–100 km/h in 6 seconds, 25 kWh of capacity, and 95 Nm of torque. On landed cost for this hatchback fully electric, the least-costly destination is Qatar, near +59.1% over base ($12,296 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. As a budget hatchback fully electric, it starts at $7,730 ex-factory. As a hatchback fully electric, it is aimed at importers targeting urban runabout demand watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

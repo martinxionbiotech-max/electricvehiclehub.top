@@ -62,7 +62,7 @@ Xiaomi SU7 Ultra (starting at $73,600) is a Sedan from XIAOMI.
 
 ## Overview
 
-The Xiaomi SU7 Ultra is Xiaomi's sedan battery-electric. It carries peak torque of 1,770 Nm and a 1,138 kW electric motor. The platform pairs NMC (Qilin 2.0, CATL) chemistry with a drag coefficient of 0.195. At an ex-factory price of $73,600, it sits in the flagship segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +10.7% over base (about $81,460 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for private buyers and ride-hailing operators.
+Xiaomi's Xiaomi SU7 Ultra is a tri-motor all-wheel-drive battery-electric sedan. This sedan battery-electric is positioned as a flagship import, from $73,600 ex-factory. Specification highlights are 93 kWh of capacity and a top speed of 350 km/h. For the sedan battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +10.7% over base (≈ $81,460 landed). In the sedan battery-electric segment, it serves business fleets evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

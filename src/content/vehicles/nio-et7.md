@@ -59,7 +59,7 @@ Nio ET7 (starting at $60,100) is a SUV from NIO.
 
 ## Overview
 
-NIO ET7 is an SUV fully electric offered by NIO. Specification highlights are 675 km of CLTC range and 185 kWh of battery capacity. Chassis details include AWD drivetrain, plus Double wishbone front / Multi-link (air) rear suspension. It is positioned as a flagship import, priced from $60,100 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +12% over base (about $67,285 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
+NIO's NIO ET7 is an all-wheel-drive fully electric SUV. At $60,100 ex-factory, this SUV fully electric sits in the top-tier segment. Across export markets for the SUV fully electric, the lowest landed premium is Qatar at roughly +12% over base (about $67,285 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Specification highlights are 675 km of CLTC range, 185 kWh of capacity, and 0–100 km/h in 3.8 seconds. As a SUV fully electric, it is aimed at regional distributors focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

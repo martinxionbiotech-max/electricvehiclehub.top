@@ -53,7 +53,7 @@ Exeed Exlantix ET EREV (starting at $24,000) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed Exlantix ET EREV is an SUV range-extended electric from Exeed. It carries 200 km of CLTC range and 32 kWh of battery capacity. The platform pairs RWD / AWD drive with a Double wishbone front / Multi-link rear suspension setup. The ex-factory price of $24,000 positions it as a mainstream-value import. For importers, the lowest landed premium is Qatar at roughly +22.4% over base (about $29,380 landed) — Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
+Exeed's Exeed Exlantix ET EREV is an rear- or all-wheel-drive range-extended electric SUV. For the SUV range-extended electric, Qatar offers the cheapest entry at about +22.4% over base (≈ $29,380 landed) — Germany applies the 10% standard tariff with no countervailing duty. With a $24,000 ex-factory price, the SUV range-extended electric reads as value. It carries a CLTC-rated range of 200 km, 32 kWh of capacity, and Double wishbone front / Multi-link rear suspension. As a SUV range-extended electric, it is aimed at private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

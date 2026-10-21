@@ -43,7 +43,7 @@ JMC Yi Chi 05S (starting at $13,580) is a SUV from JMC.
 
 ## Overview
 
-JMC Yi Chi 05S is an SUV battery-electric offered by JMC. Its specification includes 500 km of CLTC range. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus LFP chemistry. At an ex-factory price of $13,580, it sits in the entry-level segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +35.8% over base (≈ $18,439 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits private buyers and fleet managers.
+JMC's JMC Yi Chi 05S is an front-wheel-drive battery-electric SUV. This SUV battery-electric is positioned as an affordable-end import, from $13,580 ex-factory. For this SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +35.8% over base (about $18,439 landed). Key figures are MacPherson strut front / Torsion beam rear suspension and LFP chemistry. The SUV battery-electric profile suits private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

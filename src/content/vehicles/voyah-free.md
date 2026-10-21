@@ -1,6 +1,6 @@
 ---
 title: "Voyah Free"
-description: "The Voyah Free is Voyah's SUV range-extended electric, offering a CLTC-rated range of 318 km, 45 kWh of battery, 215 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Voyah Free, an SUV range-extended electric from Voyah, offering a CLTC-rated range of 318 km, 45 kWh of battery, 215 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "voyah-free"
 brand: "voyah"
 type: "SUV"
@@ -57,7 +57,7 @@ Voyah Free (starting at $30,970) is a SUV from VOYAH.
 
 ## Overview
 
-Voyah Free is an SUV extended-range electric offered by Voyah. It carries 380 Nm of torque and 180 km/h top speed. The platform pairs Double wishbone front / Multi-link (air) rear suspension with RWD / AWD drivetrain. At an ex-factory price of $30,970, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +18.5% over base ($36,698 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits regional distributors serving family and logistics demand.
+Voyah's Voyah Free is an rear- or all-wheel-drive extended-range electric SUV. For the SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +18.5% over base (about $36,698 landed). With a $30,970 ex-factory price, the SUV extended-range electric reads as mid-market. Specification highlights are a CLTC-rated range of 318 km, Double wishbone front / Multi-link (air) rear suspension, and a 215 kW electric motor. In the SUV extended-range electric segment, it serves private buyers and fleet managers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

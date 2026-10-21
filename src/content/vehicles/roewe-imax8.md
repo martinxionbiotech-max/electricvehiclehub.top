@@ -54,7 +54,7 @@ Roewe Imax8 (starting at $28,150) is a MPV from ROEWE.
 
 ## Overview
 
-Roewe Imax8 is an MPV battery-electric offered by Roewe. Specification highlights are a rated range of 570 km (CLTC) and peak torque of 390 Nm. Chassis details include FWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $28,150 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +19.8% over base (about $33,737 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for shuttle and charter fleet operators.
+Roewe Imax8 is an MPV battery-electric from Roewe, in front-wheel-drive form. For the MPV battery-electric, the least-costly destination is Qatar, near +19.8% over base ($33,737 landed); Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. It carries LFP chemistry, peak torque of 390 Nm, and 90 kWh of capacity. The $28,150 ex-factory price places this MPV battery-electric in the mid-tier band. This MPV battery-electric is positioned for people-carrier operators and family buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

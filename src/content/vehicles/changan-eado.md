@@ -57,7 +57,7 @@ Changan Eado (starting at $11,960) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan Eado is ChangAn's SUV plug-in hybrid electric. Specification highlights are a top speed of 185 km/h, 330 Nm of torque, and 0–100 km/h in 7.9 seconds. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus NMC (ternary) chemistry. Pricing starts at $11,960 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +39.9% over base (≈ $16,738 landed) — Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
+The Changan Eado is an front-wheel-drive plug-in hybrid electric SUV from ChangAn. Key figures are a MacPherson strut front / Torsion beam rear suspension layout, NMC (ternary) cells, and 185 km/h top speed. On landed cost for this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +39.9% over base (≈ $16,738 landed); Germany levies only the 10% standard tariff. Priced from $11,960 ex-factory, the SUV plug-in hybrid electric falls in the budget tier. The SUV plug-in hybrid electric profile suits families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

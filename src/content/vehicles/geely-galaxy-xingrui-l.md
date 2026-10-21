@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Xingrui L"
-description: "Geely Galaxy Xingrui L is an SUV hybrid offered by Geely Galaxy with 100 kW of motor power and NMC (Li-ion) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Geely Galaxy Xingrui L is an SUV hybrid from Geely Galaxy with 100 kW of motor power and a NMC (Li-ion) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-xingrui-l"
 brand: "geely-galaxy"
 type: "SUV"
@@ -53,7 +53,7 @@ Geely Galaxy Xingrui L (starting at $17,850) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy Xingrui L is an SUV hybrid offered by Geely Galaxy. It carries a 7.5-second 0–100 km/h time and 200 km/h top speed. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus NMC (Li-ion) cells. It is positioned as a mainstream-value import, priced from $17,850 ex-factory. Across export markets, the least-costly destination is Qatar, near +28.4% over base ($22,922 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
+The Geely Galaxy Xingrui L is an front-wheel-drive hybrid SUV from Geely Galaxy. On landed cost for this SUV hybrid, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +28.4% over base ($22,922 landed). As a mainstream-value SUV hybrid, it starts at $17,850 ex-factory. Specification highlights are a top speed of 200 km/h and a 7.5-second 0–100 km/h time. As a SUV hybrid, it is aimed at regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

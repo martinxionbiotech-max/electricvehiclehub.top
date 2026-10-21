@@ -60,7 +60,7 @@ BYD Dolphin (starting at $14,020) is a Hatchback from BYD.
 
 ## Overview
 
-The BYD Dolphin is BYD's hatchback battery-electric. It carries a 45 kWh battery, 0–100 km/h in 4.3 seconds, and a rated range of 418 km (CLTC). Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP (Blade) cells. It is positioned as an affordable-end import, priced from $14,020 ex-factory. For importers, the lowest landed premium is Qatar at roughly +34.8% over base (about $18,901 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits city-focused buyers and delivery fleets.
+The BYD Dolphin is a hatchback battery-electric with front-wheel-drive from BYD. For the hatchback battery-electric, Germany applies a 17% countervailing duty on top of the 10% standard tariff — Qatar offers the cheapest entry at about +34.8% over base (≈ $18,901 landed). With a $14,020 ex-factory price, the hatchback battery-electric reads as budget. It carries MacPherson strut front / Torsion beam rear suspension and a CLTC-rated range of 418 km. The hatchback battery-electric profile suits city-focused buyers and delivery fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

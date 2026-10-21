@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C01"
-description: "Leapmotor C01 is a sedan battery-electric offered by Leapmotor, offering a CLTC-rated range of 717 km, 90 kWh of battery, 200 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Leapmotor C01, a sedan battery-electric from Leapmotor, offering a CLTC-rated range of 717 km, a 90 kWh battery, 200 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-c01"
 brand: "leapmotor"
 type: "Sedan"
@@ -57,7 +57,7 @@ Leapmotor C01 (starting at $19,270) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C01 is a sedan battery-electric from Leapmotor. It carries peak output of 200 kW and 90 kWh of battery capacity. Chassis details include RWD drivetrain, plus a Double wishbone front / Five-link rear suspension setup. The ex-factory price of $19,270 positions it as a value-focused import. Across export markets, the least-costly destination is Qatar, near +26.7% over base ($24,413 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers serving the executive-sedan segment.
+The Leapmotor C01 is a sedan battery-electric with rear-wheel-drive from Leapmotor. For this sedan battery-electric, Qatar offers the cheapest entry at about +26.7% over base (≈ $24,413 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Specification highlights are a 90 kWh battery, LFP chemistry, and a top speed of 170 km/h. With a $19,270 ex-factory price, the sedan battery-electric reads as value. For the sedan battery-electric buyer, it suits business fleets watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

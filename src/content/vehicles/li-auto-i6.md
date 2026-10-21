@@ -58,7 +58,7 @@ Li Auto I6 (starting at $35,180) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto I6 is Li Auto's SUV battery-electric. Specification highlights are 425 Nm of torque and 87 kWh of battery capacity. Chassis details include Double wishbone front / Multi-link (air) rear suspension, plus NMC (CATL) cells. At an ex-factory price of $35,180, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +16.9% over base (about $41,119 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for importers targeting the family-SUV segment.
+Li Auto's Li Auto I6 is an rear-wheel-drive battery-electric SUV. Priced from $35,180 ex-factory, the SUV battery-electric falls in the mid-tier tier. Specification highlights are a Double wishbone front / Multi-link (air) rear suspension layout, a top speed of 180 km/h, and a 6.5-second 0–100 km/h time. On landed cost for this SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; the lowest landed premium is Qatar at roughly +16.9% over base (about $41,119 landed). The SUV battery-electric profile suits family and fleet buyers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

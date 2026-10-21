@@ -53,7 +53,7 @@ Aeolus Mage (starting at $17,170) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus Mage is an SUV non-plug-in hybrid from Aeolus. It carries a top speed of 170 km/h, 210 Nm of torque, and 0–100 km/h in 6 seconds. Chassis details include FWD drive, plus NMC (Li-ion) chemistry. At an ex-factory price of $17,170, it sits in the value segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +29.3% over base ($22,208 landed), while Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
+The Aeolus Mage is an SUV non-plug-in hybrid with front-wheel-drive from Aeolus. With a $17,170 ex-factory price, the SUV non-plug-in hybrid reads as value. Specification highlights are a 105 kW electric motor and NMC (Li-ion) cells. For this SUV non-plug-in hybrid, the lowest landed premium is Qatar at roughly +29.3% over base (about $22,208 landed); meanwhile, Germany levies only the 10% standard tariff. For the SUV non-plug-in hybrid buyer, it suits private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Changan X5 Plus"
-description: "The Changan X5 Plus is an SUV internal-combustion from ChangAn. Per-market landed-cost modeling across 30 export destinations."
+description: "ChangAn's Changan X5 Plus is an SUV internal-combustion. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-x5-plus"
 brand: "changan"
 type: "SUV"
@@ -47,7 +47,7 @@ Changan X5 PLUS (starting at $8,400) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan X5 Plus is an SUV internal-combustion offered by ChangAn. Specification highlights are 0–100 km/h in 14.2 seconds and a top speed of 160 km/h. The platform pairs FWD drive with a MacPherson strut front / Torsion beam rear suspension setup. At an ex-factory price of $8,400, it sits in the entry-level segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +54.8% over base (≈ $13,000 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and fleet managers.
+Changan X5 Plus is an SUV internal-combustion from ChangAn, in front-wheel-drive form. Key figures are a 14.2-second 0–100 km/h time and 160 km/h top speed. For this SUV internal-combustion, Qatar offers the cheapest entry at about +54.8% over base (≈ $13,000 landed); meanwhile, Germany levies only the 10% standard tariff. As a affordable-end SUV internal-combustion, it starts at $8,400 ex-factory. For the SUV internal-combustion buyer, it suits families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -52,7 +52,7 @@ Baojun YEP (starting at $11,380) is a SUV from BAOJUN.
 
 ## Overview
 
-Baojun Yep is an SUV fully electric offered by Baojun. Specification highlights are 28 kWh of battery capacity and 140 Nm of torque. Chassis details include RWD drivetrain, plus LFP cells. At an ex-factory price of $11,380, it sits in the entry-level segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +41.7% over base (≈ $16,129 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
+Baojun's Baojun Yep is an rear-wheel-drive fully electric SUV. Key figures are LFP chemistry and peak torque of 140 Nm. Priced from $11,380 ex-factory, the SUV fully electric falls in the affordable-end tier. On landed cost for this SUV fully electric, the lowest landed premium is Qatar at roughly +41.7% over base (about $16,129 landed); meanwhile, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. For the SUV fully electric buyer, it suits private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

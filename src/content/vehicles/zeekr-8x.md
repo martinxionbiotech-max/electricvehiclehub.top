@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 8X"
-description: "The Zeekr 8X is an SUV plug-in hybrid electric from Zeekr with 318 km of CLTC range, a 55 kWh battery, 660 kW peak output, and a NMC (Freevoy, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Zeekr's Zeekr 8X is an SUV plug-in hybrid electric with 318 km of CLTC range, a 55 kWh battery, 660 kW peak output, and a NMC (Freevoy, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "zeekr-8x"
 brand: "zeekr"
 type: "SUV"
@@ -55,7 +55,7 @@ Zeekr 8X (starting at $49,560) is a SUV from ZEEKR.
 
 ## Overview
 
-Zeekr 8X is an SUV plug-in hybrid electric offered by Zeekr. It carries 318 km of CLTC range and a 660 kW electric motor. Chassis details include Double wishbone front / Multi-link (air) rear suspension, plus AWD (dual/tri-motor) drivetrain. Pricing starts at $49,560 ex-factory, placing it in the premium tier. On landed cost, the least-costly destination is Qatar, near +13.4% over base ($56,218 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits high-spec private buyers.
+The Zeekr 8X is an multi-motor all-wheel-drive plug-in hybrid electric SUV from Zeekr. As a upper-mid SUV plug-in hybrid electric, it starts at $49,560 ex-factory. On landed cost for this SUV plug-in hybrid electric, the least-costly destination is Qatar, near +13.4% over base ($56,218 landed); Germany applies the 10% standard tariff with no countervailing duty. Specification highlights are 318 km of CLTC range, a 55 kWh battery, and 0–100 km/h in 3.7 seconds. This SUV plug-in hybrid electric is positioned for regional distributors focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -63,7 +63,7 @@ BYD Atto 3 (starting at $16,260) is a SUV from BYD.
 
 ## Overview
 
-The BYD Atto 3 is BYD's SUV fully electric. Specification highlights are 49 kWh of battery capacity, a 150 kW electric motor, and a top speed of 160 km/h. Chassis details include LFP (Blade) chemistry, plus FWD drive. At an ex-factory price of $16,260, it sits in the value segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +30.7% over base (about $21,253 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+BYD Atto 3 is an SUV fully electric from BYD, in front-wheel-drive form. This SUV fully electric is positioned as a value-segment import, from $16,260 ex-factory. For the SUV fully electric, Germany's estimate carries a 17% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +30.7% over base (≈ $21,253 landed). Key figures are LFP (Blade) chemistry and a 7.3-second 0–100 km/h time. In the SUV fully electric segment, it serves importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

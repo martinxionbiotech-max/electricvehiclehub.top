@@ -60,7 +60,7 @@ Xpeng G6 (starting at $24,830) is a SUV from XPENG.
 
 ## Overview
 
-XPENG G6 is an SUV battery-electric offered by XPeng. It carries a CLTC-rated range of 625 km and a 218 kW electric motor. The platform pairs LFP / NMC (CALB) cells with a Double wishbone front / Five-link rear suspension setup. The ex-factory price of $24,830 positions it as a value-segment import. For importers, the least-costly destination is Qatar, near +21.8% over base ($30,251 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+The XPENG G6 is an rear- or all-wheel-drive battery-electric SUV from XPeng. As a mainstream-value SUV battery-electric, it starts at $24,830 ex-factory. Key figures are LFP / NMC (CALB) cells, 450 Nm of torque, and a top speed of 202 km/h. For the SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, the lowest landed premium is Qatar at roughly +21.8% over base (about $30,251 landed). As a SUV battery-electric, it is aimed at private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -59,7 +59,7 @@ Avatr 11 (starting at $40,830) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 11 is an SUV battery-electric from Avatr. It carries a rated range of 680 km (CLTC), a top speed of 200 km/h, and peak torque of 367 Nm. Chassis details include RWD / AWD drive, plus NMC chemistry. It is positioned as an upper-mid import, priced from $40,830 ex-factory. Across export markets, Qatar offers the cheapest entry at about +15.2% over base (≈ $47,051 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits family and fleet buyers needing practical space.
+Avatr 11 is an SUV battery-electric from Avatr, in rear- or all-wheel-drive form. For this SUV battery-electric, the lowest landed premium is Qatar at roughly +15.2% over base (about $47,051 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Key figures are 200 km/h top speed, NMC chemistry, and peak output of 231 kW. With a $40,830 ex-factory price, the SUV battery-electric reads as premium. In the SUV battery-electric segment, it serves family and fleet buyers focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

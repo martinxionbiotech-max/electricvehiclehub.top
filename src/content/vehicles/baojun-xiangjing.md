@@ -1,6 +1,6 @@
 ---
 title: "Baojun Xiangjing"
-description: "Baojun Xiangjing is a sedan fully electric offered by Baojun with 600 km of CLTC range, 69 kWh of battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Baojun's Baojun Xiangjing is a sedan fully electric with a CLTC-rated range of 600 km, 69 kWh of battery, 160 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "baojun-xiangjing"
 brand: "baojun"
 type: "Sedan"
@@ -55,7 +55,7 @@ Baojun Xiangjing (starting at $18,280) is a SUV from BAOJUN.
 
 ## Overview
 
-The Baojun Xiangjing is a sedan fully electric from Baojun. It carries a 7.9-second 0–100 km/h time and a top speed of 190 km/h. Chassis details include LFP chemistry, plus FWD drivetrain. The ex-factory price of $18,280 positions it as a value-segment import. For importers, Qatar offers the cheapest entry at about +27.9% over base (≈ $23,374 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for business fleets and long-distance commuters.
+The Baojun Xiangjing is a front-wheel-drive fully electric sedan from Baojun. The $18,280 ex-factory price places this sedan fully electric in the value band. For this sedan fully electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +27.9% over base (≈ $23,374 landed). Specification highlights are a 69 kWh battery, peak torque of 310 Nm, and peak output of 160 kW. For the sedan fully electric buyer, it suits private buyers and ride-hailing operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

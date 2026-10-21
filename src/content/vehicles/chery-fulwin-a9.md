@@ -54,7 +54,7 @@ Chery Fulwin A9 (starting at $16,100) is a Sedan from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin A9 is a sedan battery-electric offered by Chery Fulwin. Specification highlights are a 178 kW electric motor and a rated range of 655 km (CLTC). Chassis details include LFP cells, plus FWD drive. At an ex-factory price of $16,100, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +31% over base ($21,085 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits executive and corporate fleet buyers.
+The Chery Fulwin A9 is a sedan battery-electric with front-wheel-drive from Chery Fulwin. It carries peak output of 178 kW and 180 km/h top speed. With a $16,100 ex-factory price, the sedan battery-electric reads as mainstream-value. For the sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — Qatar offers the cheapest entry at about +31% over base (≈ $21,085 landed). This sedan battery-electric is positioned for executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

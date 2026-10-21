@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 9X"
-description: "The Zeekr 9X is an SUV plug-in hybrid electric from Zeekr with a CLTC-rated range of 380 km, a 55 kWh battery, 660 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Zeekr's Zeekr 9X is an SUV plug-in hybrid electric with a CLTC-rated range of 380 km, a 55 kWh battery, 660 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "zeekr-9x"
 brand: "zeekr"
 type: "SUV"
@@ -58,7 +58,7 @@ Zeekr 9X (starting at $65,620) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 9X is Zeekr's SUV plug-in hybrid. Specification highlights are peak output of 660 kW and peak torque of 935 Nm. Chassis details include Double wishbone front / Multi-link rear suspension, plus LFP cells. It is positioned as a top-tier import, priced from $65,620 ex-factory. On landed cost, the least-costly destination is Qatar, near +11.4% over base ($73,081 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits family and fleet buyers needing practical space.
+Zeekr's Zeekr 9X is an all-wheel-drive plug-in hybrid SUV. On landed cost for this SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +11.4% over base (about $73,081 landed), while Germany applies the 10% standard tariff with no countervailing duty. It carries a top speed of 240 km/h, a 3.9-second 0–100 km/h time, and LFP cells. The $65,620 ex-factory price places this SUV plug-in hybrid in the top-tier band. The SUV plug-in hybrid profile suits regional distributors focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

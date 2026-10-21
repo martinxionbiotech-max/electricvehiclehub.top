@@ -52,7 +52,7 @@ Forthing Thunder 410 (starting at $13,860) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Thunder 410 is an SUV fully electric from Forthing. It carries 49 kWh of battery capacity and a rated range of 410 km (CLTC). Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drive. The ex-factory price of $13,860 positions it as an affordable-end import. For importers, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits families and commercial fleet operators.
+Forthing's Forthing Thunder 410 is an front-wheel-drive fully electric SUV. With a $13,860 ex-factory price, the SUV fully electric reads as entry-level. Specification highlights are peak torque of 240 Nm, MacPherson strut front / Multi-link rear suspension, and LFP cells. For the SUV fully electric, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. In the SUV fully electric segment, it serves regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

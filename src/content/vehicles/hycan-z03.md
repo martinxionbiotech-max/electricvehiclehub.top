@@ -1,6 +1,6 @@
 ---
 title: "Hycan Z03"
-description: "The Hycan Z03 is an SUV fully electric from Hycan, offering a CLTC-rated range of 430 km, 55 kWh of battery, 135 kW peak output, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Hycan's Hycan Z03 is an SUV fully electric, offering a CLTC-rated range of 430 km, 55 kWh of battery, 135 kW peak output, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hycan-z03"
 brand: "hycan"
 type: "SUV"
@@ -55,7 +55,7 @@ Hycan Z03 (starting at $18,440) is a SUV from HYCAN.
 
 ## Overview
 
-The Hycan Z03 is an SUV fully electric from Hycan. Specification highlights are 140 km/h top speed and a 7.9-second 0–100 km/h time. The platform pairs NMC (ternary) chemistry with FWD drivetrain. Pricing starts at $18,440 ex-factory, placing it in the value tier. On landed cost, the least-costly destination is Qatar, near +27.7% over base ($23,542 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for families and commercial fleet operators.
+The Hycan Z03 is an front-wheel-drive fully electric SUV from Hycan. For the SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +27.7% over base (≈ $23,542 landed). At $18,440 ex-factory, this SUV fully electric sits in the value segment. Key figures are a top speed of 140 km/h, a CLTC-rated range of 430 km, and a 55 kWh battery. For the SUV fully electric buyer, it suits importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U8L"
-description: "The Yangwang U8L is an SUV range-extended electric from Yangwang, offering 200 km of CLTC range, a 55 kWh battery, 880 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Yangwang's Yangwang U8L is an SUV range-extended electric, offering 200 km of CLTC range, a 55 kWh battery, 880 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "yangwang-u8l"
 brand: "yangwang"
 type: "SUV"
@@ -59,7 +59,7 @@ Yangwang U8L (starting at $180,280) is a SUV from YANGWANG.
 
 ## Overview
 
-The Yangwang U8L is Yangwang's SUV extended-range electric. It carries a top speed of 200 km/h, peak output of 880 kW, and 1,520 Nm of torque. The platform pairs Double wishbone front / Multi-link (Disus-P hydraulic) rear suspension with AWD (quad-motor) drive. At an ex-factory price of $180,280, it sits in the flagship segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +7.3% over base (about $193,474 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits high-spec private buyers.
+Yangwang U8L is an SUV extended-range electric from Yangwang, in quad-motor all-wheel-drive form. For the SUV extended-range electric, the least-costly destination is Qatar, near +7.3% over base ($193,474 landed), while Germany applies the 10% standard tariff with no countervailing duty. This SUV extended-range electric is positioned as a top-tier import, from $180,280 ex-factory. It carries 55 kWh of capacity, Double wishbone front / Multi-link (Disus-P hydraulic) rear suspension, and 1,520 Nm of torque. The SUV extended-range electric profile suits family and fleet buyers prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

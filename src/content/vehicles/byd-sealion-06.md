@@ -57,7 +57,7 @@ Byd Sealion 06 (starting at $20,250) is a SUV from BYD.
 
 ## Overview
 
-The BYD Sealion 06 is an SUV battery-electric from BYD. It carries a rated range of 520 km (CLTC) and a top speed of 185 km/h. The platform pairs RWD drive with a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mainstream-value import, priced from $20,250 ex-factory. Across export markets, the least-costly destination is Qatar, near +25.6% over base ($25,442 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. It suits importers targeting the family-SUV segment.
+BYD's BYD Sealion 06 is an rear-wheel-drive battery-electric SUV. It carries 185 km/h top speed and peak torque of 330 Nm. With a $20,250 ex-factory price, the SUV battery-electric reads as value. On landed cost for this SUV battery-electric, Germany applies a 17% countervailing duty on top of the 10% standard tariff; meanwhile, the lowest landed premium is Qatar at roughly +25.6% over base (about $25,442 landed). This SUV battery-electric is positioned for families and commercial fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

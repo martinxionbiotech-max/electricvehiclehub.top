@@ -1,6 +1,6 @@
 ---
 title: "Voyah Dream PHEV"
-description: "The Voyah Dream PHEV is Voyah's MPV plug-in hybrid with a CLTC-rated range of 82 km, 25 kWh of battery, 290 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Voyah Dream PHEV, an MPV plug-in hybrid from Voyah with a CLTC-rated range of 82 km, 25 kWh of battery, 290 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "voyah-dream-phev"
 brand: "voyah"
 type: "MPV"
@@ -58,7 +58,7 @@ Voyah Dream PHEV (starting at $51,380) is a MPV from VOYAH.
 
 ## Overview
 
-The Voyah Dream PHEV is Voyah's MPV plug-in hybrid. Specification highlights are a CLTC-rated range of 82 km, a 6.6-second 0–100 km/h time, and a 290 kW electric motor. Chassis details include AWD drive, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $51,380 positions it as a premium import. Across export markets, the least-costly destination is Qatar, near +13.1% over base ($58,129 landed), while Germany levies only the 10% standard tariff. This positions it for high-spec private buyers.
+The Voyah Dream PHEV is an MPV plug-in hybrid with all-wheel-drive from Voyah. It carries peak output of 290 kW and NMC chemistry. As a upper-mid MPV plug-in hybrid, it starts at $51,380 ex-factory. For the MPV plug-in hybrid, Germany levies only the 10% standard tariff; Qatar offers the cheapest entry at about +13.1% over base (≈ $58,129 landed). This MPV plug-in hybrid is positioned for shuttle and charter fleet operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

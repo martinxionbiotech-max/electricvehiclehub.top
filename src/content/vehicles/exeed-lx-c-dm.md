@@ -55,7 +55,7 @@ Exeed LX C DM (starting at $19,690) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed LX C DM is an SUV plug-in hybrid electric from Exeed. Specification highlights are a 125 kW electric motor and a 19 kWh battery. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drive. Pricing starts at $19,690 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for price-sensitive importers.
+The Exeed LX C DM is an front-wheel-drive plug-in hybrid electric SUV from Exeed. Key figures are 180 km/h top speed, LFP cells, and 80 km of CLTC range. As a value SUV plug-in hybrid electric, it starts at $19,690 ex-factory. On landed cost for this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed). This SUV plug-in hybrid electric is positioned for importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

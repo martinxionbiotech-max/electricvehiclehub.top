@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang"
-description: "The BYD Tang is BYD's SUV plug-in hybrid with a CLTC-rated range of 112 km, a 21 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Tang, an SUV plug-in hybrid from BYD with a CLTC-rated range of 112 km, a 21 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-tang"
 brand: "byd"
 type: "SUV"
@@ -58,7 +58,7 @@ Byd Tang (starting at $25,250) is a SUV from BYD.
 
 ## Overview
 
-The BYD Tang is BYD's SUV plug-in hybrid. Specification highlights are 112 km of CLTC range and peak torque of 315 Nm. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD / AWD drivetrain. Pricing starts at $25,250 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +21.6% over base (≈ $30,692 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and fleet managers.
+BYD Tang is an SUV plug-in hybrid from BYD, in front- or all-wheel-drive form. As a mid-tier SUV plug-in hybrid, it starts at $25,250 ex-factory. On landed cost for this SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +21.6% over base (about $30,692 landed), while Germany levies only the 10% standard tariff. Key figures are 0–100 km/h in 7.5 seconds, a MacPherson strut front / Multi-link rear suspension layout, and LFP (Blade) cells. The SUV plug-in hybrid profile suits private buyers and fleet managers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

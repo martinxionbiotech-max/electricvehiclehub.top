@@ -56,7 +56,7 @@ Geely Galaxy Starshine 8 (starting at $17,670) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starshine 8 is an SUV plug-in hybrid electric from Geely Galaxy. It carries a 18 kWh battery and 190 km/h top speed. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP cells. Pricing starts at $17,670 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +28.7% over base ($22,733 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
+The Geely Galaxy Starshine 8 is an front-wheel-drive plug-in hybrid electric SUV from Geely Galaxy. Specification highlights are LFP cells and a MacPherson strut front / Multi-link rear suspension layout. On landed cost for this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +28.7% over base ($22,733 landed). Priced from $17,670 ex-factory, the SUV plug-in hybrid electric falls in the value tier. As a SUV plug-in hybrid electric, it is aimed at regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A8L"
-description: "The Chery Fulwin A8L is Chery Fulwin's sedan plug-in hybrid electric with a CLTC-rated range of 145 km, 18 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery Fulwin A8L, a sedan plug-in hybrid electric from Chery Fulwin with a CLTC-rated range of 145 km, 18 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-a8l"
 brand: "chery-fulwin"
 type: "Sedan"
@@ -52,7 +52,7 @@ Chery Fulwin A8L (starting at $15,260) is a Sedan from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin A8L is Chery Fulwin's sedan plug-in hybrid electric. Specification highlights are 18 kWh of battery capacity, 185 km/h top speed, and 145 km of CLTC range. Chassis details include LFP chemistry, plus FWD drivetrain. It is positioned as a value-focused import, priced from $15,260 ex-factory. On landed cost, the least-costly destination is Qatar, near +32.4% over base ($20,203 landed), while Germany levies only the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
+Chery Fulwin A8L is a sedan plug-in hybrid electric from Chery Fulwin, in front-wheel-drive form. The $15,260 ex-factory price places this sedan plug-in hybrid electric in the value-oriented band. For this sedan plug-in hybrid electric, Germany levies only the 10% standard tariff — the least-costly destination is Qatar, near +32.4% over base ($20,203 landed). Key figures are a top speed of 185 km/h and LFP chemistry. In the sedan plug-in hybrid electric segment, it serves executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

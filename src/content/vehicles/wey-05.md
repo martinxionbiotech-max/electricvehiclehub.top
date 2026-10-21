@@ -56,7 +56,7 @@ Wey 05 (starting at $33,630) is a SUV from WEY.
 
 ## Overview
 
-The Wey 05 is an SUV plug-in hybrid from WEY. Specification highlights are 146 km of CLTC range, 520 Nm of torque, and a 4.7-second 0–100 km/h time. The platform pairs AWD (dual motor) drivetrain with a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $33,630 ex-factory, placing it in the mid-market tier. On landed cost, the lowest landed premium is Qatar at roughly +17.4% over base (about $39,491 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for regional distributors serving family and logistics demand.
+Wey 05 is an SUV plug-in hybrid from WEY, in dual-motor all-wheel-drive form. It carries peak torque of 520 Nm, 146 km of CLTC range, and MacPherson strut front / Multi-link rear suspension. As a mid-market SUV plug-in hybrid, it starts at $33,630 ex-factory. Across export markets for the SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +17.4% over base (about $39,491 landed). The SUV plug-in hybrid profile suits regional distributors balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

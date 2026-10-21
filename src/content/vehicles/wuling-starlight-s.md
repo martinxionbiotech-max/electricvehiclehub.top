@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight S"
-description: "Wuling Starlight S is an SUV battery-electric offered by Wuling, offering 510 km of CLTC range, a 60 kWh battery, 150 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wuling Starlight S is an SUV battery-electric from Wuling, offering 510 km of CLTC range, 60 kWh of battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-starlight-s"
 brand: "wuling"
 type: "SUV"
@@ -56,7 +56,7 @@ Wuling Starlight S (starting at $14,060) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Starlight S is an SUV battery-electric from Wuling. It carries 170 km/h top speed and a CLTC-rated range of 510 km. Chassis details include FWD drive, plus LFP cells. At an ex-factory price of $14,060, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. The profile suits private buyers and fleet managers.
+The Wuling Starlight S is an SUV battery-electric with front-wheel-drive from Wuling. Specification highlights are a CLTC-rated range of 510 km, peak torque of 310 Nm, and 60 kWh of capacity. At $14,060 ex-factory, this SUV battery-electric sits in the budget segment. Across export markets for the SUV battery-electric, the least-costly destination is Qatar, near +34.7% over base ($18,943 landed); meanwhile, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. As a SUV battery-electric, it is aimed at regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

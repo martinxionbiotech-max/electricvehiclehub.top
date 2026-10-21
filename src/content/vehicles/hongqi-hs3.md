@@ -56,7 +56,7 @@ Hongqi HS3 (starting at $22,510) is a SUV from HONGQI.
 
 ## Overview
 
-Hongqi HS3 is an SUV plug-in hybrid electric offered by Hongqi. It carries a 18 kWh battery, a rated range of 115 km (CLTC), and 190 km/h top speed. The platform pairs NMC (ternary) chemistry with FWD drive. Pricing starts at $22,510 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
+The Hongqi HS3 is an SUV plug-in hybrid electric with front-wheel-drive from Hongqi. For this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty, while the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed). It carries a 168 kW electric motor, a CLTC-rated range of 115 km, and peak torque of 340 Nm. At $22,510 ex-factory, this SUV plug-in hybrid electric sits in the mainstream-value segment. As a SUV plug-in hybrid electric, it is aimed at family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

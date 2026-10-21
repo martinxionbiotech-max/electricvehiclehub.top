@@ -50,7 +50,7 @@ Hyptec S600 (starting at $27,760) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec S600 is an SUV fully electric from Hyptec. Specification highlights are a CLTC-rated range of 660 km and a 250 kW electric motor. Chassis details include MacPherson strut front / Multi-link rear suspension, plus RWD drivetrain. Pricing starts at $27,760 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +20.1% over base (≈ $33,328 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits regional distributors serving family and logistics demand.
+The Hyptec S600 is an rear-wheel-drive fully electric SUV from Hyptec. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +20.1% over base (≈ $33,328 landed). As a mid-market SUV fully electric, it starts at $27,760 ex-factory. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout, a 250 kW electric motor, and NMC (ternary) chemistry. The SUV fully electric profile suits importers targeting the family-SUV segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

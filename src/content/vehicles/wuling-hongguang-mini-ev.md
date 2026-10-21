@@ -56,7 +56,7 @@ Wuling Hongguang MINI EV (starting at $5,000) is a Hatchback from WULING.
 
 ## Overview
 
-Wuling Hongguang MINI EV is a hatchback battery-electric offered by Wuling. Specification highlights are a 9 kWh battery and peak output of 20 kW. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP chemistry. It is positioned as an affordable-end import, priced from $5,000 ex-factory. For importers, the least-costly destination is Qatar, near +88.6% over base ($9,430 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for urban commuters and fleet operators.
+The Wuling Hongguang MINI EV is a rear-wheel-drive battery-electric hatchback from Wuling. At $5,000 ex-factory, this hatchback battery-electric sits in the affordable-end segment. Specification highlights are MacPherson strut front / Torsion beam rear suspension, 120 km of CLTC range, and a top speed of 100 km/h. On landed cost for this hatchback battery-electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +88.6% over base (≈ $9,430 landed). This hatchback battery-electric is positioned for urban commuters and fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

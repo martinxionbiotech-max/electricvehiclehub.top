@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T6"
-description: "Chery Fulwin T6 is an SUV plug-in hybrid offered by Chery Fulwin with a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Chery Fulwin T6, an SUV plug-in hybrid from Chery Fulwin with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-t6"
 brand: "chery-fulwin"
 type: "SUV"
@@ -41,7 +41,7 @@ Chery Fulwin T6 (starting at $18,040) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T6 is an SUV plug-in hybrid from Chery Fulwin. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus LFP cells. Pricing starts at $18,040 ex-factory, placing it in the value tier. For importers, Qatar offers the cheapest entry at about +28.2% over base (≈ $23,122 landed), while Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Chery Fulwin T6 is an front-wheel-drive plug-in hybrid SUV from Chery Fulwin. Across export markets for the SUV plug-in hybrid, the least-costly destination is Qatar, near +28.2% over base ($23,122 landed); Germany applies the 10% standard tariff with no countervailing duty. With a $18,040 ex-factory price, the SUV plug-in hybrid reads as value. Key figures are LFP chemistry and a MacPherson strut front / Multi-link rear suspension layout. As a SUV plug-in hybrid, it is aimed at importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

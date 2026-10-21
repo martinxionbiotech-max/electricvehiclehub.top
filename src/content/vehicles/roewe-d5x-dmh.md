@@ -1,6 +1,6 @@
 ---
 title: "Roewe D5X DMH"
-description: "Roewe D5X DMH is an SUV plug-in hybrid electric offered by Roewe with a CLTC-rated range of 135 km, 21 kWh of battery, 145 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Roewe D5X DMH is Roewe's SUV plug-in hybrid electric with a CLTC-rated range of 135 km, 21 kWh of battery, 145 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "roewe-d5x-dmh"
 brand: "roewe"
 type: "SUV"
@@ -56,7 +56,7 @@ Roewe D5X DMH (starting at $18,280) is a SUV from ROEWE.
 
 ## Overview
 
-The Roewe D5X DMH is an SUV plug-in hybrid from Roewe. Specification highlights are a 145 kW electric motor, peak torque of 350 Nm, and a 21 kWh battery. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. Pricing starts at $18,280 ex-factory, placing it in the value tier. For importers, the least-costly destination is Qatar, near +27.9% over base ($23,374 landed) — Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
+The Roewe D5X DMH is an SUV plug-in hybrid with front-wheel-drive from Roewe. With a $18,280 ex-factory price, the SUV plug-in hybrid reads as value. Key figures are 350 Nm of torque, a top speed of 200 km/h, and a 6.9-second 0–100 km/h time. On landed cost for this SUV plug-in hybrid, Qatar offers the cheapest entry at about +27.9% over base (≈ $23,374 landed); Germany levies only the 10% standard tariff. In the SUV plug-in hybrid segment, it serves families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

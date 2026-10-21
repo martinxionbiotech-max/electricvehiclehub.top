@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 730"
-description: "Wuling Starlight 730 is an MPV battery-electric offered by Wuling with 500 km of CLTC range, a 60 kWh battery, 145 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Wuling's Wuling Starlight 730 is an MPV battery-electric with 500 km of CLTC range, 60 kWh of battery, 145 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-starlight-730"
 brand: "wuling"
 type: "MPV"
@@ -55,7 +55,7 @@ Wuling Starlight 730 (starting at $14,620) is a SUV from WULING.
 
 ## Overview
 
-Wuling Starlight 730 is an MPV fully electric offered by Wuling. It carries a top speed of 170 km/h and 230 Nm of torque. The platform pairs LFP cells with FWD drive. Pricing starts at $14,620 ex-factory, placing it in the entry-level tier. On landed cost, Qatar offers the cheapest entry at about +33.6% over base (≈ $19,531 landed), while Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for people-carrier operators and family buyers.
+The Wuling Starlight 730 is an MPV battery-electric with front-wheel-drive from Wuling. For the MPV battery-electric, Qatar offers the cheapest entry at about +33.6% over base (≈ $19,531 landed); Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. It carries LFP cells and a top speed of 170 km/h. With a $14,620 ex-factory price, the MPV battery-electric reads as entry-level. The MPV battery-electric profile suits importers serving the multi-passenger segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

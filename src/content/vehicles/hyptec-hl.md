@@ -58,7 +58,7 @@ Hyptec HL (starting at $38,000) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec HL is an SUV battery-electric from Hyptec. Specification highlights are 201 km/h top speed and a 7.5-second 0–100 km/h time. Chassis details include RWD drive, plus NMC (ternary) chemistry. At an ex-factory price of $38,000, it sits in the mid-market segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +16% over base (≈ $44,080 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
+Hyptec's Hyptec HL is an rear-wheel-drive battery-electric SUV. Across export markets for the SUV battery-electric, the least-costly destination is Qatar, near +16% over base ($44,080 landed); Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The $38,000 ex-factory price places this SUV battery-electric in the mid-market band. It carries MacPherson strut front / Multi-link rear suspension and NMC (ternary) cells. The SUV battery-electric profile suits family and fleet buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

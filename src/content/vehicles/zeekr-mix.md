@@ -60,7 +60,7 @@ Zeekr MIX (starting at $39,420) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr MIX is Zeekr's SUV battery-electric. Specification highlights are a top speed of 180 km/h and a 76 kWh battery. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus RWD drivetrain. At an ex-factory price of $39,420, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +15.6% over base (about $45,571 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
+Zeekr's Zeekr MIX is an rear-wheel-drive battery-electric SUV. Priced from $39,420 ex-factory, the SUV battery-electric falls in the mid-tier tier. It carries LFP / NMC cells, 0–100 km/h in 6.8 seconds, and 76 kWh of capacity. For the SUV battery-electric, Qatar offers the cheapest entry at about +15.6% over base (≈ $45,571 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This SUV battery-electric is positioned for regional distributors focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

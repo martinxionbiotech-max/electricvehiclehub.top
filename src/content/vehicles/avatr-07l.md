@@ -54,7 +54,7 @@ Avatr 07L (starting at $31,930) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 07L is Avatr's SUV battery-electric. It carries a 89 kWh battery and a 305 kW electric motor. Chassis details include RWD drive, plus a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $31,930 ex-factory. For importers, the lowest landed premium is Qatar at roughly +18.1% over base (about $37,706 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+Avatr 07L is an SUV battery-electric from Avatr, in rear-wheel-drive form. For the SUV battery-electric, the least-costly destination is Qatar, near +18.1% over base ($37,706 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. As a mid-tier SUV battery-electric, it starts at $31,930 ex-factory. It carries Double wishbone front / Multi-link rear suspension, a 305 kW electric motor, and a 89 kWh battery. This SUV battery-electric is positioned for importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

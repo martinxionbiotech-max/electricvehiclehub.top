@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight PHEV"
-description: "The Wuling Starlight PHEV is a sedan plug-in hybrid electric from Wuling with a CLTC-rated range of 70 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Wuling's Wuling Starlight PHEV is a sedan plug-in hybrid electric with a CLTC-rated range of 70 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "wuling-starlight-phev"
 brand: "wuling"
 type: "Sedan"
@@ -53,7 +53,7 @@ Wuling Starlight PHEV (starting at $11,080) is a Sedan from WULING.
 
 ## Overview
 
-Wuling Starlight PHEV is a sedan plug-in hybrid electric offered by Wuling. It carries a 150 kW electric motor and a top speed of 185 km/h. The platform pairs LFP chemistry with FWD drive. It is positioned as an entry-level import, priced from $11,080 ex-factory. For importers, the lowest landed premium is Qatar at roughly +42.7% over base (about $15,814 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits business fleets and long-distance commuters.
+The Wuling Starlight PHEV is a front-wheel-drive plug-in hybrid electric sedan from Wuling. Priced from $11,080 ex-factory, the sedan plug-in hybrid electric falls in the affordable-end tier. For this sedan plug-in hybrid electric, the least-costly destination is Qatar, near +42.7% over base ($15,814 landed), while Germany levies only the 10% standard tariff. Key figures are peak output of 150 kW and 310 Nm of torque. As a sedan plug-in hybrid electric, it is aimed at executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

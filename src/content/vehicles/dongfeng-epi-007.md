@@ -55,7 +55,7 @@ Dongfeng E PI 007 (starting at $21,110) is a SUV from DONGFENG E.
 
 ## Overview
 
-The Dongfeng E PI 007 is an SUV battery-electric from Dongfeng eπ. Specification highlights are peak torque of 310 Nm and a 7.5-second 0–100 km/h time. The platform pairs RWD drivetrain with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $21,110 ex-factory. Across export markets, the least-costly destination is Qatar, near +24.8% over base ($26,345 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
+The Dongfeng E PI 007 is an SUV battery-electric with rear-wheel-drive from Dongfeng eπ. It carries a top speed of 171 km/h, a MacPherson strut front / Multi-link rear suspension layout, and a 70 kWh battery. At $21,110 ex-factory, this SUV battery-electric sits in the mainstream-value segment. For this SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +24.8% over base ($26,345 landed). The SUV battery-electric profile suits private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

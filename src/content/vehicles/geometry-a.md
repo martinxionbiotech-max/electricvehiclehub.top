@@ -1,6 +1,6 @@
 ---
 title: "Geometry A"
-description: "Geometry A is a sedan fully electric offered by Geometry with 410 km of CLTC range, 46 kWh of battery, 100 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Geometry A is a sedan fully electric from Geometry with a CLTC-rated range of 410 km, 46 kWh of battery, 100 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geometry-a"
 brand: "geometry"
 type: "Sedan"
@@ -52,7 +52,7 @@ Geometry A (starting at $24,420) is a Sedan from GEOMETRY.
 
 ## Overview
 
-Geometry A is a sedan fully electric offered by Geometry. Specification highlights are peak torque of 180 Nm and a CLTC-rated range of 410 km. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus LFP chemistry. Pricing starts at $24,420 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +22.1% over base (about $29,821 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. The profile suits importers serving the executive-sedan segment.
+Geometry A is a sedan battery-electric from Geometry, in front-wheel-drive form. Specification highlights are peak output of 100 kW and LFP chemistry. As a value sedan battery-electric, it starts at $24,420 ex-factory. For this sedan battery-electric, the lowest landed premium is Qatar at roughly +22.1% over base (about $29,821 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. In the sedan battery-electric segment, it serves importers serving the sedan segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

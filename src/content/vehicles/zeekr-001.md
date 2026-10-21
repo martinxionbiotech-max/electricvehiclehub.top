@@ -61,7 +61,7 @@ Zeekr 001 (starting at $38,000) is a SUV from ZEEKR.
 
 ## Overview
 
-Zeekr 001 is an SUV battery-electric offered by Zeekr. Specification highlights are 0–100 km/h in 3.08 seconds, a 680 kW electric motor, and 280 km/h top speed. Chassis details include a Cd of 0.23, plus Double wishbone front / Multi-link rear suspension. The ex-factory price of $38,000 positions it as a mid-market import. For importers, Qatar offers the cheapest entry at about +16% over base (≈ $44,080 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+Zeekr's Zeekr 001 is an rear- or all-wheel-drive battery-electric SUV. Across export markets for the SUV battery-electric, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +16% over base (≈ $44,080 landed). It carries a 680 kW electric motor and a Cd of 0.23. The $38,000 ex-factory price places this SUV battery-electric in the mid-market band. In the SUV battery-electric segment, it serves families and commercial fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -57,7 +57,7 @@ Arcfox T1 (starting at $8,850) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox T1 is an SUV battery-electric from Arcfox. Specification highlights are 33 kWh of battery capacity and peak torque of 176 Nm. The platform pairs NMC (ternary) cells with RWD drivetrain. Pricing starts at $8,850 ex-factory, placing it in the entry-level tier. On landed cost, the least-costly destination is Qatar, near +52.2% over base ($13,472 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits private buyers and fleet managers.
+Arcfox's Arcfox T1 is an rear-wheel-drive battery-electric SUV. On landed cost for this SUV battery-electric, the least-costly destination is Qatar, near +52.2% over base ($13,472 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. As a entry-level SUV battery-electric, it starts at $8,850 ex-factory. It carries a CLTC-rated range of 320 km and 33 kWh of capacity. The SUV battery-electric profile suits private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

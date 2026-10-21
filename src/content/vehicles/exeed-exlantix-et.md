@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ET"
-description: "The Exeed Exlantix ET is an SUV battery-electric from Exeed with 760 km of CLTC range, a 100 kWh battery, 195 kW peak output, and a LFP (Shenxing 2.0) / NMC (Qilin) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Exeed's Exeed Exlantix ET is an SUV battery-electric with 760 km of CLTC range, a 100 kWh battery, 195 kW peak output, and a LFP (Shenxing 2.0) / NMC (Qilin) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "exeed-exlantix-et"
 brand: "exeed"
 type: "SUV"
@@ -58,7 +58,7 @@ Exeed Exlantix ET (starting at $26,730) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed Exlantix ET is an SUV fully electric from Exeed. Specification highlights are 760 km of CLTC range and a top speed of 200 km/h. Chassis details include a Double wishbone front / Multi-link rear suspension setup, plus LFP (Shenxing 2.0) / NMC (Qilin) cells. At an ex-factory price of $26,730, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +20.6% over base (about $32,246 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for importers targeting the family-SUV segment.
+Exeed's Exeed Exlantix ET is an rear- or all-wheel-drive fully electric SUV. For the SUV fully electric, the least-costly destination is Qatar, near +20.6% over base ($32,246 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. With a $26,730 ex-factory price, the SUV fully electric reads as mid-market. It carries 200 km/h top speed and 0–100 km/h in 7.6 seconds. For the SUV fully electric buyer, it suits importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

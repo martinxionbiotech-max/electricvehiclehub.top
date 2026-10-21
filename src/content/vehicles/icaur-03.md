@@ -1,6 +1,6 @@
 ---
 title: "Icaur 03"
-description: "Icaur 03 is an SUV fully electric offered by iCAUR with 401 km of CLTC range, 50 kWh of battery, 135 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "iCAUR's Icaur 03 is an SUV fully electric with a CLTC-rated range of 401 km, 50 kWh of battery, 135 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "icaur-03"
 brand: "icaur"
 type: "SUV"
@@ -57,7 +57,7 @@ Icaur 03 (starting at $15,460) is a SUV from ICAUR.
 
 ## Overview
 
-The Icaur 03 is an SUV battery-electric from iCAUR. Specification highlights are 220 Nm of torque, peak output of 135 kW, and 50 kWh of battery capacity. The platform pairs RWD drivetrain with LFP chemistry. It is positioned as a value-segment import, priced from $15,460 ex-factory. Across export markets, the least-costly destination is Qatar, near +32% over base ($20,413 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits family and fleet buyers needing practical space.
+iCAUR's Icaur 03 is an rear-wheel-drive fully electric SUV. For this SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the lowest landed premium is Qatar at roughly +32% over base (about $20,413 landed). With a $15,460 ex-factory price, the SUV fully electric reads as value-oriented. Key figures are a CLTC-rated range of 401 km and LFP cells. The SUV fully electric profile suits family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

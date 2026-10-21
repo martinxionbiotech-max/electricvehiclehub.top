@@ -59,7 +59,7 @@ Voyah Dream (starting at $46,460) is a SUV from VOYAH.
 
 ## Overview
 
-Voyah Dream is an MPV battery-electric offered by Voyah. Specification highlights are 620 Nm of torque and 650 km of CLTC range. The platform pairs NMC chemistry with AWD drive. At an ex-factory price of $46,460, it sits in the premium segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +14% over base (about $52,963 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers serving the multi-passenger segment.
+Voyah Dream is an MPV battery-electric from Voyah, in all-wheel-drive form. Priced from $46,460 ex-factory, the MPV battery-electric falls in the upper-mid tier. Across export markets for the MPV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +14% over base (about $52,963 landed). Key figures are NMC chemistry and a MacPherson strut front / Multi-link rear suspension layout. In the MPV battery-electric segment, it serves shuttle and charter fleet operators prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

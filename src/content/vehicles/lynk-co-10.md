@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 10"
-description: "Lynk & Co's Lynk Co 10 is an SUV plug-in hybrid with 240 km of CLTC range, 38 kWh of battery, 270 kW of motor power, and LFP (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Lynk Co 10 is Lynk & Co's SUV plug-in hybrid with 240 km of CLTC range, 38 kWh of battery, 270 kW of motor power, and LFP (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "lynk-co-10"
 brand: "lynk-co"
 type: "SUV"
@@ -56,7 +56,7 @@ Lynk Co 10 (starting at $24,480) is a SUV from LYNK CO.
 
 ## Overview
 
-Lynk Co 10 is an SUV plug-in hybrid offered by Lynk & Co. It carries 500 Nm of torque, 240 km of CLTC range, and 0–100 km/h in 5.9 seconds. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with AWD (dual motor) drivetrain. At an ex-factory price of $24,480, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +22.1% over base ($29,884 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for budget-conscious fleet buyers.
+Lynk & Co's Lynk Co 10 is an dual-motor all-wheel-drive plug-in hybrid SUV. It carries a 270 kW electric motor, peak torque of 500 Nm, and a 38 kWh battery. As a value-oriented SUV plug-in hybrid, it starts at $24,480 ex-factory. For the SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +22.1% over base (about $29,884 landed). As a SUV plug-in hybrid, it is aimed at regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

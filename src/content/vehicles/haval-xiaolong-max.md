@@ -55,7 +55,7 @@ Haval Xiaolong Max (starting at $15,530) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Xiaolong Max is an SUV plug-in hybrid electric from Haval. Specification highlights are a top speed of 180 km/h and peak output of 220 kW. The platform pairs AWD drivetrain with MacPherson strut front / Multi-link rear suspension. The ex-factory price of $15,530 positions it as a value-focused import. Across export markets, the lowest landed premium is Qatar at roughly +31.9% over base (about $20,486 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Haval Xiaolong Max is an SUV plug-in hybrid electric with all-wheel-drive from Haval. Priced from $15,530 ex-factory, the SUV plug-in hybrid electric falls in the value tier. Key figures are a MacPherson strut front / Multi-link rear suspension layout, 0–100 km/h in 6.8 seconds, and NMC cells. For this SUV plug-in hybrid electric, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +31.9% over base (about $20,486 landed). In the SUV plug-in hybrid electric segment, it serves importers targeting the family-SUV segment prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

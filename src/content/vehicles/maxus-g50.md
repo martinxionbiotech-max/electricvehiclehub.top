@@ -1,6 +1,6 @@
 ---
 title: "Maxus G50"
-description: "Maxus G50 is an MPV plug-in hybrid offered by Maxus, offering 95 km of CLTC range, 18 kWh of battery, 160 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Maxus's Maxus G50 is an MPV plug-in hybrid, offering a CLTC-rated range of 95 km, 18 kWh of battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "maxus-g50"
 brand: "maxus"
 type: "MPV"
@@ -54,7 +54,7 @@ Maxus G50 (starting at $22,510) is a MPV from MAXUS.
 
 ## Overview
 
-Maxus G50 is an MPV plug-in hybrid electric offered by Maxus. It carries a 160 kW electric motor and a top speed of 180 km/h. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drive. The ex-factory price of $22,510 positions it as a value-focused import. Across export markets, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed) — Germany levies only the 10% standard tariff. This positions it for people-carrier operators and family buyers.
+The Maxus G50 is an MPV plug-in hybrid with front-wheel-drive from Maxus. The $22,510 ex-factory price places this MPV plug-in hybrid in the mainstream-value band. Key figures are MacPherson strut front / Multi-link rear suspension, 180 km/h top speed, and 280 Nm of torque. For this MPV plug-in hybrid, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed); meanwhile, Germany levies only the 10% standard tariff. In the MPV plug-in hybrid segment, it serves shuttle and charter fleet operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

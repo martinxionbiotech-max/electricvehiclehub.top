@@ -56,7 +56,7 @@ Byd Frigate 07 (starting at $25,320) is a SUV from BYD.
 
 ## Overview
 
-The BYD Frigate 07 is an SUV plug-in hybrid electric from BYD. Specification highlights are 180 km/h top speed and a 8.5-second 0–100 km/h time. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus LFP (Blade) chemistry. The ex-factory price of $25,320 positions it as a mid-tier import. Across export markets, the lowest landed premium is Qatar at roughly +21.5% over base (about $30,766 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+BYD Frigate 07 is an SUV plug-in hybrid electric from BYD, in front-wheel-drive form. For this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +21.5% over base (≈ $30,766 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. Key figures are a top speed of 180 km/h, a MacPherson strut front / Multi-link rear suspension layout, and a 8.5-second 0–100 km/h time. As a mid-market SUV plug-in hybrid electric, it starts at $25,320 ex-factory. As a SUV plug-in hybrid electric, it is aimed at families and commercial fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

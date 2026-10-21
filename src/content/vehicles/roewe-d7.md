@@ -1,6 +1,6 @@
 ---
 title: "Roewe D7"
-description: "Roewe D7 is a sedan battery-electric offered by Roewe with a CLTC-rated range of 610 km, 68 kWh of battery, 137 kW of motor power, and LFP (NMC option) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Roewe D7 is Roewe's sedan battery-electric, offering a CLTC-rated range of 610 km, a 68 kWh battery, 137 kW of motor power, and a LFP (NMC option) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "roewe-d7"
 brand: "roewe"
 type: "Sedan"
@@ -57,7 +57,7 @@ Roewe D7 (starting at $17,440) is a Sedan from ROEWE.
 
 ## Overview
 
-The Roewe D7 is Roewe's sedan battery-electric. It carries a rated range of 610 km (CLTC) and 330 Nm of torque. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus RWD drivetrain. Pricing starts at $17,440 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +29% over base (≈ $22,492 landed), while Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. It suits importers serving the executive-sedan segment.
+Roewe's Roewe D7 is a rear-wheel-drive fully electric sedan. At $17,440 ex-factory, this sedan fully electric sits in the value segment. Across export markets for the sedan fully electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +29% over base (≈ $22,492 landed). Key figures are peak torque of 330 Nm, a 8.5-second 0–100 km/h time, and 185 km/h top speed. As a sedan fully electric, it is aimed at private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

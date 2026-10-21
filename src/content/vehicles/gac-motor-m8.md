@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor M8"
-description: "GAC Motor M8 is an SUV plug-in hybrid electric offered by GAC Motor with a CLTC-rated range of 106 km, a 25 kWh battery, 134 kW of motor power, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The GAC Motor M8, an SUV plug-in hybrid electric from GAC Motor with 106 km of CLTC range, a 25 kWh battery, 134 kW peak output, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "gac-motor-m8"
 brand: "gac-motor"
 type: "SUV"
@@ -52,7 +52,7 @@ Gac Motor M8 (starting at $40,390) is a SUV from GAC MOTOR.
 
 ## Overview
 
-GAC Motor M8 is an SUV plug-in hybrid offered by GAC Motor. It carries peak torque of 300 Nm and a top speed of 170 km/h. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. It is positioned as an upper-mid import, priced from $40,390 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +15.3% over base (about $46,589 landed) — Germany levies only the 10% standard tariff. It suits high-spec private buyers.
+GAC Motor M8 is an SUV plug-in hybrid electric from GAC Motor, in front-wheel-drive form. On landed cost for this SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +15.3% over base (about $46,589 landed), while Germany applies the 10% standard tariff with no countervailing duty. Key figures are a CLTC-rated range of 106 km, peak output of 134 kW, and 300 Nm of torque. The $40,390 ex-factory price places this SUV plug-in hybrid electric in the premium band. For the SUV plug-in hybrid electric buyer, it suits regional distributors focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -56,7 +56,7 @@ Baw M8 (starting at $22,510) is a MPV from BAW.
 
 ## Overview
 
-The Baw M8 is BAW's MPV fully electric. It carries 150 km/h top speed and 310 Nm of torque. The platform pairs LFP cells with Double wishbone front / Multi-link rear suspension. It is positioned as a mainstream-value import, priced from $22,510 ex-factory. Across export markets, the least-costly destination is Qatar, near +23.6% over base ($27,815 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits shuttle and charter fleet operators.
+BAW's Baw M8 is an dual-motor all-wheel-drive fully electric MPV. The $22,510 ex-factory price places this MPV fully electric in the value-oriented band. Key figures are a top speed of 150 km/h, Double wishbone front / Multi-link rear suspension, and a 170 kW electric motor. For the MPV fully electric, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. In the MPV fully electric segment, it serves shuttle and charter fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

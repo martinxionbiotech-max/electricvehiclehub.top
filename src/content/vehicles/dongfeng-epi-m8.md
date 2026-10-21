@@ -41,7 +41,7 @@ Dongfeng eπ M8 (starting at $23,580) is a SUV from DONGFENG E.
 
 ## Overview
 
-The Dongfeng eπ M8 is an SUV range-extended electric from Dongfeng eπ. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. It is positioned as a value-focused import, priced from $23,580 ex-factory. Across export markets, the least-costly destination is Qatar, near +22.7% over base ($28,939 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+Dongfeng eπ's Dongfeng eπ M8 is an front-wheel-drive range-extended electric SUV. With a $23,580 ex-factory price, the SUV range-extended electric reads as value. For this SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +22.7% over base ($28,939 landed). Specification highlights are a MacPherson strut front / Multi-link rear suspension layout and LFP cells. The SUV range-extended electric profile suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

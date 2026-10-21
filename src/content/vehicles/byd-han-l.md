@@ -1,6 +1,6 @@
 ---
 title: "BYD Han L"
-description: "The BYD Han L is BYD's sedan battery-electric with 701 km of CLTC range, 83 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Han L, a sedan battery-electric from BYD with 701 km of CLTC range, 83 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-han-l"
 brand: "byd"
 type: "Sedan"
@@ -58,7 +58,7 @@ Byd HAN L (starting at $29,550) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Han L is BYD's sedan battery-electric. Specification highlights are 315 Nm of torque, 200 km/h top speed, and 83 kWh of battery capacity. Chassis details include a Double wishbone front / Five-link rear suspension setup, plus RWD / AWD drive. Pricing starts at $29,550 ex-factory, placing it in the mid-market tier. On landed cost, the least-costly destination is Qatar, near +19.1% over base ($35,207 landed); meanwhile, Germany applies a 17% countervailing duty on top of the 10% standard tariff. This positions it for private buyers and ride-hailing operators.
+BYD's BYD Han L is a rear- or all-wheel-drive battery-electric sedan. As a mid-tier sedan battery-electric, it starts at $29,550 ex-factory. Across export markets for the sedan battery-electric, Germany applies a 17% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +19.1% over base ($35,207 landed). Specification highlights are LFP (Blade) chemistry, 315 Nm of torque, and a 83 kWh battery. As a sedan battery-electric, it is aimed at importers serving the sedan segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

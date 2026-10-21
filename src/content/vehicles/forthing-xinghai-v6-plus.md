@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V6 Plus"
-description: "The Forthing Xinghai V6 Plus is an SUV range-extended electric from Forthing, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Forthing's Forthing Xinghai V6 Plus is an SUV range-extended electric, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-xinghai-v6-plus"
 brand: "forthing"
 type: "SUV"
@@ -45,7 +45,7 @@ Forthing Xinghai V6 Plus (starting at $21,100) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai V6 Plus is an SUV range-extended electric from Forthing. The platform pairs LFP chemistry with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $21,100 ex-factory. For importers, the least-costly destination is Qatar, near +24.8% over base ($26,335 landed) — Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
+Forthing's Forthing Xinghai V6 Plus is an front-wheel-drive range-extended electric SUV. With a $21,100 ex-factory price, the SUV range-extended electric reads as value. It carries LFP cells and MacPherson strut front / Multi-link rear suspension. For this SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed). The SUV range-extended electric profile suits families and commercial fleet operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

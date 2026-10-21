@@ -53,7 +53,7 @@ Byd E3 (starting at $21,800) is a Sedan from BYD.
 
 ## Overview
 
-The BYD E3 is BYD's sedan battery-electric. Specification highlights are 180 Nm of torque and 43 kWh of battery capacity. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus FWD drivetrain. Pricing starts at $21,800 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +24.2% over base ($27,070 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits importers serving the executive-sedan segment.
+BYD's BYD E3 is a front-wheel-drive battery-electric sedan. For this sedan battery-electric, Qatar offers the cheapest entry at about +24.2% over base (≈ $27,070 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. Specification highlights are peak torque of 180 Nm and peak output of 100 kW. The $21,800 ex-factory price places this sedan battery-electric in the value-oriented band. This sedan battery-electric is positioned for business fleets watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Haval Raptor"
-description: "Haval Raptor is an SUV plug-in hybrid electric offered by Haval, offering a CLTC-rated range of 105 km, a 18 kWh battery, 220 kW peak output, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Haval Raptor is Haval's SUV plug-in hybrid electric, offering 105 km of CLTC range, 18 kWh of battery, 220 kW peak output, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "haval-raptor"
 brand: "haval"
 type: "SUV"
@@ -58,7 +58,7 @@ Haval Raptor (starting at $24,480) is a SUV from HAVAL.
 
 ## Overview
 
-Haval Raptor is an SUV plug-in hybrid offered by Haval. Specification highlights are 190 km/h top speed and a CLTC-rated range of 105 km. Chassis details include AWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $24,480, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +22.1% over base (≈ $29,884 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
+Haval's Haval Raptor is an all-wheel-drive plug-in hybrid SUV. With a $24,480 ex-factory price, the SUV plug-in hybrid reads as value. Specification highlights are NMC chemistry, a 220 kW electric motor, and peak torque of 510 Nm. For this SUV plug-in hybrid, Germany levies only the 10% standard tariff; meanwhile, the lowest landed premium is Qatar at roughly +22.1% over base (about $29,884 landed). In the SUV plug-in hybrid segment, it serves family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

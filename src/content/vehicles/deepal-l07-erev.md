@@ -52,7 +52,7 @@ Deepal L07 EREV (starting at $18,880) is a Sedan from DEEPAL.
 
 ## Overview
 
-The Deepal L07 EREV is Deepal's sedan range-extended electric. It carries a 28 kWh battery and peak output of 175 kW. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus RWD drivetrain. At an ex-factory price of $18,880, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +27.1% over base (≈ $24,004 landed) — Germany levies only the 10% standard tariff. The profile suits business fleets and long-distance commuters.
+Deepal's Deepal L07 EREV is a rear-wheel-drive range-extended electric sedan. For the sedan range-extended electric, Germany levies only the 10% standard tariff; the least-costly destination is Qatar, near +27.1% over base ($24,004 landed). As a value-oriented sedan range-extended electric, it starts at $18,880 ex-factory. It carries a 28 kWh battery and MacPherson strut front / Multi-link rear suspension. This sedan range-extended electric is positioned for private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

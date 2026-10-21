@@ -51,7 +51,7 @@ Gac Motor Emkoo (starting at $21,100) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The GAC Motor Emkoo is GAC Motor's SUV non-plug-in hybrid. It carries 300 Nm of torque and 160 km/h top speed. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. At an ex-factory price of $21,100, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,335 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits budget-conscious fleet buyers.
+The GAC Motor Emkoo is an front-wheel-drive non-plug-in hybrid SUV from GAC Motor. Priced from $21,100 ex-factory, the SUV non-plug-in hybrid falls in the value-oriented tier. For the SUV non-plug-in hybrid, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed), while Germany levies only the 10% standard tariff. It carries a top speed of 160 km/h and a MacPherson strut front / Multi-link rear suspension layout. The SUV non-plug-in hybrid profile suits private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

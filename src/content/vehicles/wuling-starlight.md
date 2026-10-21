@@ -54,7 +54,7 @@ Wuling Starlight (starting at $11,240) is a SUV from WULING.
 
 ## Overview
 
-Wuling Starlight is a sedan battery-electric offered by Wuling. It carries a 150 kW electric motor and 54 kWh of battery capacity. Chassis details include LFP chemistry, plus FWD drivetrain. At an ex-factory price of $11,240, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +42.2% over base (≈ $15,982 landed), while Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. It suits business fleets and long-distance commuters.
+Wuling's Wuling Starlight is a front-wheel-drive battery-electric sedan. For the sedan battery-electric, the least-costly destination is Qatar, near +42.2% over base ($15,982 landed); Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The $11,240 ex-factory price places this sedan battery-electric in the affordable-end band. It carries peak output of 150 kW, 185 km/h top speed, and 310 Nm of torque. As a sedan battery-electric, it is aimed at executive and corporate fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

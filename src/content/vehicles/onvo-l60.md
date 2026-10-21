@@ -1,6 +1,6 @@
 ---
 title: "Onvo L60"
-description: "Onvo L60 is an SUV battery-electric offered by Onvo, offering 560 km of CLTC range, 60 kWh of battery, 240 kW of motor power, and a LFP / NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Onvo L60 is an SUV battery-electric from Onvo, offering a CLTC-rated range of 560 km, a 60 kWh battery, 240 kW peak output, and LFP / NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "onvo-l60"
 brand: "onvo"
 type: "SUV"
@@ -59,7 +59,7 @@ Onvo L60 (starting at $29,140) is a SUV from ONVO.
 
 ## Overview
 
-Onvo L60 is an SUV battery-electric offered by Onvo. It carries 200 km/h top speed and a 240 kW electric motor. Chassis details include RWD / AWD drive, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $29,140 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +19.3% over base (≈ $34,777 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits families and commercial fleet operators.
+Onvo L60 is an SUV fully electric from Onvo, in rear- or all-wheel-drive form. Specification highlights are 0–100 km/h in 5.9 seconds and 560 km of CLTC range. For this SUV fully electric, the lowest landed premium is Qatar at roughly +19.3% over base (about $34,777 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The $29,140 ex-factory price places this SUV fully electric in the mid-tier band. For the SUV fully electric buyer, it suits families and commercial fleet operators focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

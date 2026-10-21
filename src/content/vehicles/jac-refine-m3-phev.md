@@ -54,7 +54,7 @@ JAC Refine M3 PHEV (starting at $15,960) is a MPV from JAC REFINE.
 
 ## Overview
 
-JAC Refine M3 PHEV is an MPV plug-in hybrid offered by JAC Refine. Specification highlights are peak output of 130 kW and a CLTC-rated range of 85 km. The platform pairs LFP cells with RWD drive. Pricing starts at $15,960 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +31.2% over base (about $20,938 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
+The JAC Refine M3 PHEV is an MPV plug-in hybrid with rear-wheel-drive from JAC Refine. Key figures are a 17 kWh battery and peak output of 130 kW. For the MPV plug-in hybrid, the least-costly destination is Qatar, near +31.2% over base ($20,938 landed); Germany levies only the 10% standard tariff. At $15,960 ex-factory, this MPV plug-in hybrid sits in the mainstream-value segment. For the MPV plug-in hybrid buyer, it suits importers serving the multi-passenger segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

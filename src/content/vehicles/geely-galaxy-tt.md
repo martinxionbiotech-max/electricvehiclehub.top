@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy TT"
-description: "Geely Galaxy TT is a sedan battery-electric offered by Geely Galaxy with 640 km of CLTC range, a 63 kWh battery, 245 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Geely Galaxy TT is a sedan battery-electric from Geely Galaxy with 640 km of CLTC range, 63 kWh of battery, 245 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-tt"
 brand: "geely-galaxy"
 type: "Sedan"
@@ -55,7 +55,7 @@ Geely Galaxy TT (starting at $19,430) is a Sedan from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy TT is a sedan fully electric offered by Geely Galaxy. It carries 63 kWh of battery capacity, 640 km of CLTC range, and peak output of 245 kW. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP cells. Pricing starts at $19,430 ex-factory, placing it in the value tier. For importers, the least-costly destination is Qatar, near +26.5% over base ($24,581 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for business fleets and long-distance commuters.
+Geely Galaxy TT is a sedan fully electric from Geely Galaxy, in rear-wheel-drive form. It carries LFP cells, a 6.5-second 0–100 km/h time, and peak output of 245 kW. For this sedan fully electric, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,581 landed). With a $19,430 ex-factory price, the sedan fully electric reads as value. This sedan fully electric is positioned for importers serving the sedan segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

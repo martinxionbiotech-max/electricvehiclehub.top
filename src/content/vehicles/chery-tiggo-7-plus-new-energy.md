@@ -54,7 +54,7 @@ Chery Tiggo 7 PLUS New Energy (starting at $18,300) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 7 Plus New Energy is Chery's SUV plug-in hybrid electric. It carries a 125 kW electric motor and 16 kWh of battery capacity. The platform pairs LFP cells with MacPherson strut front / Multi-link rear suspension. Pricing starts at $18,300 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +27.8% over base (≈ $23,395 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
+Chery Tiggo 7 Plus New Energy is an SUV plug-in hybrid electric from Chery, in front-wheel-drive form. As a value-oriented SUV plug-in hybrid electric, it starts at $18,300 ex-factory. It carries a 16 kWh battery and 315 Nm of torque. On landed cost for this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +27.8% over base (≈ $23,395 landed); Germany levies only the 10% standard tariff. For the SUV plug-in hybrid electric buyer, it suits families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

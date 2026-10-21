@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy M7"
-description: "Geely Galaxy M7 is an SUV plug-in hybrid offered by Geely Galaxy, offering a CLTC-rated range of 225 km, a 29 kWh battery, 160 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Galaxy M7 is Geely Galaxy's SUV plug-in hybrid, offering 225 km of CLTC range, a 29 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-m7"
 brand: "geely-galaxy"
 type: "SUV"
@@ -54,7 +54,7 @@ Geely Galaxy M7 (starting at $16,640) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy M7 is Geely Galaxy's SUV plug-in hybrid electric. Specification highlights are 0–100 km/h in 7.5 seconds and a 160 kW electric motor. The platform pairs FWD drivetrain with LFP chemistry. Pricing starts at $16,640 ex-factory, placing it in the value tier. For importers, Qatar offers the cheapest entry at about +30.1% over base (≈ $21,652 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+Geely Galaxy M7 is an SUV plug-in hybrid electric from Geely Galaxy, in front-wheel-drive form. With a $16,640 ex-factory price, the SUV plug-in hybrid electric reads as mainstream-value. Key figures are 0–100 km/h in 7.5 seconds, a MacPherson strut front / Multi-link rear suspension layout, and a CLTC-rated range of 225 km. On landed cost for this SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,652 landed) — Germany applies the 10% standard tariff with no countervailing duty. In the SUV plug-in hybrid electric segment, it serves importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06 EREV"
-description: "Avatr 06 EREV is a sedan extended-range electric offered by Avatr with a CLTC-rated range of 230 km, a 31 kWh battery, 231 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Avatr 06 EREV, a sedan extended-range electric from Avatr with 230 km of CLTC range, a 31 kWh battery, 231 kW of motor power, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "avatr-06-erev"
 brand: "avatr"
 type: "Sedan"
@@ -56,7 +56,7 @@ Avatr 06 EREV (starting at $29,150) is a Sedan from AVATR.
 
 ## Overview
 
-Avatr 06 EREV is a sedan range-extended electric offered by Avatr. It carries peak output of 231 kW and peak torque of 367 Nm. The platform pairs Double wishbone front / Multi-link rear suspension with NMC (CATL) chemistry. The ex-factory price of $29,150 positions it as a mid-tier import. Across export markets, Qatar offers the cheapest entry at about +19.3% over base (≈ $34,787 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and ride-hailing operators.
+The Avatr 06 EREV is a rear-wheel-drive range-extended electric sedan from Avatr. It carries a top speed of 190 km/h, 31 kWh of capacity, and NMC (CATL) cells. On landed cost for this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +19.3% over base (≈ $34,787 landed). The $29,150 ex-factory price places this sedan range-extended electric in the mid-tier band. As a sedan range-extended electric, it is aimed at private buyers and ride-hailing operators evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

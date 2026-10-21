@@ -56,7 +56,7 @@ Hongqi HS7 (starting at $40,960) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi HS7 is an SUV plug-in hybrid electric from Hongqi. It carries 180 km/h top speed and a 168 kW electric motor. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drivetrain. At an ex-factory price of $40,960, it sits in the premium segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +15.2% over base (about $47,188 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
+Hongqi's Hongqi HS7 is an front-wheel-drive plug-in hybrid electric SUV. For this SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +15.2% over base (about $47,188 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. Key figures are a MacPherson strut front / Multi-link rear suspension layout, a 168 kW electric motor, and a CLTC-rated range of 100 km. At $40,960 ex-factory, this SUV plug-in hybrid electric sits in the premium segment. This SUV plug-in hybrid electric is positioned for family and fleet buyers seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

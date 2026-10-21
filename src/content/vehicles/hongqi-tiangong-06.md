@@ -54,7 +54,7 @@ Hongqi Tiangong 06 (starting at $24,970) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi Tiangong 06 is Hongqi's SUV fully electric. It carries a top speed of 210 km/h and peak torque of 317 Nm. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a value-segment import, priced from $24,970 ex-factory. For importers, the least-costly destination is Qatar, near +21.7% over base ($30,398 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for importers targeting the family-SUV segment.
+Hongqi Tiangong 06 is an SUV fully electric from Hongqi, in rear-wheel-drive form. On landed cost for this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +21.7% over base (≈ $30,398 landed). Key figures are a MacPherson strut front / Multi-link rear suspension layout and LFP chemistry. As a value-oriented SUV fully electric, it starts at $24,970 ex-factory. This SUV fully electric is positioned for private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

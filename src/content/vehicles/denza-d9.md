@@ -59,7 +59,7 @@ Denza D9 (starting at $43,630) is a SUV from DENZA.
 
 ## Overview
 
-The Denza D9 is an MPV fully electric from Denza. Specification highlights are a 8.6-second 0–100 km/h time, peak output of 200 kW, and 103 kWh of battery capacity. The platform pairs FWD / AWD drivetrain with LFP (Blade) chemistry. At an ex-factory price of $43,630, it sits in the premium segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +14.6% over base ($49,991 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits shuttle and charter fleet operators.
+The Denza D9 is an front- or all-wheel-drive fully electric MPV from Denza. On landed cost for this MPV fully electric, the lowest landed premium is Qatar at roughly +14.6% over base (about $49,991 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. Priced from $43,630 ex-factory, the MPV fully electric falls in the premium tier. Key figures are a CLTC-rated range of 620 km and MacPherson strut front / Multi-link rear suspension. This MPV fully electric is positioned for people-carrier operators and family buyers seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

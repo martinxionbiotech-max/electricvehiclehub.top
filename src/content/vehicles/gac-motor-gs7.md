@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor GS7"
-description: "The GAC Motor GS7 is an SUV plug-in hybrid from GAC Motor with 150 km of CLTC range, 36 kWh of battery, 170 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "GAC Motor's GAC Motor GS7 is an SUV plug-in hybrid with 150 km of CLTC range, 36 kWh of battery, 170 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "gac-motor-gs7"
 brand: "gac-motor"
 type: "SUV"
@@ -56,7 +56,7 @@ Gac Motor GS7 (starting at $22,510) is a SUV from GAC MOTOR.
 
 ## Overview
 
-GAC Motor GS7 is an SUV plug-in hybrid offered by GAC Motor. It carries peak output of 170 kW and a 36 kWh battery. Chassis details include FWD drive, plus LFP cells. At an ex-factory price of $22,510, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +23.6% over base ($27,815 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and fleet managers.
+GAC Motor's GAC Motor GS7 is an front-wheel-drive plug-in hybrid SUV. It carries 36 kWh of capacity and LFP cells. As a mainstream-value SUV plug-in hybrid, it starts at $22,510 ex-factory. Across export markets for the SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed) — Germany applies the 10% standard tariff with no countervailing duty. In the SUV plug-in hybrid segment, it serves family and fleet buyers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

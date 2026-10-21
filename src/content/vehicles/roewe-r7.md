@@ -1,6 +1,6 @@
 ---
 title: "Roewe R7"
-description: "The Roewe R7 is an SUV battery-electric from Roewe with 90 kWh of battery, 250 kW peak output, and LFP (NMC option) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Roewe's Roewe R7 is an SUV battery-electric with 90 kWh of battery, 250 kW peak output, and LFP (NMC option) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "roewe-r7"
 brand: "roewe"
 type: "SUV"
@@ -50,7 +50,7 @@ Roewe R7 (starting at $22,210) is a SUV from ROEWE.
 
 ## Overview
 
-Roewe R7 is an SUV battery-electric offered by Roewe. Specification highlights are a 250 kW electric motor and 450 Nm of torque. Chassis details include RWD drivetrain, plus MacPherson strut front / Multi-link rear suspension. The ex-factory price of $22,210 positions it as a value-focused import. Across export markets, Qatar offers the cheapest entry at about +23.8% over base (≈ $27,500 landed) — Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
+The Roewe R7 is an SUV battery-electric with rear-wheel-drive from Roewe. At $22,210 ex-factory, this SUV battery-electric sits in the mainstream-value segment. It carries a 90 kWh battery, 450 Nm of torque, and peak output of 250 kW. Across export markets for the SUV battery-electric, the least-costly destination is Qatar, near +23.8% over base ($27,500 landed); Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The SUV battery-electric profile suits regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T8"
-description: "The Chery Fulwin T8 is an SUV plug-in hybrid from Chery Fulwin, offering a CLTC-rated range of 130 km, a 18 kWh battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery Fulwin's Chery Fulwin T8 is an SUV plug-in hybrid, offering a CLTC-rated range of 130 km, a 18 kWh battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-fulwin-t8"
 brand: "chery-fulwin"
 type: "SUV"
@@ -50,7 +50,7 @@ Chery Fulwin T8 (starting at $14,630) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T8 is Chery Fulwin's SUV plug-in hybrid. Specification highlights are a rated range of 130 km (CLTC) and 18 kWh of battery capacity. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drivetrain. At an ex-factory price of $14,630, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +33.6% over base ($19,541 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers targeting the family-SUV segment.
+Chery Fulwin's Chery Fulwin T8 is an front-wheel-drive plug-in hybrid SUV. Key figures are LFP cells, a 150 kW electric motor, and 18 kWh of capacity. Across export markets for the SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +33.6% over base (about $19,541 landed); Germany applies the 10% standard tariff with no countervailing duty. The $14,630 ex-factory price places this SUV plug-in hybrid in the budget band. For the SUV plug-in hybrid buyer, it suits private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -56,7 +56,7 @@ BYD Han L DM-i (starting at $29,140) is a Sedan from BYD.
 
 ## Overview
 
-BYD Han L DM-i is a sedan plug-in hybrid electric offered by BYD. Specification highlights are 200 km/h top speed, a 6.9-second 0–100 km/h time, and a CLTC-rated range of 200 km. Chassis details include LFP (Blade) chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $29,140 positions it as a mid-market import. On landed cost, the lowest landed premium is Qatar at roughly +19.3% over base (about $34,777 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits business fleets and long-distance commuters.
+BYD Han L DM-i is a sedan plug-in hybrid electric from BYD, in front-wheel-drive form. Across export markets for the sedan plug-in hybrid electric, Germany levies only the 10% standard tariff, while the least-costly destination is Qatar, near +19.3% over base ($34,777 landed). As a mid-market sedan plug-in hybrid electric, it starts at $29,140 ex-factory. Specification highlights are a CLTC-rated range of 200 km and 200 km/h top speed. In the sedan plug-in hybrid electric segment, it serves executive and corporate fleet buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

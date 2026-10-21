@@ -54,7 +54,7 @@ Hycan 007 (starting at $36,080) is a SUV from HYCAN.
 
 ## Overview
 
-The Hycan 007 is Hycan's SUV fully electric. Specification highlights are peak output of 135 kW and 0–100 km/h in 8.2 seconds. Chassis details include NMC (ternary) cells, plus RWD drive. Pricing starts at $36,080 ex-factory, placing it in the mid-market tier. On landed cost, the lowest landed premium is Qatar at roughly +16.6% over base (about $42,064 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
+Hycan 007 is an SUV fully electric from Hycan, in rear-wheel-drive form. Specification highlights are a 8.2-second 0–100 km/h time and a MacPherson strut front / Multi-link rear suspension layout. With a $36,080 ex-factory price, the SUV fully electric reads as mid-tier. For the SUV fully electric, the least-costly destination is Qatar, near +16.6% over base ($42,064 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. In the SUV fully electric segment, it serves family and fleet buyers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

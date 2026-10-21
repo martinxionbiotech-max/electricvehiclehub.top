@@ -1,6 +1,6 @@
 ---
 title: "Maxus Mifa 7"
-description: "Maxus Mifa 7 is an MPV fully electric offered by Maxus with a CLTC-rated range of 605 km, 90 kWh of battery, 176 kW of motor power, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Maxus Mifa 7, an MPV fully electric from Maxus, offering a CLTC-rated range of 605 km, a 90 kWh battery, 176 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "maxus-mifa-7"
 brand: "maxus"
 type: "MPV"
@@ -52,7 +52,7 @@ Maxus Mifa 7 (starting at $26,750) is a MPV from MAXUS.
 
 ## Overview
 
-The Maxus Mifa 7 is an MPV fully electric from Maxus. It carries 605 km of CLTC range and peak torque of 390 Nm. The platform pairs FWD drive with NMC cells. Pricing starts at $26,750 ex-factory, placing it in the mid-market tier. On landed cost, the lowest landed premium is Qatar at roughly +20.6% over base (about $32,267 landed); meanwhile, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. The profile suits importers serving the multi-passenger segment.
+Maxus's Maxus Mifa 7 is an front-wheel-drive fully electric MPV. With a $26,750 ex-factory price, the MPV fully electric reads as mid-market. It carries 180 km/h top speed and 605 km of CLTC range. For the MPV fully electric, the lowest landed premium is Qatar at roughly +20.6% over base (about $32,267 landed); meanwhile, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. In the MPV fully electric segment, it serves importers serving the multi-passenger segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

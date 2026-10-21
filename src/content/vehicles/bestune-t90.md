@@ -1,6 +1,6 @@
 ---
 title: "Bestune T90"
-description: "The Bestune T90 is an SUV plug-in hybrid electric from Bestune with a CLTC-rated range of 210 km, a 30 kWh battery, 168 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Bestune's Bestune T90 is an SUV plug-in hybrid electric with a CLTC-rated range of 210 km, a 30 kWh battery, 168 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "bestune-t90"
 brand: "bestune"
 type: "SUV"
@@ -58,7 +58,7 @@ Bestune T90 (starting at $14,060) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune T90 is Bestune's SUV plug-in hybrid electric. It carries a top speed of 180 km/h and 0–100 km/h in 6.9 seconds. Chassis details include LFP chemistry, plus FWD drivetrain. At an ex-factory price of $14,060, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +34.7% over base ($18,943 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
+The Bestune T90 is an front-wheel-drive plug-in hybrid electric SUV from Bestune. Key figures are a CLTC-rated range of 210 km, 340 Nm of torque, and a 30 kWh battery. As a budget SUV plug-in hybrid electric, it starts at $14,060 ex-factory. For this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed) — Germany applies the 10% standard tariff with no countervailing duty. The SUV plug-in hybrid electric profile suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

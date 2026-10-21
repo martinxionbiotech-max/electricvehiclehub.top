@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L6"
-description: "The Jetour Shanhai L6 is an SUV plug-in hybrid electric from Jetour, offering a CLTC-rated range of 125 km, a 19 kWh battery, 150 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Jetour's Jetour Shanhai L6 is an SUV plug-in hybrid electric, offering a CLTC-rated range of 125 km, a 19 kWh battery, 150 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "jetour-shanhai-l6"
 brand: "jetour"
 type: "SUV"
@@ -54,7 +54,7 @@ Jetour Shanhai L6 (starting at $17,450) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour Shanhai L6 is Jetour's SUV plug-in hybrid. Specification highlights are a 150 kW electric motor, peak torque of 310 Nm, and a CLTC-rated range of 125 km. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. The ex-factory price of $17,450 positions it as a mainstream-value import. On landed cost, Qatar offers the cheapest entry at about +29% over base (≈ $22,502 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits regional distributors serving family and logistics demand.
+The Jetour Shanhai L6 is an front-wheel-drive plug-in hybrid SUV from Jetour. This SUV plug-in hybrid is positioned as a mainstream-value import, from $17,450 ex-factory. On landed cost for this SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +29% over base (about $22,502 landed); meanwhile, Germany levies only the 10% standard tariff. Specification highlights are 125 km of CLTC range, a MacPherson strut front / Multi-link rear suspension layout, and LFP chemistry. The SUV plug-in hybrid profile suits families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

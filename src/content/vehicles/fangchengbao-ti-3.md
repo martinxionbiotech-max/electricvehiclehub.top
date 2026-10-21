@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao TI 3"
-description: "Fangchengbao TI 3 is an SUV battery-electric offered by Fangchengbao with 501 km of CLTC range, a 65 kWh battery, 160 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Fangchengbao's Fangchengbao TI 3 is an SUV battery-electric with 501 km of CLTC range, a 65 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "fangchengbao-ti-3"
 brand: "fangchengbao"
 type: "SUV"
@@ -58,7 +58,7 @@ Fangchengbao TI 3 (starting at $18,850) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-Fangchengbao TI 3 is an SUV fully electric offered by Fangchengbao. Specification highlights are 0–100 km/h in 7.9 seconds and 201 km/h top speed. The platform pairs a Double wishbone front / Multi-link rear suspension setup with RWD drivetrain. Pricing starts at $18,850 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +27.2% over base (≈ $23,972 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits price-sensitive importers.
+The Fangchengbao TI 3 is an rear-wheel-drive battery-electric SUV from Fangchengbao. With a $18,850 ex-factory price, the SUV battery-electric reads as value-oriented. On landed cost for this SUV battery-electric, the least-costly destination is Qatar, near +27.2% over base ($23,972 landed); Germany applies a 17% countervailing duty on top of the 10% standard tariff. Specification highlights are 201 km/h top speed, a Double wishbone front / Multi-link rear suspension layout, and 65 kWh of capacity. This SUV battery-electric is positioned for private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

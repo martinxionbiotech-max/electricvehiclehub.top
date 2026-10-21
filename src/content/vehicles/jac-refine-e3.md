@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine E3"
-description: "The JAC Refine E3 is JAC Refine's MPV battery-electric with a CLTC-rated range of 450 km, 76 kWh of battery, 130 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The JAC Refine E3, an MPV battery-electric from JAC Refine with a CLTC-rated range of 450 km, 76 kWh of battery, 130 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "jac-refine-e3"
 brand: "jac-refine"
 type: "MPV"
@@ -55,7 +55,7 @@ Jac Refine E3 (starting at $23,230) is a MPV from JAC REFINE.
 
 ## Overview
 
-The JAC Refine E3 is an MPV fully electric from JAC Refine. It carries 130 km/h top speed and 76 kWh of battery capacity. The platform pairs LFP chemistry with MacPherson strut front / Multi-link rear suspension. The ex-factory price of $23,230 positions it as a value-focused import. For importers, Qatar offers the cheapest entry at about +23% over base (≈ $28,571 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits importers serving the multi-passenger segment.
+The JAC Refine E3 is an MPV fully electric with rear-wheel-drive from JAC Refine. For this MPV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +23% over base (≈ $28,571 landed). It carries 76 kWh of capacity, LFP chemistry, and peak torque of 320 Nm. The $23,230 ex-factory price places this MPV fully electric in the value band. In the MPV fully electric segment, it serves shuttle and charter fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

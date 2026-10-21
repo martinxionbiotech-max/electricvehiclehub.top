@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Guoya"
-description: "Hongqi Guoya is a sedan hybrid offered by Hongqi with 160 kW of motor power and NMC (Li-ion) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Hongqi Guoya is a sedan hybrid from Hongqi with 160 kW of motor power and a NMC (Li-ion) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-guoya"
 brand: "hongqi"
 type: "Sedan"
@@ -55,7 +55,7 @@ Hongqi Guoya (starting at $197,180) is a Sedan from HONGQI.
 
 ## Overview
 
-The Hongqi Guoya is Hongqi's sedan hybrid. Specification highlights are a 4.8-second 0–100 km/h time, a 160 kW electric motor, and 250 km/h top speed. The platform pairs Double wishbone front / Multi-link (air) rear suspension with RWD drivetrain. The ex-factory price of $197,180 positions it as a top-tier import. For importers, Qatar offers the cheapest entry at about +7.1% over base (≈ $211,219 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and ride-hailing operators.
+The Hongqi Guoya is a sedan hybrid with rear-wheel-drive from Hongqi. Specification highlights are peak torque of 281 Nm, 250 km/h top speed, and a 4.8-second 0–100 km/h time. For this sedan hybrid, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +7.1% over base (about $211,219 landed). This sedan hybrid is positioned as a top-tier import, from $197,180 ex-factory. This sedan hybrid is positioned for executive and corporate fleet buyers prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

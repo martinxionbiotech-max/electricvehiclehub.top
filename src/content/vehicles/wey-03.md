@@ -55,7 +55,7 @@ Wey 03 (starting at $32,250) is a SUV from WEY.
 
 ## Overview
 
-The Wey 03 is an SUV plug-in hybrid electric from WEY. It carries a top speed of 180 km/h and 34 kWh of battery capacity. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. At an ex-factory price of $32,250, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +18% over base (about $38,042 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits private buyers and fleet managers.
+Wey 03 is an SUV plug-in hybrid electric from WEY, in front-wheel-drive form. Specification highlights are a 130 kW electric motor and 180 km/h top speed. For the SUV plug-in hybrid electric, the least-costly destination is Qatar, near +18% over base ($38,042 landed), while Germany levies only the 10% standard tariff. This SUV plug-in hybrid electric is positioned as a mid-tier import, from $32,250 ex-factory. In the SUV plug-in hybrid electric segment, it serves importers targeting the family-SUV segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

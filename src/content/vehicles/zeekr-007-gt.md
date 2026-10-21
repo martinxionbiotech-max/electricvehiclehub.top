@@ -56,7 +56,7 @@ Zeekr 007 GT (starting at $28,180) is a Sedan from ZEEKR.
 
 ## Overview
 
-The Zeekr 007 GT is a sedan fully electric from Zeekr. It carries 75 kWh of battery capacity and peak output of 310 kW. Chassis details include a Double wishbone front / Multi-link rear suspension setup, plus LFP / NMC chemistry. Pricing starts at $28,180 ex-factory, placing it in the mid-market tier. Across export markets, the lowest landed premium is Qatar at roughly +19.8% over base (about $33,769 landed) — Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for importers serving the executive-sedan segment.
+Zeekr 007 GT is a sedan fully electric from Zeekr, in rear- or all-wheel-drive form. For this sedan fully electric, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff; the lowest landed premium is Qatar at roughly +19.8% over base (about $33,769 landed). At $28,180 ex-factory, this sedan fully electric sits in the mid-market segment. Key figures are Double wishbone front / Multi-link rear suspension and peak output of 310 kW. This sedan fully electric is positioned for private buyers and ride-hailing operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

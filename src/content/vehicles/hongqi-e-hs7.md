@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS7"
-description: "Hongqi E HS7 is an SUV battery-electric offered by Hongqi with a CLTC-rated range of 605 km, 85 kWh of battery, 253 kW peak output, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Hongqi E HS7, an SUV battery-electric from Hongqi with a CLTC-rated range of 605 km, 85 kWh of battery, 253 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hongqi-e-hs7"
 brand: "hongqi"
 type: "SUV"
@@ -58,7 +58,7 @@ Hongqi E HS7 (starting at $30,410) is a SUV from HONGQI.
 
 ## Overview
 
-Hongqi E HS7 is an SUV fully electric offered by Hongqi. It carries 0–100 km/h in 6.3 seconds and 605 km of CLTC range. Chassis details include AWD (dual motor) drive, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $30,410, it sits in the mid-market segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +18.7% over base (≈ $36,110 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for families and commercial fleet operators.
+The Hongqi E HS7 is an dual-motor all-wheel-drive fully electric SUV from Hongqi. It carries MacPherson strut front / Multi-link rear suspension and a CLTC-rated range of 605 km. For the SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, the lowest landed premium is Qatar at roughly +18.7% over base (about $36,110 landed). As a mid-tier SUV fully electric, it starts at $30,410 ex-factory. As a SUV fully electric, it is aimed at importers targeting the family-SUV segment evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -59,7 +59,7 @@ Yangwang U8 (starting at $154,650) is a SUV from YANGWANG.
 
 ## Overview
 
-The Yangwang U8 is an SUV range-extended electric from Yangwang. It carries 190 km/h top speed and 49 kWh of battery capacity. Chassis details include a Double wishbone (hydraulic, DiSus-P) front / Multi-link (hydraulic, DiSus-P) rear suspension setup, plus AWD (quad motor) drivetrain. The ex-factory price of $154,650 positions it as a top-tier import. On landed cost, the least-costly destination is Qatar, near +7.7% over base ($166,562 landed) — Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+The Yangwang U8 is an quad-motor all-wheel-drive range-extended electric SUV from Yangwang. The $154,650 ex-factory price places this SUV range-extended electric in the flagship band. Across export markets for the SUV range-extended electric, Germany levies only the 10% standard tariff; Qatar offers the cheapest entry at about +7.7% over base (≈ $166,562 landed). Specification highlights are a top speed of 190 km/h and a CLTC-rated range of 180 km. For the SUV range-extended electric buyer, it suits importers targeting the family-SUV segment prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

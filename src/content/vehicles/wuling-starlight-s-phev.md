@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight S PHEV"
-description: "The Wuling Starlight S PHEV is an SUV plug-in hybrid from Wuling with a CLTC-rated range of 60 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Wuling's Wuling Starlight S PHEV is an SUV plug-in hybrid with a CLTC-rated range of 60 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-starlight-s-phev"
 brand: "wuling"
 type: "SUV"
@@ -55,7 +55,7 @@ Wuling Starlight S PHEV (starting at $13,860) is a SUV from WULING.
 
 ## Overview
 
-Wuling Starlight S PHEV is an SUV plug-in hybrid electric offered by Wuling. It carries 310 Nm of torque and 9 kWh of battery capacity. Chassis details include LFP cells, plus FWD drivetrain. It is positioned as a budget import, priced from $13,860 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
+Wuling Starlight S PHEV is an SUV plug-in hybrid electric from Wuling, in front-wheel-drive form. At $13,860 ex-factory, this SUV plug-in hybrid electric sits in the affordable-end segment. Key figures are 0–100 km/h in 7.9 seconds and 9 kWh of capacity. For this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed). In the SUV plug-in hybrid electric segment, it serves private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

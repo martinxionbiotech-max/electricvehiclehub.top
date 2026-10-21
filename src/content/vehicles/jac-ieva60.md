@@ -50,7 +50,7 @@ JAC iEVA60 (starting at $24,930) is a Sedan from JAC.
 
 ## Overview
 
-The JAC iEVA60 is a sedan fully electric from JAC. It carries 405 km of CLTC range, 68 kWh of battery capacity, and a top speed of 150 km/h. The platform pairs FWD drive with LFP cells. It is positioned as a mainstream-value import, priced from $24,930 ex-factory. On landed cost, the least-costly destination is Qatar, near +21.8% over base ($30,356 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits price-sensitive importers.
+JAC iEVA60 is a sedan fully electric from JAC, in front-wheel-drive form. Across export markets for the sedan fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +21.8% over base (about $30,356 landed). This sedan fully electric is positioned as a mainstream-value import, from $24,930 ex-factory. It carries LFP chemistry and 68 kWh of capacity. For the sedan fully electric buyer, it suits business fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

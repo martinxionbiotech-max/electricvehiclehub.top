@@ -1,6 +1,6 @@
 ---
 title: "Changan CS55 PLUS PHEV"
-description: "The Changan CS55 PLUS PHEV is ChangAn's SUV plug-in hybrid with a CLTC-rated range of 125 km, a 18 kWh battery, 158 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Changan CS55 PLUS PHEV, an SUV plug-in hybrid from ChangAn with a CLTC-rated range of 125 km, a 18 kWh battery, 158 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-cs55-plus-phev"
 brand: "changan"
 type: "SUV"
@@ -55,7 +55,7 @@ Changan CS55 PLUS PHEV (starting at $15,680) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan CS55 PLUS PHEV is an SUV plug-in hybrid electric from ChangAn. Specification highlights are 180 km/h top speed, a 158 kW electric motor, and peak torque of 330 Nm. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drivetrain. It is positioned as a mainstream-value import, priced from $15,680 ex-factory. On landed cost, the least-costly destination is Qatar, near +31.7% over base ($20,644 landed); meanwhile, Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
+ChangAn's Changan CS55 PLUS PHEV is an front-wheel-drive plug-in hybrid electric SUV. At $15,680 ex-factory, this SUV plug-in hybrid electric sits in the value segment. It carries 125 km of CLTC range, peak torque of 330 Nm, and a 7.3-second 0–100 km/h time. Across export markets for the SUV plug-in hybrid electric, the least-costly destination is Qatar, near +31.7% over base ($20,644 landed) — Germany levies only the 10% standard tariff. For the SUV plug-in hybrid electric buyer, it suits importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

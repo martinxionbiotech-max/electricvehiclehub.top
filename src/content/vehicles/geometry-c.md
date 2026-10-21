@@ -54,7 +54,7 @@ Geometry C (starting at $18,030) is a SUV from GEOMETRY.
 
 ## Overview
 
-Geometry C is an SUV fully electric offered by Geometry. It carries peak torque of 310 Nm and a 150 kW electric motor. The platform pairs LFP chemistry with MacPherson strut front / Multi-link rear suspension. Pricing starts at $18,030 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,111 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
+Geometry C is an SUV fully electric from Geometry, in front-wheel-drive form. For the SUV fully electric, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,111 landed), while Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. As a mainstream-value SUV fully electric, it starts at $18,030 ex-factory. Specification highlights are LFP chemistry, 310 Nm of torque, and a MacPherson strut front / Multi-link rear suspension layout. For the SUV fully electric buyer, it suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

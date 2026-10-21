@@ -59,7 +59,7 @@ Tank 700 (starting at $60,280) is a SUV from TANK.
 
 ## Overview
 
-The Tank 700 is an SUV plug-in hybrid electric from Tank. It carries 0–100 km/h in 5.6 seconds, peak output of 385 kW, and a top speed of 190 km/h. The platform pairs Double wishbone front / Multi-link (air) rear suspension with NMC (ternary) chemistry. It is positioned as a flagship import, priced from $60,280 ex-factory. On landed cost, Qatar offers the cheapest entry at about +11.9% over base (≈ $67,474 landed) — Germany levies only the 10% standard tariff. The profile suits premium-tier importers.
+Tank's Tank 700 is an all-wheel-drive plug-in hybrid electric SUV. It carries 400 Nm of torque and 0–100 km/h in 5.6 seconds. Priced from $60,280 ex-factory, the SUV plug-in hybrid electric falls in the flagship tier. On landed cost for this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; the least-costly destination is Qatar, near +11.9% over base ($67,474 landed). The SUV plug-in hybrid electric profile suits importers targeting the family-SUV segment evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

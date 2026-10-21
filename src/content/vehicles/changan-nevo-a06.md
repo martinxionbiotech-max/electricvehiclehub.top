@@ -56,7 +56,7 @@ Changan Nevo A06 (starting at $16,890) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-Changan Nevo A06 is a sedan fully electric offered by ChangAn NEVO. It carries 190 Nm of torque, a 120 kW electric motor, and a top speed of 160 km/h. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP chemistry. Pricing starts at $16,890 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +29.7% over base (about $21,914 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for executive and corporate fleet buyers.
+Changan Nevo A06 is a sedan fully electric from ChangAn NEVO, in rear-wheel-drive form. As a mainstream-value sedan fully electric, it starts at $16,890 ex-factory. For this sedan fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed). It carries a CLTC-rated range of 630 km and peak output of 120 kW. In the sedan fully electric segment, it serves executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

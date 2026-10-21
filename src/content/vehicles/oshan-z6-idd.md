@@ -1,6 +1,6 @@
 ---
 title: "Oshan Z6 iDD"
-description: "The Oshan Z6 iDD is Oshan's SUV plug-in hybrid electric with 150 km of CLTC range, 28 kWh of battery, 110 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Oshan Z6 iDD, an SUV plug-in hybrid electric from Oshan with 150 km of CLTC range, 28 kWh of battery, 110 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "oshan-z6-idd"
 brand: "oshan"
 type: "SUV"
@@ -55,7 +55,7 @@ Oshan Z6 iDD (starting at $21,640) is a SUV from OSHAN.
 
 ## Overview
 
-The Oshan Z6 iDD is an SUV plug-in hybrid electric from Oshan. Specification highlights are 200 km/h top speed and a rated range of 150 km (CLTC). The platform pairs NMC (ternary) cells with MacPherson strut front / Multi-link rear suspension. Pricing starts at $21,640 ex-factory, placing it in the value tier. On landed cost, the least-costly destination is Qatar, near +24.3% over base ($26,902 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+The Oshan Z6 iDD is an front-wheel-drive plug-in hybrid electric SUV from Oshan. On landed cost for this SUV plug-in hybrid electric, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +24.3% over base (about $26,902 landed). As a value SUV plug-in hybrid electric, it starts at $21,640 ex-factory. Specification highlights are NMC (ternary) chemistry, a 110 kW electric motor, and a 7.4-second 0–100 km/h time. This SUV plug-in hybrid electric is positioned for regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

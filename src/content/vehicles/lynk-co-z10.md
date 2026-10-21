@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co Z10"
-description: "Lynk Co Z10 is an SUV battery-electric offered by Lynk & Co, offering 702 km of CLTC range, a 95 kWh battery, 580 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Lynk Co Z10, an SUV battery-electric from Lynk & Co, offering 702 km of CLTC range, a 95 kWh battery, 580 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "lynk-co-z10"
 brand: "lynk-co"
 type: "SUV"
@@ -58,7 +58,7 @@ Lynk Co Z10 (starting at $32,370) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk Co Z10 is an SUV fully electric from Lynk & Co. Specification highlights are a 3.5-second 0–100 km/h time, 95 kWh of battery capacity, and a CLTC-rated range of 702 km. The platform pairs NMC (CATL) chemistry with MacPherson strut front / Multi-link rear suspension. It is positioned as a mid-tier import, priced from $32,370 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,168 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits regional distributors serving family and logistics demand.
+The Lynk Co Z10 is an SUV fully electric with rear-wheel-drive from Lynk & Co. The $32,370 ex-factory price places this SUV fully electric in the mid-market band. Specification highlights are 0–100 km/h in 3.5 seconds and 702 km of CLTC range. For this SUV fully electric, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,168 landed); Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. The SUV fully electric profile suits regional distributors balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

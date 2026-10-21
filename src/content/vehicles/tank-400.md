@@ -60,7 +60,7 @@ Tank 400 (starting at $40,250) is a SUV from TANK.
 
 ## Overview
 
-The Tank 400 is Tank's SUV plug-in hybrid electric. Specification highlights are a 300 kW electric motor and 0–100 km/h in 6.8 seconds. Chassis details include NMC (ternary) cells, plus AWD drivetrain. At an ex-factory price of $40,250, it sits in the premium segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +15.4% over base (≈ $46,442 landed) — Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+Tank 400 is an SUV plug-in hybrid electric from Tank, in all-wheel-drive form. Key figures are 180 km/h top speed, NMC (ternary) chemistry, and 0–100 km/h in 6.8 seconds. Across export markets for the SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty — the least-costly destination is Qatar, near +15.4% over base ($46,442 landed). With a $40,250 ex-factory price, the SUV plug-in hybrid electric reads as upper-mid. In the SUV plug-in hybrid electric segment, it serves importers targeting the family-SUV segment focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

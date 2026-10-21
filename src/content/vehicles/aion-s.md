@@ -1,6 +1,6 @@
 ---
 title: "Aion S"
-description: "The Aion S is an SUV battery-electric from AION with a CLTC-rated range of 510 km, 46 kWh of battery, 100 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "AION's Aion S is an SUV battery-electric with a CLTC-rated range of 510 km, 46 kWh of battery, 100 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "aion-s"
 brand: "aion"
 type: "SUV"
@@ -54,7 +54,7 @@ Aion S (starting at $19,690) is a SUV from AION.
 
 ## Overview
 
-The Aion S is an SUV battery-electric from AION. It carries a 46 kWh battery, peak output of 100 kW, and 225 Nm of torque. Chassis details include FWD drivetrain, plus LFP cells. The ex-factory price of $19,690 positions it as a value-segment import. Across export markets, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+The Aion S is an SUV battery-electric with front-wheel-drive from AION. At $19,690 ex-factory, this SUV battery-electric sits in the value segment. For the SUV battery-electric, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Key figures are a top speed of 130 km/h and 225 Nm of torque. For the SUV battery-electric buyer, it suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

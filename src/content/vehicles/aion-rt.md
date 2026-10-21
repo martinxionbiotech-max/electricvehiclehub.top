@@ -58,7 +58,7 @@ Aion RT (starting at $14,060) is a SUV from AION.
 
 ## Overview
 
-Aion RT is an SUV battery-electric offered by AION. Specification highlights are 163 km/h top speed and 55 kWh of battery capacity. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $14,060 ex-factory, placing it in the entry-level tier. On landed cost, the lowest landed premium is Qatar at roughly +34.7% over base (about $18,943 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits private buyers and fleet managers.
+Aion RT is an SUV battery-electric from AION, in front-wheel-drive form. For the SUV battery-electric, the lowest landed premium is Qatar at roughly +34.7% over base (about $18,943 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. As a affordable-end SUV battery-electric, it starts at $14,060 ex-factory. Specification highlights are a 55 kWh battery and a top speed of 163 km/h. This SUV battery-electric is positioned for private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

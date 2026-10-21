@@ -57,7 +57,7 @@ Deepal Sl03 (starting at $16,890) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal Sl03 is Deepal's sedan fully electric. Specification highlights are 320 Nm of torque, 705 km of CLTC range, and a 7.2-second 0–100 km/h time. The platform pairs LFP cells with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $16,890 ex-factory. On landed cost, Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits private buyers and ride-hailing operators.
+Deepal's Deepal Sl03 is a rear-wheel-drive fully electric sedan. At $16,890 ex-factory, this sedan fully electric sits in the value-oriented segment. Key figures are a 79 kWh battery, a top speed of 170 km/h, and LFP cells. Across export markets for the sedan fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed). As a sedan fully electric, it is aimed at executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

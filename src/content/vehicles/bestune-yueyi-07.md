@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 07"
-description: "Bestune Yueyi 07 is an SUV plug-in hybrid offered by Bestune, offering a CLTC-rated range of 150 km, a 21 kWh battery, 168 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Bestune Yueyi 07 is Bestune's SUV plug-in hybrid with 150 km of CLTC range, a 21 kWh battery, 168 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "bestune-yueyi-07"
 brand: "bestune"
 type: "SUV"
@@ -57,7 +57,7 @@ Bestune Yueyi 07 (starting at $13,860) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune Yueyi 07 is Bestune's SUV plug-in hybrid. It carries peak torque of 340 Nm, 21 kWh of battery capacity, and a CLTC-rated range of 150 km. The platform pairs LFP chemistry with FWD drivetrain. Pricing starts at $13,860 ex-factory, placing it in the entry-level tier. Across export markets, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
+The Bestune Yueyi 07 is an SUV plug-in hybrid with front-wheel-drive from Bestune. Key figures are 150 km of CLTC range and 0–100 km/h in 6.9 seconds. This SUV plug-in hybrid is positioned as an affordable-end import, from $13,860 ex-factory. For the SUV plug-in hybrid, the least-costly destination is Qatar, near +35.2% over base ($18,733 landed); Germany levies only the 10% standard tariff. In the SUV plug-in hybrid segment, it serves regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

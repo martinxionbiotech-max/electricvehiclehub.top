@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T10"
-description: "Chery Fulwin T10 is an SUV plug-in hybrid electric offered by Chery Fulwin with a CLTC-rated range of 210 km, a 34 kWh battery, 165 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Chery Fulwin T10 is Chery Fulwin's SUV plug-in hybrid electric with 210 km of CLTC range, 34 kWh of battery, 165 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-fulwin-t10"
 brand: "chery-fulwin"
 type: "SUV"
@@ -56,7 +56,7 @@ Chery Fulwin T10 (starting at $26,750) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T10 is Chery Fulwin's SUV plug-in hybrid. Specification highlights are 180 km/h top speed and 210 km of CLTC range. Chassis details include FWD drive, plus LFP chemistry. The ex-factory price of $26,750 positions it as a mid-market import. For importers, the least-costly destination is Qatar, near +20.6% over base ($32,267 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
+Chery Fulwin T10 is an SUV plug-in hybrid from Chery Fulwin, in front-wheel-drive form. At $26,750 ex-factory, this SUV plug-in hybrid sits in the mid-tier segment. On landed cost for this SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +20.6% over base (about $32,267 landed) — Germany applies the 10% standard tariff with no countervailing duty. Key figures are a CLTC-rated range of 210 km, LFP cells, and 390 Nm of torque. In the SUV plug-in hybrid segment, it serves regional distributors evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

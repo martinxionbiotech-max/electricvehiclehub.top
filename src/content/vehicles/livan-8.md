@@ -54,7 +54,7 @@ Livan 8 (starting at $19,140) is a MPV from LIVAN.
 
 ## Overview
 
-The Livan 8 is an MPV battery-electric from Livan. Specification highlights are 68 kWh of battery capacity and a CLTC-rated range of 515 km. The platform pairs MacPherson strut front / Torsion beam rear suspension with FWD drivetrain. The ex-factory price of $19,140 positions it as a value-focused import. For importers, the least-costly destination is Qatar, near +26.8% over base ($24,277 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
+The Livan 8 is an MPV battery-electric with front-wheel-drive from Livan. For the MPV battery-electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +26.8% over base ($24,277 landed). It carries 515 km of CLTC range, peak torque of 230 Nm, and a 100 kW electric motor. The $19,140 ex-factory price places this MPV battery-electric in the value band. The MPV battery-electric profile suits importers serving the multi-passenger segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

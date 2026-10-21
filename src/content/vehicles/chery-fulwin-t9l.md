@@ -50,7 +50,7 @@ Chery Fulwin T9L (starting at $18,040) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin T9L is an SUV plug-in hybrid electric offered by Chery Fulwin. Specification highlights are peak torque of 330 Nm and a 260 kW electric motor. The platform pairs MacPherson strut front / Multi-link rear suspension with LFP chemistry. At an ex-factory price of $18,040, it sits in the value segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +28.2% over base ($23,122 landed), while Germany levies only the 10% standard tariff. It suits price-sensitive importers.
+Chery Fulwin's Chery Fulwin T9L is an front-wheel-drive plug-in hybrid electric SUV. Priced from $18,040 ex-factory, the SUV plug-in hybrid electric falls in the mainstream-value tier. For the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff, while the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed). It carries LFP chemistry, peak torque of 330 Nm, and 135 km of CLTC range. In the SUV plug-in hybrid electric segment, it serves family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

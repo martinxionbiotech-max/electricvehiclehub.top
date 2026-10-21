@@ -52,7 +52,7 @@ Exeed EX7 (starting at $27,760) is a SUV from EXEED.
 
 ## Overview
 
-Exeed EX7 is an SUV extended-range electric offered by Exeed. It carries a 227 kW electric motor and a rated range of 245 km (CLTC). The platform pairs a MacPherson strut front / Multi-link rear suspension setup with RWD drivetrain. It is positioned as a mid-tier import, priced from $27,760 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +20.1% over base (about $33,328 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for family and fleet buyers needing practical space.
+Exeed EX7 is an SUV extended-range electric from Exeed, in rear-wheel-drive form. At $27,760 ex-factory, this SUV extended-range electric sits in the mid-tier segment. For this SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +20.1% over base ($33,328 landed). Key figures are 41 kWh of capacity, NMC (CATL) chemistry, and peak output of 227 kW. The SUV extended-range electric profile suits family and fleet buyers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

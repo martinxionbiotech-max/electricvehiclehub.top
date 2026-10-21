@@ -1,6 +1,6 @@
 ---
 title: "Chery Shuxiangjia"
-description: "Chery New Energy's Chery Shuxiangjia is an SUV battery-electric, offering a CLTC-rated range of 512 km, 67 kWh of battery, 155 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Chery Shuxiangjia is Chery New Energy's SUV battery-electric, offering a CLTC-rated range of 512 km, 67 kWh of battery, 155 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "chery-new-energy-shuxiangjia"
 brand: "chery-new-energy"
 type: "SUV"
@@ -55,7 +55,7 @@ Chery Shuxiangjia (starting at $22,210) is a SUV from CHERY NEW ENERGY.
 
 ## Overview
 
-Chery New Energy's Chery Shuxiangjia is an SUV fully electric. It carries 180 km/h top speed and peak torque of 285 Nm. The platform pairs FWD drivetrain with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $22,210, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +23.8% over base (≈ $27,500 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers targeting the family-SUV segment.
+Chery New Energy's Chery Shuxiangjia is an front-wheel-drive fully electric SUV. With a $22,210 ex-factory price, the SUV fully electric reads as value-oriented. It carries a 8-second 0–100 km/h time and a MacPherson strut front / Multi-link rear suspension layout. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; the lowest landed premium is Qatar at roughly +23.8% over base (about $27,500 landed). For the SUV fully electric buyer, it suits regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

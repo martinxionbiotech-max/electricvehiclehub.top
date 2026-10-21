@@ -1,6 +1,6 @@
 ---
 title: "Aion LX"
-description: "The Aion LX is AION's SUV battery-electric, offering 650 km of CLTC range, a 93 kWh battery, 180 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aion LX, an SUV battery-electric from AION, offering 650 km of CLTC range, a 93 kWh battery, 180 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "aion-lx"
 brand: "aion"
 type: "SUV"
@@ -58,7 +58,7 @@ Aion LX (starting at $40,370) is a SUV from AION.
 
 ## Overview
 
-The Aion LX is an SUV battery-electric from AION. It carries 650 km of CLTC range and 350 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with NMC (ternary) cells. The ex-factory price of $40,370 positions it as a premium import. For importers, the least-costly destination is Qatar, near +15.4% over base ($46,568 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
+Aion LX is an SUV battery-electric from AION, in rear-wheel-drive form. For the SUV battery-electric, the least-costly destination is Qatar, near +15.4% over base ($46,568 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It carries a top speed of 170 km/h, a 93 kWh battery, and peak output of 180 kW. The $40,370 ex-factory price places this SUV battery-electric in the premium band. For the SUV battery-electric buyer, it suits private buyers and fleet managers seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

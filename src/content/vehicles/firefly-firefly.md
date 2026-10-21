@@ -1,6 +1,6 @@
 ---
 title: "Firefly Firefly"
-description: "Firefly Firefly is a hatchback fully electric offered by firefly, offering 420 km of CLTC range, a 42 kWh battery, 105 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Firefly Firefly is a hatchback fully electric from firefly, offering 420 km of CLTC range, a 42 kWh battery, 105 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "firefly-firefly"
 brand: "firefly"
 type: "Hatchback"
@@ -57,7 +57,7 @@ Firefly Firefly (starting at $16,870) is a Hatchback from FIREFLY.
 
 ## Overview
 
-The Firefly Firefly is a hatchback battery-electric from firefly. Specification highlights are peak torque of 200 Nm and a 42 kWh battery. Chassis details include RWD drivetrain, plus LFP chemistry. It is positioned as a mainstream-value import, priced from $16,870 ex-factory. For importers, the lowest landed premium is Qatar at roughly +29.8% over base (about $21,893 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits urban commuters and fleet operators.
+The Firefly Firefly is a hatchback battery-electric with rear-wheel-drive from firefly. For this hatchback battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +29.8% over base ($21,893 landed). It carries a 42 kWh battery, MacPherson strut front / Torsion beam rear suspension, and peak torque of 200 Nm. Priced from $16,870 ex-factory, the hatchback battery-electric falls in the mainstream-value tier. The hatchback battery-electric profile suits urban commuters and fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

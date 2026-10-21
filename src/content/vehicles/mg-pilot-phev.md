@@ -1,6 +1,6 @@
 ---
 title: "MG Pilot PHEV"
-description: "The MG Pilot PHEV is an SUV plug-in hybrid from MG with 75 km of CLTC range, 16 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "MG's MG Pilot PHEV is an SUV plug-in hybrid with 75 km of CLTC range, 16 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "mg-pilot-phev"
 brand: "mg"
 type: "SUV"
@@ -49,7 +49,7 @@ MG Pilot PHEV (starting at $23,170) is a SUV from MG.
 
 ## Overview
 
-The MG Pilot PHEV is MG's SUV plug-in hybrid electric. It carries a 16 kWh battery and 75 km of CLTC range. Chassis details include LFP chemistry, plus FWD drivetrain. It is positioned as a value-segment import, priced from $23,170 ex-factory. For importers, the least-costly destination is Qatar, near +23% over base ($28,508 landed) — Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
+MG's MG Pilot PHEV is an front-wheel-drive plug-in hybrid electric SUV. Specification highlights are a 16 kWh battery and MacPherson strut front / Multi-link rear suspension. This SUV plug-in hybrid electric is positioned as a value-segment import, from $23,170 ex-factory. On landed cost for this SUV plug-in hybrid electric, Germany levies only the 10% standard tariff, while the least-costly destination is Qatar, near +23% over base ($28,508 landed). In the SUV plug-in hybrid electric segment, it serves family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

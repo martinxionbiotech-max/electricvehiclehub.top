@@ -1,6 +1,6 @@
 ---
 title: "Im L7"
-description: "Im L7 is an SUV fully electric offered by IM, offering 708 km of CLTC range, 90 kWh of battery, 250 kW peak output, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Im L7 is an SUV fully electric from IM with a CLTC-rated range of 708 km, 90 kWh of battery, 250 kW of motor power, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "im-l7"
 brand: "im"
 type: "SUV"
@@ -58,7 +58,7 @@ Im L7 (starting at $42,240) is a SUV from IM.
 
 ## Overview
 
-Im L7 is an SUV battery-electric offered by IM. It carries 708 km of CLTC range and a 5.9-second 0–100 km/h time. The platform pairs NMC chemistry with RWD / AWD drivetrain. The ex-factory price of $42,240 positions it as a premium import. On landed cost, the least-costly destination is Qatar, near +14.9% over base ($48,532 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. The profile suits private buyers and fleet managers.
+The Im L7 is an rear- or all-wheel-drive battery-electric SUV from IM. As a upper-mid SUV battery-electric, it starts at $42,240 ex-factory. For this SUV battery-electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +14.9% over base (about $48,532 landed). Key figures are peak torque of 475 Nm, NMC cells, and a 90 kWh battery. As a SUV battery-electric, it is aimed at private buyers and fleet managers focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

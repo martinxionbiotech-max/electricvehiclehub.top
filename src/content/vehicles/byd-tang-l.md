@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang L"
-description: "BYD Tang L is an SUV battery-electric offered by BYD with 670 km of CLTC range, a 100 kWh battery, 200 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Tang L is an SUV battery-electric from BYD with 670 km of CLTC range, a 100 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-tang-l"
 brand: "byd"
 type: "SUV"
@@ -57,7 +57,7 @@ Byd Tang L (starting at $32,370) is a SUV from BYD.
 
 ## Overview
 
-BYD Tang L is an SUV fully electric offered by BYD. Specification highlights are a top speed of 200 km/h, a 7.9-second 0–100 km/h time, and peak torque of 315 Nm. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with RWD drivetrain. Pricing starts at $32,370 ex-factory, placing it in the mid-market tier. For importers, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,168 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. This positions it for regional distributors serving family and logistics demand.
+The BYD Tang L is an rear-wheel-drive battery-electric SUV from BYD. For this SUV battery-electric, Germany's estimate carries a 17% countervailing duty over the 10% base tariff; meanwhile, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,168 landed). It carries a 200 kW electric motor and MacPherson strut front / Multi-link rear suspension. As a mid-tier SUV battery-electric, it starts at $32,370 ex-factory. In the SUV battery-electric segment, it serves family and fleet buyers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07"
-description: "Avatr 07 is an SUV fully electric offered by Avatr with 650 km of CLTC range, 82 kWh of battery, 231 kW peak output, and a LFP (Shenxing) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Avatr's Avatr 07 is an SUV fully electric, offering a CLTC-rated range of 650 km, 82 kWh of battery, 231 kW peak output, and a LFP (Shenxing) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "avatr-07"
 brand: "avatr"
 type: "SUV"
@@ -59,7 +59,7 @@ Avatr 07 (starting at $30,970) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 07 is Avatr's SUV fully electric. It carries a rated range of 650 km (CLTC) and 82 kWh of battery capacity. Chassis details include LFP (Shenxing) chemistry, plus RWD / AWD drive. The ex-factory price of $30,970 positions it as a mid-tier import. For importers, the least-costly destination is Qatar, near +18.5% over base ($36,698 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
+The Avatr 07 is an rear- or all-wheel-drive fully electric SUV from Avatr. With a $30,970 ex-factory price, the SUV fully electric reads as mid-tier. It carries LFP (Shenxing) chemistry and a top speed of 190 km/h. On landed cost for this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — Qatar offers the cheapest entry at about +18.5% over base (≈ $36,698 landed). As a SUV fully electric, it is aimed at importers targeting the family-SUV segment evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -53,7 +53,7 @@ JAC iEV7L (starting at $16,180) is a Sedan from JAC.
 
 ## Overview
 
-The JAC iEV7L is JAC's sedan battery-electric. Specification highlights are 33 kWh of battery capacity, a 45 kW electric motor, and a rated range of 320 km (CLTC). Chassis details include LFP chemistry, plus a MacPherson strut front / Torsion beam rear suspension setup. The ex-factory price of $16,180 positions it as a mainstream-value import. On landed cost, the lowest landed premium is Qatar at roughly +30.8% over base (about $21,169 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits executive and corporate fleet buyers.
+JAC's JAC iEV7L is a front-wheel-drive battery-electric sedan. Specification highlights are LFP chemistry, a 45 kW electric motor, and a CLTC-rated range of 320 km. On landed cost for this sedan battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +30.8% over base ($21,169 landed). At $16,180 ex-factory, this sedan battery-electric sits in the value-oriented segment. As a sedan battery-electric, it is aimed at business fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

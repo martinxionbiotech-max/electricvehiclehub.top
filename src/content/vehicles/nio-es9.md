@@ -1,6 +1,6 @@
 ---
 title: "NIO ES9"
-description: "The NIO ES9 is an SUV battery-electric from NIO with a CLTC-rated range of 620 km, 102 kWh of battery, 520 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "NIO's NIO ES9 is an SUV battery-electric with a CLTC-rated range of 620 km, 102 kWh of battery, 520 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "nio-es9"
 brand: "nio"
 type: "SUV"
@@ -58,7 +58,7 @@ NIO ES9 (starting at $69,170) is a SUV from NIO.
 
 ## Overview
 
-The NIO ES9 is an SUV fully electric from NIO. Specification highlights are a 4.3-second 0–100 km/h time and peak torque of 700 Nm. The platform pairs AWD (dual-motor) drivetrain with Double wishbone front / Multi-link (air) rear suspension. Pricing starts at $69,170 ex-factory, placing it in the flagship tier. On landed cost, Qatar offers the cheapest entry at about +11% over base (≈ $76,808 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits regional distributors serving family and logistics demand.
+NIO's NIO ES9 is an dual-motor all-wheel-drive fully electric SUV. On landed cost for this SUV fully electric, the lowest landed premium is Qatar at roughly +11% over base (about $76,808 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. At $69,170 ex-factory, this SUV fully electric sits in the flagship segment. It carries 700 Nm of torque, a top speed of 220 km/h, and 620 km of CLTC range. This SUV fully electric is positioned for regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

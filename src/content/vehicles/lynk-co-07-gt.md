@@ -1,6 +1,6 @@
 ---
 title: "Lynk & Co 07 GT"
-description: "Lynk & Co 07 GT is a sedan plug-in hybrid electric offered by Lynk & Co with a CLTC-rated range of 200 km, a 28 kWh battery, 390 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Lynk & Co 07 GT is Lynk & Co's sedan plug-in hybrid electric, offering 200 km of CLTC range, 28 kWh of battery, 390 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "lynk-co-07-gt"
 brand: "lynk-co"
 type: "Sedan"
@@ -54,7 +54,7 @@ Lynk & Co 07 GT (starting at $21,920) is a Sedan from LYNK CO.
 
 ## Overview
 
-Lynk & Co 07 GT is a sedan plug-in hybrid electric offered by Lynk & Co. Specification highlights are a rated range of 200 km (CLTC) and 765 Nm of torque. Chassis details include AWD (dual motor) drive, plus NMC (CATL) cells. The ex-factory price of $21,920 positions it as a value-segment import. On landed cost, the lowest landed premium is Qatar at roughly +24.1% over base (about $27,196 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers serving the executive-sedan segment.
+The Lynk & Co 07 GT is a sedan plug-in hybrid electric with dual-motor all-wheel-drive from Lynk & Co. For this sedan plug-in hybrid electric, Qatar offers the cheapest entry at about +24.1% over base (≈ $27,196 landed); Germany levies only the 10% standard tariff. Key figures are 0–100 km/h in 5.5 seconds and a CLTC-rated range of 200 km. Priced from $21,920 ex-factory, the sedan plug-in hybrid electric falls in the mainstream-value tier. For the sedan plug-in hybrid electric buyer, it suits importers serving the sedan segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

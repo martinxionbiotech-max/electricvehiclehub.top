@@ -57,7 +57,7 @@ Aion V (starting at $15,460) is a SUV from AION.
 
 ## Overview
 
-The Aion V is AION's SUV battery-electric. Specification highlights are 160 km/h top speed and a 7.9-second 0–100 km/h time. Chassis details include LFP cells, plus FWD drive. It is positioned as a mainstream-value import, priced from $15,460 ex-factory. For importers, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for regional distributors serving family and logistics demand.
+The Aion V is an SUV battery-electric with front-wheel-drive from AION. Across export markets for the SUV battery-electric, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The $15,460 ex-factory price places this SUV battery-electric in the value-oriented band. Key figures are a 62 kWh battery and 160 km/h top speed. For the SUV battery-electric buyer, it suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

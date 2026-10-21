@@ -1,6 +1,6 @@
 ---
 title: "Roewe D7 PHEV"
-description: "Roewe D7 PHEV is a sedan plug-in hybrid offered by Roewe, offering a CLTC-rated range of 125 km, 19 kWh of battery, 137 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Roewe D7 PHEV is Roewe's sedan plug-in hybrid with a CLTC-rated range of 125 km, 19 kWh of battery, 137 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "roewe-d7-phev"
 brand: "roewe"
 type: "Sedan"
@@ -54,7 +54,7 @@ Roewe D7 PHEV (starting at $17,190) is a Sedan from ROEWE.
 
 ## Overview
 
-Roewe D7 PHEV is a sedan plug-in hybrid electric offered by Roewe. Specification highlights are a 19 kWh battery and 330 Nm of torque. Chassis details include FWD drivetrain, plus MacPherson strut front / Multi-link rear suspension. The ex-factory price of $17,190 positions it as a value-focused import. Across export markets, the least-costly destination is Qatar, near +29.3% over base ($22,229 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits executive and corporate fleet buyers.
+The Roewe D7 PHEV is a sedan plug-in hybrid electric with front-wheel-drive from Roewe. Across export markets for the sedan plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +29.3% over base ($22,229 landed). At $17,190 ex-factory, this sedan plug-in hybrid electric sits in the mainstream-value segment. Key figures are peak output of 137 kW, a 19 kWh battery, and LFP chemistry. As a sedan plug-in hybrid electric, it is aimed at business fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

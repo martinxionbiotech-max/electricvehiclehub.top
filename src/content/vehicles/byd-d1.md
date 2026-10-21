@@ -53,7 +53,7 @@ Byd D1 (starting at $23,920) is a MPV from BYD.
 
 ## Overview
 
-The BYD D1 is an MPV battery-electric from BYD. It carries 53 kWh of battery capacity and peak output of 100 kW. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with LFP (Blade) chemistry. Pricing starts at $23,920 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,296 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. The profile suits shuttle and charter fleet operators.
+The BYD D1 is an MPV battery-electric with front-wheel-drive from BYD. This MPV battery-electric is positioned as a value-focused import, from $23,920 ex-factory. It carries a 100 kW electric motor and 180 Nm of torque. For the MPV battery-electric, Germany's estimate carries a 17% countervailing duty over the 10% base tariff; meanwhile, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,296 landed). In the MPV battery-electric segment, it serves importers serving the multi-passenger segment prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Tank 300"
-description: "Tank 300 is an SUV plug-in hybrid electric offered by Tank, offering 115 km of CLTC range, 37 kWh of battery, 120 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Tank 300 is an SUV plug-in hybrid electric from Tank with a CLTC-rated range of 115 km, 37 kWh of battery, 120 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "tank-300"
 brand: "tank"
 type: "SUV"
@@ -59,7 +59,7 @@ Tank 300 (starting at $35,180) is a SUV from TANK.
 
 ## Overview
 
-The Tank 300 is Tank's SUV plug-in hybrid electric. It carries a 120 kW electric motor, 400 Nm of torque, and 0–100 km/h in 6.7 seconds. Chassis details include LFP chemistry, plus a Double wishbone front / Multi-link rear suspension setup. At an ex-factory price of $35,180, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +16.9% over base ($41,119 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
+Tank 300 is an SUV plug-in hybrid electric from Tank, in all-wheel-drive form. Key figures are LFP cells and a top speed of 180 km/h. For the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff, while the least-costly destination is Qatar, near +16.9% over base ($41,119 landed). This SUV plug-in hybrid electric is positioned as a mid-market import, from $35,180 ex-factory. As a SUV plug-in hybrid electric, it is aimed at private buyers and fleet managers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

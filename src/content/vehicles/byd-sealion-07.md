@@ -59,7 +59,7 @@ Byd Sealion 07 (starting at $26,730) is a SUV from BYD.
 
 ## Overview
 
-The BYD Sealion 07 is BYD's SUV fully electric. It carries peak output of 170 kW, 71 kWh of battery capacity, and 380 Nm of torque. Chassis details include a Double wishbone front / Five-link rear suspension setup, plus RWD / AWD drive. The ex-factory price of $26,730 positions it as a mid-market import. For importers, the least-costly destination is Qatar, near +20.6% over base ($32,246 landed); meanwhile, Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits private buyers and fleet managers.
+BYD Sealion 07 is an SUV fully electric from BYD, in rear- or all-wheel-drive form. This SUV fully electric is positioned as a mid-market import, from $26,730 ex-factory. On landed cost for this SUV fully electric, the least-costly destination is Qatar, near +20.6% over base ($32,246 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. Specification highlights are a Double wishbone front / Five-link rear suspension layout and LFP (Blade) cells. For the SUV fully electric buyer, it suits family and fleet buyers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

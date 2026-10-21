@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Plus DM-i"
-description: "The BYD Song Plus DM-i is BYD's SUV plug-in hybrid with a CLTC-rated range of 75 km, a 12 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Song Plus DM-i, an SUV plug-in hybrid from BYD with a CLTC-rated range of 75 km, a 12 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-song-plus-dm-i"
 brand: "byd"
 type: "SUV"
@@ -55,7 +55,7 @@ BYD Song Plus DM-i (starting at $18,860) is a SUV from BYD.
 
 ## Overview
 
-The BYD Song Plus DM-i is an SUV plug-in hybrid from BYD. It carries a 7.7-second 0–100 km/h time and 180 km/h top speed. Chassis details include LFP (Blade) cells, plus FWD drivetrain. It is positioned as a value-focused import, priced from $18,860 ex-factory. For importers, the least-costly destination is Qatar, near +27.2% over base ($23,983 landed), while Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
+BYD Song Plus DM-i is an SUV plug-in hybrid from BYD, in front-wheel-drive form. On landed cost for this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +27.2% over base ($23,983 landed). Specification highlights are 75 km of CLTC range, a 160 kW electric motor, and a 12 kWh battery. As a value SUV plug-in hybrid, it starts at $18,860 ex-factory. For the SUV plug-in hybrid buyer, it suits families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

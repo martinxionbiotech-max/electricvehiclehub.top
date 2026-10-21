@@ -60,7 +60,7 @@ Xpeng P7 (starting at $30,870) is a Sedan from XPENG.
 
 ## Overview
 
-The XPENG P7 is XPeng's sedan battery-electric. It carries 74 kWh of battery capacity, a CLTC-rated range of 702 km, and a top speed of 230 km/h. Chassis details include LFP / NMC cells, plus a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $30,870 ex-factory. On landed cost, Qatar offers the cheapest entry at about +18.5% over base (≈ $36,593 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits business fleets and long-distance commuters.
+The XPENG P7 is a rear- or all-wheel-drive battery-electric sedan from XPeng. For this sedan battery-electric, Qatar offers the cheapest entry at about +18.5% over base (≈ $36,593 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The $30,870 ex-factory price places this sedan battery-electric in the mid-tier band. It carries LFP / NMC chemistry, 0–100 km/h in 5.8 seconds, and Double wishbone front / Multi-link rear suspension. As a sedan battery-electric, it is aimed at executive and corporate fleet buyers balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

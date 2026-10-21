@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 009"
-description: "The Zeekr 009 is an SUV fully electric from Zeekr, offering a CLTC-rated range of 740 km, 108 kWh of battery, 310 kW of motor power, and NMC (Qilin) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Zeekr's Zeekr 009 is an SUV fully electric, offering a CLTC-rated range of 740 km, 108 kWh of battery, 310 kW of motor power, and NMC (Qilin) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "zeekr-009"
 brand: "zeekr"
 type: "SUV"
@@ -61,7 +61,7 @@ Zeekr 009 (starting at $61,830) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 009 is Zeekr's SUV battery-electric. It carries a 6.9-second 0–100 km/h time and 440 Nm of torque. Chassis details include NMC (Qilin) chemistry, plus Double wishbone front / Multi-link (air) rear suspension. It is positioned as a flagship import, priced from $61,830 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +11.8% over base (about $69,101 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits importers targeting the family-SUV segment.
+The Zeekr 009 is an SUV battery-electric with rear- or all-wheel-drive from Zeekr. The $61,830 ex-factory price places this SUV battery-electric in the top-tier band. For the SUV battery-electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff; the least-costly destination is Qatar, near +11.8% over base ($69,101 landed). Specification highlights are 440 Nm of torque, a drag coefficient of 0.27, and Double wishbone front / Multi-link (air) rear suspension. As a SUV battery-electric, it is aimed at importers targeting the family-SUV segment evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

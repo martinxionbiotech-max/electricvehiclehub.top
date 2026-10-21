@@ -1,6 +1,6 @@
 ---
 title: "Aion UT"
-description: "The Aion UT is an SUV fully electric from AION with a CLTC-rated range of 330 km, a 34 kWh battery, 100 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "AION's Aion UT is an SUV fully electric with a CLTC-rated range of 330 km, a 34 kWh battery, 100 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "aion-ut"
 brand: "aion"
 type: "SUV"
@@ -55,7 +55,7 @@ Aion UT (starting at $9,830) is a SUV from AION.
 
 ## Overview
 
-Aion UT is an SUV fully electric offered by AION. Specification highlights are a top speed of 150 km/h and 145 Nm of torque. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus LFP cells. Pricing starts at $9,830 ex-factory, placing it in the entry-level tier. Across export markets, the lowest landed premium is Qatar at roughly +47.5% over base (about $14,501 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits family and fleet buyers needing practical space.
+Aion UT is an SUV fully electric from AION, in front-wheel-drive form. On landed cost for this SUV fully electric, Qatar offers the cheapest entry at about +47.5% over base (≈ $14,501 landed); Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. Priced from $9,830 ex-factory, the SUV fully electric falls in the affordable-end tier. Key figures are a MacPherson strut front / Torsion beam rear suspension layout and a CLTC-rated range of 330 km. For the SUV fully electric buyer, it suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

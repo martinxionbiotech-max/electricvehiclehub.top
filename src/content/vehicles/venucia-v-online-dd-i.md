@@ -1,6 +1,6 @@
 ---
 title: "Venucia V-Online DD-i"
-description: "Venucia V-Online DD-i is an SUV plug-in hybrid offered by Venucia, offering a 18 kWh battery, 150 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Venucia V-Online DD-i is an SUV plug-in hybrid from Venucia with a 18 kWh battery, 150 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "venucia-v-online-dd-i"
 brand: "venucia"
 type: "SUV"
@@ -53,7 +53,7 @@ Venucia V-Online DD-i (starting at $16,510) is a SUV from VENUCIA.
 
 ## Overview
 
-The Venucia V-Online DD-i is an SUV plug-in hybrid electric from Venucia. Specification highlights are a 18 kWh battery, 0–100 km/h in 7.8 seconds, and peak torque of 320 Nm. The platform pairs FWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $16,510, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +30.3% over base ($21,515 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for price-sensitive importers.
+Venucia's Venucia V-Online DD-i is an front-wheel-drive plug-in hybrid SUV. For the SUV plug-in hybrid, Qatar offers the cheapest entry at about +30.3% over base (≈ $21,515 landed) — Germany applies the 10% standard tariff with no countervailing duty. Key figures are a MacPherson strut front / Multi-link rear suspension layout, a 150 kW electric motor, and 0–100 km/h in 7.8 seconds. At $16,510 ex-factory, this SUV plug-in hybrid sits in the value segment. As a SUV plug-in hybrid, it is aimed at private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

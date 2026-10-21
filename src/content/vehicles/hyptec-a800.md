@@ -1,6 +1,6 @@
 ---
 title: "Hyptec A800"
-description: "The Hyptec A800 is an SUV range-extended electric from Hyptec, offering a CLTC-rated range of 220 km, 35 kWh of battery, 200 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Hyptec's Hyptec A800 is an SUV range-extended electric, offering a CLTC-rated range of 220 km, 35 kWh of battery, 200 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "hyptec-a800"
 brand: "hyptec"
 type: "SUV"
@@ -57,7 +57,7 @@ Hyptec A800 (starting at $26,730) is a SUV from HYPTEC.
 
 ## Overview
 
-Hyptec A800 is an SUV range-extended electric offered by Hyptec. It carries peak torque of 305 Nm and 185 km/h top speed. Chassis details include RWD drive, plus NMC (ternary) cells. Pricing starts at $26,730 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +20.6% over base (≈ $32,246 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and fleet managers.
+Hyptec's Hyptec A800 is an rear-wheel-drive range-extended electric SUV. At $26,730 ex-factory, this SUV range-extended electric sits in the mid-tier segment. Across export markets for the SUV range-extended electric, the lowest landed premium is Qatar at roughly +20.6% over base (about $32,246 landed), while Germany applies the 10% standard tariff with no countervailing duty. Specification highlights are peak torque of 305 Nm, NMC (ternary) chemistry, and 35 kWh of capacity. The SUV range-extended electric profile suits importers targeting the family-SUV segment evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

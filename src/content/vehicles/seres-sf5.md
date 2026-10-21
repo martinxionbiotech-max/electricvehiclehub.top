@@ -48,7 +48,7 @@ Seres SF5 (starting at $32,890) is a SUV from SERES.
 
 ## Overview
 
-The Seres SF5 is Seres's SUV range-extended electric. Its specification includes 40 kWh of battery capacity. The platform pairs RWD / AWD drive with NMC (CATL) chemistry. The ex-factory price of $32,890 positions it as a mid-market import. For importers, the least-costly destination is Qatar, near +17.7% over base ($38,714 landed) — Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+Seres SF5 is an SUV range-extended electric from Seres, in rear- or all-wheel-drive form. For the SUV range-extended electric, the least-costly destination is Qatar, near +17.7% over base ($38,714 landed); Germany levies only the 10% standard tariff. With a $32,890 ex-factory price, the SUV range-extended electric reads as mid-tier. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout and NMC (CATL) chemistry. As a SUV range-extended electric, it is aimed at families and commercial fleet operators evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

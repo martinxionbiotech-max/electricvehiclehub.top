@@ -1,6 +1,6 @@
 ---
 title: "Jetour X90 C DM"
-description: "Jetour X90 C DM is an SUV plug-in hybrid electric offered by Jetour, offering 108 km of CLTC range, a 19 kWh battery, 199 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Jetour's Jetour X90 C DM is an SUV plug-in hybrid electric with 108 km of CLTC range, 19 kWh of battery, 199 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "jetour-x90-c-dm"
 brand: "jetour"
 type: "SUV"
@@ -55,7 +55,7 @@ Jetour X90 C DM (starting at $22,520) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour X90 C DM is Jetour's SUV plug-in hybrid electric. Specification highlights are a top speed of 180 km/h and peak output of 199 kW. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $22,520 positions it as a value-focused import. Across export markets, the least-costly destination is Qatar, near +23.6% over base ($27,826 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers targeting the family-SUV segment.
+The Jetour X90 C DM is an front-wheel-drive plug-in hybrid SUV from Jetour. The $22,520 ex-factory price places this SUV plug-in hybrid in the mainstream-value band. Specification highlights are 180 km/h top speed and 108 km of CLTC range. For this SUV plug-in hybrid, Germany levies only the 10% standard tariff, while the lowest landed premium is Qatar at roughly +23.6% over base (about $27,826 landed). In the SUV plug-in hybrid segment, it serves importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Neta S"
-description: "The Neta S is Neta's sedan battery-electric, offering a CLTC-rated range of 520 km, a 64 kWh battery, 170 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Neta S, a sedan battery-electric from Neta, offering a CLTC-rated range of 520 km, a 64 kWh battery, 170 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "neta-s"
 brand: "neta"
 type: "Sedan"
@@ -52,7 +52,7 @@ Neta S (starting at $21,500) is a Sedan from NETA.
 
 ## Overview
 
-The Neta S is a sedan battery-electric from Neta. Specification highlights are 64 kWh of battery capacity and 520 km of CLTC range. The platform pairs MacPherson strut front / Multi-link rear suspension with RWD drivetrain. The ex-factory price of $21,500 positions it as a value-focused import. Across export markets, the least-costly destination is Qatar, near +24.4% over base ($26,755 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers serving the executive-sedan segment.
+Neta S is a sedan battery-electric from Neta, in rear-wheel-drive form. Priced from $21,500 ex-factory, the sedan battery-electric falls in the value tier. For the sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the least-costly destination is Qatar, near +24.4% over base ($26,755 landed). It carries 520 km of CLTC range and a MacPherson strut front / Multi-link rear suspension layout. The sedan battery-electric profile suits business fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

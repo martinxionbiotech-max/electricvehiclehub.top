@@ -57,7 +57,7 @@ Roewe D6 (starting at $16,170) is a Sedan from ROEWE.
 
 ## Overview
 
-Roewe D6 is a sedan fully electric offered by Roewe. It carries peak torque of 201 Nm and 53 kWh of battery capacity. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP cells. At an ex-factory price of $16,170, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +30.9% over base ($21,158 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
+Roewe's Roewe D6 is a front-wheel-drive fully electric sedan. The $16,170 ex-factory price places this sedan fully electric in the mainstream-value band. Across export markets for the sedan fully electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff, while the lowest landed premium is Qatar at roughly +30.9% over base (about $21,158 landed). It carries 53 kWh of capacity, LFP chemistry, and MacPherson strut front / Multi-link rear suspension. For the sedan fully electric buyer, it suits private buyers and ride-hailing operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

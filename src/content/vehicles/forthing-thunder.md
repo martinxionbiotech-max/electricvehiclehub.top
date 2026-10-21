@@ -50,7 +50,7 @@ Forthing Thunder (starting at $18,040) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Thunder is Forthing's SUV range-extended electric. Specification highlights are a rated range of 230 km (CLTC) and peak output of 120 kW. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $18,040, it sits in the value segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits regional distributors serving family and logistics demand.
+The Forthing Thunder is an front-wheel-drive range-extended electric SUV from Forthing. Across export markets for the SUV range-extended electric, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed) — Germany applies the 10% standard tariff with no countervailing duty. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout and peak torque of 240 Nm. Priced from $18,040 ex-factory, the SUV range-extended electric falls in the value-oriented tier. In the SUV range-extended electric segment, it serves regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

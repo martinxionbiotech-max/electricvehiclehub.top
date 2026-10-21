@@ -1,6 +1,6 @@
 ---
 title: "Haval BIG DOG Plus"
-description: "Haval BIG DOG Plus is an SUV plug-in hybrid electric offered by Haval, offering 150 km of CLTC range, a 18 kWh battery, 220 kW peak output, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Haval's Haval BIG DOG Plus is an SUV plug-in hybrid electric with 150 km of CLTC range, 18 kWh of battery, 220 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "haval-big-dog-plus"
 brand: "haval"
 type: "SUV"
@@ -54,7 +54,7 @@ Haval BIG DOG PLUS (starting at $24,480) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval BIG DOG Plus is Haval's SUV plug-in hybrid electric. It carries peak torque of 510 Nm, a 18 kWh battery, and 190 km/h top speed. The platform pairs NMC (ternary) chemistry with AWD drive. Pricing starts at $24,480 ex-factory, placing it in the value tier. Across export markets, Qatar offers the cheapest entry at about +22.1% over base (≈ $29,884 landed), while Germany levies only the 10% standard tariff. The profile suits price-sensitive importers.
+The Haval BIG DOG Plus is an SUV plug-in hybrid electric with all-wheel-drive from Haval. Key figures are a MacPherson strut front / Multi-link rear suspension layout and a top speed of 190 km/h. The $24,480 ex-factory price places this SUV plug-in hybrid electric in the value band. Across export markets for the SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty — the least-costly destination is Qatar, near +22.1% over base ($29,884 landed). As a SUV plug-in hybrid electric, it is aimed at private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

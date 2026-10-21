@@ -1,6 +1,6 @@
 ---
 title: "Haval Jolion Pro"
-description: "Haval Jolion Pro is an SUV hybrid offered by Haval, offering 115 kW of motor power and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Haval's Haval Jolion Pro is an SUV hybrid with 115 kW peak output and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "haval-jolion-pro"
 brand: "haval"
 type: "SUV"
@@ -36,6 +36,7 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "N/A (non-plug-in HEV)"
+charging_adapter: "N/A"
 certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
@@ -51,7 +52,7 @@ Haval Jolion PRO (starting at $18,140) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Jolion Pro is an SUV non-plug-in hybrid from Haval. It carries peak output of 115 kW and a top speed of 150 km/h. Chassis details include FWD drive, plus NMC chemistry. It is positioned as a value-focused import, priced from $18,140 ex-factory. Across export markets, Qatar offers the cheapest entry at about +28% over base (≈ $23,227 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
+The Haval Jolion Pro is an front-wheel-drive non-plug-in hybrid SUV from Haval. It carries NMC cells, a 115 kW electric motor, and peak torque of 250 Nm. The $18,140 ex-factory price places this SUV non-plug-in hybrid in the value band. On landed cost for this SUV non-plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty — the least-costly destination is Qatar, near +28% over base ($23,227 landed). In the SUV non-plug-in hybrid segment, it serves private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

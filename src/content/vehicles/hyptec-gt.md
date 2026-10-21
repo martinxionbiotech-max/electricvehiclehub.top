@@ -57,7 +57,7 @@ Hyptec GT (starting at $21,660) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec GT is Hyptec's SUV fully electric. It carries 0–100 km/h in 6.5 seconds and 60 kWh of battery capacity. The platform pairs NMC (ternary) chemistry with MacPherson strut front / Multi-link rear suspension. Pricing starts at $21,660 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +24.3% over base ($26,923 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+Hyptec GT is an SUV fully electric from Hyptec, in rear-wheel-drive form. For the SUV fully electric, the least-costly destination is Qatar, near +24.3% over base ($26,923 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Specification highlights are a top speed of 180 km/h, a MacPherson strut front / Multi-link rear suspension layout, and 60 kWh of capacity. Priced from $21,660 ex-factory, the SUV fully electric falls in the value-oriented tier. As a SUV fully electric, it is aimed at families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

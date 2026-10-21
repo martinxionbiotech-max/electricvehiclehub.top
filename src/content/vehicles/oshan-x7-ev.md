@@ -52,7 +52,7 @@ Oshan X7 EV (starting at $22,210) is a SUV from OSHAN.
 
 ## Overview
 
-Oshan X7 EV is an SUV fully electric offered by Oshan. Specification highlights are a 150 kW electric motor and a 59 kWh battery. Chassis details include LFP chemistry, plus MacPherson strut front / Multi-link rear suspension. It is positioned as a value-segment import, priced from $22,210 ex-factory. For importers, the lowest landed premium is Qatar at roughly +23.8% over base (about $27,500 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits price-sensitive importers.
+The Oshan X7 EV is an SUV fully electric with front-wheel-drive from Oshan. At $22,210 ex-factory, this SUV fully electric sits in the mainstream-value segment. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; the least-costly destination is Qatar, near +23.8% over base ($27,500 landed). It carries LFP chemistry, peak output of 150 kW, and peak torque of 310 Nm. The SUV fully electric profile suits importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -59,7 +59,7 @@ Leapmotor C16 (starting at $21,380) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-Leapmotor C16 is an SUV fully electric offered by Leapmotor. Specification highlights are 320 Nm of torque, 170 km/h top speed, and a 67 kWh battery. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $21,380, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +24.6% over base (≈ $26,629 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits importers targeting the family-SUV segment.
+The Leapmotor C16 is an SUV fully electric with rear-wheel-drive from Leapmotor. As a mainstream-value SUV fully electric, it starts at $21,380 ex-factory. Specification highlights are a CLTC-rated range of 520 km and a MacPherson strut front / Multi-link rear suspension layout. Across export markets for the SUV fully electric, the lowest landed premium is Qatar at roughly +24.6% over base (about $26,629 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This SUV fully electric is positioned for importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

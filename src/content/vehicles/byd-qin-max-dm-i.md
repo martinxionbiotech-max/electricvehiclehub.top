@@ -47,7 +47,7 @@ BYD Qin Max DM-i (starting at $13,880) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Qin Max DM-i is BYD's sedan plug-in hybrid electric. Its specification includes a rated range of 320 km (CLTC). Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP (Blade) cells. Pricing starts at $13,880 ex-factory, placing it in the entry-level tier. For importers, the lowest landed premium is Qatar at roughly +35.1% over base (about $18,754 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits budget-conscious fleet buyers.
+BYD's BYD Qin Max DM-i is a front-wheel-drive plug-in hybrid electric sedan. As a budget sedan plug-in hybrid electric, it starts at $13,880 ex-factory. For this sedan plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty, while the lowest landed premium is Qatar at roughly +35.1% over base (about $18,754 landed). Key figures are a MacPherson strut front / Torsion beam rear suspension layout and LFP (Blade) cells. The sedan plug-in hybrid electric profile suits importers serving the sedan segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

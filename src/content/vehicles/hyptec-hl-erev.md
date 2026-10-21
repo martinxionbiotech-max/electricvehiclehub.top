@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HL EREV"
-description: "The Hyptec HL EREV is Hyptec's SUV range-extended electric with a CLTC-rated range of 350 km, a 60 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hyptec HL EREV, an SUV range-extended electric from Hyptec with a CLTC-rated range of 350 km, a 60 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hyptec-hl-erev"
 brand: "hyptec"
 type: "SUV"
@@ -53,7 +53,7 @@ Hyptec HL EREV (starting at $37,470) is a SUV from HYPTEC.
 
 ## Overview
 
-Hyptec HL EREV is an SUV extended-range electric offered by Hyptec. Specification highlights are a 60 kWh battery, a CLTC-rated range of 350 km, and peak output of 250 kW. The platform pairs MacPherson strut front / Multi-link rear suspension with NMC (ternary) cells. Pricing starts at $37,470 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +16.2% over base (≈ $43,523 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for regional distributors serving family and logistics demand.
+The Hyptec HL EREV is an rear-wheel-drive extended-range electric SUV from Hyptec. Priced from $37,470 ex-factory, the SUV extended-range electric falls in the mid-market tier. For this SUV extended-range electric, Germany levies only the 10% standard tariff, while Qatar offers the cheapest entry at about +16.2% over base (≈ $43,523 landed). It carries a CLTC-rated range of 350 km, peak torque of 430 Nm, and 60 kWh of capacity. In the SUV extended-range electric segment, it serves importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

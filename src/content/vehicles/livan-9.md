@@ -1,6 +1,6 @@
 ---
 title: "Livan 9"
-description: "Livan 9 is an SUV fully electric offered by Livan, offering 380 km of CLTC range, a 52 kWh battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Livan 9 is an SUV fully electric from Livan, offering 380 km of CLTC range, a 52 kWh battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "livan-9"
 brand: "livan"
 type: "SUV"
@@ -53,7 +53,7 @@ Livan 9 (starting at $15,260) is a SUV from LIVAN.
 
 ## Overview
 
-The Livan 9 is Livan's SUV battery-electric. Specification highlights are a 52 kWh battery, 310 Nm of torque, and a 150 kW electric motor. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus LFP cells. At an ex-factory price of $15,260, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +32.4% over base (about $20,203 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. It suits price-sensitive importers.
+Livan 9 is an SUV fully electric from Livan, in front-wheel-drive form. For the SUV fully electric, the lowest landed premium is Qatar at roughly +32.4% over base (about $20,203 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. Key figures are 310 Nm of torque, a CLTC-rated range of 380 km, and a MacPherson strut front / Multi-link rear suspension layout. With a $15,260 ex-factory price, the SUV fully electric reads as value. In the SUV fully electric segment, it serves family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

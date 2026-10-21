@@ -62,7 +62,7 @@ BYD Seal (starting at $24,690) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Seal is BYD's sedan battery-electric. It carries a rated range of 450 km (CLTC) and peak output of 170 kW. The platform pairs a drag coefficient of 0.219 with RWD / AWD drivetrain. Pricing starts at $24,690 ex-factory, placing it in the value tier. Across export markets, Qatar offers the cheapest entry at about +21.9% over base (≈ $30,104 landed); meanwhile, Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits private buyers and ride-hailing operators.
+The BYD Seal is a sedan battery-electric with rear- or all-wheel-drive from BYD. As a value-oriented sedan battery-electric, it starts at $24,690 ex-factory. Across export markets for the sedan battery-electric, Qatar offers the cheapest entry at about +21.9% over base (≈ $30,104 landed); Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It carries peak output of 170 kW and Double wishbone front / Five-link rear suspension. This sedan battery-electric is positioned for business fleets prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

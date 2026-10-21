@@ -58,7 +58,7 @@ Voyah Courage (starting at $28,580) is a SUV from VOYAH.
 
 ## Overview
 
-The Voyah Courage is Voyah's SUV battery-electric. Specification highlights are a rated range of 650 km (CLTC), peak output of 230 kW, and 0–100 km/h in 6.8 seconds. The platform pairs RWD drive with NMC (CATL) chemistry. At an ex-factory price of $28,580, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +19.6% over base ($34,189 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits private buyers and fleet managers.
+The Voyah Courage is an rear-wheel-drive battery-electric SUV from Voyah. It carries NMC (CATL) cells, 650 km of CLTC range, and a MacPherson strut front / Multi-link rear suspension layout. At $28,580 ex-factory, this SUV battery-electric sits in the mid-tier segment. Across export markets for the SUV battery-electric, the lowest landed premium is Qatar at roughly +19.6% over base (about $34,189 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. In the SUV battery-electric segment, it serves private buyers and fleet managers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

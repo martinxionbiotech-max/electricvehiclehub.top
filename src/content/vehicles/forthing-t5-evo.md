@@ -1,6 +1,6 @@
 ---
 title: "Forthing T5 EVO"
-description: "Forthing T5 EVO is an SUV battery-electric offered by Forthing with 410 km of CLTC range, a 49 kWh battery, 120 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Forthing T5 EVO is an SUV battery-electric from Forthing, offering 410 km of CLTC range, 49 kWh of battery, 120 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-t5-evo"
 brand: "forthing"
 type: "SUV"
@@ -54,7 +54,7 @@ Forthing T5 EVO (starting at $14,060) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing T5 EVO is an SUV battery-electric from Forthing. Specification highlights are 240 Nm of torque and a CLTC-rated range of 410 km. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP chemistry. Pricing starts at $14,060 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits budget-conscious fleet buyers.
+Forthing's Forthing T5 EVO is an front-wheel-drive battery-electric SUV. It carries LFP chemistry, a CLTC-rated range of 410 km, and MacPherson strut front / Multi-link rear suspension. For the SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed). The $14,060 ex-factory price places this SUV battery-electric in the affordable-end band. For the SUV battery-electric buyer, it suits family and fleet buyers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

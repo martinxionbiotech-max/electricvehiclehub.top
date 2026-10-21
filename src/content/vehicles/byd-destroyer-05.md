@@ -1,6 +1,6 @@
 ---
 title: "BYD Destroyer 05"
-description: "BYD Destroyer 05 is a sedan plug-in hybrid offered by BYD with a CLTC-rated range of 120 km, 18 kWh of battery, 132 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Destroyer 05, a sedan plug-in hybrid from BYD with a CLTC-rated range of 120 km, 18 kWh of battery, 132 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-destroyer-05"
 brand: "byd"
 type: "Sedan"
@@ -56,7 +56,7 @@ Byd Destroyer 05 (starting at $14,340) is a Sedan from BYD.
 
 ## Overview
 
-BYD Destroyer 05 is a sedan plug-in hybrid electric offered by BYD. Specification highlights are 18 kWh of battery capacity and 316 Nm of torque. The platform pairs FWD drive with a MacPherson strut front / Torsion beam rear suspension setup. It is positioned as an entry-level import, priced from $14,340 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +34.1% over base (about $19,237 landed) — Germany levies only the 10% standard tariff. This positions it for budget-conscious fleet buyers.
+The BYD Destroyer 05 is a front-wheel-drive plug-in hybrid electric sedan from BYD. For the sedan plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +34.1% over base (≈ $19,237 landed). As a budget sedan plug-in hybrid electric, it starts at $14,340 ex-factory. It carries 120 km of CLTC range, a MacPherson strut front / Torsion beam rear suspension layout, and a 7.9-second 0–100 km/h time. This sedan plug-in hybrid electric is positioned for business fleets watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Wey Lanshan"
-description: "Wey Lanshan is an SUV plug-in hybrid electric offered by WEY, offering a CLTC-rated range of 180 km, a 44 kWh battery, 300 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wey Lanshan is WEY's SUV plug-in hybrid electric with 180 km of CLTC range, a 44 kWh battery, 300 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "wey-lanshan"
 brand: "wey"
 type: "SUV"
@@ -56,7 +56,7 @@ Wey Lanshan (starting at $42,230) is a SUV from WEY.
 
 ## Overview
 
-The Wey Lanshan is WEY's SUV plug-in hybrid electric. Specification highlights are a 44 kWh battery, 0–100 km/h in 4.9 seconds, and a top speed of 190 km/h. Chassis details include MacPherson strut front / Multi-link rear suspension, plus NMC (ternary) cells. The ex-factory price of $42,230 positions it as an upper-mid import. Across export markets, the least-costly destination is Qatar, near +14.9% over base ($48,521 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits premium-tier importers.
+Wey Lanshan is an SUV plug-in hybrid electric from WEY, in all-wheel-drive form. With a $42,230 ex-factory price, the SUV plug-in hybrid electric reads as premium. It carries NMC (ternary) chemistry, a 4.9-second 0–100 km/h time, and 44 kWh of capacity. For the SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +14.9% over base (≈ $48,521 landed); Germany levies only the 10% standard tariff. For the SUV plug-in hybrid electric buyer, it suits regional distributors seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

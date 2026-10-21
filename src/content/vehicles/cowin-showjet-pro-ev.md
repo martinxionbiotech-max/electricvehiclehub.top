@@ -1,6 +1,6 @@
 ---
 title: "Cowin Showjet Pro EV"
-description: "Cowin Showjet Pro EV is an SUV battery-electric offered by Cowin, offering a CLTC-rated range of 401 km, a 53 kWh battery, 120 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Cowin Showjet Pro EV, an SUV battery-electric from Cowin with 401 km of CLTC range, a 53 kWh battery, 120 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "cowin-showjet-pro-ev"
 brand: "cowin"
 type: "SUV"
@@ -52,7 +52,7 @@ Cowin Showjet Pro EV (starting at $18,320) is a SUV from COWIN.
 
 ## Overview
 
-The Cowin Showjet Pro EV is Cowin's SUV fully electric. Specification highlights are peak torque of 280 Nm and 401 km of CLTC range. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP cells. Pricing starts at $18,320 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +27.8% over base (about $23,416 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
+Cowin Showjet Pro EV is an SUV fully electric from Cowin, in front-wheel-drive form. Specification highlights are a 53 kWh battery and LFP cells. Priced from $18,320 ex-factory, the SUV fully electric falls in the mainstream-value tier. Across export markets for the SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff, while Qatar offers the cheapest entry at about +27.8% over base (≈ $23,416 landed). As a SUV fully electric, it is aimed at families and commercial fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

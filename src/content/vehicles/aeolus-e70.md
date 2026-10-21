@@ -1,6 +1,6 @@
 ---
 title: "Aeolus E70"
-description: "Aeolus E70 is an SUV battery-electric offered by Aeolus, offering 347 km of CLTC range, 43 kWh of battery, 120 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Aeolus's Aeolus E70 is an SUV battery-electric with a CLTC-rated range of 347 km, 43 kWh of battery, 120 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aeolus-e70"
 brand: "aeolus"
 type: "SUV"
@@ -57,7 +57,7 @@ Aeolus E70 (starting at $20,110) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus E70 is an SUV battery-electric from Aeolus. It carries a 43 kWh battery and peak output of 120 kW. Chassis details include FWD drive, plus LFP cells. At an ex-factory price of $20,110, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +25.8% over base ($25,295 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits private buyers and fleet managers.
+The Aeolus E70 is an front-wheel-drive battery-electric SUV from Aeolus. Specification highlights are 230 Nm of torque and a 120 kW electric motor. On landed cost for this SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +25.8% over base ($25,295 landed). With a $20,110 ex-factory price, the SUV battery-electric reads as mainstream-value. For the SUV battery-electric buyer, it suits family and fleet buyers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

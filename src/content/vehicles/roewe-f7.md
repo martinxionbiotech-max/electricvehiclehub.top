@@ -54,7 +54,7 @@ Roewe F7 (starting at $22,630) is a Sedan from ROEWE.
 
 ## Overview
 
-The Roewe F7 is a sedan battery-electric from Roewe. It carries peak torque of 450 Nm, a 250 kW electric motor, and 576 km of CLTC range. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $22,630 positions it as a value-focused import. On landed cost, Qatar offers the cheapest entry at about +23.5% over base (≈ $27,941 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. It suits private buyers and ride-hailing operators.
+Roewe's Roewe F7 is a rear-wheel-drive battery-electric sedan. For the sedan battery-electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +23.5% over base (≈ $27,941 landed). Priced from $22,630 ex-factory, the sedan battery-electric falls in the value tier. Specification highlights are 450 Nm of torque, peak output of 250 kW, and 576 km of CLTC range. In the sedan battery-electric segment, it serves private buyers and ride-hailing operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

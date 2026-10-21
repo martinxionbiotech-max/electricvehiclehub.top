@@ -1,6 +1,6 @@
 ---
 title: "JAC QX"
-description: "JAC QX is an SUV plug-in hybrid electric offered by JAC with 120 km of CLTC range, 21 kWh of battery, 150 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "JAC's JAC QX is an SUV plug-in hybrid electric, offering a CLTC-rated range of 120 km, a 21 kWh battery, 150 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "jac-qx"
 brand: "jac"
 type: "SUV"
@@ -57,7 +57,7 @@ Jac QX (starting at $18,300) is a SUV from JAC.
 
 ## Overview
 
-The JAC QX is JAC's SUV plug-in hybrid electric. It carries a 7.3-second 0–100 km/h time and peak torque of 300 Nm. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drive. Pricing starts at $18,300 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +27.8% over base (about $23,395 landed) — Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
+JAC's JAC QX is an front-wheel-drive plug-in hybrid electric SUV. The $18,300 ex-factory price places this SUV plug-in hybrid electric in the value-oriented band. Key figures are a 7.3-second 0–100 km/h time and LFP cells. On landed cost for this SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +27.8% over base (about $23,395 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The SUV plug-in hybrid electric profile suits private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

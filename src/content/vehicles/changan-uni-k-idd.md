@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI K IDD"
-description: "The Changan UNI K IDD is an SUV plug-in hybrid electric from ChangAn, offering a CLTC-rated range of 135 km, a 28 kWh battery, 110 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "ChangAn's Changan UNI K IDD is an SUV plug-in hybrid electric, offering a CLTC-rated range of 135 km, a 28 kWh battery, 110 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-uni-k-idd"
 brand: "changan"
 type: "SUV"
@@ -56,7 +56,7 @@ Changan UNI K IDD (starting at $26,460) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan UNI K IDD is an SUV plug-in hybrid offered by ChangAn. It carries 135 km of CLTC range, a 8.1-second 0–100 km/h time, and peak torque of 330 Nm. The platform pairs NMC (ternary) chemistry with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $26,460 positions it as a mid-tier import. On landed cost, the lowest landed premium is Qatar at roughly +20.8% over base (about $31,963 landed); meanwhile, Germany levies only the 10% standard tariff. It suits importers targeting the family-SUV segment.
+Changan UNI K IDD is an SUV plug-in hybrid from ChangAn, in front-wheel-drive form. Specification highlights are NMC (ternary) cells, a 8.1-second 0–100 km/h time, and 135 km of CLTC range. Priced from $26,460 ex-factory, the SUV plug-in hybrid falls in the mid-tier tier. On landed cost for this SUV plug-in hybrid, the least-costly destination is Qatar, near +20.8% over base ($31,963 landed); Germany levies only the 10% standard tariff. In the SUV plug-in hybrid segment, it serves families and commercial fleet operators evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

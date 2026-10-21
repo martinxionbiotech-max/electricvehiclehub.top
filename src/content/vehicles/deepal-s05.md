@@ -1,6 +1,6 @@
 ---
 title: "Deepal S05"
-description: "Deepal S05 is an SUV fully electric offered by Deepal, offering a CLTC-rated range of 520 km, a 56 kWh battery, 200 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Deepal S05, an SUV fully electric from Deepal, offering 520 km of CLTC range, 56 kWh of battery, 200 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "deepal-s05"
 brand: "deepal"
 type: "SUV"
@@ -56,7 +56,7 @@ Deepal S05 (starting at $16,460) is a SUV from DEEPAL.
 
 ## Overview
 
-Deepal S05 is an SUV fully electric offered by Deepal. It carries 185 km/h top speed and 56 kWh of battery capacity. The platform pairs RWD drive with LFP cells. Pricing starts at $16,460 ex-factory, placing it in the value tier. On landed cost, the least-costly destination is Qatar, near +30.4% over base ($21,463 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for importers targeting the family-SUV segment.
+Deepal S05 is an SUV fully electric from Deepal, in rear-wheel-drive form. With a $16,460 ex-factory price, the SUV fully electric reads as mainstream-value. Key figures are 0–100 km/h in 6.28 seconds and MacPherson strut front / Multi-link rear suspension. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; Qatar offers the cheapest entry at about +30.4% over base (≈ $21,463 landed). In the SUV fully electric segment, it serves families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai S7"
-description: "Forthing Xinghai S7 is an SUV battery-electric offered by Forthing with 565 km of CLTC range, a 59 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Forthing's Forthing Xinghai S7 is an SUV battery-electric with 565 km of CLTC range, 59 kWh of battery, 160 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-xinghai-s7"
 brand: "forthing"
 type: "SUV"
@@ -57,7 +57,7 @@ Forthing Xinghai S7 (starting at $16,890) is a SUV from FORTHING.
 
 ## Overview
 
-Forthing Xinghai S7 is an SUV fully electric offered by Forthing. Specification highlights are a 6.7-second 0–100 km/h time and a CLTC-rated range of 565 km. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drive. The ex-factory price of $16,890 positions it as a value-segment import. Across export markets, Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers targeting the family-SUV segment.
+Forthing's Forthing Xinghai S7 is an front-wheel-drive fully electric SUV. With a $16,890 ex-factory price, the SUV fully electric reads as value. For this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — Qatar offers the cheapest entry at about +29.7% over base (≈ $21,914 landed). Specification highlights are 310 Nm of torque, 0–100 km/h in 6.7 seconds, and a 59 kWh battery. This SUV fully electric is positioned for regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

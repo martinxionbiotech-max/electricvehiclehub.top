@@ -1,6 +1,6 @@
 ---
 title: "Jetour Dashing I DM"
-description: "The Jetour Dashing I DM is Jetour's SUV plug-in hybrid electric with 100 km of CLTC range, a 19 kWh battery, 125 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Jetour Dashing I DM, an SUV plug-in hybrid electric from Jetour with 100 km of CLTC range, a 19 kWh battery, 125 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jetour-dashing-i-dm"
 brand: "jetour"
 type: "SUV"
@@ -54,7 +54,7 @@ Jetour Dashing I DM (starting at $21,110) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour Dashing I DM is Jetour's SUV plug-in hybrid. Specification highlights are 180 km/h top speed and a CLTC-rated range of 100 km. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drivetrain. Pricing starts at $21,110 ex-factory, placing it in the value tier. Across export markets, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,345 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+The Jetour Dashing I DM is an SUV plug-in hybrid with front-wheel-drive from Jetour. Specification highlights are a CLTC-rated range of 100 km and LFP cells. Priced from $21,110 ex-factory, the SUV plug-in hybrid falls in the value-oriented tier. On landed cost for this SUV plug-in hybrid, Germany levies only the 10% standard tariff — Qatar offers the cheapest entry at about +24.8% over base (≈ $26,345 landed). This SUV plug-in hybrid is positioned for regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

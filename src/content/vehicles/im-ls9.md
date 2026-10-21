@@ -1,6 +1,6 @@
 ---
 title: "Im LS9"
-description: "The Im LS9 is an SUV range-extended electric from IM with a CLTC-rated range of 402 km, 52 kWh of battery, and 380 kW of motor power. Per-market landed-cost modeling across 30 export destinations."
+description: "IM's Im LS9 is an SUV range-extended electric with a CLTC-rated range of 402 km, 52 kWh of battery, and 380 kW of motor power. Per-market landed-cost modeling across 30 export destinations."
 slug: "im-ls9"
 brand: "im"
 type: "SUV"
@@ -56,7 +56,7 @@ Im LS9 (starting at $46,870) is a SUV from IM.
 
 ## Overview
 
-The Im LS9 is an SUV range-extended electric from IM. It carries 0–100 km/h in 4.9 seconds and a top speed of 220 km/h. The platform pairs AWD drive with a Double wishbone front / Multi-link rear suspension setup. Pricing starts at $46,870 ex-factory, placing it in the premium tier. For importers, the lowest landed premium is Qatar at roughly +13.9% over base (about $53,393 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
+The Im LS9 is an SUV range-extended electric with all-wheel-drive from IM. Key figures are peak torque of 670 Nm, 52 kWh of capacity, and a Double wishbone front / Multi-link rear suspension layout. For the SUV range-extended electric, the lowest landed premium is Qatar at roughly +13.9% over base (about $53,393 landed), while Germany levies only the 10% standard tariff. The $46,870 ex-factory price places this SUV range-extended electric in the premium band. This SUV range-extended electric is positioned for importers targeting the family-SUV segment seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

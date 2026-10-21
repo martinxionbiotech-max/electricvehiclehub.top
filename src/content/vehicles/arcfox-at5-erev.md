@@ -1,6 +1,6 @@
 ---
 title: "Arcfox Alpha T5 EREV"
-description: "The Arcfox Alpha T5 EREV is an SUV range-extended electric from Arcfox, offering a CLTC-rated range of 215 km, a 27 kWh battery, 200 kW peak output, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Arcfox's Arcfox Alpha T5 EREV is an SUV range-extended electric, offering a CLTC-rated range of 215 km, a 27 kWh battery, 200 kW peak output, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "arcfox-at5-erev"
 brand: "arcfox"
 type: "SUV"
@@ -54,7 +54,7 @@ Arcfox Alpha T5 EREV (starting at $15,810) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox Alpha T5 EREV is an SUV extended-range electric from Arcfox. Specification highlights are 365 Nm of torque and peak output of 200 kW. Chassis details include RWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $15,810, it sits in the value segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +31.4% over base (about $20,780 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+Arcfox Alpha T5 EREV is an SUV extended-range electric from Arcfox, in rear-wheel-drive form. Key figures are a 27 kWh battery, MacPherson strut front / Multi-link rear suspension, and a CLTC-rated range of 215 km. For this SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +31.4% over base (≈ $20,780 landed). With a $15,810 ex-factory price, the SUV extended-range electric reads as value. The SUV extended-range electric profile suits importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

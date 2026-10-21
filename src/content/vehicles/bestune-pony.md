@@ -54,7 +54,7 @@ Bestune Pony (starting at $3,500) is a Hatchback from BESTUNE.
 
 ## Overview
 
-The Bestune Pony is Bestune's hatchback battery-electric. It carries a rated range of 122 km (CLTC) and peak output of 20 kW. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus RWD drive. At an ex-factory price of $3,500, it sits in the entry-level segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +124.4% over base ($7,855 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for city-focused buyers and delivery fleets.
+The Bestune Pony is a hatchback battery-electric with rear-wheel-drive from Bestune. This hatchback battery-electric is positioned as an affordable-end import, from $3,500 ex-factory. On landed cost for this hatchback battery-electric, the least-costly destination is Qatar, near +124.4% over base ($7,855 landed); Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. Specification highlights are a MacPherson strut front / Torsion beam rear suspension layout, LFP cells, and 100 km/h top speed. The hatchback battery-electric profile suits importers targeting urban runabout demand prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

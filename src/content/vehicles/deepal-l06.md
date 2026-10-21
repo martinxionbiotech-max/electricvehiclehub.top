@@ -57,7 +57,7 @@ Deepal L06 (starting at $19,000) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal L06 is Deepal's SUV battery-electric. Specification highlights are a top speed of 185 km/h and peak output of 200 kW. Chassis details include RWD drive, plus LFP cells. At an ex-factory price of $19,000, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +27% over base (≈ $24,130 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits family and fleet buyers needing practical space.
+Deepal L06 is an SUV battery-electric from Deepal, in rear-wheel-drive form. Key figures are a 56 kWh battery, 185 km/h top speed, and a 200 kW electric motor. For the SUV battery-electric, the least-costly destination is Qatar, near +27% over base ($24,130 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Priced from $19,000 ex-factory, the SUV battery-electric falls in the value-oriented tier. For the SUV battery-electric buyer, it suits importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

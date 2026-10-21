@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q06"
-description: "The Changan Nevo Q06 is ChangAn NEVO's SUV fully electric, offering 602 km of CLTC range, a 80 kWh battery, 330 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo Q06, an SUV fully electric from ChangAn NEVO, offering 602 km of CLTC range, a 80 kWh battery, 330 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-q06"
 brand: "changan-nevo"
 type: "SUV"
@@ -51,7 +51,7 @@ Changan Nevo Q06 (starting at $20,540) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-Changan Nevo Q06 is an SUV fully electric offered by ChangAn NEVO. It carries peak output of 330 kW and a 80 kWh battery. The platform pairs AWD (dual motor) drivetrain with LFP cells. At an ex-factory price of $20,540, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +25.4% over base (≈ $25,747 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits family and fleet buyers needing practical space.
+ChangAn NEVO's Changan Nevo Q06 is an dual-motor all-wheel-drive fully electric SUV. Key figures are a 330 kW electric motor, a 80 kWh battery, and MacPherson strut front / Multi-link rear suspension. On landed cost for this SUV fully electric, Qatar offers the cheapest entry at about +25.4% over base (≈ $25,747 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. Priced from $20,540 ex-factory, the SUV fully electric falls in the mainstream-value tier. As a SUV fully electric, it is aimed at family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

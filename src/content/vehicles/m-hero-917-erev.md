@@ -1,6 +1,6 @@
 ---
 title: "M-Hero 917 EREV"
-description: "The M-Hero 917 EREV is an SUV range-extended electric from M-Hero with a CLTC-rated range of 200 km, 65 kWh of battery, 600 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "M-Hero's M-Hero 917 EREV is an SUV range-extended electric with a CLTC-rated range of 200 km, 65 kWh of battery, 600 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "m-hero-917-erev"
 brand: "m-hero"
 type: "SUV"
@@ -55,7 +55,7 @@ M-Hero 917 EREV (starting at $88,570) is a SUV from M HERO.
 
 ## Overview
 
-M-Hero 917 EREV is an SUV range-extended electric offered by M-Hero. Specification highlights are a 6-second 0–100 km/h time, a 65 kWh battery, and a CLTC-rated range of 200 km. Chassis details include AWD drivetrain, plus NMC (ternary) chemistry. Pricing starts at $88,570 ex-factory, placing it in the flagship tier. Across export markets, the least-costly destination is Qatar, near +9.7% over base ($97,178 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for regional distributors serving family and logistics demand.
+The M-Hero 917 EREV is an all-wheel-drive range-extended electric SUV from M-Hero. Specification highlights are a 6-second 0–100 km/h time and peak torque of 1,050 Nm. On landed cost for this SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +9.7% over base ($97,178 landed). With a $88,570 ex-factory price, the SUV range-extended electric reads as flagship. As a SUV range-extended electric, it is aimed at importers targeting the family-SUV segment evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

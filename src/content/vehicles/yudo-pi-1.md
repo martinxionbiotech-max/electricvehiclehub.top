@@ -1,6 +1,6 @@
 ---
 title: "Yudo Pi 1"
-description: "Yudo Pi 1 is an SUV battery-electric offered by Yudo, offering a CLTC-rated range of 351 km, a 41 kWh battery, 55 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Yudo Pi 1 is Yudo's SUV battery-electric, offering 351 km of CLTC range, 41 kWh of battery, 55 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "yudo-pi-1"
 brand: "yudo"
 type: "SUV"
@@ -53,7 +53,7 @@ Yudo Pi 1 (starting at $10,390) is a SUV from YUDO.
 
 ## Overview
 
-The Yudo Pi 1 is an SUV fully electric from Yudo. Specification highlights are peak torque of 170 Nm and peak output of 55 kW. Chassis details include FWD drive, plus MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $10,390 positions it as an entry-level import. Across export markets, Qatar offers the cheapest entry at about +45.2% over base (≈ $15,089 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
+Yudo Pi 1 is an SUV battery-electric from Yudo, in front-wheel-drive form. It carries a MacPherson strut front / Torsion beam rear suspension layout, 351 km of CLTC range, and 105 km/h top speed. On landed cost for this SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — Qatar offers the cheapest entry at about +45.2% over base (≈ $15,089 landed). Priced from $10,390 ex-factory, the SUV battery-electric falls in the entry-level tier. This SUV battery-electric is positioned for regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

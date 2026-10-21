@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C16 EREV"
-description: "Leapmotor C16 EREV is an SUV extended-range electric offered by Leapmotor, offering 200 km of CLTC range, 28 kWh of battery, 170 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Leapmotor's Leapmotor C16 EREV is an SUV extended-range electric with a CLTC-rated range of 200 km, 28 kWh of battery, 170 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "leapmotor-c16-erev"
 brand: "leapmotor"
 type: "SUV"
@@ -52,7 +52,7 @@ Leapmotor C16 EREV (starting at $21,640) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C16 EREV is Leapmotor's SUV range-extended electric. It carries a 170 kW electric motor and a 28 kWh battery. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $21,640, it sits in the value segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +24.3% over base (about $26,902 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for budget-conscious fleet buyers.
+The Leapmotor C16 EREV is an SUV range-extended electric with rear-wheel-drive from Leapmotor. Specification highlights are MacPherson strut front / Multi-link rear suspension, peak output of 170 kW, and peak torque of 320 Nm. For this SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while the lowest landed premium is Qatar at roughly +24.3% over base (about $26,902 landed). Priced from $21,640 ex-factory, the SUV range-extended electric falls in the mainstream-value tier. The SUV range-extended electric profile suits private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

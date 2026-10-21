@@ -53,7 +53,7 @@ Xiaomi SkyNomad N90 (starting at $37,490) is a SUV from XIAOMI.
 
 ## Overview
 
-Xiaomi SkyNomad N90 is an SUV extended-range electric offered by Xiaomi. Specification highlights are a 76 kWh battery and a 5.9-second 0–100 km/h time. Chassis details include a Double wishbone front / Multi-link rear suspension setup, plus NMC (Qilin, CATL) cells. At an ex-factory price of $37,490, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +16.1% over base (about $43,544 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+The Xiaomi SkyNomad N90 is an dual-motor all-wheel-drive extended-range electric SUV from Xiaomi. It carries 190 km/h top speed, a 5.9-second 0–100 km/h time, and a CLTC-rated range of 464 km. Priced from $37,490 ex-factory, the SUV extended-range electric falls in the mid-market tier. For the SUV extended-range electric, Germany levies only the 10% standard tariff; the lowest landed premium is Qatar at roughly +16.1% over base (about $43,544 landed). The SUV extended-range electric profile suits families and commercial fleet operators comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

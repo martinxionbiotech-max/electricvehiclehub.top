@@ -55,7 +55,7 @@ Chery New Energy QQ ICE Cream (starting at $5,200) is a Hatchback from CHERY NEW
 
 ## Overview
 
-Chery New Energy QQ ICE Cream is a hatchback fully electric offered by Chery New Energy. It carries peak output of 20 kW and 100 km/h top speed. Chassis details include LFP chemistry, plus MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $5,200 positions it as a budget import. For importers, the lowest landed premium is Qatar at roughly +85.4% over base (about $9,640 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers targeting urban runabout demand.
+Chery New Energy's Chery New Energy QQ ICE Cream is a rear-wheel-drive fully electric hatchback. For the hatchback fully electric, the lowest landed premium is Qatar at roughly +85.4% over base (about $9,640 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The $5,200 ex-factory price places this hatchback fully electric in the affordable-end band. Specification highlights are 13 kWh of capacity, peak torque of 85 Nm, and MacPherson strut front / Torsion beam rear suspension. As a hatchback fully electric, it is aimed at city-focused buyers and delivery fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

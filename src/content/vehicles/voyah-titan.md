@@ -1,6 +1,6 @@
 ---
 title: "Voyah Titan"
-description: "The Voyah Titan is an SUV plug-in hybrid electric from Voyah, offering 370 km of CLTC range, a 65 kWh battery, 380 kW of motor power, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Voyah's Voyah Titan is an SUV plug-in hybrid electric, offering 370 km of CLTC range, a 65 kWh battery, 380 kW of motor power, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "voyah-titan"
 brand: "voyah"
 type: "SUV"
@@ -58,7 +58,7 @@ Voyah Titan (starting at $53,510) is a SUV from VOYAH.
 
 ## Overview
 
-The Voyah Titan is an SUV plug-in hybrid electric from Voyah. Specification highlights are peak output of 380 kW and a 65 kWh battery. The platform pairs NMC cells with AWD drive. Pricing starts at $53,510 ex-factory, placing it in the premium tier. For importers, the least-costly destination is Qatar, near +12.8% over base ($60,365 landed); meanwhile, Germany levies only the 10% standard tariff. It suits private buyers and fleet managers.
+Voyah's Voyah Titan is an all-wheel-drive plug-in hybrid electric SUV. For the SUV plug-in hybrid electric, the least-costly destination is Qatar, near +12.8% over base ($60,365 landed); Germany levies only the 10% standard tariff. Key figures are 0–100 km/h in 5.2 seconds and a top speed of 200 km/h. As a premium SUV plug-in hybrid electric, it starts at $53,510 ex-factory. For the SUV plug-in hybrid electric buyer, it suits regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

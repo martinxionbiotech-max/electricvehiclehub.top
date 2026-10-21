@@ -1,6 +1,6 @@
 ---
 title: "Sehol E10X"
-description: "The Sehol E10X is a hatchback battery-electric from Sehol, offering a CLTC-rated range of 302 km, 31 kWh of battery, 45 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Sehol's Sehol E10X is a hatchback battery-electric, offering a CLTC-rated range of 302 km, 31 kWh of battery, 45 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "sehol-e10x"
 brand: "sehol"
 type: "Hatchback"
@@ -52,7 +52,7 @@ Sehol E10X (starting at $5,540) is a Hatchback from SEHOL.
 
 ## Overview
 
-The Sehol E10X is a hatchback fully electric from Sehol. Specification highlights are a 45 kW electric motor, peak torque of 150 Nm, and a CLTC-rated range of 302 km. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP chemistry. Pricing starts at $5,540 ex-factory, placing it in the entry-level tier. For importers, the least-costly destination is Qatar, near +80.5% over base ($9,997 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for price-sensitive importers.
+The Sehol E10X is a front-wheel-drive fully electric hatchback from Sehol. On landed cost for this hatchback fully electric, the lowest landed premium is Qatar at roughly +80.5% over base (about $9,997 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Specification highlights are peak output of 45 kW and LFP cells. The $5,540 ex-factory price places this hatchback fully electric in the entry-level band. This hatchback fully electric is positioned for importers targeting urban runabout demand focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

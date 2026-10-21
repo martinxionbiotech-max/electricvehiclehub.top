@@ -1,6 +1,6 @@
 ---
 title: "Chery Explore 06 C-DM"
-description: "Chery Explore 06 C-DM is an SUV plug-in hybrid electric offered by Chery, offering 120 km of CLTC range, 18 kWh of battery, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Chery's Chery Explore 06 C-DM is an SUV plug-in hybrid electric with a CLTC-rated range of 120 km, 18 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-explore-06-c-dm"
 brand: "chery"
 type: "SUV"
@@ -50,7 +50,7 @@ Chery Explore 06 C-DM (starting at $16,650) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Explore 06 C-DM is Chery's SUV plug-in hybrid. It carries a rated range of 120 km (CLTC) and 18 kWh of battery capacity. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus LFP cells. The ex-factory price of $16,650 positions it as a value-segment import. Across export markets, the least-costly destination is Qatar, near +30.1% over base ($21,662 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
+Chery's Chery Explore 06 C-DM is an front-wheel-drive plug-in hybrid electric SUV. This SUV plug-in hybrid electric is positioned as a value-segment import, from $16,650 ex-factory. Specification highlights are a 18 kWh battery, LFP chemistry, and a CLTC-rated range of 120 km. For the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed). This SUV plug-in hybrid electric is positioned for families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

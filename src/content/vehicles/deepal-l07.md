@@ -58,7 +58,7 @@ Deepal L07 (starting at $20,550) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal L07 is a sedan fully electric from Deepal. Specification highlights are peak torque of 290 Nm and a 56 kWh battery. Chassis details include RWD drive, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $20,550 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +25.3% over base ($25,757 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
+Deepal L07 is a sedan fully electric from Deepal, in rear-wheel-drive form. On landed cost for this sedan fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the least-costly destination is Qatar, near +25.3% over base ($25,757 landed). This sedan fully electric is positioned as a value-segment import, from $20,550 ex-factory. Key figures are LFP cells, 185 km/h top speed, and 530 km of CLTC range. As a sedan fully electric, it is aimed at business fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

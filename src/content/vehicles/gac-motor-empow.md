@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Empow"
-description: "GAC Motor Empow is an SUV non-plug-in hybrid offered by GAC Motor with a 2 kWh battery, 134 kW peak output, and a NMC (Li-ion) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The GAC Motor Empow is an SUV non-plug-in hybrid from GAC Motor, offering 2 kWh of battery, 134 kW peak output, and a NMC (Li-ion) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "gac-motor-empow"
 brand: "gac-motor"
 type: "SUV"
@@ -53,7 +53,7 @@ Gac Motor Empow (starting at $18,030) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The GAC Motor Empow is an SUV non-plug-in hybrid from GAC Motor. It carries 300 Nm of torque and a top speed of 165 km/h. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drive. The ex-factory price of $18,030 positions it as a value-segment import. For importers, the least-costly destination is Qatar, near +28.2% over base ($23,111 landed) — Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
+GAC Motor Empow is an SUV hybrid from GAC Motor, in front-wheel-drive form. For this SUV hybrid, Qatar offers the cheapest entry at about +28.2% over base (≈ $23,111 landed), while Germany levies only the 10% standard tariff. At $18,030 ex-factory, this SUV hybrid sits in the mainstream-value segment. Key figures are NMC (Li-ion) chemistry, 300 Nm of torque, and a MacPherson strut front / Multi-link rear suspension layout. In the SUV hybrid segment, it serves families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

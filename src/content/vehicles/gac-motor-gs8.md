@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor GS8"
-description: "The GAC Motor GS8 is an SUV hybrid from GAC Motor, offering 134 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "GAC Motor's GAC Motor GS8 is an SUV hybrid, offering 134 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "gac-motor-gs8"
 brand: "gac-motor"
 type: "SUV"
@@ -49,7 +49,7 @@ Gac Motor GS8 (starting at $32,230) is a SUV from GAC MOTOR.
 
 ## Overview
 
-GAC Motor GS8 is an SUV non-plug-in hybrid offered by GAC Motor. Specification highlights are peak torque of 270 Nm and 190 km/h top speed. The platform pairs FWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $32,230, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +18% over base (about $38,021 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and fleet managers.
+GAC Motor GS8 is an SUV non-plug-in hybrid from GAC Motor, in front-wheel-drive form. For this SUV non-plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +18% over base (about $38,021 landed). With a $32,230 ex-factory price, the SUV non-plug-in hybrid reads as mid-tier. Key figures are a 134 kW electric motor, a top speed of 190 km/h, and a MacPherson strut front / Multi-link rear suspension layout. This SUV non-plug-in hybrid is positioned for private buyers and fleet managers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

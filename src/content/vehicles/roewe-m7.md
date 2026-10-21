@@ -56,7 +56,7 @@ Roewe M7 (starting at $13,770) is a Sedan from ROEWE.
 
 ## Overview
 
-The Roewe M7 is Roewe's sedan plug-in hybrid. It carries 185 km/h top speed and peak output of 137 kW. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP cells. The ex-factory price of $13,770 positions it as a budget import. On landed cost, Qatar offers the cheapest entry at about +35.4% over base (≈ $18,638 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
+The Roewe M7 is a front-wheel-drive plug-in hybrid sedan from Roewe. On landed cost for this sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty, while the lowest landed premium is Qatar at roughly +35.4% over base (about $18,638 landed). This sedan plug-in hybrid is positioned as a budget import, from $13,770 ex-factory. Key figures are a 137 kW electric motor, LFP cells, and a top speed of 185 km/h. The sedan plug-in hybrid profile suits private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

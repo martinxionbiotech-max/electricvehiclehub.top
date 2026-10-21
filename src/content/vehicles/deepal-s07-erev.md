@@ -52,7 +52,7 @@ Deepal S07 EREV (starting at $20,820) is a SUV from DEEPAL.
 
 ## Overview
 
-Deepal S07 EREV is an SUV extended-range electric offered by Deepal. It carries 18 kWh of battery capacity, peak torque of 320 Nm, and a 175 kW electric motor. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus RWD drive. Pricing starts at $20,820 ex-factory, placing it in the value tier. On landed cost, the lowest landed premium is Qatar at roughly +25.1% over base (about $26,041 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits private buyers and fleet managers.
+Deepal's Deepal S07 EREV is an rear-wheel-drive extended-range electric SUV. On landed cost for this SUV extended-range electric, Germany levies only the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +25.1% over base ($26,041 landed). Specification highlights are peak output of 175 kW and a MacPherson strut front / Multi-link rear suspension layout. This SUV extended-range electric is positioned as a value-segment import, from $20,820 ex-factory. For the SUV extended-range electric buyer, it suits families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

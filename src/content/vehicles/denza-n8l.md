@@ -1,6 +1,6 @@
 ---
 title: "Denza N8L"
-description: "The Denza N8L is Denza's SUV plug-in hybrid, offering a CLTC-rated range of 230 km, a 46 kWh battery, 560 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Denza N8L, an SUV plug-in hybrid from Denza, offering a CLTC-rated range of 230 km, a 46 kWh battery, 560 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "denza-n8l"
 brand: "denza"
 type: "SUV"
@@ -57,7 +57,7 @@ Denza N8L (starting at $42,230) is a SUV from DENZA.
 
 ## Overview
 
-Denza N8L is an SUV plug-in hybrid offered by Denza. Specification highlights are 230 km of CLTC range and 0–100 km/h in 3.9 seconds. Chassis details include Double wishbone front / Multi-link (air) rear suspension, plus LFP (Blade) chemistry. At an ex-factory price of $42,230, it sits in the premium segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +14.9% over base (≈ $48,521 landed) — Germany levies only the 10% standard tariff. It suits family and fleet buyers needing practical space.
+Denza N8L is an SUV plug-in hybrid from Denza, in all-wheel-drive form. For this SUV plug-in hybrid, Qatar offers the cheapest entry at about +14.9% over base (≈ $48,521 landed), while Germany levies only the 10% standard tariff. It carries 871 Nm of torque, peak output of 560 kW, and LFP (Blade) cells. The $42,230 ex-factory price places this SUV plug-in hybrid in the upper-mid band. The SUV plug-in hybrid profile suits private buyers and fleet managers evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

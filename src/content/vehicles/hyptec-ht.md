@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HT"
-description: "The Hyptec HT is Hyptec's SUV fully electric, offering 672 km of CLTC range, a 83 kWh battery, 250 kW peak output, and a NMC / LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Hyptec HT, an SUV fully electric from Hyptec, offering 672 km of CLTC range, a 83 kWh battery, 250 kW peak output, and a NMC / LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "hyptec-ht"
 brand: "hyptec"
 type: "SUV"
@@ -58,7 +58,7 @@ Hyptec HT (starting at $26,750) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec HT is an SUV fully electric from Hyptec. Specification highlights are peak output of 250 kW, 83 kWh of battery capacity, and 0–100 km/h in 5.8 seconds. The platform pairs RWD / AWD drivetrain with MacPherson strut front / Multi-link rear suspension. Pricing starts at $26,750 ex-factory, placing it in the mid-market tier. Across export markets, the lowest landed premium is Qatar at roughly +20.6% over base (about $32,267 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits families and commercial fleet operators.
+Hyptec HT is an SUV fully electric from Hyptec, in rear- or all-wheel-drive form. With a $26,750 ex-factory price, the SUV fully electric reads as mid-market. It carries 672 km of CLTC range, a 250 kW electric motor, and NMC / LFP cells. For the SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, the lowest landed premium is Qatar at roughly +20.6% over base (about $32,267 landed). This SUV fully electric is positioned for families and commercial fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

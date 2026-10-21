@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T9"
-description: "Chery Fulwin T9 is an SUV plug-in hybrid electric offered by Chery Fulwin with 100 km of CLTC range, 18 kWh of battery, 150 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Chery Fulwin's Chery Fulwin T9 is an SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-fulwin-t9"
 brand: "chery-fulwin"
 type: "SUV"
@@ -56,7 +56,7 @@ Chery Fulwin T9 (starting at $18,720) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T9 is an SUV plug-in hybrid from Chery Fulwin. It carries 180 km/h top speed, a 18 kWh battery, and peak torque of 310 Nm. The platform pairs LFP cells with FWD drivetrain. Pricing starts at $18,720 ex-factory, placing it in the value tier. On landed cost, the least-costly destination is Qatar, near +27.3% over base ($23,836 landed) — Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Chery Fulwin T9 is an front-wheel-drive plug-in hybrid SUV from Chery Fulwin. Specification highlights are a 150 kW electric motor and 0–100 km/h in 7.8 seconds. As a mainstream-value SUV plug-in hybrid, it starts at $18,720 ex-factory. Across export markets for the SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; the least-costly destination is Qatar, near +27.3% over base ($23,836 landed). As a SUV plug-in hybrid, it is aimed at private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

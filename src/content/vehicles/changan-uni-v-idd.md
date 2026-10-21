@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI V IDD"
-description: "The Changan UNI V IDD is ChangAn's SUV plug-in hybrid electric with 136 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Changan UNI V IDD, an SUV plug-in hybrid electric from ChangAn with 136 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "changan-uni-v-idd"
 brand: "changan"
 type: "SUV"
@@ -56,7 +56,7 @@ Changan UNI V IDD (starting at $16,180) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan UNI V IDD is ChangAn's SUV plug-in hybrid. Specification highlights are peak torque of 330 Nm and a top speed of 185 km/h. The platform pairs NMC (ternary) cells with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $16,180, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +30.8% over base ($21,169 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits regional distributors serving family and logistics demand.
+Changan UNI V IDD is an SUV plug-in hybrid from ChangAn, in front-wheel-drive form. With a $16,180 ex-factory price, the SUV plug-in hybrid reads as value-oriented. For this SUV plug-in hybrid, Germany levies only the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +30.8% over base ($21,169 landed). Key figures are a CLTC-rated range of 136 km, 330 Nm of torque, and a 6.9-second 0–100 km/h time. This SUV plug-in hybrid is positioned for family and fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

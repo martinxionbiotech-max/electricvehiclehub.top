@@ -1,6 +1,6 @@
 ---
 title: "Geely Panda Mini EV"
-description: "The Geely Panda Mini EV is Geely Galaxy's hatchback fully electric, offering a CLTC-rated range of 200 km, 17 kWh of battery, 30 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Geely Galaxy's Geely Panda Mini EV is a hatchback fully electric, offering a CLTC-rated range of 200 km, 17 kWh of battery, 30 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-panda-mini"
 brand: "geely-galaxy"
 type: "Hatchback"
@@ -51,7 +51,7 @@ Geely Panda Mini EV (starting at $5,540) is a Hatchback from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy's Geely Panda Mini EV is a hatchback fully electric. It carries 17 kWh of battery capacity and peak output of 30 kW. Chassis details include RWD drivetrain, plus MacPherson strut front / Torsion beam rear suspension. Pricing starts at $5,540 ex-factory, placing it in the entry-level tier. Across export markets, Qatar offers the cheapest entry at about +80.5% over base (≈ $9,997 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
+The Geely Panda Mini EV is a hatchback fully electric with rear-wheel-drive from Geely Galaxy. The $5,540 ex-factory price places this hatchback fully electric in the budget band. Across export markets for the hatchback fully electric, Qatar offers the cheapest entry at about +80.5% over base (≈ $9,997 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. Key figures are MacPherson strut front / Torsion beam rear suspension, peak output of 30 kW, and LFP chemistry. In the hatchback fully electric segment, it serves city-focused buyers and delivery fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

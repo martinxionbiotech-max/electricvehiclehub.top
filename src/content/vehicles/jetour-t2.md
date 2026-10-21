@@ -1,6 +1,6 @@
 ---
 title: "Jetour T2"
-description: "The Jetour T2 is Jetour's SUV plug-in hybrid electric with a CLTC-rated range of 129 km, 27 kWh of battery, 165 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Jetour T2, an SUV plug-in hybrid electric from Jetour with a CLTC-rated range of 129 km, 27 kWh of battery, 165 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jetour-t2"
 brand: "jetour"
 type: "SUV"
@@ -56,7 +56,7 @@ Jetour T2 (starting at $22,520) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour T2 is Jetour's SUV plug-in hybrid electric. Specification highlights are peak torque of 390 Nm and 27 kWh of battery capacity. Chassis details include FWD / AWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $22,520, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +23.6% over base (≈ $27,826 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Jetour T2 is an SUV plug-in hybrid electric with front- or all-wheel-drive from Jetour. On landed cost for this SUV plug-in hybrid electric, the least-costly destination is Qatar, near +23.6% over base ($27,826 landed); meanwhile, Germany levies only the 10% standard tariff. As a value-oriented SUV plug-in hybrid electric, it starts at $22,520 ex-factory. It carries a top speed of 197 km/h, a MacPherson strut front / Multi-link rear suspension layout, and a 165 kW electric motor. This SUV plug-in hybrid electric is positioned for regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

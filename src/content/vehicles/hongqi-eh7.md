@@ -58,7 +58,7 @@ Hongqi EH7 (starting at $29,410) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi EH7 is an SUV battery-electric from Hongqi. Specification highlights are a 253 kW electric motor and a 75 kWh battery. The platform pairs MacPherson strut front / Multi-link rear suspension with RWD drivetrain. Pricing starts at $29,410 ex-factory, placing it in the mid-market tier. Across export markets, the least-costly destination is Qatar, near +19.2% over base ($35,060 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits families and commercial fleet operators.
+Hongqi's Hongqi EH7 is an rear-wheel-drive battery-electric SUV. It carries a top speed of 190 km/h and peak output of 253 kW. For the SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +19.2% over base ($35,060 landed). As a mid-market SUV battery-electric, it starts at $29,410 ex-factory. In the SUV battery-electric segment, it serves regional distributors comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

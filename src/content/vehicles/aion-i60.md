@@ -55,7 +55,7 @@ Aion I60 (starting at $15,460) is a SUV from AION.
 
 ## Overview
 
-The Aion I60 is AION's SUV fully electric. Specification highlights are peak torque of 205 Nm and 62 kWh of battery capacity. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP cells. The ex-factory price of $15,460 positions it as a mainstream-value import. On landed cost, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+The Aion I60 is an SUV fully electric with front-wheel-drive from AION. Specification highlights are a 150 kW electric motor and LFP chemistry. This SUV fully electric is positioned as a mainstream-value import, from $15,460 ex-factory. On landed cost for this SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +32% over base ($20,413 landed). As a SUV fully electric, it is aimed at family and fleet buyers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

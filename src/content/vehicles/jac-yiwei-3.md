@@ -53,7 +53,7 @@ Jac Yiwei 3 (starting at $9,850) is a Sedan from JAC YIWEI.
 
 ## Overview
 
-The JAC Yiwei 3 is JAC Yiwei's sedan battery-electric. Specification highlights are a 60 kW electric motor, 135 km/h top speed, and a rated range of 330 km (CLTC). The platform pairs FWD drive with MacPherson strut front / Torsion beam rear suspension. At an ex-factory price of $9,850, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +47.4% over base ($14,522 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits executive and corporate fleet buyers.
+JAC Yiwei's JAC Yiwei 3 is a front-wheel-drive battery-electric sedan. For this sedan battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +47.4% over base ($14,522 landed). It carries LFP chemistry and a MacPherson strut front / Torsion beam rear suspension layout. With a $9,850 ex-factory price, the sedan battery-electric reads as budget. As a sedan battery-electric, it is aimed at private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

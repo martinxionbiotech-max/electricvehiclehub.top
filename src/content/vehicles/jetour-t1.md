@@ -53,7 +53,7 @@ Jetour T1 (starting at $19,000) is a SUV from JETOUR.
 
 ## Overview
 
-Jetour T1 is an SUV plug-in hybrid electric offered by Jetour. It carries 180 km/h top speed and 310 Nm of torque. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $19,000 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +27% over base (≈ $24,130 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits price-sensitive importers.
+The Jetour T1 is an SUV plug-in hybrid electric with front-wheel-drive from Jetour. As a mainstream-value SUV plug-in hybrid electric, it starts at $19,000 ex-factory. Specification highlights are MacPherson strut front / Multi-link rear suspension and 310 Nm of torque. On landed cost for this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +27% over base (≈ $24,130 landed); Germany levies only the 10% standard tariff. For the SUV plug-in hybrid electric buyer, it suits regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -56,7 +56,7 @@ Geely Galaxy M9 (starting at $25,890) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy M9 is an SUV plug-in hybrid offered by Geely Galaxy. It carries a 180 kW electric motor and 41 kWh of battery capacity. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $25,890 ex-factory. On landed cost, Qatar offers the cheapest entry at about +21.1% over base (≈ $31,364 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits regional distributors serving family and logistics demand.
+Geely Galaxy M9 is an SUV plug-in hybrid from Geely Galaxy, in dual-motor all-wheel-drive form. With a $25,890 ex-factory price, the SUV plug-in hybrid reads as mid-tier. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout, 230 km of CLTC range, and a 7.7-second 0–100 km/h time. For this SUV plug-in hybrid, Germany levies only the 10% standard tariff — the least-costly destination is Qatar, near +21.1% over base ($31,364 landed). As a SUV plug-in hybrid, it is aimed at families and commercial fleet operators comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -62,7 +62,7 @@ Aito M9 (starting at $66,170) is a SUV from AITO.
 
 ## Overview
 
-Aito M9 is an SUV fully electric offered by AITO. Specification highlights are 200 km/h top speed, peak output of 365 kW, and 675 Nm of torque. The platform pairs a drag coefficient of 0.264 with AWD drivetrain. It is positioned as a flagship import, priced from $66,170 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +11.3% over base (about $73,658 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits families and commercial fleet operators.
+The Aito M9 is an all-wheel-drive fully electric SUV from AITO. This SUV fully electric is positioned as a flagship import, from $66,170 ex-factory. Key figures are a 365 kW electric motor and a top speed of 200 km/h. For the SUV fully electric, the lowest landed premium is Qatar at roughly +11.3% over base (about $73,658 landed); Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The SUV fully electric profile suits regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

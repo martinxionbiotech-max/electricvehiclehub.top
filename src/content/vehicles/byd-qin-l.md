@@ -58,7 +58,7 @@ Byd QIN L (starting at $13,600) is a Sedan from BYD.
 
 ## Overview
 
-BYD Qin L is a sedan battery-electric offered by BYD. Specification highlights are a rated range of 545 km (CLTC) and peak output of 120 kW. Chassis details include LFP (Blade) cells, plus FWD drive. It is positioned as an affordable-end import, priced from $13,600 ex-factory. For importers, Qatar offers the cheapest entry at about +35.7% over base (≈ $18,460 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits importers serving the executive-sedan segment.
+BYD's BYD Qin L is a front-wheel-drive battery-electric sedan. Specification highlights are 0–100 km/h in 7.9 seconds, peak torque of 210 Nm, and LFP (Blade) cells. Across export markets for the sedan battery-electric, Germany's estimate carries a 17% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +35.7% over base (about $18,460 landed). The $13,600 ex-factory price places this sedan battery-electric in the affordable-end band. The sedan battery-electric profile suits business fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Sehol E40X"
-description: "The Sehol E40X is Sehol's SUV fully electric with a CLTC-rated range of 502 km, a 66 kWh battery, 110 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Sehol E40X, an SUV fully electric from Sehol with a CLTC-rated range of 502 km, a 66 kWh battery, 110 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "sehol-e40x"
 brand: "sehol"
 type: "SUV"
@@ -56,7 +56,7 @@ Sehol E40X (starting at $18,060) is a SUV from SEHOL.
 
 ## Overview
 
-Sehol E40X is an SUV battery-electric offered by Sehol. It carries 340 Nm of torque and a 9.7-second 0–100 km/h time. Chassis details include FWD drive, plus MacPherson strut front / Torsion beam rear suspension. At an ex-factory price of $18,060, it sits in the value segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +28.1% over base (≈ $23,143 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits families and commercial fleet operators.
+The Sehol E40X is an SUV battery-electric with front-wheel-drive from Sehol. For the SUV battery-electric, the least-costly destination is Qatar, near +28.1% over base ($23,143 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It carries a 66 kWh battery and a top speed of 150 km/h. Priced from $18,060 ex-factory, the SUV battery-electric falls in the mainstream-value tier. The SUV battery-electric profile suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

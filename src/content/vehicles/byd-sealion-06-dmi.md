@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 06 DM-i"
-description: "BYD Sealion 06 DM-i is an SUV plug-in hybrid electric offered by BYD, offering 150 km of CLTC range, a 18 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "BYD's BYD Sealion 06 DM-i is an SUV plug-in hybrid electric with 150 km of CLTC range, a 18 kWh battery, 160 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-sealion-06-dmi"
 brand: "byd"
 type: "SUV"
@@ -57,7 +57,7 @@ Byd Sealion 06 DMI (starting at $19,690) is a SUV from BYD.
 
 ## Overview
 
-BYD Sealion 06 DM-i is an SUV plug-in hybrid electric offered by BYD. Specification highlights are a CLTC-rated range of 150 km and a 7.5-second 0–100 km/h time. The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. Pricing starts at $19,690 ex-factory, placing it in the value tier. For importers, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits private buyers and fleet managers.
+The BYD Sealion 06 DM-i is an SUV plug-in hybrid with front-wheel-drive from BYD. For this SUV plug-in hybrid, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed) — Germany levies only the 10% standard tariff. Key figures are 180 km/h top speed, a 18 kWh battery, and a MacPherson strut front / Multi-link rear suspension layout. As a value SUV plug-in hybrid, it starts at $19,690 ex-factory. As a SUV plug-in hybrid, it is aimed at private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

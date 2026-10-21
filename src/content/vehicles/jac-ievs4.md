@@ -54,7 +54,7 @@ JAC iEVS4 (starting at $19,380) is a SUV from JAC.
 
 ## Overview
 
-The JAC iEVS4 is an SUV fully electric from JAC. It carries a CLTC-rated range of 470 km and a 66 kWh battery. Chassis details include LFP chemistry, plus a MacPherson strut front / Torsion beam rear suspension setup. At an ex-factory price of $19,380, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +26.6% over base ($24,529 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
+The JAC iEVS4 is an front-wheel-drive fully electric SUV from JAC. The $19,380 ex-factory price places this SUV fully electric in the value band. Key figures are a MacPherson strut front / Torsion beam rear suspension layout, LFP cells, and 150 km/h top speed. Across export markets for the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +26.6% over base (≈ $24,529 landed). This SUV fully electric is positioned for private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

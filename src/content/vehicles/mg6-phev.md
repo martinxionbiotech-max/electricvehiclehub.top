@@ -1,6 +1,6 @@
 ---
 title: "MG6 PHEV"
-description: "MG6 PHEV is a sedan plug-in hybrid electric offered by MG with 70 km of CLTC range, a 11 kWh battery, 100 kW of motor power, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The MG6 PHEV is a sedan plug-in hybrid electric from MG with 70 km of CLTC range, a 11 kWh battery, 100 kW peak output, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "mg6-phev"
 brand: "mg"
 type: "Sedan"
@@ -55,7 +55,7 @@ MG6 PHEV (starting at $19,830) is a Sedan from MG.
 
 ## Overview
 
-MG6 PHEV is a sedan plug-in hybrid electric offered by MG. Specification highlights are a 6.8-second 0–100 km/h time and a rated range of 70 km (CLTC). The platform pairs NMC cells with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $19,830, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +26.1% over base (≈ $25,001 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and ride-hailing operators.
+The MG6 PHEV is a front-wheel-drive plug-in hybrid sedan from MG. Specification highlights are NMC chemistry, MacPherson strut front / Multi-link rear suspension, and peak torque of 230 Nm. At $19,830 ex-factory, this sedan plug-in hybrid sits in the mainstream-value segment. For the sedan plug-in hybrid, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +26.1% over base (about $25,001 landed). As a sedan plug-in hybrid, it is aimed at private buyers and ride-hailing operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

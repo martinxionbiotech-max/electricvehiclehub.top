@@ -1,6 +1,6 @@
 ---
 title: "Haval H6"
-description: "The Haval H6 is an SUV plug-in hybrid from Haval with 106 km of CLTC range, a 19 kWh battery, 130 kW peak output, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Haval's Haval H6 is an SUV plug-in hybrid with 106 km of CLTC range, a 19 kWh battery, 130 kW peak output, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "haval-h6"
 brand: "haval"
 type: "SUV"
@@ -58,7 +58,7 @@ Haval H6 (starting at $22,510) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval H6 is an SUV plug-in hybrid from Haval. Specification highlights are peak torque of 300 Nm and 180 km/h top speed. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP / NMC cells. At an ex-factory price of $22,510, it sits in the value segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +23.6% over base (≈ $27,815 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for family and fleet buyers needing practical space.
+Haval's Haval H6 is an front-wheel-drive plug-in hybrid SUV. This SUV plug-in hybrid is positioned as a value-focused import, from $22,510 ex-factory. Key figures are a 7.8-second 0–100 km/h time, 180 km/h top speed, and peak torque of 300 Nm. For the SUV plug-in hybrid, the least-costly destination is Qatar, near +23.6% over base ($27,815 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. For the SUV plug-in hybrid buyer, it suits family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

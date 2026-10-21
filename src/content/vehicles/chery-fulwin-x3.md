@@ -41,7 +41,7 @@ Chery Fulwin X3 (starting at $12,490) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin X3 is an SUV fully electric offered by Chery Fulwin. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drivetrain. The ex-factory price of $12,490 positions it as an entry-level import. Across export markets, the least-costly destination is Qatar, near +38.5% over base ($17,294 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits regional distributors serving family and logistics demand.
+Chery Fulwin X3 is an SUV fully electric from Chery Fulwin, in front-wheel-drive form. The $12,490 ex-factory price places this SUV fully electric in the affordable-end band. For the SUV fully electric, the least-costly destination is Qatar, near +38.5% over base ($17,294 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It carries MacPherson strut front / Multi-link rear suspension and LFP cells. As a SUV fully electric, it is aimed at regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

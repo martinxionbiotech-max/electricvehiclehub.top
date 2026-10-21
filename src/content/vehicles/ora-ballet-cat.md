@@ -55,7 +55,7 @@ Ora Ballet CAT (starting at $21,100) is a Sedan from ORA.
 
 ## Overview
 
-The Ora Ballet CAT is Ora's sedan battery-electric. It carries a rated range of 401 km (CLTC), 250 Nm of torque, and peak output of 126 kW. The platform pairs LFP cells with MacPherson strut front / Torsion beam rear suspension. At an ex-factory price of $21,100, it sits in the value segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +24.8% over base ($26,335 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for executive and corporate fleet buyers.
+The Ora Ballet CAT is a sedan battery-electric with front-wheel-drive from Ora. For this sedan battery-electric, the least-costly destination is Qatar, near +24.8% over base ($26,335 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Priced from $21,100 ex-factory, the sedan battery-electric falls in the value-oriented tier. It carries a top speed of 155 km/h, peak output of 126 kW, and 49 kWh of capacity. As a sedan battery-electric, it is aimed at executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

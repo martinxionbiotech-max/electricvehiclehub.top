@@ -51,7 +51,7 @@ Changan Nevo E07 EREV (starting at $30,540) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-Changan Nevo E07 EREV is an SUV extended-range electric offered by ChangAn NEVO. Specification highlights are a 231 kW electric motor and 39 kWh of battery capacity. Chassis details include LFP cells, plus MacPherson strut front / Multi-link rear suspension. It is positioned as a mid-tier import, priced from $30,540 ex-factory. Across export markets, the least-costly destination is Qatar, near +18.7% over base ($36,247 landed), while Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
+ChangAn NEVO's Changan Nevo E07 EREV is an rear-wheel-drive extended-range electric SUV. For the SUV extended-range electric, the lowest landed premium is Qatar at roughly +18.7% over base (about $36,247 landed); meanwhile, Germany levies only the 10% standard tariff. Key figures are MacPherson strut front / Multi-link rear suspension, a 39 kWh battery, and a 231 kW electric motor. This SUV extended-range electric is positioned as a mid-tier import, from $30,540 ex-factory. For the SUV extended-range electric buyer, it suits family and fleet buyers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

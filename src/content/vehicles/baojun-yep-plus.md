@@ -55,7 +55,7 @@ Baojun YEP PLUS (starting at $10,820) is a SUV from BAOJUN.
 
 ## Overview
 
-The Baojun Yep Plus is Baojun's SUV battery-electric. It carries 180 Nm of torque and 301 km of CLTC range. Chassis details include RWD drive, plus MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $10,820 positions it as an affordable-end import. On landed cost, the least-costly destination is Qatar, near +43.6% over base ($15,541 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
+Baojun's Baojun Yep Plus is an rear-wheel-drive battery-electric SUV. Key figures are MacPherson strut front / Torsion beam rear suspension, peak torque of 180 Nm, and a 75 kW electric motor. As a budget SUV battery-electric, it starts at $10,820 ex-factory. For this SUV battery-electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff; the least-costly destination is Qatar, near +43.6% over base ($15,541 landed). In the SUV battery-electric segment, it serves families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

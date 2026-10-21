@@ -56,7 +56,7 @@ Denza D9 DM-i (starting at $47,190) is a MPV from DENZA.
 
 ## Overview
 
-The Denza D9 DM-i is Denza's MPV plug-in hybrid electric. Specification highlights are peak output of 170 kW and a CLTC-rated range of 98 km. The platform pairs FWD / AWD drive with LFP (Blade) cells. It is positioned as a premium import, priced from $47,190 ex-factory. For importers, the least-costly destination is Qatar, near +13.9% over base ($53,729 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits premium-tier importers.
+The Denza D9 DM-i is an MPV plug-in hybrid electric with front- or all-wheel-drive from Denza. This MPV plug-in hybrid electric is positioned as a premium import, from $47,190 ex-factory. It carries 0–100 km/h in 9.5 seconds and MacPherson strut front / Multi-link rear suspension. For this MPV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +13.9% over base (about $53,729 landed), while Germany applies the 10% standard tariff with no countervailing duty. For the MPV plug-in hybrid electric buyer, it suits shuttle and charter fleet operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -58,7 +58,7 @@ Leapmotor C10 (starting at $17,300) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C10 is an SUV battery-electric from Leapmotor. Specification highlights are 69 kWh of battery capacity and 320 Nm of torque. The platform pairs RWD drive with MacPherson strut front / Multi-link rear suspension. The ex-factory price of $17,300 positions it as a value-focused import. For importers, Qatar offers the cheapest entry at about +29.2% over base (≈ $22,345 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits families and commercial fleet operators.
+The Leapmotor C10 is an rear-wheel-drive battery-electric SUV from Leapmotor. Priced from $17,300 ex-factory, the SUV battery-electric falls in the value tier. It carries peak torque of 320 Nm, 530 km of CLTC range, and a top speed of 170 km/h. Across export markets for the SUV battery-electric, the least-costly destination is Qatar, near +29.2% over base ($22,345 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This SUV battery-electric is positioned for families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 730 PHEV"
-description: "Wuling Starlight 730 PHEV is an MPV plug-in hybrid offered by Wuling with 125 km of CLTC range, 9 kWh of battery, 145 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wuling Starlight 730 PHEV is an MPV plug-in hybrid from Wuling with a CLTC-rated range of 125 km, 9 kWh of battery, 145 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-starlight-730-phev"
 brand: "wuling"
 type: "MPV"
@@ -54,7 +54,7 @@ Wuling Starlight 730 PHEV (starting at $14,420) is a MPV from WULING.
 
 ## Overview
 
-The Wuling Starlight 730 PHEV is an MPV plug-in hybrid electric from Wuling. Specification highlights are 230 Nm of torque and 9 kWh of battery capacity. The platform pairs LFP cells with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $14,420, it sits in the entry-level segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +34% over base ($19,321 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
+Wuling's Wuling Starlight 730 PHEV is an front-wheel-drive plug-in hybrid MPV. Key figures are LFP cells, a top speed of 170 km/h, and a 9 kWh battery. For this MPV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +34% over base (about $19,321 landed). As a affordable-end MPV plug-in hybrid, it starts at $14,420 ex-factory. The MPV plug-in hybrid profile suits people-carrier operators and family buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

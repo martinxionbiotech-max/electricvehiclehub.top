@@ -55,7 +55,7 @@ Dongfeng eπ008 EREV (starting at $30,080) is a SUV from DONGFENG E.
 
 ## Overview
 
-The Dongfeng eπ008 EREV is Dongfeng eπ's SUV range-extended electric. It carries 180 km/h top speed and a 200 kW electric motor. The platform pairs RWD drive with LFP chemistry. The ex-factory price of $30,080 positions it as a mid-market import. Across export markets, the least-costly destination is Qatar, near +18.9% over base ($35,764 landed); meanwhile, Germany levies only the 10% standard tariff. It suits private buyers and fleet managers.
+The Dongfeng eπ008 EREV is an SUV range-extended electric with rear-wheel-drive from Dongfeng eπ. Across export markets for the SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +18.9% over base (about $35,764 landed). This SUV range-extended electric is positioned as a mid-market import, from $30,080 ex-factory. Specification highlights are LFP cells and peak output of 200 kW. As a SUV range-extended electric, it is aimed at importers targeting the family-SUV segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

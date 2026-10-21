@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy E8"
-description: "Geely Galaxy E8 is an SUV fully electric offered by Geely Galaxy, offering 575 km of CLTC range, 62 kWh of battery, 250 kW of motor power, and LFP / NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Geely Galaxy's Geely Galaxy E8 is an SUV fully electric, offering a CLTC-rated range of 575 km, a 62 kWh battery, 250 kW of motor power, and LFP / NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-e8"
 brand: "geely-galaxy"
 type: "SUV"
@@ -59,7 +59,7 @@ Geely Galaxy E8 (starting at $21,100) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy E8 is an SUV battery-electric offered by Geely Galaxy. It carries 62 kWh of battery capacity, a CLTC-rated range of 575 km, and 0–100 km/h in 5.49 seconds. The platform pairs a Cd of 0.199 with a Double wishbone front / Five-link rear suspension setup. It is positioned as a value-segment import, priced from $21,100 ex-factory. Across export markets, the least-costly destination is Qatar, near +24.8% over base ($26,335 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits regional distributors serving family and logistics demand.
+The Geely Galaxy E8 is an rear- or all-wheel-drive battery-electric SUV from Geely Galaxy. With a $21,100 ex-factory price, the SUV battery-electric reads as mainstream-value. It carries LFP / NMC chemistry and a 62 kWh battery. For this SUV battery-electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff — the lowest landed premium is Qatar at roughly +24.8% over base (about $26,335 landed). In the SUV battery-electric segment, it serves regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

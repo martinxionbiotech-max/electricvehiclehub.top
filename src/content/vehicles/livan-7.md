@@ -54,7 +54,7 @@ Livan 7 (starting at $16,350) is a SUV from LIVAN.
 
 ## Overview
 
-The Livan 7 is an SUV battery-electric from Livan. It carries a rated range of 450 km (CLTC), a 50 kWh battery, and a 120 kW electric motor. The platform pairs LFP cells with FWD drive. It is positioned as a value-focused import, priced from $16,350 ex-factory. For importers, the lowest landed premium is Qatar at roughly +30.6% over base (about $21,347 landed), while Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits budget-conscious fleet buyers.
+The Livan 7 is an SUV battery-electric with front-wheel-drive from Livan. For the SUV battery-electric, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff; the lowest landed premium is Qatar at roughly +30.6% over base (about $21,347 landed). It carries 240 Nm of torque, MacPherson strut front / Torsion beam rear suspension, and LFP chemistry. Priced from $16,350 ex-factory, the SUV battery-electric falls in the value tier. As a SUV battery-electric, it is aimed at families and commercial fleet operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

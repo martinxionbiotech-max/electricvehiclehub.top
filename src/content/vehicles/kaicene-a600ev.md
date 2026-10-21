@@ -54,7 +54,7 @@ Kaicene A600Ev (starting at $21,100) is a MPV from KAICENE.
 
 ## Overview
 
-The Kaicene A600Ev is an MPV battery-electric from Kaicene. Specification highlights are 245 Nm of torque and 56 kWh of battery capacity. Chassis details include LFP cells, plus MacPherson strut front / Torsion beam rear suspension. Pricing starts at $21,100 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits people-carrier operators and family buyers.
+Kaicene's Kaicene A600Ev is an front-wheel-drive battery-electric MPV. Across export markets for the MPV battery-electric, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. Specification highlights are 130 km/h top speed and peak output of 90 kW. As a value MPV battery-electric, it starts at $21,100 ex-factory. For the MPV battery-electric buyer, it suits shuttle and charter fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -54,7 +54,7 @@ Jetour Shanhai L7 PLUS (starting at $21,100) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour Shanhai L7 Plus is an SUV plug-in hybrid electric from Jetour. Specification highlights are 32 kWh of battery capacity and 180 km/h top speed. The platform pairs LFP cells with FWD drivetrain. It is positioned as a value-segment import, priced from $21,100 ex-factory. For importers, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed), while Germany levies only the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+Jetour's Jetour Shanhai L7 Plus is an front-wheel-drive plug-in hybrid electric SUV. On landed cost for this SUV plug-in hybrid electric, Germany levies only the 10% standard tariff, while the lowest landed premium is Qatar at roughly +24.8% over base (about $26,335 landed). Specification highlights are MacPherson strut front / Multi-link rear suspension and 32 kWh of capacity. Priced from $21,100 ex-factory, the SUV plug-in hybrid electric falls in the value tier. For the SUV plug-in hybrid electric buyer, it suits regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

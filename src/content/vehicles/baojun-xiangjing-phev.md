@@ -1,6 +1,6 @@
 ---
 title: "Baojun Xiangjing PHEV"
-description: "The Baojun Xiangjing PHEV is a sedan plug-in hybrid from Baojun, offering 140 km of CLTC range, a 20 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Baojun's Baojun Xiangjing PHEV is a sedan plug-in hybrid, offering 140 km of CLTC range, a 20 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "baojun-xiangjing-phev"
 brand: "baojun"
 type: "Sedan"
@@ -54,7 +54,7 @@ Baojun Xiangjing PHEV (starting at $18,030) is a Sedan from BAOJUN.
 
 ## Overview
 
-Baojun Xiangjing PHEV is a sedan plug-in hybrid electric offered by Baojun. It carries 20 kWh of battery capacity and a 7.9-second 0–100 km/h time. The platform pairs FWD drive with LFP chemistry. It is positioned as a value-focused import, priced from $18,030 ex-factory. On landed cost, Qatar offers the cheapest entry at about +28.2% over base (≈ $23,111 landed), while Germany levies only the 10% standard tariff. This positions it for executive and corporate fleet buyers.
+The Baojun Xiangjing PHEV is a sedan plug-in hybrid electric with front-wheel-drive from Baojun. As a mainstream-value sedan plug-in hybrid electric, it starts at $18,030 ex-factory. It carries 140 km of CLTC range and 310 Nm of torque. Across export markets for the sedan plug-in hybrid electric, the least-costly destination is Qatar, near +28.2% over base ($23,111 landed); meanwhile, Germany levies only the 10% standard tariff. The sedan plug-in hybrid electric profile suits importers serving the sedan segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

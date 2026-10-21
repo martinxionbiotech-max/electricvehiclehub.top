@@ -59,7 +59,7 @@ Denza N7 (starting at $36,590) is a SUV from DENZA.
 
 ## Overview
 
-The Denza N7 is an SUV battery-electric from Denza. It carries a top speed of 180 km/h, peak output of 230 kW, and peak torque of 360 Nm. Chassis details include RWD / AWD drive, plus LFP (Blade) chemistry. At an ex-factory price of $36,590, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +16.4% over base ($42,599 landed), while Germany applies a 17% countervailing duty on top of the 10% standard tariff. It suits importers targeting the family-SUV segment.
+The Denza N7 is an SUV battery-electric with rear- or all-wheel-drive from Denza. Specification highlights are 360 Nm of torque and a CLTC-rated range of 702 km. For this SUV battery-electric, Germany applies a 17% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +16.4% over base ($42,599 landed). With a $36,590 ex-factory price, the SUV battery-electric reads as mid-market. This SUV battery-electric is positioned for importers targeting the family-SUV segment balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

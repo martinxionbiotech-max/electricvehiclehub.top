@@ -55,7 +55,7 @@ Arcfox Kaola (starting at $18,560) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox Kaola is an SUV battery-electric from Arcfox. It carries a CLTC-rated range of 500 km, a 120 kW electric motor, and 160 km/h top speed. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with FWD drivetrain. It is positioned as a value-segment import, priced from $18,560 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +27.5% over base (about $23,668 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits families and commercial fleet operators.
+The Arcfox Kaola is an front-wheel-drive battery-electric SUV from Arcfox. For the SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +27.5% over base ($23,668 landed). Specification highlights are peak output of 120 kW, 58 kWh of capacity, and LFP cells. At $18,560 ex-factory, this SUV battery-electric sits in the value segment. In the SUV battery-electric segment, it serves importers targeting the family-SUV segment prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

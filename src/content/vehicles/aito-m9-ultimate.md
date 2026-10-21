@@ -53,7 +53,7 @@ Aito M9 Ultimate (starting at $90,250) is a SUV from AITO.
 
 ## Overview
 
-Aito M9 Ultimate is an SUV range-extended electric offered by AITO. Specification highlights are 0–100 km/h in 3.99 seconds and peak output of 365 kW. Chassis details include AWD drive, plus a Double wishbone front / Multi-link (air) rear suspension setup. It is positioned as a flagship import, priced from $90,250 ex-factory. For importers, the least-costly destination is Qatar, near +9.6% over base ($98,942 landed), while Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
+Aito M9 Ultimate is an SUV range-extended electric from AITO, in all-wheel-drive form. It carries a Double wishbone front / Multi-link (air) rear suspension layout, NMC (CATL) cells, and peak output of 365 kW. With a $90,250 ex-factory price, the SUV range-extended electric reads as flagship. For this SUV range-extended electric, Qatar offers the cheapest entry at about +9.6% over base (≈ $98,942 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This SUV range-extended electric is positioned for regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

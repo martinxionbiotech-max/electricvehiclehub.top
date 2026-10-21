@@ -52,7 +52,7 @@ Neta X (starting at $12,470) is a SUV from NETA.
 
 ## Overview
 
-Neta X is an SUV battery-electric offered by Neta. Specification highlights are peak output of 120 kW and 51 kWh of battery capacity. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus FWD drivetrain. It is positioned as an entry-level import, priced from $12,470 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +38.5% over base (about $17,273 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+The Neta X is an front-wheel-drive battery-electric SUV from Neta. Specification highlights are a CLTC-rated range of 401 km, a MacPherson strut front / Torsion beam rear suspension layout, and LFP chemistry. This SUV battery-electric is positioned as an entry-level import, from $12,470 ex-factory. For this SUV battery-electric, the least-costly destination is Qatar, near +38.5% over base ($17,273 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The SUV battery-electric profile suits families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

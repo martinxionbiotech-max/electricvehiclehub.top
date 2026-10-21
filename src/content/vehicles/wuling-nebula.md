@@ -1,6 +1,6 @@
 ---
 title: "Wuling Nebula"
-description: "Wuling Nebula is an SUV non-plug-in hybrid offered by Wuling with 130 kW of motor power and NMC (Li-ion) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Wuling's Wuling Nebula is an SUV non-plug-in hybrid, offering 130 kW of motor power and a NMC (Li-ion) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "wuling-nebula"
 brand: "wuling"
 type: "SUV"
@@ -51,7 +51,7 @@ Wuling Nebula (starting at $12,650) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Nebula is Wuling's SUV non-plug-in hybrid. Specification highlights are 320 Nm of torque and 135 km/h top speed. Chassis details include FWD drive, plus MacPherson strut front / Torsion beam rear suspension. It is positioned as a budget import, priced from $12,650 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +38% over base (about $17,462 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for family and fleet buyers needing practical space.
+The Wuling Nebula is an SUV hybrid with front-wheel-drive from Wuling. For this SUV hybrid, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +38% over base (≈ $17,462 landed). It carries peak output of 130 kW, a MacPherson strut front / Torsion beam rear suspension layout, and a top speed of 135 km/h. With a $12,650 ex-factory price, the SUV hybrid reads as affordable-end. For the SUV hybrid buyer, it suits family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A06 EREV"
-description: "The Changan Nevo A06 EREV is ChangAn NEVO's sedan extended-range electric with a CLTC-rated range of 240 km, a 28 kWh battery, 120 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo A06 EREV, a sedan extended-range electric from ChangAn NEVO with a CLTC-rated range of 240 km, a 28 kWh battery, 120 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-a06-erev"
 brand: "changan-nevo"
 type: "Sedan"
@@ -51,7 +51,7 @@ Changan Nevo A06 EREV (starting at $16,650) is a Sedan from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo A06 EREV is ChangAn NEVO's sedan extended-range electric. Specification highlights are 28 kWh of battery capacity and a 120 kW electric motor. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP chemistry. Pricing starts at $16,650 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits executive and corporate fleet buyers.
+ChangAn NEVO's Changan Nevo A06 EREV is a rear-wheel-drive extended-range electric sedan. For this sedan extended-range electric, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. As a value-oriented sedan extended-range electric, it starts at $16,650 ex-factory. It carries LFP chemistry, MacPherson strut front / Multi-link rear suspension, and a CLTC-rated range of 240 km. In the sedan extended-range electric segment, it serves executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

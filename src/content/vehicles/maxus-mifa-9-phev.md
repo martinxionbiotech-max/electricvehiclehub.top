@@ -45,7 +45,7 @@ Maxus MIFA 9 PHEV (starting at $37,490) is a MPV from MAXUS.
 
 ## Overview
 
-Maxus MIFA 9 PHEV is an MPV plug-in hybrid electric offered by Maxus. The platform pairs MacPherson strut front / Multi-link rear suspension with NMC (ternary) chemistry. The ex-factory price of $37,490 positions it as a mid-tier import. On landed cost, the lowest landed premium is Qatar at roughly +16.1% over base (about $43,544 landed) — Germany levies only the 10% standard tariff. This positions it for people-carrier operators and family buyers.
+Maxus's Maxus MIFA 9 PHEV is an front-wheel-drive plug-in hybrid electric MPV. With a $37,490 ex-factory price, the MPV plug-in hybrid electric reads as mid-tier. For the MPV plug-in hybrid electric, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +16.1% over base (about $43,544 landed). Key figures are a MacPherson strut front / Multi-link rear suspension layout and NMC (ternary) cells. This MPV plug-in hybrid electric is positioned for shuttle and charter fleet operators evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

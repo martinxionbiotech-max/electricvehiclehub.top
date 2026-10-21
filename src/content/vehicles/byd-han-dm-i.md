@@ -1,6 +1,6 @@
 ---
 title: "BYD Han DM-i"
-description: "BYD Han DM-i is a sedan plug-in hybrid offered by BYD, offering 125 km of CLTC range, 18 kWh of battery, 200 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "BYD's BYD Han DM-i is a sedan plug-in hybrid, offering a CLTC-rated range of 125 km, a 18 kWh battery, 200 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-han-dm-i"
 brand: "byd"
 type: "Sedan"
@@ -55,7 +55,7 @@ BYD Han DM-i (starting at $23,030) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Han DM-i is BYD's sedan plug-in hybrid electric. It carries a 6.9-second 0–100 km/h time and 200 km/h top speed. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drive. The ex-factory price of $23,030 positions it as a value-focused import. On landed cost, the least-costly destination is Qatar, near +23.2% over base ($28,361 landed); meanwhile, Germany levies only the 10% standard tariff. It suits price-sensitive importers.
+The BYD Han DM-i is a front-wheel-drive plug-in hybrid electric sedan from BYD. It carries peak output of 200 kW, 18 kWh of capacity, and 0–100 km/h in 6.9 seconds. This sedan plug-in hybrid electric is positioned as a value-focused import, from $23,030 ex-factory. Across export markets for the sedan plug-in hybrid electric, Qatar offers the cheapest entry at about +23.2% over base (≈ $28,361 landed) — Germany levies only the 10% standard tariff. In the sedan plug-in hybrid electric segment, it serves business fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

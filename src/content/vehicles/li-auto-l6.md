@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L6"
-description: "Li Auto L6 is an SUV range-extended electric offered by Li Auto, offering 300 km of CLTC range, 36 kWh of battery, 300 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Li Auto's Li Auto L6 is an SUV range-extended electric, offering a CLTC-rated range of 300 km, 36 kWh of battery, 300 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "li-auto-l6"
 brand: "li-auto"
 type: "SUV"
@@ -58,7 +58,7 @@ Li Auto L6 (starting at $35,080) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto L6 is Li Auto's SUV extended-range electric. Specification highlights are peak torque of 529 Nm, 36 kWh of battery capacity, and a 5.4-second 0–100 km/h time. The platform pairs LFP cells with a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $35,080 ex-factory. On landed cost, Qatar offers the cheapest entry at about +16.9% over base (≈ $41,014 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and fleet managers.
+Li Auto's Li Auto L6 is an all-wheel-drive extended-range electric SUV. Key figures are a 36 kWh battery, peak output of 300 kW, and LFP cells. For this SUV extended-range electric, the least-costly destination is Qatar, near +16.9% over base ($41,014 landed) — Germany applies the 10% standard tariff with no countervailing duty. As a mid-tier SUV extended-range electric, it starts at $35,080 ex-factory. In the SUV extended-range electric segment, it serves family and fleet buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

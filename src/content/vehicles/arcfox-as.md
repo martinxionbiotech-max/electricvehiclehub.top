@@ -58,7 +58,7 @@ Arcfox AS (starting at $36,170) is a SUV from ARCFOX.
 
 ## Overview
 
-Arcfox AS is an SUV fully electric offered by Arcfox. Specification highlights are a rated range of 602 km (CLTC) and peak torque of 370 Nm. The platform pairs NMC chemistry with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $36,170, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +16.6% over base (≈ $42,158 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for families and commercial fleet operators.
+The Arcfox AS is an rear- or all-wheel-drive fully electric SUV from Arcfox. It carries NMC chemistry, a MacPherson strut front / Multi-link rear suspension layout, and peak output of 252 kW. Across export markets for the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, the lowest landed premium is Qatar at roughly +16.6% over base (about $42,158 landed). The $36,170 ex-factory price places this SUV fully electric in the mid-tier band. In the SUV fully electric segment, it serves regional distributors comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

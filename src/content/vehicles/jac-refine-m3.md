@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine M3"
-description: "The JAC Refine M3 is an MPV plug-in hybrid electric from JAC Refine with a CLTC-rated range of 63 km, a 17 kWh battery, 130 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "JAC Refine's JAC Refine M3 is an MPV plug-in hybrid electric with a CLTC-rated range of 63 km, a 17 kWh battery, 130 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "jac-refine-m3"
 brand: "jac-refine"
 type: "MPV"
@@ -52,7 +52,7 @@ Jac Refine M3 (starting at $15,480) is a MPV from JAC REFINE.
 
 ## Overview
 
-The JAC Refine M3 is JAC Refine's MPV plug-in hybrid electric. Specification highlights are 63 km of CLTC range, peak output of 130 kW, and 320 Nm of torque. The platform pairs LFP cells with RWD drivetrain. At an ex-factory price of $15,480, it sits in the value segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +32% over base (≈ $20,434 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
+JAC Refine's JAC Refine M3 is an rear-wheel-drive plug-in hybrid electric MPV. For this MPV plug-in hybrid electric, Germany levies only the 10% standard tariff, while the lowest landed premium is Qatar at roughly +32% over base (about $20,434 landed). With a $15,480 ex-factory price, the MPV plug-in hybrid electric reads as value-oriented. It carries a CLTC-rated range of 63 km and a 17 kWh battery. This MPV plug-in hybrid electric is positioned for people-carrier operators and family buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

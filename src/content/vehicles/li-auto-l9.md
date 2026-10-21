@@ -60,7 +60,7 @@ Li Auto L9 (starting at $57,550) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto L9 is Li Auto's SUV extended-range electric. Specification highlights are a 330 kW electric motor and 0–100 km/h in 5.18 seconds. Chassis details include AWD drivetrain, plus Double wishbone front / Multi-link (air) rear suspension. Pricing starts at $57,550 ex-factory, placing it in the premium tier. For importers, Qatar offers the cheapest entry at about +12.3% over base (≈ $64,607 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits premium-tier importers.
+Li Auto L9 is an SUV extended-range electric from Li Auto, in all-wheel-drive form. It carries 180 km/h top speed, LFP cells, and 420 km of CLTC range. On landed cost for this SUV extended-range electric, the least-costly destination is Qatar, near +12.3% over base ($64,607 landed), while Germany levies only the 10% standard tariff. The $57,550 ex-factory price places this SUV extended-range electric in the upper-mid band. This SUV extended-range electric is positioned for families and commercial fleet operators evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

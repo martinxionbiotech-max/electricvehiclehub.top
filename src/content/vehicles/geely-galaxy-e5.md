@@ -59,7 +59,7 @@ Geely Galaxy E5 (starting at $15,460) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy E5 is Geely Galaxy's SUV battery-electric. Specification highlights are a 60 kWh battery, 180 km/h top speed, and 320 Nm of torque. Chassis details include LFP cells, plus FWD drivetrain. It is positioned as a value-segment import, priced from $15,460 ex-factory. For importers, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed) — Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
+Geely Galaxy's Geely Galaxy E5 is an front-wheel-drive battery-electric SUV. With a $15,460 ex-factory price, the SUV battery-electric reads as value-oriented. Specification highlights are peak output of 160 kW and a top speed of 180 km/h. Across export markets for the SUV battery-electric, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This SUV battery-electric is positioned for regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

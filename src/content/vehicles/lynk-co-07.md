@@ -57,7 +57,7 @@ Lynk Co 07 (starting at $21,940) is a SUV from LYNK CO.
 
 ## Overview
 
-Lynk & Co's Lynk Co 07 is an SUV plug-in hybrid. It carries a rated range of 126 km (CLTC) and a 180 kW electric motor. The platform pairs FWD drivetrain with LFP (CATL) cells. At an ex-factory price of $21,940, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +24.1% over base ($27,217 landed) — Germany levies only the 10% standard tariff. This positions it for budget-conscious fleet buyers.
+Lynk Co 07 is an SUV plug-in hybrid from Lynk & Co, in front-wheel-drive form. Key figures are 126 km of CLTC range and a 6.5-second 0–100 km/h time. Priced from $21,940 ex-factory, the SUV plug-in hybrid falls in the mainstream-value tier. Across export markets for the SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty — the lowest landed premium is Qatar at roughly +24.1% over base (about $27,217 landed). This SUV plug-in hybrid is positioned for regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

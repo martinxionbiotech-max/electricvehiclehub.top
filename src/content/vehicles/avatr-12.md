@@ -1,6 +1,6 @@
 ---
 title: "Avatr 12"
-description: "The Avatr 12 is Avatr's sedan battery-electric with a CLTC-rated range of 705 km, a 94 kWh battery, 231 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Avatr 12, a sedan battery-electric from Avatr with a CLTC-rated range of 705 km, a 94 kWh battery, 231 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "avatr-12"
 brand: "avatr"
 type: "Sedan"
@@ -59,7 +59,7 @@ Avatr 12 (starting at $38,010) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 12 is a sedan battery-electric from Avatr. Specification highlights are peak torque of 333 Nm and a CLTC-rated range of 705 km. Chassis details include NMC (CATL) chemistry, plus Double wishbone front / Multi-link rear suspension. Pricing starts at $38,010 ex-factory, placing it in the mid-market tier. For importers, the least-costly destination is Qatar, near +16% over base ($44,090 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits business fleets and long-distance commuters.
+The Avatr 12 is a sedan battery-electric with rear-wheel-drive from Avatr. On landed cost for this sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +16% over base (≈ $44,090 landed). Priced from $38,010 ex-factory, the sedan battery-electric falls in the mid-market tier. Specification highlights are 333 Nm of torque and a top speed of 190 km/h. For the sedan battery-electric buyer, it suits executive and corporate fleet buyers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

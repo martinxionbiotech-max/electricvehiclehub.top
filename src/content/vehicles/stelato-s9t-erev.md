@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9T EREV"
-description: "Stelato S9T EREV is a sedan extended-range electric offered by Stelato with 251 km of CLTC range, a 36 kWh battery, 227 kW peak output, and a LFP (CATL) / NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Stelato's Stelato S9T EREV is a sedan extended-range electric, offering 251 km of CLTC range, 36 kWh of battery, 227 kW peak output, and a LFP (CATL) / NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "stelato-s9t-erev"
 brand: "stelato"
 type: "Sedan"
@@ -58,7 +58,7 @@ Stelato S9T EREV (starting at $43,030) is a Sedan from STELATO.
 
 ## Overview
 
-The Stelato S9T EREV is Stelato's sedan extended-range electric. Specification highlights are 36 kWh of battery capacity and a rated range of 251 km (CLTC). Chassis details include a Double wishbone front / Multi-link (air) rear suspension setup, plus a Cd of 0.193. The ex-factory price of $43,030 positions it as an upper-mid import. On landed cost, Qatar offers the cheapest entry at about +14.7% over base (≈ $49,361 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for business fleets and long-distance commuters.
+The Stelato S9T EREV is a sedan range-extended electric with rear-wheel-drive from Stelato. As a premium sedan range-extended electric, it starts at $43,030 ex-factory. For this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +14.7% over base (about $49,361 landed). Specification highlights are a 7.32-second 0–100 km/h time, 204 km/h top speed, and peak torque of 320 Nm. The sedan range-extended electric profile suits executive and corporate fleet buyers prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

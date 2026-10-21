@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T11"
-description: "The Chery Fulwin T11 is an SUV range-extended electric from Chery Fulwin, offering 220 km of CLTC range, 33 kWh of battery, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery Fulwin's Chery Fulwin T11 is an SUV range-extended electric, offering 220 km of CLTC range, 33 kWh of battery, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-fulwin-t11"
 brand: "chery-fulwin"
 type: "SUV"
@@ -56,7 +56,7 @@ Chery Fulwin T11 (starting at $26,750) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin T11 is an SUV extended-range electric offered by Chery Fulwin. It carries peak torque of 324 Nm and a top speed of 180 km/h. The platform pairs AWD (dual motor) drivetrain with LFP cells. Pricing starts at $26,750 ex-factory, placing it in the mid-market tier. Across export markets, the least-costly destination is Qatar, near +20.6% over base ($32,267 landed) — Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
+The Chery Fulwin T11 is an SUV extended-range electric with dual-motor all-wheel-drive from Chery Fulwin. Priced from $26,750 ex-factory, the SUV extended-range electric falls in the mid-tier tier. Key figures are 220 km of CLTC range and a top speed of 180 km/h. On landed cost for this SUV extended-range electric, the least-costly destination is Qatar, near +20.6% over base ($32,267 landed), while Germany levies only the 10% standard tariff. For the SUV extended-range electric buyer, it suits importers targeting the family-SUV segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

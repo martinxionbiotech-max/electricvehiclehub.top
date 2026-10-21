@@ -56,7 +56,7 @@ Byd Song MAX (starting at $20,820) is a MPV from BYD.
 
 ## Overview
 
-BYD Song Max is an MPV plug-in hybrid offered by BYD. It carries a 132 kW electric motor, a rated range of 105 km (CLTC), and 18 kWh of battery capacity. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with LFP (Blade) cells. The ex-factory price of $20,820 positions it as a value-focused import. On landed cost, Qatar offers the cheapest entry at about +25.1% over base (≈ $26,041 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for price-sensitive importers.
+BYD's BYD Song Max is an front-wheel-drive plug-in hybrid MPV. Across export markets for the MPV plug-in hybrid, the least-costly destination is Qatar, near +25.1% over base ($26,041 landed) — Germany applies the 10% standard tariff with no countervailing duty. At $20,820 ex-factory, this MPV plug-in hybrid sits in the mainstream-value segment. Key figures are a 18 kWh battery, a CLTC-rated range of 105 km, and 160 km/h top speed. This MPV plug-in hybrid is positioned for shuttle and charter fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Skywell EV6"
-description: "The Skywell EV6 is Skywell's SUV battery-electric with 410 km of CLTC range, 55 kWh of battery, 150 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Skywell EV6, an SUV battery-electric from Skywell with 410 km of CLTC range, 55 kWh of battery, 150 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "skywell-ev6"
 brand: "skywell"
 type: "SUV"
@@ -56,7 +56,7 @@ Skywell EV6 (starting at $21,110) is a SUV from SKYWELL.
 
 ## Overview
 
-Skywell EV6 is an SUV fully electric offered by Skywell. It carries 0–100 km/h in 7.9 seconds, peak torque of 320 Nm, and a rated range of 410 km (CLTC). The platform pairs NMC (ternary) chemistry with FWD drivetrain. At an ex-factory price of $21,110, it sits in the value segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +24.8% over base ($26,345 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
+The Skywell EV6 is an SUV fully electric with front-wheel-drive from Skywell. Specification highlights are a 7.9-second 0–100 km/h time and 320 Nm of torque. With a $21,110 ex-factory price, the SUV fully electric reads as mainstream-value. For the SUV fully electric, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,345 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This SUV fully electric is positioned for private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

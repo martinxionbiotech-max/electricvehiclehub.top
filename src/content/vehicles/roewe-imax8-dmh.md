@@ -1,6 +1,6 @@
 ---
 title: "Roewe iMAX8 DMH"
-description: "Roewe iMAX8 DMH is an MPV plug-in hybrid electric offered by Roewe with a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Roewe iMAX8 DMH is Roewe's MPV plug-in hybrid electric, offering a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "roewe-imax8-dmh"
 brand: "roewe"
 type: "MPV"
@@ -45,7 +45,7 @@ Roewe iMAX8 DMH (starting at $27,760) is a MPV from ROEWE.
 
 ## Overview
 
-The Roewe iMAX8 DMH is an MPV plug-in hybrid from Roewe. The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. The ex-factory price of $27,760 positions it as a mid-tier import. On landed cost, the least-costly destination is Qatar, near +20.1% over base ($33,328 landed), while Germany levies only the 10% standard tariff. This positions it for people-carrier operators and family buyers.
+Roewe's Roewe iMAX8 DMH is an front-wheel-drive plug-in hybrid electric MPV. This MPV plug-in hybrid electric is positioned as a mid-market import, from $27,760 ex-factory. For this MPV plug-in hybrid electric, Germany levies only the 10% standard tariff, while Qatar offers the cheapest entry at about +20.1% over base (≈ $33,328 landed). Key figures are MacPherson strut front / Multi-link rear suspension and LFP cells. This MPV plug-in hybrid electric is positioned for shuttle and charter fleet operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

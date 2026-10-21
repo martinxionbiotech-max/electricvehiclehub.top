@@ -1,6 +1,6 @@
 ---
 title: "Aion N60"
-description: "Aion N60 is an SUV fully electric offered by AION, offering 610 km of CLTC range, 69 kWh of battery, 165 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Aion N60 is an SUV fully electric from AION, offering a CLTC-rated range of 610 km, 69 kWh of battery, 165 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aion-n60"
 brand: "aion"
 type: "SUV"
@@ -51,7 +51,7 @@ Aion N60 (starting at $14,830) is a SUV from AION.
 
 ## Overview
 
-The Aion N60 is AION's SUV battery-electric. Specification highlights are a 69 kWh battery, a 165 kW electric motor, and a rated range of 610 km (CLTC). The platform pairs LFP cells with FWD drive. The ex-factory price of $14,830 positions it as an entry-level import. Across export markets, Qatar offers the cheapest entry at about +33.2% over base (≈ $19,751 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits budget-conscious fleet buyers.
+The Aion N60 is an SUV battery-electric with front-wheel-drive from AION. The $14,830 ex-factory price places this SUV battery-electric in the affordable-end band. It carries LFP chemistry and a CLTC-rated range of 610 km. Across export markets for the SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — Qatar offers the cheapest entry at about +33.2% over base (≈ $19,751 landed). This SUV battery-electric is positioned for families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

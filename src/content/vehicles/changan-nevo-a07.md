@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A07"
-description: "Changan Nevo A07 is a sedan battery-electric offered by ChangAn NEVO, offering 710 km of CLTC range, 79 kWh of battery, 200 kW of motor power, and a LFP / NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo A07 is a sedan battery-electric from ChangAn NEVO, offering a CLTC-rated range of 710 km, a 79 kWh battery, 200 kW peak output, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "changan-nevo-a07"
 brand: "changan-nevo"
 type: "Sedan"
@@ -59,7 +59,7 @@ Changan Nevo A07 (starting at $19,700) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan Nevo A07 is a sedan battery-electric offered by ChangAn NEVO. Specification highlights are 0–100 km/h in 6.7 seconds and a CLTC-rated range of 710 km. The platform pairs LFP / NMC cells with RWD drive. It is positioned as a value-segment import, priced from $19,700 ex-factory. Across export markets, the least-costly destination is Qatar, near +26.2% over base ($24,865 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits business fleets and long-distance commuters.
+Changan Nevo A07 is a sedan battery-electric from ChangAn NEVO, in rear-wheel-drive form. Priced from $19,700 ex-factory, the sedan battery-electric falls in the mainstream-value tier. Key figures are 0–100 km/h in 6.7 seconds and peak torque of 290 Nm. Across export markets for the sedan battery-electric, the least-costly destination is Qatar, near +26.2% over base ($24,865 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This sedan battery-electric is positioned for business fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

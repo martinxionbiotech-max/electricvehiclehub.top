@@ -1,6 +1,6 @@
 ---
 title: "Li Auto I8"
-description: "Li Auto I8 is an SUV fully electric offered by Li Auto with 720 km of CLTC range, a 97 kWh battery, 400 kW of motor power, and a NMC (Qilin, CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Li Auto I8 is an SUV fully electric from Li Auto with 720 km of CLTC range, a 97 kWh battery, 400 kW peak output, and a NMC (Qilin, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "li-auto-i8"
 brand: "li-auto"
 type: "SUV"
@@ -58,7 +58,7 @@ Li Auto I8 (starting at $47,860) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto I8 is Li Auto's SUV battery-electric. It carries a rated range of 720 km (CLTC), 660 Nm of torque, and 0–100 km/h in 4.5 seconds. The platform pairs NMC (Qilin, CATL) chemistry with AWD (dual-motor) drive. It is positioned as a premium import, priced from $47,860 ex-factory. On landed cost, Qatar offers the cheapest entry at about +13.7% over base (≈ $54,433 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers targeting the family-SUV segment.
+The Li Auto I8 is an SUV battery-electric with dual-motor all-wheel-drive from Li Auto. Key figures are NMC (Qilin, CATL) chemistry and peak output of 400 kW. Priced from $47,860 ex-factory, the SUV battery-electric falls in the upper-mid tier. For this SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; the lowest landed premium is Qatar at roughly +13.7% over base (about $54,433 landed). For the SUV battery-electric buyer, it suits families and commercial fleet operators evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

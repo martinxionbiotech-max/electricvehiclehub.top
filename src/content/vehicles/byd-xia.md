@@ -1,6 +1,6 @@
 ---
 title: "BYD XIA"
-description: "The BYD XIA is an SUV plug-in hybrid electric from BYD with 180 km of CLTC range, a 20 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "BYD's BYD XIA is an SUV plug-in hybrid electric with 180 km of CLTC range, a 20 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-xia"
 brand: "byd"
 type: "SUV"
@@ -56,7 +56,7 @@ Byd XIA (starting at $29,130) is a SUV from BYD.
 
 ## Overview
 
-The BYD XIA is an SUV plug-in hybrid from BYD. It carries a top speed of 190 km/h and peak torque of 315 Nm. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drive. Pricing starts at $29,130 ex-factory, placing it in the mid-market tier. On landed cost, the least-costly destination is Qatar, near +19.3% over base ($34,766 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
+The BYD XIA is an front-wheel-drive plug-in hybrid SUV from BYD. As a mid-market SUV plug-in hybrid, it starts at $29,130 ex-factory. Across export markets for the SUV plug-in hybrid, the least-costly destination is Qatar, near +19.3% over base ($34,766 landed); Germany applies the 10% standard tariff with no countervailing duty. It carries LFP (Blade) cells, 20 kWh of capacity, and a top speed of 190 km/h. This SUV plug-in hybrid is positioned for family and fleet buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

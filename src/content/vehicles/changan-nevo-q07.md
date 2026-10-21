@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q07"
-description: "The Changan Nevo Q07 is ChangAn NEVO's SUV plug-in hybrid with a CLTC-rated range of 215 km, 21 kWh of battery, 165 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo Q07, an SUV plug-in hybrid from ChangAn NEVO with a CLTC-rated range of 215 km, 21 kWh of battery, 165 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-q07"
 brand: "changan-nevo"
 type: "SUV"
@@ -56,7 +56,7 @@ Changan Nevo Q07 (starting at $18,280) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo Q07 is an SUV plug-in hybrid from ChangAn NEVO. It carries 180 km/h top speed, a rated range of 215 km (CLTC), and a 7.36-second 0–100 km/h time. The platform pairs RWD drive with LFP chemistry. Pricing starts at $18,280 ex-factory, placing it in the value tier. Across export markets, Qatar offers the cheapest entry at about +27.9% over base (≈ $23,374 landed) — Germany levies only the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
+Changan Nevo Q07 is an SUV plug-in hybrid from ChangAn NEVO, in rear-wheel-drive form. Across export markets for the SUV plug-in hybrid, the least-costly destination is Qatar, near +27.9% over base ($23,374 landed) — Germany levies only the 10% standard tariff. Specification highlights are 215 km of CLTC range, MacPherson strut front / Multi-link rear suspension, and peak torque of 330 Nm. The $18,280 ex-factory price places this SUV plug-in hybrid in the value band. For the SUV plug-in hybrid buyer, it suits importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

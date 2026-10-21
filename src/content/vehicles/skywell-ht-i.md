@@ -51,7 +51,7 @@ Skywell HT-i (starting at $20,390) is a SUV from SKYWELL.
 
 ## Overview
 
-Skywell HT-i is an SUV plug-in hybrid offered by Skywell. It carries 21 kWh of battery capacity and a rated range of 115 km (CLTC). The platform pairs FWD drivetrain with NMC (ternary) cells. At an ex-factory price of $20,390, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +25.5% over base ($25,589 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
+Skywell HT-i is an SUV plug-in hybrid from Skywell, in front-wheel-drive form. For this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +25.5% over base ($25,589 landed). Key figures are a 130 kW electric motor and NMC (ternary) chemistry. As a mainstream-value SUV plug-in hybrid, it starts at $20,390 ex-factory. The SUV plug-in hybrid profile suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

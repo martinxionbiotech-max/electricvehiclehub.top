@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi YU7"
-description: "Xiaomi YU7 is an SUV fully electric offered by Xiaomi, offering a CLTC-rated range of 835 km, a 96 kWh battery, 235 kW peak output, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Xiaomi YU7, an SUV fully electric from Xiaomi, offering 835 km of CLTC range, 96 kWh of battery, 235 kW peak output, and LFP / NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "xiaomi-yu7"
 brand: "xiaomi"
 type: "SUV"
@@ -61,7 +61,7 @@ Xiaomi YU7 (starting at $35,700) is a SUV from XIAOMI.
 
 ## Overview
 
-Xiaomi YU7 is an SUV fully electric offered by Xiaomi. Specification highlights are a top speed of 240 km/h and 0–100 km/h in 5.88 seconds. The platform pairs a Cd of 0.195 with a Double wishbone front / Five-link rear suspension setup. It is positioned as a mid-market import, priced from $35,700 ex-factory. For importers, Qatar offers the cheapest entry at about +16.7% over base (≈ $41,665 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits family and fleet buyers needing practical space.
+Xiaomi's Xiaomi YU7 is an rear- or all-wheel-drive fully electric SUV. Specification highlights are 528 Nm of torque, LFP / NMC chemistry, and a top speed of 240 km/h. Priced from $35,700 ex-factory, the SUV fully electric falls in the mid-tier tier. On landed cost for this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff, while the lowest landed premium is Qatar at roughly +16.7% over base (about $41,665 landed). In the SUV fully electric segment, it serves families and commercial fleet operators comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

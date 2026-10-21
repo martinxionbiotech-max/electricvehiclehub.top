@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy A7"
-description: "Geely Galaxy A7 is an SUV plug-in hybrid offered by Geely Galaxy, offering a CLTC-rated range of 150 km, a 18 kWh battery, 175 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Geely Galaxy A7 is Geely Galaxy's SUV plug-in hybrid with 150 km of CLTC range, a 18 kWh battery, 175 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-a7"
 brand: "geely-galaxy"
 type: "SUV"
@@ -55,7 +55,7 @@ Geely Galaxy A7 (starting at $12,610) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy A7 is Geely Galaxy's SUV plug-in hybrid. Specification highlights are 262 Nm of torque and a top speed of 190 km/h. The platform pairs FWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $12,610, it sits in the entry-level segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +38.1% over base (≈ $17,420 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
+The Geely Galaxy A7 is an SUV plug-in hybrid electric with front-wheel-drive from Geely Galaxy. For this SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +38.1% over base (about $17,420 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. As a budget SUV plug-in hybrid electric, it starts at $12,610 ex-factory. It carries a CLTC-rated range of 150 km and 18 kWh of capacity. The SUV plug-in hybrid electric profile suits family and fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

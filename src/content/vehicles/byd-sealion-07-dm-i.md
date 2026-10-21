@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 07 DM I"
-description: "The BYD Sealion 07 DM I is an SUV plug-in hybrid electric from BYD, offering a CLTC-rated range of 150 km, 26 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "BYD's BYD Sealion 07 DM I is an SUV plug-in hybrid electric, offering a CLTC-rated range of 150 km, 26 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-sealion-07-dm-i"
 brand: "byd"
 type: "SUV"
@@ -56,7 +56,7 @@ Byd Sealion 07 DM I (starting at $23,920) is a SUV from BYD.
 
 ## Overview
 
-The BYD Sealion 07 DM I is BYD's SUV plug-in hybrid. Specification highlights are a 200 kW electric motor, 26 kWh of battery capacity, and a top speed of 200 km/h. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. The ex-factory price of $23,920 positions it as a value-segment import. On landed cost, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,296 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits family and fleet buyers needing practical space.
+The BYD Sealion 07 DM I is an front-wheel-drive plug-in hybrid SUV from BYD. Across export markets for the SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +22.5% over base (about $29,296 landed), while Germany applies the 10% standard tariff with no countervailing duty. The $23,920 ex-factory price places this SUV plug-in hybrid in the value-oriented band. It carries 315 Nm of torque, 150 km of CLTC range, and peak output of 200 kW. In the SUV plug-in hybrid segment, it serves private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

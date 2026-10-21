@@ -1,6 +1,6 @@
 ---
 title: "Maextro S800"
-description: "The Maextro S800 is Maextro's sedan fully electric with 670 km of CLTC range, 65 kWh of battery, 390 kW peak output, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Maextro S800, a sedan fully electric from Maextro with 670 km of CLTC range, 65 kWh of battery, 390 kW peak output, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "maextro-s800"
 brand: "maextro"
 type: "Sedan"
@@ -58,7 +58,7 @@ Maextro S800 (starting at $99,720) is a Sedan from MAEXTRO.
 
 ## Overview
 
-Maextro S800 is a sedan fully electric offered by Maextro. It carries peak torque of 673 Nm and 65 kWh of battery capacity. The platform pairs a Double wishbone front / Multi-link (air) rear suspension setup with RWD / AWD drivetrain. It is positioned as a flagship import, priced from $99,720 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +9.2% over base (about $108,886 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for high-spec private buyers.
+Maextro S800 is a sedan fully electric from Maextro, in rear- or all-wheel-drive form. Key figures are 673 Nm of torque and 670 km of CLTC range. At $99,720 ex-factory, this sedan fully electric sits in the top-tier segment. On landed cost for this sedan fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the lowest landed premium is Qatar at roughly +9.2% over base (about $108,886 landed). As a sedan fully electric, it is aimed at private buyers and ride-hailing operators prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

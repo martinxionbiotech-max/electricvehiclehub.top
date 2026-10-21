@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L7"
-description: "The Li Auto L7 is an SUV extended-range electric from Li Auto with 286 km of CLTC range, 42 kWh of battery, 330 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Li Auto's Li Auto L7 is an SUV extended-range electric with 286 km of CLTC range, 42 kWh of battery, 330 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "li-auto-l7"
 brand: "li-auto"
 type: "SUV"
@@ -59,7 +59,7 @@ Li Auto L7 (starting at $42,380) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto L7 is an SUV range-extended electric from Li Auto. It carries peak output of 330 kW, a rated range of 286 km (CLTC), and 180 km/h top speed. The platform pairs AWD drive with LFP chemistry. Pricing starts at $42,380 ex-factory, placing it in the premium tier. On landed cost, the lowest landed premium is Qatar at roughly +14.9% over base (about $48,679 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits importers targeting the family-SUV segment.
+The Li Auto L7 is an SUV range-extended electric with all-wheel-drive from Li Auto. For this SUV range-extended electric, the lowest landed premium is Qatar at roughly +14.9% over base (about $48,679 landed); Germany levies only the 10% standard tariff. At $42,380 ex-factory, this SUV range-extended electric sits in the premium segment. Specification highlights are 286 km of CLTC range and a 330 kW electric motor. In the SUV range-extended electric segment, it serves family and fleet buyers focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

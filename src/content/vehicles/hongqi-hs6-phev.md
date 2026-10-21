@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS6 Phev"
-description: "Hongqi HS6 Phev is an SUV plug-in hybrid offered by Hongqi with 148 km of CLTC range, a 23 kWh battery, 168 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Hongqi HS6 Phev is an SUV plug-in hybrid from Hongqi, offering 148 km of CLTC range, 23 kWh of battery, 168 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hongqi-hs6-phev"
 brand: "hongqi"
 type: "SUV"
@@ -56,7 +56,7 @@ Hongqi HS6 Phev (starting at $25,180) is a SUV from HONGQI.
 
 ## Overview
 
-Hongqi HS6 Phev is an SUV plug-in hybrid offered by Hongqi. Specification highlights are 340 Nm of torque and a rated range of 148 km (CLTC). Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus AWD (dual motor) drivetrain. At an ex-factory price of $25,180, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +21.6% over base (about $30,619 landed), while Germany levies only the 10% standard tariff. This positions it for private buyers and fleet managers.
+The Hongqi HS6 Phev is an dual-motor all-wheel-drive plug-in hybrid electric SUV from Hongqi. Specification highlights are a 23 kWh battery and a top speed of 205 km/h. With a $25,180 ex-factory price, the SUV plug-in hybrid electric reads as mid-tier. Across export markets for the SUV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +21.6% over base (about $30,619 landed); meanwhile, Germany levies only the 10% standard tariff. In the SUV plug-in hybrid electric segment, it serves family and fleet buyers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

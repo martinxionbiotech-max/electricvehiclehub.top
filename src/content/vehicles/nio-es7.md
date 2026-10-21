@@ -1,6 +1,6 @@
 ---
 title: "NIO ES7"
-description: "NIO ES7 is an SUV fully electric offered by NIO, offering 620 km of CLTC range, a 100 kWh battery, 480 kW of motor power, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "NIO's NIO ES7 is an SUV fully electric, offering 620 km of CLTC range, a 100 kWh battery, 480 kW of motor power, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "nio-es7"
 brand: "nio"
 type: "SUV"
@@ -58,7 +58,7 @@ NIO ES7 (starting at $65,000) is a SUV from NIO.
 
 ## Overview
 
-The NIO ES7 is an SUV fully electric from NIO. It carries peak torque of 850 Nm, a 480 kW electric motor, and 200 km/h top speed. The platform pairs NMC cells with a Double wishbone front / Multi-link (air) rear suspension setup. The ex-factory price of $65,000 positions it as a top-tier import. On landed cost, Qatar offers the cheapest entry at about +11.4% over base (≈ $72,430 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers targeting the family-SUV segment.
+NIO ES7 is an SUV fully electric from NIO, in all-wheel-drive form. The $65,000 ex-factory price places this SUV fully electric in the flagship band. It carries peak torque of 850 Nm and 100 kWh of capacity. On landed cost for this SUV fully electric, Qatar offers the cheapest entry at about +11.4% over base (≈ $72,430 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The SUV fully electric profile suits families and commercial fleet operators prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

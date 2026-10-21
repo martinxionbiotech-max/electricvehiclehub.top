@@ -54,7 +54,7 @@ Baojun Kiwi EV (starting at $12,370) is a Hatchback from BAOJUN.
 
 ## Overview
 
-The Baojun Kiwi EV is a hatchback battery-electric from Baojun. Specification highlights are 105 km/h top speed and a 31 kWh battery. The platform pairs LFP chemistry with RWD drivetrain. It is positioned as a budget import, priced from $12,370 ex-factory. For importers, Qatar offers the cheapest entry at about +38.8% over base (≈ $17,168 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
+The Baojun Kiwi EV is a rear-wheel-drive battery-electric hatchback from Baojun. At $12,370 ex-factory, this hatchback battery-electric sits in the entry-level segment. For the hatchback battery-electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +38.8% over base (≈ $17,168 landed). It carries a top speed of 105 km/h and 305 km of CLTC range. This hatchback battery-electric is positioned for importers targeting urban runabout demand prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

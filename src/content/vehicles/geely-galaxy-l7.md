@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy L7"
-description: "The Geely Galaxy L7 is an SUV plug-in hybrid from Geely Galaxy with a CLTC-rated range of 115 km, a 18 kWh battery, 160 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Geely Galaxy's Geely Galaxy L7 is an SUV plug-in hybrid with a CLTC-rated range of 115 km, a 18 kWh battery, 160 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-l7"
 brand: "geely-galaxy"
 type: "SUV"
@@ -55,7 +55,7 @@ Geely Galaxy L7 (starting at $16,310) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy L7 is an SUV plug-in hybrid offered by Geely Galaxy. It carries peak torque of 262 Nm and 180 km/h top speed. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $16,310 positions it as a value-focused import. For importers, the lowest landed premium is Qatar at roughly +30.6% over base (about $21,305 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers targeting the family-SUV segment.
+The Geely Galaxy L7 is an front-wheel-drive plug-in hybrid SUV from Geely Galaxy. For the SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +30.6% over base (about $21,305 landed), while Germany levies only the 10% standard tariff. This SUV plug-in hybrid is positioned as a value-focused import, from $16,310 ex-factory. Specification highlights are peak output of 160 kW, a top speed of 180 km/h, and 18 kWh of capacity. The SUV plug-in hybrid profile suits regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

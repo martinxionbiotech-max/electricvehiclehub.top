@@ -1,6 +1,6 @@
 ---
 title: "Ora Good CAT"
-description: "Ora Good CAT is a sedan battery-electric offered by Ora with a CLTC-rated range of 401 km, 45 kWh of battery, 105 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Ora Good CAT, a sedan battery-electric from Ora, offering a CLTC-rated range of 401 km, 45 kWh of battery, 105 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "ora-good-cat"
 brand: "ora"
 type: "Sedan"
@@ -56,7 +56,7 @@ Ora Good CAT (starting at $11,800) is a Sedan from ORA.
 
 ## Overview
 
-The Ora Good CAT is Ora's sedan fully electric. It carries a top speed of 150 km/h and peak output of 105 kW. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus FWD drive. At an ex-factory price of $11,800, it sits in the entry-level segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +40.4% over base ($16,570 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits executive and corporate fleet buyers.
+The Ora Good CAT is a front-wheel-drive fully electric sedan from Ora. On landed cost for this sedan fully electric, the least-costly destination is Qatar, near +40.4% over base ($16,570 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. Priced from $11,800 ex-factory, the sedan fully electric falls in the budget tier. Specification highlights are LFP cells, peak output of 105 kW, and a top speed of 150 km/h. For the sedan fully electric buyer, it suits executive and corporate fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

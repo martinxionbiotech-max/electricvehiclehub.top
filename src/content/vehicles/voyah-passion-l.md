@@ -50,7 +50,7 @@ Voyah Passion L (starting at $38,880) is a Sedan from VOYAH.
 
 ## Overview
 
-The Voyah Passion L is Voyah's sedan plug-in hybrid. It carries a rated range of 410 km (CLTC) and 63 kWh of battery capacity. The platform pairs NMC (CATL) chemistry with AWD (dual motor) drivetrain. It is positioned as a mid-market import, priced from $38,880 ex-factory. Across export markets, Qatar offers the cheapest entry at about +15.8% over base (≈ $45,004 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits executive and corporate fleet buyers.
+Voyah's Voyah Passion L is a dual-motor all-wheel-drive plug-in hybrid sedan. Specification highlights are a CLTC-rated range of 410 km, NMC (CATL) chemistry, and a 63 kWh battery. For this sedan plug-in hybrid, the lowest landed premium is Qatar at roughly +15.8% over base (about $45,004 landed); meanwhile, Germany levies only the 10% standard tariff. Priced from $38,880 ex-factory, the sedan plug-in hybrid falls in the mid-tier tier. The sedan plug-in hybrid profile suits importers serving the sedan segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

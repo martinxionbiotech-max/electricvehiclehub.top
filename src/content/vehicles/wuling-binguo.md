@@ -1,6 +1,6 @@
 ---
 title: "Wuling Binguo"
-description: "Wuling Binguo is an SUV battery-electric offered by Wuling, offering 203 km of CLTC range, 17 kWh of battery, 30 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Wuling's Wuling Binguo is an SUV battery-electric with a CLTC-rated range of 203 km, 17 kWh of battery, 30 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "wuling-binguo"
 brand: "wuling"
 type: "SUV"
@@ -52,7 +52,7 @@ Wuling Binguo (starting at $7,980) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Binguo is Wuling's SUV battery-electric. Specification highlights are 17 kWh of battery capacity and a 30 kW electric motor. Chassis details include FWD drive, plus LFP cells. The ex-factory price of $7,980 positions it as a budget import. On landed cost, the least-costly destination is Qatar, near +57.4% over base ($12,559 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The profile suits regional distributors serving family and logistics demand.
+Wuling Binguo is an SUV fully electric from Wuling, in front-wheel-drive form. Specification highlights are a 17 kWh battery and 85 Nm of torque. Across export markets for the SUV fully electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff, while the least-costly destination is Qatar, near +57.4% over base ($12,559 landed). The $7,980 ex-factory price places this SUV fully electric in the budget band. For the SUV fully electric buyer, it suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

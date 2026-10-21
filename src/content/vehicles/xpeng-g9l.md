@@ -53,7 +53,7 @@ Xpeng G9L (starting at $36,080) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng G9L is XPeng's SUV fully electric. It carries 0–100 km/h in 4.45 seconds and 702 km of CLTC range. Chassis details include RWD / AWD drivetrain, plus LFP / NMC cells. It is positioned as a mid-market import, priced from $36,080 ex-factory. On landed cost, the least-costly destination is Qatar, near +16.6% over base ($42,064 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers targeting the family-SUV segment.
+XPeng's Xpeng G9L is an rear- or all-wheel-drive fully electric SUV. The $36,080 ex-factory price places this SUV fully electric in the mid-tier band. Across export markets for the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +16.6% over base (≈ $42,064 landed). Key figures are a drag coefficient of 0.272 and Double wishbone front / Multi-link rear suspension. For the SUV fully electric buyer, it suits importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

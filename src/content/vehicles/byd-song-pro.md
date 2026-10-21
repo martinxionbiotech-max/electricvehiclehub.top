@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Pro"
-description: "The BYD Song Pro is BYD's SUV plug-in hybrid, offering a CLTC-rated range of 115 km, 18 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Song Pro, an SUV plug-in hybrid from BYD, offering a CLTC-rated range of 115 km, 18 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-song-pro"
 brand: "byd"
 type: "SUV"
@@ -56,7 +56,7 @@ Byd Song PRO (starting at $14,480) is a SUV from BYD.
 
 ## Overview
 
-The BYD Song Pro is BYD's SUV plug-in hybrid. Specification highlights are a rated range of 115 km (CLTC), a 8.4-second 0–100 km/h time, and 210 Nm of torque. The platform pairs LFP (Blade) chemistry with FWD drivetrain. Pricing starts at $14,480 ex-factory, placing it in the entry-level tier. On landed cost, the lowest landed premium is Qatar at roughly +33.9% over base (about $19,384 landed), while Germany levies only the 10% standard tariff. The profile suits price-sensitive importers.
+BYD's BYD Song Pro is an front-wheel-drive plug-in hybrid SUV. On landed cost for this SUV plug-in hybrid, Qatar offers the cheapest entry at about +33.9% over base (≈ $19,384 landed) — Germany applies the 10% standard tariff with no countervailing duty. Key figures are LFP (Blade) chemistry and a MacPherson strut front / Multi-link rear suspension layout. Priced from $14,480 ex-factory, the SUV plug-in hybrid falls in the budget tier. The SUV plug-in hybrid profile suits importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

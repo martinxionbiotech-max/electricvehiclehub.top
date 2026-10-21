@@ -54,7 +54,7 @@ Bestune Yueyi 08 (starting at $13,880) is a Sedan from BESTUNE.
 
 ## Overview
 
-The Bestune Yueyi 08 is Bestune's sedan fully electric. Specification highlights are a rated range of 565 km (CLTC), peak output of 202 kW, and a 5.9-second 0–100 km/h time. Chassis details include LFP chemistry, plus MacPherson strut front / Multi-link rear suspension. Pricing starts at $13,880 ex-factory, placing it in the entry-level tier. On landed cost, the lowest landed premium is Qatar at roughly +35.1% over base (about $18,754 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits budget-conscious fleet buyers.
+Bestune's Bestune Yueyi 08 is a front-wheel-drive fully electric sedan. For the sedan fully electric, Qatar offers the cheapest entry at about +35.1% over base (≈ $18,754 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. With a $13,880 ex-factory price, the sedan fully electric reads as budget. Specification highlights are a CLTC-rated range of 565 km, a MacPherson strut front / Multi-link rear suspension layout, and a 59 kWh battery. For the sedan fully electric buyer, it suits importers serving the sedan segment prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

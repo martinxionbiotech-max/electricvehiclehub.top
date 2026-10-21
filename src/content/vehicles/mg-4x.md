@@ -54,7 +54,7 @@ MG 4X (starting at $13,860) is a SUV from MG.
 
 ## Overview
 
-MG 4X is an SUV fully electric offered by MG. Specification highlights are a rated range of 510 km (CLTC), a 125 kW electric motor, and a 53 kWh battery. Chassis details include LFP chemistry, plus MacPherson strut front / Torsion beam rear suspension. At an ex-factory price of $13,860, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for price-sensitive importers.
+The MG 4X is an SUV fully electric with front-wheel-drive from MG. Across export markets for the SUV fully electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff, while the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed). As a affordable-end SUV fully electric, it starts at $13,860 ex-factory. Key figures are a MacPherson strut front / Torsion beam rear suspension layout, 510 km of CLTC range, and a 125 kW electric motor. For the SUV fully electric buyer, it suits families and commercial fleet operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

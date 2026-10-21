@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 6"
-description: "Geely Galaxy Starshine 6 is a sedan plug-in hybrid offered by Geely Galaxy, offering 60 km of CLTC range, 8 kWh of battery, 120 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Geely Galaxy's Geely Galaxy Starshine 6 is a sedan plug-in hybrid, offering a CLTC-rated range of 60 km, a 8 kWh battery, 120 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-starshine-6"
 brand: "geely-galaxy"
 type: "Sedan"
@@ -56,7 +56,7 @@ Geely Galaxy Starshine 6 (starting at $10,540) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starshine 6 is Geely Galaxy's sedan plug-in hybrid. Specification highlights are peak output of 120 kW, a rated range of 60 km (CLTC), and 210 Nm of torque. The platform pairs LFP chemistry with MacPherson strut front / Multi-link rear suspension. It is positioned as an entry-level import, priced from $10,540 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +44.7% over base (about $15,247 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits budget-conscious fleet buyers.
+The Geely Galaxy Starshine 6 is a front-wheel-drive plug-in hybrid electric sedan from Geely Galaxy. This sedan plug-in hybrid electric is positioned as an affordable-end import, from $10,540 ex-factory. It carries peak output of 120 kW and a CLTC-rated range of 60 km. For the sedan plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +44.7% over base (about $15,247 landed). For the sedan plug-in hybrid electric buyer, it suits private buyers and ride-hailing operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

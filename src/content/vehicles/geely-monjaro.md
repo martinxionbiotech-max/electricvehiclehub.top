@@ -55,7 +55,7 @@ Geely Monjaro (starting at $22,490) is a SUV from GEELY.
 
 ## Overview
 
-The Geely Monjaro is an SUV plug-in hybrid from Geely. It carries a 100 kW electric motor and 320 Nm of torque. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drive. At an ex-factory price of $22,490, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +23.6% over base ($27,794 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
+Geely Monjaro is an SUV plug-in hybrid from Geely, in front-wheel-drive form. As a value SUV plug-in hybrid, it starts at $22,490 ex-factory. It carries MacPherson strut front / Multi-link rear suspension and a 100 kW electric motor. Across export markets for the SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +23.6% over base (≈ $27,794 landed). As a SUV plug-in hybrid, it is aimed at private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

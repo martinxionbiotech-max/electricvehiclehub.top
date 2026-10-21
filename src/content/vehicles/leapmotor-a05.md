@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor A05"
-description: "Leapmotor A05 is a sedan fully electric offered by Leapmotor, offering a CLTC-rated range of 405 km, a 39 kWh battery, 70 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Leapmotor A05, a sedan fully electric from Leapmotor with 405 km of CLTC range, 39 kWh of battery, 70 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "leapmotor-a05"
 brand: "leapmotor"
 type: "Sedan"
@@ -54,7 +54,7 @@ Leapmotor A05 (starting at $8,880) is a Sedan from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor A05 is a sedan fully electric from Leapmotor. Specification highlights are peak output of 70 kW, 39 kWh of battery capacity, and a rated range of 405 km (CLTC). Chassis details include FWD drivetrain, plus MacPherson strut front / Torsion beam rear suspension. Pricing starts at $8,880 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +52.1% over base (≈ $13,504 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
+The Leapmotor A05 is a front-wheel-drive battery-electric sedan from Leapmotor. Specification highlights are a MacPherson strut front / Torsion beam rear suspension layout, a 70 kW electric motor, and a 39 kWh battery. As a budget sedan battery-electric, it starts at $8,880 ex-factory. For this sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +52.1% over base (≈ $13,504 landed). As a sedan battery-electric, it is aimed at executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

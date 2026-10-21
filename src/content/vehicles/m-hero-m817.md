@@ -57,7 +57,7 @@ M Hero M817 (starting at $42,520) is a SUV from M HERO.
 
 ## Overview
 
-The M Hero M817 is an SUV plug-in hybrid electric from M-Hero. It carries a 405 kW electric motor, 0–100 km/h in 5.2 seconds, and a 31 kWh battery. Chassis details include NMC (ternary) cells, plus AWD drivetrain. At an ex-factory price of $42,520, it sits in the premium segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +14.8% over base ($48,826 landed), while Germany levies only the 10% standard tariff. This positions it for high-spec private buyers.
+M-Hero's M Hero M817 is an SUV plug-in hybrid electric with all-wheel-drive. For the SUV plug-in hybrid electric, the least-costly destination is Qatar, near +14.8% over base ($48,826 landed); Germany levies only the 10% standard tariff. The $42,520 ex-factory price places this SUV plug-in hybrid electric in the premium band. Key figures are a 5.2-second 0–100 km/h time and a 31 kWh battery. This SUV plug-in hybrid electric is positioned for regional distributors seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

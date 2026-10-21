@@ -53,7 +53,7 @@ Haval Xiaolong (starting at $19,690) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Xiaolong is Haval's SUV plug-in hybrid. Specification highlights are peak torque of 250 Nm and 175 km/h top speed. Chassis details include MacPherson strut front / Multi-link rear suspension, plus NMC chemistry. It is positioned as a value-segment import, priced from $19,690 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +26.2% over base (about $24,854 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
+Haval's Haval Xiaolong is an front-wheel-drive plug-in hybrid SUV. For this SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +26.2% over base (about $24,854 landed), while Germany levies only the 10% standard tariff. It carries NMC cells and 19 kWh of capacity. As a value-oriented SUV plug-in hybrid, it starts at $19,690 ex-factory. This SUV plug-in hybrid is positioned for importers targeting the family-SUV segment prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

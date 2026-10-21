@@ -60,7 +60,7 @@ Leapmotor C11 (starting at $21,100) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C11 is an SUV battery-electric from Leapmotor. It carries peak torque of 320 Nm, 78 kWh of battery capacity, and a 7.6-second 0–100 km/h time. Chassis details include RWD / AWD drive, plus LFP / NMC cells. The ex-factory price of $21,100 positions it as a value-focused import. For importers, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,335 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for private buyers and fleet managers.
+The Leapmotor C11 is an SUV battery-electric with rear- or all-wheel-drive from Leapmotor. It carries 78 kWh of capacity and a Double wishbone front / Five-link rear suspension layout. With a $21,100 ex-factory price, the SUV battery-electric reads as value. Across export markets for the SUV battery-electric, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,335 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The SUV battery-electric profile suits family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

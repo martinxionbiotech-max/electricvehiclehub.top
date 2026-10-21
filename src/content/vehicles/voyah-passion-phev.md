@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion PHEV"
-description: "The Voyah Passion PHEV is Voyah's sedan plug-in hybrid, offering a CLTC-rated range of 262 km, a 43 kWh battery, 390 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Voyah Passion PHEV, a sedan plug-in hybrid from Voyah, offering a CLTC-rated range of 262 km, a 43 kWh battery, 390 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "voyah-passion-phev"
 brand: "voyah"
 type: "Sedan"
@@ -55,7 +55,7 @@ Voyah Passion PHEV (starting at $35,110) is a Sedan from VOYAH.
 
 ## Overview
 
-Voyah Passion PHEV is a sedan plug-in hybrid offered by Voyah. Specification highlights are a 390 kW electric motor, a CLTC-rated range of 262 km, and a 5.9-second 0–100 km/h time. Chassis details include a Double wishbone front / Multi-link (air) rear suspension setup, plus NMC (CATL) cells. Pricing starts at $35,110 ex-factory, placing it in the mid-market tier. Across export markets, the least-costly destination is Qatar, near +16.9% over base ($41,045 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers serving the executive-sedan segment.
+The Voyah Passion PHEV is a sedan plug-in hybrid with dual-motor all-wheel-drive from Voyah. For the sedan plug-in hybrid, the least-costly destination is Qatar, near +16.9% over base ($41,045 landed) — Germany applies the 10% standard tariff with no countervailing duty. As a mid-market sedan plug-in hybrid, it starts at $35,110 ex-factory. Specification highlights are 810 Nm of torque, a 390 kW electric motor, and NMC (CATL) chemistry. In the sedan plug-in hybrid segment, it serves executive and corporate fleet buyers balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -51,7 +51,7 @@ Chery Tiggo 8 Pro New Energy (starting at $19,150) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 8 Pro New Energy is an SUV plug-in hybrid from Chery. Specification highlights are a 7.2-second 0–100 km/h time, a rated range of 100 km (CLTC), and peak output of 125 kW. The platform pairs LFP cells with FWD drive. At an ex-factory price of $19,150, it sits in the value segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +26.8% over base (about $24,287 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
+The Chery Tiggo 8 Pro New Energy is an SUV plug-in hybrid with front-wheel-drive from Chery. It carries LFP cells, 0–100 km/h in 7.2 seconds, and MacPherson strut front / Multi-link rear suspension. Priced from $19,150 ex-factory, the SUV plug-in hybrid falls in the value tier. For the SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +26.8% over base (about $24,287 landed), while Germany levies only the 10% standard tariff. The SUV plug-in hybrid profile suits private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

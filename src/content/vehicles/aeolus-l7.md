@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L7"
-description: "Aeolus L7 is an SUV plug-in hybrid offered by Aeolus with 205 km of CLTC range, 30 kWh of battery, 120 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Aeolus L7 is an SUV plug-in hybrid from Aeolus, offering a CLTC-rated range of 205 km, a 30 kWh battery, 120 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "aeolus-l7"
 brand: "aeolus"
 type: "SUV"
@@ -56,7 +56,7 @@ Aeolus L7 (starting at $13,370) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus L7 is an SUV plug-in hybrid electric from Aeolus. Specification highlights are a 30 kWh battery and a 120 kW electric motor. Chassis details include LFP cells, plus FWD drive. It is positioned as a budget import, priced from $13,370 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +36.3% over base (about $18,218 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits budget-conscious fleet buyers.
+The Aeolus L7 is an front-wheel-drive plug-in hybrid electric SUV from Aeolus. With a $13,370 ex-factory price, the SUV plug-in hybrid electric reads as entry-level. Specification highlights are LFP chemistry and a 30 kWh battery. On landed cost for this SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +36.3% over base (about $18,218 landed). The SUV plug-in hybrid electric profile suits importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

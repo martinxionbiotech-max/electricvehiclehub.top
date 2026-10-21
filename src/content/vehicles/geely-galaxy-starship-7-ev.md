@@ -49,7 +49,7 @@ Geely Galaxy Starship 7 EV (starting at $13,860) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starship 7 EV is an SUV battery-electric from Geely Galaxy. Specification highlights are a CLTC-rated range of 605 km, peak output of 160 kW, and 0–100 km/h in 7.3 seconds. Chassis details include LFP (Aegis Short Blade) chemistry, plus MacPherson strut front / Multi-link rear suspension. It is positioned as a budget import, priced from $13,860 ex-factory. Across export markets, the least-costly destination is Qatar, near +35.2% over base ($18,733 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for price-sensitive importers.
+The Geely Galaxy Starship 7 EV is an SUV battery-electric with front-wheel-drive from Geely Galaxy. Across export markets for the SUV battery-electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +35.2% over base ($18,733 landed). The $13,860 ex-factory price places this SUV battery-electric in the entry-level band. Key figures are a MacPherson strut front / Multi-link rear suspension layout, a 160 kW electric motor, and 0–100 km/h in 7.3 seconds. This SUV battery-electric is positioned for importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
