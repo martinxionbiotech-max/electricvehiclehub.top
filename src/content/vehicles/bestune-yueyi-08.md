@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 08"
-description: "Bestune Yueyi 08 is a Sedan battery-electric from Bestune, offering 565 km of CLTC range a 59.04 kWh battery and 202 kW of motor power. Full landed-cost breakdo"
+description: "Bestune Yueyi 08 is a Sedan battery-electric from Bestune, offering 565 km of CLTC range a 59.04 kWh battery and 202 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "bestune-yueyi-08"
 brand: "bestune"
 type: "Sedan"

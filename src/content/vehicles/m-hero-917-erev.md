@@ -1,6 +1,6 @@
 ---
 title: "M-Hero 917 EREV"
-description: "M-Hero 917 EREV is a SUV extended-range electric from M-Hero, offering 200 km of CLTC range a 65.8 kWh battery and 600 kW of motor power. Full landed-cost break"
+description: "M-Hero 917 EREV is a SUV extended-range electric from M-Hero, offering 200 km of CLTC range a 65.8 kWh battery and 600 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "m-hero-917-erev"
 brand: "m-hero"
 type: "SUV"

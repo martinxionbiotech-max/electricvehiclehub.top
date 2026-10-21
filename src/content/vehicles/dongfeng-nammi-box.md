@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng Nammi BOX"
-description: "Dongfeng Nammi BOX is a SUV battery-electric from Dongfeng Nammi, offering 331 km of CLTC range a 27.2 kWh battery and 33 kW of motor power. Full landed-cost br"
+description: "Dongfeng Nammi BOX is a SUV battery-electric from Dongfeng Nammi, offering 331 km of CLTC range a 27.2 kWh battery and 33 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dongfeng-nammi-box"
 brand: "dongfeng-nammi"
 type: "SUV"

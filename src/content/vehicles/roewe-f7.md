@@ -1,6 +1,6 @@
 ---
 title: "Roewe F7"
-description: "Roewe F7 is a Sedan battery-electric from Roewe, offering 576 km of CLTC range a 77.0 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7"
+description: "Roewe F7 is a Sedan battery-electric from Roewe, offering 576 km of CLTC range a 77.0 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-f7"
 brand: "roewe"
 type: "Sedan"

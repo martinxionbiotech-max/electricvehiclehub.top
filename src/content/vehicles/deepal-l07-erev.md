@@ -1,6 +1,6 @@
 ---
 title: "Deepal L07 EREV"
-description: "Deepal L07 EREV is a Sedan extended-range electric from Deepal, offering 240 km of CLTC range a 28.39 kWh battery and 175 kW of motor power. Full landed-cost br"
+description: "Deepal L07 EREV is a Sedan extended-range electric from Deepal, offering 240 km of CLTC range a 28.39 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-l07-erev"
 brand: "deepal"
 type: "Sedan"

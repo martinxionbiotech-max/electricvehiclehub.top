@@ -1,6 +1,6 @@
 ---
 title: "iCAR V27"
-description: "iCAR V27 is a SUV extended-range electric from iCAR, offering 200 km of CLTC range a 34.3 kWh battery and 185 kW of motor power. Full landed-cost breakdown acro"
+description: "iCAR V27 is a SUV extended-range electric from iCAR, offering 200 km of CLTC range a 34.3 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "icaur-v27"
 brand: "icaur"
 type: "SUV"

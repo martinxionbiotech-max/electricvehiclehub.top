@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C10 EREV"
-description: "Leapmotor C10 EREV is a SUV extended-range electric from Leapmotor, offering 210 km of CLTC range a 28.4 kWh battery and 170 kW of motor power. Full landed-cost"
+description: "Leapmotor C10 EREV is a SUV extended-range electric from Leapmotor, offering 210 km of CLTC range a 28.4 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "leapmotor-c10-erev"
 brand: "leapmotor"
 type: "SUV"

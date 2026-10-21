@@ -1,6 +1,6 @@
 ---
 title: "Bestune E01"
-description: "Bestune E01 is a SUV battery-electric from Bestune, a 61.34 kWh battery and 140 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B im"
+description: "Bestune E01 is a SUV battery-electric from Bestune, a 61.34 kWh battery and 140 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "bestune-e01"
 brand: "bestune"
 type: "SUV"

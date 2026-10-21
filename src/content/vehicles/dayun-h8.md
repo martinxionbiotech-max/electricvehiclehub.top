@@ -1,6 +1,6 @@
 ---
 title: "Dayun Yuanhang H8"
-description: "Dayun Yuanhang H8 is a SUV battery-electric from Dayun, offering 610 km of CLTC range a 88.42 kWh battery and 250 kW of motor power. Full landed-cost breakdown "
+description: "Dayun Yuanhang H8 is a SUV battery-electric from Dayun, offering 610 km of CLTC range a 88.42 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dayun-h8"
 brand: "dayun"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy TT"
-description: "Geely Galaxy TT is a Sedan battery-electric from Geely Galaxy, offering 640 km of CLTC range a 63.8 kWh battery and 245 kW of motor power. Full landed-cost brea"
+description: "Geely Galaxy TT is a Sedan battery-electric from Geely Galaxy, offering 640 km of CLTC range a 63.8 kWh battery and 245 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-tt"
 brand: "geely-galaxy"
 type: "Sedan"

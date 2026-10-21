@@ -1,6 +1,6 @@
 ---
 title: "Dayun Yuanhang Y7"
-description: "Dayun Yuanhang Y7 is a Sedan battery-electric from Dayun, offering 800 km of CLTC range and 500 kW of motor power. Full landed-cost breakdown across 7 export ma"
+description: "Dayun Yuanhang Y7 is a Sedan battery-electric from Dayun, offering 800 km of CLTC range and 500 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dayun-y7"
 brand: "dayun"
 type: "Sedan"

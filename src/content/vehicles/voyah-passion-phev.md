@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion PHEV"
-description: "Voyah Passion PHEV is a Sedan plug-in hybrid from Voyah, offering 262 km of CLTC range a 43.0 kWh battery and 390 kW of motor power. Full landed-cost breakdown "
+description: "Voyah Passion PHEV is a Sedan plug-in hybrid from Voyah, offering 262 km of CLTC range a 43.0 kWh battery and 390 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-passion-phev"
 brand: "voyah"
 type: "Sedan"

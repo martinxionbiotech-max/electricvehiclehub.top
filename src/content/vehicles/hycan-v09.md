@@ -1,6 +1,6 @@
 ---
 title: "Hycan V09"
-description: "Hycan V09 is a MPV battery-electric from Hycan, offering 620 km of CLTC range a 92.0 kWh battery and 202 kW of motor power. Full landed-cost breakdown across 7 "
+description: "Hycan V09 is a MPV battery-electric from Hycan, offering 620 km of CLTC range a 92.0 kWh battery and 202 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hycan-v09"
 brand: "hycan"
 type: "MPV"

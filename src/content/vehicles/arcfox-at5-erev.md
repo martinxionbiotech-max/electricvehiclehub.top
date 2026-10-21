@@ -1,6 +1,6 @@
 ---
 title: "Arcfox Alpha T5 EREV"
-description: "Arcfox Alpha T5 EREV is a SUV extended-range electric from Arcfox, offering 215 km of CLTC range a 27.4 kWh battery and 200 kW of motor power. Full landed-cost "
+description: "Arcfox Alpha T5 EREV is a SUV extended-range electric from Arcfox, offering 215 km of CLTC range a 27.4 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "arcfox-at5-erev"
 brand: "arcfox"
 type: "SUV"

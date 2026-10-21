@@ -1,6 +1,6 @@
 ---
 title: "Geometry A"
-description: "Geometry A is a Sedan battery-electric from Geometry, offering 410 km of CLTC range a 46.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown acr"
+description: "Geometry A is a Sedan battery-electric from Geometry, offering 410 km of CLTC range a 46.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geometry-a"
 brand: "geometry"
 type: "Sedan"

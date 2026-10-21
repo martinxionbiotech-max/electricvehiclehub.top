@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 7 C-DM"
-description: "Chery Tiggo 7 C-DM is a SUV plug-in hybrid from Chery, offering 120 km of CLTC range a 18.66 kWh battery and 150 kW of motor power. Full landed-cost breakdown a"
+description: "Chery Tiggo 7 C-DM is a SUV plug-in hybrid from Chery, offering 120 km of CLTC range a 18.66 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-tiggo-7-c-dm"
 brand: "chery"
 type: "SUV"

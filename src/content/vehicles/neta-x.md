@@ -1,6 +1,6 @@
 ---
 title: "Neta X"
-description: "Neta X is a SUV battery-electric from Neta, offering 401 km of CLTC range a 51.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 expo"
+description: "Neta X is a SUV battery-electric from Neta, offering 401 km of CLTC range a 51.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "neta-x"
 brand: "neta"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Dayun Yuanhang Y6"
-description: "Dayun Yuanhang Y6 is a Sedan battery-electric from Dayun, offering 720 km of CLTC range a 88.42 kWh battery and 250 kW of motor power. Full landed-cost breakdow"
+description: "Dayun Yuanhang Y6 is a Sedan battery-electric from Dayun, offering 720 km of CLTC range a 88.42 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dayun-y6"
 brand: "dayun"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Aion N60"
-description: "Aion N60 is a SUV battery-electric from AION, offering 610 km of CLTC range a 69.7 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "Aion N60 is a SUV battery-electric from AION, offering 610 km of CLTC range a 69.7 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-n60"
 brand: "aion"
 type: "SUV"

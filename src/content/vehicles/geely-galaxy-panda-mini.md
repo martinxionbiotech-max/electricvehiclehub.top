@@ -1,6 +1,6 @@
 ---
 title: "Geely Panda Mini EV"
-description: "Geely Panda Mini EV is a Hatchback battery-electric from Geely Galaxy, offering 200 km of CLTC range a 17.03 kWh battery and 30 kW of motor power. Full landed-c"
+description: "Geely Panda Mini EV is a Hatchback battery-electric from Geely Galaxy, offering 200 km of CLTC range a 17.03 kWh battery and 30 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-panda-mini"
 brand: "geely-galaxy"
 type: "Hatchback"

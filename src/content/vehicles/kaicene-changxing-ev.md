@@ -1,6 +1,6 @@
 ---
 title: "Kaicene Changxing EV"
-description: "Kaicene Changxing EV is a MPV battery-electric from Kaicene, and 90 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import plannin"
+description: "Kaicene Changxing EV is a MPV battery-electric from Kaicene, and 90 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "kaicene-changxing-ev"
 brand: "kaicene"
 type: "MPV"

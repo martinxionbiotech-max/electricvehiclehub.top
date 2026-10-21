@@ -1,6 +1,6 @@
 ---
 title: "Skywell HT-i"
-description: "Skywell HT-i is a SUV plug-in hybrid from Skywell, offering 115 km of CLTC range a 21.68 kWh battery and 130 kW of motor power. Full landed-cost breakdown acros"
+description: "Skywell HT-i is a SUV plug-in hybrid from Skywell, offering 115 km of CLTC range a 21.68 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "skywell-ht-i"
 brand: "skywell"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Exeed EX7"
-description: "Exeed EX7 is a SUV extended-range electric from Exeed, offering 245 km of CLTC range a 41.0 kWh battery and 227 kW of motor power. Full landed-cost breakdown ac"
+description: "Exeed EX7 is a SUV extended-range electric from Exeed, offering 245 km of CLTC range a 41.0 kWh battery and 227 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "exeed-ex7"
 brand: "exeed"
 type: "SUV"

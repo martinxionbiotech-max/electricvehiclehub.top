@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3 Plus"
-description: "Chery Fulwin X3 Plus is a SUV battery-electric from Chery Fulwin, offering 401 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B impo"
+description: "Chery Fulwin X3 Plus is a SUV battery-electric from Chery Fulwin, offering 401 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-x3-plus"
 brand: "chery-fulwin"
 type: "SUV"

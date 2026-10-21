@@ -1,6 +1,6 @@
 ---
 title: "Geometry E"
-description: "Geometry E is a SUV battery-electric from Geometry, a 33.5 kWh battery and 60 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B impo"
+description: "Geometry E is a SUV battery-electric from Geometry, a 33.5 kWh battery and 60 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geometry-e"
 brand: "geometry"
 type: "SUV"

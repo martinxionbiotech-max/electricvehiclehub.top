@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo E07 EREV"
-description: "Changan Nevo E07 EREV is a SUV extended-range electric from Changan Nevo, offering 245 km of CLTC range a 39.05 kWh battery and 231 kW of motor power. Full land"
+description: "Changan Nevo E07 EREV is a SUV extended-range electric from Changan Nevo, offering 245 km of CLTC range a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-nevo-e07-erev"
 brand: "changan-nevo"
 type: "SUV"

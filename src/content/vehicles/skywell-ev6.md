@@ -1,6 +1,6 @@
 ---
 title: "Skywell EV6"
-description: "Skywell EV6 is a SUV battery-electric from Skywell, offering 410 km of CLTC range a 55.33 kWh battery and 150 kW of motor power. Full landed-cost breakdown acro"
+description: "Skywell EV6 is a SUV battery-electric from Skywell, offering 410 km of CLTC range a 55.33 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "skywell-ev6"
 brand: "skywell"
 type: "SUV"

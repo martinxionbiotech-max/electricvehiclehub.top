@@ -1,6 +1,6 @@
 ---
 title: "Neta L"
-description: "Neta L is a SUV extended-range electric from Neta, offering 310 km of CLTC range a 40.3 kWh battery and 170 kW of motor power. Full landed-cost breakdown across"
+description: "Neta L is a SUV extended-range electric from Neta, offering 310 km of CLTC range a 40.3 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "neta-l"
 brand: "neta"
 type: "SUV"

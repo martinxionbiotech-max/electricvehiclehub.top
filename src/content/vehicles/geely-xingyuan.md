@@ -1,6 +1,6 @@
 ---
 title: "Geely Xingyuan"
-description: "Geely Xingyuan is a Hatchback battery-electric from Geely, offering 310 km of CLTC range a 30.12 kWh battery and 58 kW of motor power. Full landed-cost breakdow"
+description: "Geely Xingyuan is a Hatchback battery-electric from Geely, offering 310 km of CLTC range a 30.12 kWh battery and 58 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-xingyuan"
 brand: "geely"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "JAC iEVS4"
-description: "JAC iEVS4 is a SUV battery-electric from JAC, offering 470 km of CLTC range a 66.0 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "JAC iEVS4 is a SUV battery-electric from JAC, offering 470 km of CLTC range a 66.0 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-ievs4"
 brand: "jac"
 type: "SUV"

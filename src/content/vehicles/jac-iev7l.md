@@ -1,6 +1,6 @@
 ---
 title: "JAC iEV7L"
-description: "JAC iEV7L is a Sedan battery-electric from JAC, offering 320 km of CLTC range a 33.2 kWh battery and 45 kW of motor power. Full landed-cost breakdown across 7 e"
+description: "JAC iEV7L is a Sedan battery-electric from JAC, offering 320 km of CLTC range a 33.2 kWh battery and 45 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-iev7l"
 brand: "jac"
 type: "Sedan"

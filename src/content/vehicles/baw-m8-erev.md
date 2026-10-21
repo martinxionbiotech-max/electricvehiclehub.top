@@ -1,6 +1,6 @@
 ---
 title: "BAW M8 EREV"
-description: "BAW M8 EREV is a MPV extended-range electric from BAW, offering 230 km of CLTC range a 35.0 kWh battery and 170 kW of motor power. Full landed-cost breakdown ac"
+description: "BAW M8 EREV is a MPV extended-range electric from BAW, offering 230 km of CLTC range a 35.0 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baw-m8-erev"
 brand: "baw"
 type: "MPV"

@@ -1,6 +1,6 @@
 ---
 title: "Livan 9"
-description: "Livan 9 is a SUV battery-electric from Livan, offering 380 km of CLTC range a 52.56 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 e"
+description: "Livan 9 is a SUV battery-electric from Livan, offering 380 km of CLTC range a 52.56 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "livan-9"
 brand: "livan"
 type: "SUV"

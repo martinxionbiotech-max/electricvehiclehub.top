@@ -1,6 +1,6 @@
 ---
 title: "Neta V"
-description: "Neta V is a SUV battery-electric from Neta, offering 301 km of CLTC range a 35.0 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 expor"
+description: "Neta V is a SUV battery-electric from Neta, offering 301 km of CLTC range a 35.0 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "neta-v"
 brand: "neta"
 type: "SUV"

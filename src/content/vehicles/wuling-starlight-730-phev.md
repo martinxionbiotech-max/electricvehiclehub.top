@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 730 PHEV"
-description: "Wuling Starlight 730 PHEV is a MPV plug-in hybrid from Wuling, offering 125 km of CLTC range a 9.5 kWh battery and 145 kW of motor power. Full landed-cost break"
+description: "Wuling Starlight 730 PHEV is a MPV plug-in hybrid from Wuling, offering 125 km of CLTC range a 9.5 kWh battery and 145 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-starlight-730-phev"
 brand: "wuling"
 type: "MPV"

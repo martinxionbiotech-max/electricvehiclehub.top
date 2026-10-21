@@ -1,6 +1,6 @@
 ---
 title: "Neta Aya"
-description: "Neta Aya is a SUV battery-electric from Neta, offering 318 km of CLTC range a 35.0 kWh battery and 40 kW of motor power. Full landed-cost breakdown across 7 exp"
+description: "Neta Aya is a SUV battery-electric from Neta, offering 318 km of CLTC range a 35.0 kWh battery and 40 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "neta-aya"
 brand: "neta"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Hycan Z03"
-description: "Hycan Z03 is a SUV battery-electric from Hycan, offering 430 km of CLTC range a 55.5 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 "
+description: "Hycan Z03 is a SUV battery-electric from Hycan, offering 430 km of CLTC range a 55.5 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hycan-z03"
 brand: "hycan"
 type: "SUV"

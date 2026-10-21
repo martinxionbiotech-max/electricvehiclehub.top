@@ -1,6 +1,6 @@
 ---
 title: "Onvo L80"
-description: "Onvo L80 is a SUV battery-electric from Onvo, offering 605 km of CLTC range a 85.1 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "Onvo L80 is a SUV battery-electric from Onvo, offering 605 km of CLTC range a 85.1 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "onvo-l80"
 brand: "onvo"
 type: "SUV"

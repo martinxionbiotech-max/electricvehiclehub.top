@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Tiangong 06"
-description: "Hongqi Tiangong 06 is a SUV battery-electric from Hongqi, offering 520 km of CLTC range and 210 kW of motor power. Full landed-cost breakdown across 7 export ma"
+description: "Hongqi Tiangong 06 is a SUV battery-electric from Hongqi, offering 520 km of CLTC range and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-tiangong-06"
 brand: "hongqi"
 type: "SUV"

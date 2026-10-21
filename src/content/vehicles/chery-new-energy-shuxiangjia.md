@@ -1,6 +1,6 @@
 ---
 title: "Chery Shuxiangjia"
-description: "Chery Shuxiangjia is a SUV battery-electric from Chery New Energy, offering 512 km of CLTC range a 67.12 kWh battery and 155 kW of motor power. Full landed-cost"
+description: "Chery Shuxiangjia is a SUV battery-electric from Chery New Energy, offering 512 km of CLTC range a 67.12 kWh battery and 155 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-new-energy-shuxiangjia"
 brand: "chery-new-energy"
 type: "SUV"

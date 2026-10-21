@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine E4"
-description: "JAC Refine E4 is a MPV battery-electric from JAC Refine, offering 440 km of CLTC range a 77.28 kWh battery and 130 kW of motor power. Full landed-cost breakdown"
+description: "JAC Refine E4 is a MPV battery-electric from JAC Refine, offering 440 km of CLTC range a 77.28 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-refine-e4"
 brand: "jac-refine"
 type: "MPV"

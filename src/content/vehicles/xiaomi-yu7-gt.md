@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi YU7 GT"
-description: "Xiaomi YU7 GT is a SUV battery-electric from Xiaomi, offering 705 km of CLTC range a 101.7 kWh battery and 738 kW of motor power. Full landed-cost breakdown acr"
+description: "Xiaomi YU7 GT is a SUV battery-electric from Xiaomi, offering 705 km of CLTC range a 101.7 kWh battery and 738 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xiaomi-yu7-gt"
 brand: "xiaomi"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 8X"
-description: "Zeekr 8X is a SUV plug-in hybrid from Zeekr, offering 318 km of CLTC range a 55.1 kWh battery and 660 kW of motor power. Full landed-cost breakdown across 7 exp"
+description: "Zeekr 8X is a SUV plug-in hybrid from Zeekr, offering 318 km of CLTC range a 55.1 kWh battery and 660 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "zeekr-8x"
 brand: "zeekr"
 type: "SUV"

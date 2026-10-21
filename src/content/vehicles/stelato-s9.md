@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9"
-description: "Stelato S9 is a Sedan battery-electric from Stelato, offering 816 km of CLTC range a 100.0 kWh battery and 230 kW of motor power. Full landed-cost breakdown acr"
+description: "Stelato S9 is a Sedan battery-electric from Stelato, offering 816 km of CLTC range a 100.0 kWh battery and 230 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "stelato-s9"
 brand: "stelato"
 type: "Sedan"

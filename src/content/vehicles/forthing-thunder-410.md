@@ -1,6 +1,6 @@
 ---
 title: "Forthing Thunder 410"
-description: "Forthing Thunder 410 is a SUV battery-electric from Forthing, offering 410 km of CLTC range a 49.27 kWh battery and 120 kW of motor power. Full landed-cost brea"
+description: "Forthing Thunder 410 is a SUV battery-electric from Forthing, offering 410 km of CLTC range a 49.27 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "forthing-thunder-410"
 brand: "forthing"
 type: "SUV"

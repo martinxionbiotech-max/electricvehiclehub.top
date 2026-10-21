@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ008 EREV"
-description: "Dongfeng eπ008 EREV is a SUV extended-range electric from Dongfeng eπ, offering 210 km of CLTC range a 28.39 kWh battery and 200 kW of motor power. Full landed-"
+description: "Dongfeng eπ008 EREV is a SUV extended-range electric from Dongfeng eπ, offering 210 km of CLTC range a 28.39 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dongfeng-epi-008-erev"
 brand: "dongfeng-e"
 type: "SUV"

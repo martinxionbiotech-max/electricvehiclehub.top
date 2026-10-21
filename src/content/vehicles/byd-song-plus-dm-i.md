@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Plus DM-i"
-description: "BYD Song Plus DM-i is a SUV plug-in hybrid from BYD, offering 75 km of CLTC range a 12.9 kWh battery and 160 kW of motor power. Full landed-cost breakdown acros"
+description: "BYD Song Plus DM-i is a SUV plug-in hybrid from BYD, offering 75 km of CLTC range a 12.9 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-song-plus-dm-i"
 brand: "byd"
 type: "SUV"

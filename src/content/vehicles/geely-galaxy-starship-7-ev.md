@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starship 7 EV"
-description: "Geely Galaxy Starship 7 EV is a SUV battery-electric from Geely Galaxy, offering 605 km of CLTC range and 160 kW of motor power. Full landed-cost breakdown acro"
+description: "Geely Galaxy Starship 7 EV is a SUV battery-electric from Geely Galaxy, offering 605 km of CLTC range and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-starship-7-ev"
 brand: "geely-galaxy"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SU7 Ultra"
-description: "Xiaomi SU7 Ultra is a Sedan battery-electric from Xiaomi, offering 630 km of CLTC range a 93.7 kWh battery and 1138 kW of motor power. Full landed-cost breakdow"
+description: "Xiaomi SU7 Ultra is a Sedan battery-electric from Xiaomi, offering 630 km of CLTC range a 93.7 kWh battery and 1138 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xiaomi-su7-ultra"
 brand: "xiaomi"
 type: "Sedan"

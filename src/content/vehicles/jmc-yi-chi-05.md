@@ -1,6 +1,6 @@
 ---
 title: "JMC Yi Chi 05"
-description: "JMC Yi Chi 05 is a Sedan battery-electric from Jmc, offering 500 km of CLTC range a 63.0 kWh battery and 82 kW of motor power. Full landed-cost breakdown across"
+description: "JMC Yi Chi 05 is a Sedan battery-electric from Jmc, offering 500 km of CLTC range a 63.0 kWh battery and 82 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jmc-yi-chi-05"
 brand: "jmc"
 type: "Sedan"

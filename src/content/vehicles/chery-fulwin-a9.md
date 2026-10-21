@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A9"
-description: "Chery Fulwin A9 is a Sedan battery-electric from Chery Fulwin, offering 655 km of CLTC range a 70.11 kWh battery and 178 kW of motor power. Full landed-cost bre"
+description: "Chery Fulwin A9 is a Sedan battery-electric from Chery Fulwin, offering 655 km of CLTC range a 70.11 kWh battery and 178 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-a9"
 brand: "chery-fulwin"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 007 GT"
-description: "Zeekr 007 GT is a Sedan battery-electric from Zeekr, offering 650 km of CLTC range a 75.0 kWh battery and 310 kW of motor power. Full landed-cost breakdown acro"
+description: "Zeekr 007 GT is a Sedan battery-electric from Zeekr, offering 650 km of CLTC range a 75.0 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "zeekr-007-gt"
 brand: "zeekr"
 type: "Sedan"

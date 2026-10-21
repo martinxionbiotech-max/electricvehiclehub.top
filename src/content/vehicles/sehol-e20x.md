@@ -1,6 +1,6 @@
 ---
 title: "Sehol E20X"
-description: "Sehol E20X is a SUV battery-electric from Sehol, offering 402 km of CLTC range a 49.5 kWh battery and 92 kW of motor power. Full landed-cost breakdown across 7 "
+description: "Sehol E20X is a SUV battery-electric from Sehol, offering 402 km of CLTC range a 49.5 kWh battery and 92 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "sehol-e20x"
 brand: "sehol"
 type: "SUV"

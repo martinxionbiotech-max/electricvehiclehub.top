@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy V900"
-description: "Geely Galaxy V900 is a MPV extended-range electric from Geely Galaxy, offering 202 km of CLTC range a 50.0 kWh battery and 340 kW of motor power. Full landed-co"
+description: "Geely Galaxy V900 is a MPV extended-range electric from Geely Galaxy, offering 202 km of CLTC range a 50.0 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-v900"
 brand: "geely-galaxy"
 type: "MPV"

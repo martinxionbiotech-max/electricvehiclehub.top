@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin L DM-i"
-description: "BYD Qin L DM-i is a Sedan plug-in hybrid from BYD, offering 80 km of CLTC range a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown across"
+description: "BYD Qin L DM-i is a Sedan plug-in hybrid from BYD, offering 80 km of CLTC range a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-qin-l-dm-i"
 brand: "byd"
 type: "Sedan"

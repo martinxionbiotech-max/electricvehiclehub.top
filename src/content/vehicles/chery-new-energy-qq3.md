@@ -1,6 +1,6 @@
 ---
 title: "Chery QQ3 EV"
-description: "Chery QQ3 EV is a Hatchback battery-electric from Chery New Energy, offering 310 km of CLTC range and 58 kW of motor power. Full landed-cost breakdown across 7 "
+description: "Chery QQ3 EV is a Hatchback battery-electric from Chery New Energy, offering 310 km of CLTC range and 58 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-new-energy-qq3"
 brand: "chery-new-energy"
 type: "Hatchback"

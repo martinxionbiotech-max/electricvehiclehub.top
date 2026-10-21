@@ -1,6 +1,6 @@
 ---
 title: "Neta S"
-description: "Neta S is a Sedan battery-electric from Neta, offering 520 km of CLTC range a 64.46 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 e"
+description: "Neta S is a Sedan battery-electric from Neta, offering 520 km of CLTC range a 64.46 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "neta-s"
 brand: "neta"
 type: "Sedan"

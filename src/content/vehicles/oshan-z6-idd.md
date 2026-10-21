@@ -1,6 +1,6 @@
 ---
 title: "Oshan Z6 iDD"
-description: "Oshan Z6 iDD is a SUV plug-in hybrid from Oshan, offering 150 km of CLTC range a 28.4 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7"
+description: "Oshan Z6 iDD is a SUV plug-in hybrid from Oshan, offering 150 km of CLTC range a 28.4 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "oshan-z6-idd"
 brand: "oshan"
 type: "SUV"

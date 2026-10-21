@@ -1,6 +1,6 @@
 ---
 title: "Kaiyi Shiyue Max"
-description: "Kaiyi Shiyue Max is a Hatchback battery-electric from Cowin, offering 310 km of CLTC range a 28.08 kWh battery and 55 kW of motor power. Full landed-cost breakd"
+description: "Kaiyi Shiyue Max is a Hatchback battery-electric from Cowin, offering 310 km of CLTC range a 28.08 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "cowin-shiyue"
 brand: "cowin"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A8L"
-description: "Chery Fulwin A8L is a Sedan plug-in hybrid from Chery Fulwin, offering 145 km of CLTC range a 18.67 kWh battery. Full landed-cost breakdown across 7 export mark"
+description: "Chery Fulwin A8L is a Sedan plug-in hybrid from Chery Fulwin, offering 145 km of CLTC range a 18.67 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-a8l"
 brand: "chery-fulwin"
 type: "Sedan"

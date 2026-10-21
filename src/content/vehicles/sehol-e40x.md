@@ -1,6 +1,6 @@
 ---
 title: "Sehol E40X"
-description: "Sehol E40X is a SUV battery-electric from Sehol, offering 502 km of CLTC range a 66.0 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7"
+description: "Sehol E40X is a SUV battery-electric from Sehol, offering 502 km of CLTC range a 66.0 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "sehol-e40x"
 brand: "sehol"
 type: "SUV"

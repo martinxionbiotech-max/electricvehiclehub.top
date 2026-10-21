@@ -1,6 +1,6 @@
 ---
 title: "Cowin Xuandu EV"
-description: "Cowin Xuandu EV is a Sedan battery-electric from Cowin, offering 420 km of CLTC range a 53.6 kWh battery and 120 kW of motor power. Full landed-cost breakdown a"
+description: "Cowin Xuandu EV is a Sedan battery-electric from Cowin, offering 420 km of CLTC range a 53.6 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "cowin-xuandu-ev"
 brand: "cowin"
 type: "Sedan"

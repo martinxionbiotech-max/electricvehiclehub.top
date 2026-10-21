@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V6"
-description: "Forthing Xinghai V6 is a SUV battery-electric from Forthing, offering 400 km of CLTC range a 45.5 kWh battery and 135 kW of motor power. Full landed-cost breakd"
+description: "Forthing Xinghai V6 is a SUV battery-electric from Forthing, offering 400 km of CLTC range a 45.5 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "forthing-xinghai-v6"
 brand: "forthing"
 type: "SUV"

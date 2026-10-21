@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L9"
-description: "Jetour Shanhai L9 is a SUV plug-in hybrid from Jetour, offering 108 km of CLTC range a 19.43 kWh battery. Full landed-cost breakdown across 7 export markets for"
+description: "Jetour Shanhai L9 is a SUV plug-in hybrid from Jetour, offering 108 km of CLTC range a 19.43 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-shanhai-l9"
 brand: "jetour"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "NIO ES9"
-description: "NIO ES9 is a SUV battery-electric from NIO, offering 620 km of CLTC range a 102.0 kWh battery and 520 kW of motor power. Full landed-cost breakdown across 7 exp"
+description: "NIO ES9 is a SUV battery-electric from NIO, offering 620 km of CLTC range a 102.0 kWh battery and 520 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "nio-es9"
 brand: "nio"
 type: "SUV"

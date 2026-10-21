@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07 EREV"
-description: "Avatr 07 EREV is a SUV extended-range electric from Avatr, offering 245 km of CLTC range a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdo"
+description: "Avatr 07 EREV is a SUV extended-range electric from Avatr, offering 245 km of CLTC range a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "avatr-07-erev"
 brand: "avatr"
 type: "SUV"

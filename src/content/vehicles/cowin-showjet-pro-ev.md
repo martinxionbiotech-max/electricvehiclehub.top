@@ -1,6 +1,6 @@
 ---
 title: "Cowin Showjet Pro EV"
-description: "Cowin Showjet Pro EV is a SUV battery-electric from Cowin, offering 401 km of CLTC range a 53.6 kWh battery and 120 kW of motor power. Full landed-cost breakdow"
+description: "Cowin Showjet Pro EV is a SUV battery-electric from Cowin, offering 401 km of CLTC range a 53.6 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "cowin-showjet-pro-ev"
 brand: "cowin"
 type: "SUV"

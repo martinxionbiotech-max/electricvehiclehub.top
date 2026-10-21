@@ -1,6 +1,6 @@
 ---
 title: "Hyptec S600"
-description: "Hyptec S600 is a SUV battery-electric from Hyptec, offering 660 km of CLTC range and 250 kW of motor power. Full landed-cost breakdown across 7 export markets f"
+description: "Hyptec S600 is a SUV battery-electric from Hyptec, offering 660 km of CLTC range and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hyptec-s600"
 brand: "hyptec"
 type: "SUV"

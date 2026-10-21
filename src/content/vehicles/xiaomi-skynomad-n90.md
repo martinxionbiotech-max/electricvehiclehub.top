@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SkyNomad N90"
-description: "Xiaomi SkyNomad N90 is a SUV extended-range electric from Xiaomi, offering 464 km of CLTC range a 76.0 kWh battery. Full landed-cost breakdown across 7 export m"
+description: "Xiaomi SkyNomad N90 is a SUV extended-range electric from Xiaomi, offering 464 km of CLTC range a 76.0 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xiaomi-skynomad-n90"
 brand: "xiaomi"
 type: "SUV"

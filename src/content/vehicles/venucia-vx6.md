@@ -1,6 +1,6 @@
 ---
 title: "Venucia VX6"
-description: "Venucia VX6 is a SUV battery-electric from Venucia, offering 520 km of CLTC range a 62.0 kWh battery and 160 kW of motor power. Full landed-cost breakdown acros"
+description: "Venucia VX6 is a SUV battery-electric from Venucia, offering 520 km of CLTC range a 62.0 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "venucia-vx6"
 brand: "venucia"
 type: "SUV"

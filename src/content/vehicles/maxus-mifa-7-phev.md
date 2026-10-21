@@ -1,6 +1,6 @@
 ---
 title: "Maxus MIFA 7 PHEV"
-description: "Maxus MIFA 7 PHEV is a MPV plug-in hybrid from Maxus, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B i"
+description: "Maxus MIFA 7 PHEV is a MPV plug-in hybrid from Maxus, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "maxus-mifa-7-phev"
 brand: "maxus"
 type: "MPV"

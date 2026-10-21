@@ -1,6 +1,6 @@
 ---
 title: "Dayun Yuanhang H9"
-description: "Dayun Yuanhang H9 is a SUV battery-electric from Dayun, offering 650 km of CLTC range a 98.0 kWh battery and 500 kW of motor power. Full landed-cost breakdown a"
+description: "Dayun Yuanhang H9 is a SUV battery-electric from Dayun, offering 650 km of CLTC range a 98.0 kWh battery and 500 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dayun-h9"
 brand: "dayun"
 type: "SUV"

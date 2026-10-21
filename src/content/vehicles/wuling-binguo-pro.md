@@ -1,6 +1,6 @@
 ---
 title: "Wuling Binguo Pro"
-description: "Wuling Binguo Pro is a Hatchback battery-electric from Wuling, offering 330 km of CLTC range a 31.9 kWh battery and 65 kW of motor power. Full landed-cost break"
+description: "Wuling Binguo Pro is a Hatchback battery-electric from Wuling, offering 330 km of CLTC range a 31.9 kWh battery and 65 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-binguo-pro"
 brand: "wuling"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "Exeed ET5"
-description: "Exeed ET5 is a SUV extended-range electric from Exeed, offering 210 km of CLTC range and 195 kW of motor power. Full landed-cost breakdown across 7 export marke"
+description: "Exeed ET5 is a SUV extended-range electric from Exeed, offering 210 km of CLTC range and 195 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "exeed-et5"
 brand: "exeed"
 type: "SUV"

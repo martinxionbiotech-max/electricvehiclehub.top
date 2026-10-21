@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 GT DM-i"
-description: "Denza Z9 GT DM-i is a Sedan plug-in hybrid from Denza, offering 201 km of CLTC range a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown ac"
+description: "Denza Z9 GT DM-i is a Sedan plug-in hybrid from Denza, offering 201 km of CLTC range a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "denza-z9-gt-dm-i"
 brand: "denza"
 type: "Sedan"

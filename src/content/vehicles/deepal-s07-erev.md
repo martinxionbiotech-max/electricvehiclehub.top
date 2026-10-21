@@ -1,6 +1,6 @@
 ---
 title: "Deepal S07 EREV"
-description: "Deepal S07 EREV is a SUV extended-range electric from Deepal, offering 125 km of CLTC range a 18.99 kWh battery and 175 kW of motor power. Full landed-cost brea"
+description: "Deepal S07 EREV is a SUV extended-range electric from Deepal, offering 125 km of CLTC range a 18.99 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-s07-erev"
 brand: "deepal"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SkyNomad N70"
-description: "Xiaomi SkyNomad N70 is a SUV extended-range electric from Xiaomi, offering 351 km of CLTC range a 52.0 kWh battery and 210 kW of motor power. Full landed-cost b"
+description: "Xiaomi SkyNomad N70 is a SUV extended-range electric from Xiaomi, offering 351 km of CLTC range a 52.0 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xiaomi-skynomad-n70"
 brand: "xiaomi"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Changan CS55 PLUS HEV"
-description: "Changan CS55 PLUS HEV is a SUV hybrid from Changan, a 1.7 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B impo"
+description: "Changan CS55 PLUS HEV is a SUV hybrid from Changan, a 1.7 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-cs55-plus-hev"
 brand: "changan"
 type: "SUV"

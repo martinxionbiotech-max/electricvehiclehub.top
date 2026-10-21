@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06T"
-description: "Avatr 06T is a Sedan battery-electric from Avatr, offering 652 km of CLTC range a 75.46 kWh battery and 450 kW of motor power. Full landed-cost breakdown across"
+description: "Avatr 06T is a Sedan battery-electric from Avatr, offering 652 km of CLTC range a 75.46 kWh battery and 450 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "avatr-06t"
 brand: "avatr"
 type: "Sedan"

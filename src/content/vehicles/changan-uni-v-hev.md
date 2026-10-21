@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI-V HEV"
-description: "Changan UNI-V HEV is a Sedan hybrid from Changan, a 1.7 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import"
+description: "Changan UNI-V HEV is a Sedan hybrid from Changan, a 1.7 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-uni-v-hev"
 brand: "changan"
 type: "Sedan"

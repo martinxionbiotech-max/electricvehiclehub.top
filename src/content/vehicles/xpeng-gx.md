@@ -1,6 +1,6 @@
 ---
 title: "Xpeng GX"
-description: "Xpeng GX is a SUV extended-range electric from XPENG, offering 430 km of CLTC range a 63.3 kWh battery and 370 kW of motor power. Full landed-cost breakdown acr"
+description: "Xpeng GX is a SUV extended-range electric from XPENG, offering 430 km of CLTC range a 63.3 kWh battery and 370 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-gx"
 brand: "xpeng"
 type: "SUV"

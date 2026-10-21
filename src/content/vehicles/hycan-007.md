@@ -1,6 +1,6 @@
 ---
 title: "Hycan 007"
-description: "Hycan 007 is a SUV battery-electric from Hycan, offering 523 km of CLTC range a 73.0 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 "
+description: "Hycan 007 is a SUV battery-electric from Hycan, offering 523 km of CLTC range a 73.0 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hycan-007"
 brand: "hycan"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine M3 PHEV"
-description: "JAC Refine M3 PHEV is a MPV plug-in hybrid from JAC Refine, offering 85 km of CLTC range a 17.52 kWh battery and 130 kW of motor power. Full landed-cost breakdo"
+description: "JAC Refine M3 PHEV is a MPV plug-in hybrid from JAC Refine, offering 85 km of CLTC range a 17.52 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-refine-m3-phev"
 brand: "jac-refine"
 type: "MPV"

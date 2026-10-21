@@ -1,6 +1,6 @@
 ---
 title: "Denza D9 DM-i"
-description: "Denza D9 DM-i is a MPV plug-in hybrid from Denza, offering 98 km of CLTC range a 20.39 kWh battery and 170 kW of motor power. Full landed-cost breakdown across "
+description: "Denza D9 DM-i is a MPV plug-in hybrid from Denza, offering 98 km of CLTC range a 20.39 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "denza-d9-dm-i"
 brand: "denza"
 type: "MPV"

@@ -1,6 +1,6 @@
 ---
 title: "BAW Yuanbao"
-description: "BAW Yuanbao is a Hatchback battery-electric from BAW, offering 120 km of CLTC range a 9.6 kWh battery and 20 kW of motor power. Full landed-cost breakdown acros"
+description: "BAW Yuanbao is a Hatchback battery-electric from BAW, offering 120 km of CLTC range a 9.6 kWh battery and 20 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baw-yuanbao"
 brand: "baw"
 type: "Hatchback"

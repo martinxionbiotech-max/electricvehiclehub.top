@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion L"
-description: "Voyah Passion L is a Sedan plug-in hybrid from Voyah, offering 410 km of CLTC range a 63.0 kWh battery. Full landed-cost breakdown across 7 export markets for B"
+description: "Voyah Passion L is a Sedan plug-in hybrid from Voyah, offering 410 km of CLTC range a 63.0 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-passion-l"
 brand: "voyah"
 type: "Sedan"

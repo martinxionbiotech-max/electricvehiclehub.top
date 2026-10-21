@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor A10"
-description: "Leapmotor A10 is a SUV battery-electric from Leapmotor, offering 403 km of CLTC range a 39.8 kWh battery and 70 kW of motor power. Full landed-cost breakdown ac"
+description: "Leapmotor A10 is a SUV battery-electric from Leapmotor, offering 403 km of CLTC range a 39.8 kWh battery and 70 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "leapmotor-a10"
 brand: "leapmotor"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9T EREV"
-description: "Stelato S9T EREV is a Sedan extended-range electric from Stelato, offering 251 km of CLTC range a 36.0 kWh battery and 227 kW of motor power. Full landed-cost b"
+description: "Stelato S9T EREV is a Sedan extended-range electric from Stelato, offering 251 km of CLTC range a 36.0 kWh battery and 227 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "stelato-s9t-erev"
 brand: "stelato"
 type: "Sedan"

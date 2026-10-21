@@ -1,6 +1,6 @@
 ---
 title: "Aion LX Plus"
-description: "Aion LX Plus is a SUV battery-electric from AION, offering 1008 km of CLTC range a 144.4 kWh battery and 180 kW of motor power. Full landed-cost breakdown acros"
+description: "Aion LX Plus is a SUV battery-electric from AION, offering 1008 km of CLTC range a 144.4 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-lx-plus"
 brand: "aion"
 type: "SUV"

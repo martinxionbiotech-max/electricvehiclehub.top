@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T7"
-description: "Chery Fulwin T7 is a SUV battery-electric from Chery Fulwin, offering 600 km of CLTC range a 65.05 kWh battery and 178 kW of motor power. Full landed-cost break"
+description: "Chery Fulwin T7 is a SUV battery-electric from Chery Fulwin, offering 600 km of CLTC range a 65.05 kWh battery and 178 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-t7"
 brand: "chery-fulwin"
 type: "SUV"

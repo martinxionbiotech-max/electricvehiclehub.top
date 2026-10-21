@@ -1,6 +1,6 @@
 ---
 title: "Aion Y Plus"
-description: "Aion Y Plus is a SUV battery-electric from AION, offering 510 km of CLTC range a 61.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7"
+description: "Aion Y Plus is a SUV battery-electric from AION, offering 510 km of CLTC range a 61.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-y-plus"
 brand: "aion"
 type: "SUV"

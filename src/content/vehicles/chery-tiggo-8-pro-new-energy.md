@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 8 Pro New Energy"
-description: "Chery Tiggo 8 Pro New Energy is a SUV plug-in hybrid from Chery, offering 100 km of CLTC range and 125 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "Chery Tiggo 8 Pro New Energy is a SUV plug-in hybrid from Chery, offering 100 km of CLTC range and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-tiggo-8-pro-new-energy"
 brand: "chery"
 type: "SUV"

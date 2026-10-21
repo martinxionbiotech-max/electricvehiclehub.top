@@ -1,6 +1,6 @@
 ---
 title: "firefly Habitat"
-description: "firefly Habitat is a Hatchback battery-electric from Firefly, offering 420 km of CLTC range a 42.1 kWh battery and 120 kW of motor power. Full landed-cost break"
+description: "firefly Habitat is a Hatchback battery-electric from Firefly, offering 420 km of CLTC range a 42.1 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "firefly-habitat"
 brand: "firefly"
 type: "Hatchback"

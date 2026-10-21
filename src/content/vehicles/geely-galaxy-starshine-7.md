@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 7 MAX"
-description: "Geely Galaxy Starshine 7 MAX is a Sedan plug-in hybrid from Geely Galaxy, offering 220 km of CLTC range. Full landed-cost breakdown across 7 export markets for "
+description: "Geely Galaxy Starshine 7 MAX is a Sedan plug-in hybrid from Geely Galaxy, offering 220 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-starshine-7"
 brand: "geely-galaxy"
 type: "Sedan"

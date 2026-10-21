@@ -1,6 +1,6 @@
 ---
 title: "JAC iC5"
-description: "JAC iC5 is a Sedan battery-electric from JAC, offering 530 km of CLTC range a 64.5 kWh battery and 142 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "JAC iC5 is a Sedan battery-electric from JAC, offering 530 km of CLTC range a 64.5 kWh battery and 142 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-ic5"
 brand: "jac"
 type: "Sedan"

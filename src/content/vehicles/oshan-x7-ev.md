@@ -1,6 +1,6 @@
 ---
 title: "Oshan X7 EV"
-description: "Oshan X7 EV is a SUV battery-electric from Oshan, a 59.9 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B impor"
+description: "Oshan X7 EV is a SUV battery-electric from Oshan, a 59.9 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "oshan-x7-ev"
 brand: "oshan"
 type: "SUV"

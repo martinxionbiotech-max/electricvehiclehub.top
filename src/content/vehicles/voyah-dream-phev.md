@@ -1,6 +1,6 @@
 ---
 title: "Voyah Dream PHEV"
-description: "Voyah Dream PHEV is a MPV plug-in hybrid from Voyah, offering 82 km of CLTC range a 25.57 kWh battery and 290 kW of motor power. Full landed-cost breakdown acro"
+description: "Voyah Dream PHEV is a MPV plug-in hybrid from Voyah, offering 82 km of CLTC range a 25.57 kWh battery and 290 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-dream-phev"
 brand: "voyah"
 type: "MPV"
