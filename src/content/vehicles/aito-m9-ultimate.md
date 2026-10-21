@@ -38,8 +38,12 @@ charging_interface: "GB/T AC + GB/T DC (China domestic)"
 charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
 certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
-data_updated: "2026-10-19"
-data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
+trim: "Ultimate (大满配)"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+network_bands: "5G NR (sub-6 GHz)"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Aito M9 Ultimate
 

@@ -44,8 +44,11 @@ charging_interface: "CCS2 (DC) + Type 2 (AC) — EU export spec; GB/T (China)"
 charging_adapter: "EU-spec CCS2 native; no adapter required in EU"
 certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
 hs_code: "87038000"
-data_updated: "2026-10-19"
-data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
+trim: "标准版 / 长续航 / XPower"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Mg 4
 

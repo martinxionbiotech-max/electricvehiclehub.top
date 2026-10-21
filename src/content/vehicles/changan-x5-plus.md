@@ -34,8 +34,10 @@ charging_interface: "N/A (internal combustion engine, no charging port)"
 charging_adapter: "N/A"
 certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "87032200"
-data_updated: "2026-10-19"
-data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Changan X5 PLUS
 

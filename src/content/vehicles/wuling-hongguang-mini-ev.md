@@ -40,8 +40,11 @@ charging_interface: "GB/T AC (China domestic, slow charge)"
 charging_adapter: "Type 2 (AC) adapter for EU slow charging"
 certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
 hs_code: "87038000"
-data_updated: "2026-10-19"
-data_source: "EV Hub catalog + manufacturer specs (verified via en.wikipedia.org, 2026-10-19)"
+trim: "120 km / 170 km 马卡龙版 / 悦享版"
+brakes: "Front disc / rear drum"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Wuling Hongguang MINI EV
 
