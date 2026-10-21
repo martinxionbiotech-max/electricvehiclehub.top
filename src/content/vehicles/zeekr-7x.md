@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 7X"
-description: "Zeekr 7X is a suv from Zeekr, offering 620 km of CLTC range a 75 kWh battery and 370 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Zeekr 7X is an SUV fully electric from Zeekr with 620 km of CLTC range, 75 kWh of battery, 370 kW of motor power, and LFP / NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "zeekr-7x"
 brand: "zeekr"
 type: "SUV"
@@ -58,7 +58,7 @@ Zeekr 7X (starting at $32,370) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 7X is a midsize SUV battery-electric from ZEEKR, with 620 km of CLTC range, 370 kW of motor power, a 5.4-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,138 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.9 kWh/100km efficiency is strong for its 2,280 kg curb weight. It suits family and executive buyers prioritizing space.
+The Zeekr 7X is an SUV battery-electric from Zeekr. It carries a 5.4-second 0–100 km/h time and 620 km of CLTC range. The platform pairs RWD / AWD drive with LFP / NMC chemistry. The ex-factory price of $32,370 positions it as a mid-tier import. Across export markets, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,168 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

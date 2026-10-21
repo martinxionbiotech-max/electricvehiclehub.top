@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 007 GT"
-description: "Zeekr 007 GT is a Sedan battery-electric from Zeekr, offering 650 km of CLTC range a 75.0 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Zeekr 007 GT is Zeekr's sedan battery-electric with a CLTC-rated range of 650 km, a 75 kWh battery, 310 kW of motor power, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "zeekr-007-gt"
 brand: "zeekr"
 type: "Sedan"
@@ -56,8 +56,7 @@ Zeekr 007 GT (starting at $28,180) is a Sedan from ZEEKR.
 
 ## Overview
 
-The Zeekr 007 GT is a sedan battery-electric from Zeekr, with 310 kW of motor power, a 5.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $28,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,518 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Zeekr 007 GT is a sedan fully electric from Zeekr. It carries 75 kWh of battery capacity and peak output of 310 kW. Chassis details include a Double wishbone front / Multi-link rear suspension setup, plus LFP / NMC chemistry. Pricing starts at $28,180 ex-factory, placing it in the mid-market tier. Across export markets, the lowest landed premium is Qatar at roughly +19.8% over base (about $33,769 landed) — Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

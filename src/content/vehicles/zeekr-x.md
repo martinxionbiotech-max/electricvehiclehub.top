@@ -1,6 +1,6 @@
 ---
 title: "Zeekr X"
-description: "Zeekr X is a suv from Zeekr, offering 530 km of CLTC range a 61.47 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Zeekr X is Zeekr's SUV battery-electric, offering a CLTC-rated range of 530 km, a 61 kWh battery, 250 kW peak output, and a NMC / LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "zeekr-x"
 brand: "zeekr"
 type: "SUV"
@@ -58,7 +58,7 @@ Zeekr X (starting at $21,940) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr X is a compact SUV battery-electric from ZEEKR, with 530 km of CLTC range, 250 kW of motor power, a 5.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,940 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,639 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.1 kWh/100km efficiency is strong for its 1,965 kg curb weight. It suits families and fleet buyers who need practicality.
+The Zeekr X is an SUV battery-electric from Zeekr. It carries a 5.6-second 0–100 km/h time and 373 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with RWD / AWD drive. The ex-factory price of $21,940 positions it as a mainstream-value import. For importers, the least-costly destination is Qatar, near +24.1% over base ($27,217 landed), while Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U8L"
-description: "Yangwang U8L is a suv from Yangwang, offering 1160 km of CLTC range a 55.53 kWh battery and 880 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Yangwang U8L is an SUV range-extended electric from Yangwang, offering 200 km of CLTC range, a 55 kWh battery, 880 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "yangwang-u8l"
 brand: "yangwang"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (Disus-P hydraulic)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "豪华版 (加长)"
 brakes: "Front ventilated disc / rear disc"
@@ -59,7 +59,7 @@ Yangwang U8L (starting at $180,280) is a SUV from YANGWANG.
 
 ## Overview
 
-The Yangwang U8L is a full-size SUV extended-range electric from YANGWANG, with 1,160 km of CLTC range, 880 kW of motor power, a 3.5-second 0–100 km/h time. It is a luxury-tier flagship, priced from $180,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +13% over base (about $203,209 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
+The Yangwang U8L is Yangwang's SUV extended-range electric. It carries a top speed of 200 km/h, peak output of 880 kW, and 1,520 Nm of torque. The platform pairs Double wishbone front / Multi-link (Disus-P hydraulic) rear suspension with AWD (quad-motor) drive. At an ex-factory price of $180,280, it sits in the flagship segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +7.3% over base (about $193,474 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

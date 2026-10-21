@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U7"
-description: "Yangwang U7 is a suv from Yangwang, offering 720 km of CLTC range a 135.5 kWh battery and 960 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Yangwang U7 is an SUV fully electric from Yangwang with 720 km of CLTC range, a 135 kWh battery, 960 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "yangwang-u7"
 brand: "yangwang"
 type: "SUV"
@@ -61,7 +61,7 @@ Yangwang U7 (starting at $88,450) is a SUV from YANGWANG.
 
 ## Overview
 
-The Yangwang U7 is a full-size SUV battery-electric from YANGWANG, with 720 km of CLTC range, 960 kW of motor power, a 2.9-second 0–100 km/h time. It is a luxury-tier flagship, priced from $88,450 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +15% over base (about $101,966 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.8 kWh/100km efficiency is unremarkable for its 3,296 kg curb weight. It suits large families and executive fleets.
+The Yangwang U7 is an SUV battery-electric from Yangwang. Specification highlights are 0–100 km/h in 2.9 seconds and 1,680 Nm of torque. Chassis details include a drag coefficient of 0.195, plus AWD (quad-motor) drivetrain. At an ex-factory price of $88,450, it sits in the flagship segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +9.7% over base ($97,052 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

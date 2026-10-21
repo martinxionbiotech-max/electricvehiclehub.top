@@ -1,6 +1,6 @@
 ---
 title: "Zeekr MIX"
-description: "Zeekr MIX is a suv from Zeekr, offering 550 km of CLTC range a 76 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Zeekr MIX is Zeekr's SUV battery-electric, offering a CLTC-rated range of 550 km, 76 kWh of battery, 310 kW of motor power, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "zeekr-mix"
 brand: "zeekr"
 type: "SUV"
@@ -60,7 +60,7 @@ Zeekr MIX (starting at $39,420) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr MIX is a compact SUV battery-electric from ZEEKR, with 550 km of CLTC range, 310 kW of motor power, a 6.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $39,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $47,911 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.4 kWh/100km efficiency is strong for its 2,739 kg curb weight. It suits families and fleet buyers who need practicality.
+The Zeekr MIX is Zeekr's SUV battery-electric. Specification highlights are a top speed of 180 km/h and a 76 kWh battery. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus RWD drivetrain. At an ex-factory price of $39,420, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +15.6% over base (about $45,571 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

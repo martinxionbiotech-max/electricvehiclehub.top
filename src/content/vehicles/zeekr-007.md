@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 007"
-description: "Zeekr 007 is a suv from Zeekr, offering 688 km of CLTC range a 75 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Zeekr 007 is an SUV fully electric from Zeekr, offering 688 km of CLTC range, 75 kWh of battery, 310 kW peak output, and a LFP (Golden) / NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "zeekr-007"
 brand: "zeekr"
 type: "SUV"
@@ -60,7 +60,7 @@ Zeekr 007 (starting at $29,560) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 007 is a midsize SUV battery-electric from ZEEKR, with 688 km of CLTC range, 310 kW of motor power, a 5.1-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $29,560 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $37,040 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.5 kWh/100km efficiency is strong for its 2,150 kg curb weight. It suits family and executive buyers prioritizing space.
+The Zeekr 007 is Zeekr's SUV fully electric. It carries a rated range of 688 km (CLTC), a 5.1-second 0–100 km/h time, and peak output of 310 kW. The platform pairs RWD / AWD drive with a Cd of 0.219. It is positioned as a mid-market import, priced from $29,560 ex-factory. For importers, the lowest landed premium is Qatar at roughly +19.1% over base (about $35,218 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

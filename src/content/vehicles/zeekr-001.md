@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 001"
-description: "The Zeekr 001 is a 4,977 mm shooting-brake/liftback that reads more like a performance GT than a family EV. The flagship dual-motor version churns out 680 kW an"
+description: "The Zeekr 001 is Zeekr's SUV battery-electric, offering 710 km of CLTC range, a 95 kWh battery, 680 kW peak output, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "zeekr-001"
 brand: "zeekr"
 type: "SUV"
@@ -61,7 +61,7 @@ Zeekr 001 (starting at $38,000) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 001 is a midsize SUV battery-electric from ZEEKR, with 710 km of CLTC range, 680 kW of motor power, a 3.08-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $38,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $46,345 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
+Zeekr 001 is an SUV battery-electric offered by Zeekr. Specification highlights are 0–100 km/h in 3.08 seconds, a 680 kW electric motor, and 280 km/h top speed. Chassis details include a Cd of 0.23, plus Double wishbone front / Multi-link rear suspension. The ex-factory price of $38,000 positions it as a mid-market import. For importers, Qatar offers the cheapest entry at about +16% over base (≈ $44,080 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

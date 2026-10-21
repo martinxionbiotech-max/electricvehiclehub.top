@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 9X"
-description: "Zeekr 9X is a suv from Zeekr, a 55 kWh battery and 660 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Zeekr 9X is an SUV plug-in hybrid electric from Zeekr with a CLTC-rated range of 380 km, a 55 kWh battery, 660 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "zeekr-9x"
 brand: "zeekr"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "尊享版 / 旗舰版"
 brakes: "Front ventilated disc / rear disc"
@@ -58,7 +58,7 @@ Zeekr 9X (starting at $65,620) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 9X is a full-size SUV plug-in hybrid from ZEEKR, with 660 kW of motor power, a 3.9-second 0–100 km/h time. It is a luxury-tier flagship, priced from $65,620 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +17% over base (about $76,796 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.9 kWh/100km efficiency is unremarkable for its 2,840 kg curb weight. It suits large families and executive fleets.
+The Zeekr 9X is Zeekr's SUV plug-in hybrid. Specification highlights are peak output of 660 kW and peak torque of 935 Nm. Chassis details include Double wishbone front / Multi-link rear suspension, plus LFP cells. It is positioned as a top-tier import, priced from $65,620 ex-factory. On landed cost, the least-costly destination is Qatar, near +11.4% over base ($73,081 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
