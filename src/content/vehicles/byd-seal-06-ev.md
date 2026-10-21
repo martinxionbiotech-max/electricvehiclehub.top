@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 EV"
-description: "BYD Seal 06 EV is a sedan from Byd, offering 470 km of CLTC range a 46.08 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Seal 06 EV is a sedan fully electric from BYD with a CLTC-rated range of 470 km, a 46 kWh battery, 110 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-seal-06-ev"
 brand: "byd"
 type: "Sedan"
@@ -57,7 +57,7 @@ Byd Seal 06 EV (starting at $15,460) is a Sedan from BYD.
 
 ## Overview
 
-The Byd Seal 06 EV is a midsize sedan battery-electric from BYD, with 470 km of CLTC range, 110 kW of motor power, a 4.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 10.8 kWh/100km efficiency is strong for its 1,670 kg curb weight. It suits business fleets and long-distance commuters.
+The BYD Seal 06 EV is a sedan fully electric from BYD. Specification highlights are a 110 kW electric motor and a 46 kWh battery. Chassis details include FWD drive, plus LFP (Blade) chemistry. At an ex-factory price of $15,460, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +32% over base (about $20,413 landed); meanwhile, Germany applies a 17% countervailing duty on top of the 10% standard tariff. The profile suits private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "BYD Han"
-description: "The Han is BYD's flagship sedan — a long, 4,995 mm executive four-door that takes direct aim at the German establishment on comfort and technology while undercu"
+description: "The BYD Han is a sedan fully electric from BYD with a CLTC-rated range of 605 km, 72 kWh of battery, 200 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-han"
 brand: "byd"
 type: "Sedan"
@@ -63,7 +63,7 @@ BYD Han (starting at $23,700) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Han is a full-size sedan battery-electric from BYD, with 200 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $23,700 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,579 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 15.0 kWh/100km efficiency is strong for its 1,910 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits executive and chauffeur-driven fleets.
+The BYD Han is a sedan fully electric from BYD. It carries 315 Nm of torque and a rated range of 605 km (CLTC). Chassis details include LFP (Blade) cells, plus MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $23,700, it sits in the value segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +22.6% over base (about $29,065 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

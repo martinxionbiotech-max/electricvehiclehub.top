@@ -1,6 +1,6 @@
 ---
 title: "Aion V Plus"
-description: "Aion V Plus is a SUV battery-electric from AION, and 135 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aion V Plus is AION's SUV fully electric, offering 135 kW peak output and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "aion-v-plus"
 brand: "aion"
 type: "SUV"
@@ -48,8 +48,7 @@ Aion V Plus (starting at $20,820) is a SUV from AION.
 
 ## Overview
 
-The Aion V Plus is a suv battery-electric from AION, with 135 kW of motor power. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,404 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Aion V Plus is AION's SUV battery-electric. Its specification includes peak output of 135 kW. The platform pairs LFP cells with FWD drivetrain. At an ex-factory price of $20,820, it sits in the value segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +25.1% over base (≈ $26,041 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

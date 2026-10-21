@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L7 EV"
-description: "Aeolus L7 EV is a SUV battery-electric from Aeolus, offering 430 km of CLTC range a 50.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Aeolus L7 EV is an SUV battery-electric offered by Aeolus with a CLTC-rated range of 430 km, 50 kWh of battery, 120 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aeolus-l7-ev"
 brand: "aeolus"
 type: "SUV"
@@ -53,8 +53,7 @@ Aeolus L7 EV (starting at $13,180) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus L7 EV is a suv battery-electric from Aeolus, with 120 kW of motor power. It is positioned as a value-focused import, priced from $13,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +44% over base (about $18,980 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 13.7 kWh/100km efficiency is a practical figure; only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Aeolus L7 EV is an SUV battery-electric offered by Aeolus. It carries 430 km of CLTC range, a 50 kWh battery, and peak torque of 240 Nm. The platform pairs FWD drivetrain with LFP chemistry. Pricing starts at $13,180 ex-factory, placing it in the entry-level tier. For importers, the least-costly destination is Qatar, near +36.7% over base ($18,019 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

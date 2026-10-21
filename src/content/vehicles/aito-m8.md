@@ -1,6 +1,6 @@
 ---
 title: "Aito M8"
-description: "Aito M8 is a suv from Aito, a 37 kWh battery and 392 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Aito M8 is an SUV fully electric offered by AITO with 705 km of CLTC range, a 100 kWh battery, 392 kW peak output, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "aito-m8"
 brand: "aito"
 type: "SUV"
@@ -60,7 +60,7 @@ Aito M8 (starting at $50,680) is a SUV from AITO.
 
 ## Overview
 
-The Aito M8 is a full-size SUV battery-electric from AITO, with 392 kW of motor power, a 5.3-second 0–100 km/h time. It is positioned as a premium import, priced from $50,680 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $60,325 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.6 kWh/100km efficiency is unremarkable for its 2,640 kg curb weight. It suits large families and executive fleets.
+The Aito M8 is AITO's SUV battery-electric. It carries a 392 kW electric motor and a top speed of 200 km/h. The platform pairs a Double wishbone front / Multi-link (air) rear suspension setup with NMC (CATL) chemistry. It is positioned as a premium import, priced from $50,680 ex-factory. Across export markets, the least-costly destination is Qatar, near +13.2% over base ($57,394 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

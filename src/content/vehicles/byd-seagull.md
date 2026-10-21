@@ -1,6 +1,6 @@
 ---
 title: "BYD Seagull"
-description: "BYD Seagull is a sedan from Byd, offering 305 km of CLTC range a 30.08 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Seagull is BYD's sedan battery-electric with a CLTC-rated range of 305 km, 30 kWh of battery, 55 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-seagull"
 brand: "byd"
 type: "Sedan"
@@ -60,7 +60,7 @@ Byd Seagull (starting at $8,940) is a Sedan from BYD.
 
 ## Overview
 
-The Byd Seagull is a compact sedan battery-electric from BYD, with 305 km of CLTC range, 55 kW of motor power, a 4.9-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $8,940 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +60% over base (about $14,306 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 9.9 kWh/100km efficiency is strong for its 1,160 kg curb weight. It suits budget-conscious commuters and ride-hailing fleets.
+The BYD Seagull is a sedan battery-electric from BYD. Specification highlights are 130 km/h top speed and a 4.9-second 0–100 km/h time. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP (Blade) chemistry. At an ex-factory price of $8,940, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +51.8% over base (about $13,567 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. The profile suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

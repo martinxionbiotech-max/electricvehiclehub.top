@@ -1,6 +1,6 @@
 ---
 title: "Arcfox Kaola"
-description: "Arcfox Kaola is a suv from Arcfox, offering 500 km of CLTC range a 58.86 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Arcfox Kaola is Arcfox's SUV battery-electric, offering a CLTC-rated range of 500 km, 58 kWh of battery, 120 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "arcfox-kaola"
 brand: "arcfox"
 type: "SUV"
@@ -55,7 +55,7 @@ Arcfox Kaola (starting at $18,560) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox Kaola is a compact SUV battery-electric from ARCFOX, with 500 km of CLTC range, 120 kW of motor power. It is positioned as a value-focused import, priced from $18,560 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,912 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.7 kWh/100km efficiency is strong for its 1,800 kg curb weight. It suits families and fleet buyers who need practicality.
+The Arcfox Kaola is an SUV battery-electric from Arcfox. It carries a CLTC-rated range of 500 km, a 120 kW electric motor, and 160 km/h top speed. The platform pairs a MacPherson strut front / Torsion beam rear suspension setup with FWD drivetrain. It is positioned as a value-segment import, priced from $18,560 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +27.5% over base (about $23,668 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

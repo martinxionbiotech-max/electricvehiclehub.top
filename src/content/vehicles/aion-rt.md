@@ -1,6 +1,6 @@
 ---
 title: "Aion RT"
-description: "Aion RT is a suv from Aion, offering 520 km of CLTC range a 55.1 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aion RT is AION's SUV battery-electric with a CLTC-rated range of 520 km, 55 kWh of battery, 150 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "aion-rt"
 brand: "aion"
 type: "SUV"
@@ -58,7 +58,7 @@ Aion RT (starting at $14,060) is a SUV from AION.
 
 ## Overview
 
-The Aion RT is a midsize SUV battery-electric from AION, with 520 km of CLTC range, 150 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,951 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.7 kWh/100km efficiency is strong for its 1,670 kg curb weight. It suits family and executive buyers prioritizing space.
+Aion RT is an SUV battery-electric offered by AION. Specification highlights are 163 km/h top speed and 55 kWh of battery capacity. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $14,060 ex-factory, placing it in the entry-level tier. On landed cost, the lowest landed premium is Qatar at roughly +34.7% over base (about $18,943 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AS5"
-description: "Arcfox AS5 is a suv from Arcfox, offering 560 km of CLTC range a 65 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Arcfox AS5 is an SUV fully electric offered by Arcfox with a CLTC-rated range of 560 km, 65 kWh of battery, 185 kW peak output, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "arcfox-as5"
 brand: "arcfox"
 type: "SUV"
@@ -57,7 +57,7 @@ Arcfox AS5 (starting at $18,000) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox AS5 is a midsize SUV battery-electric from ARCFOX, with 560 km of CLTC range, 185 kW of motor power, a 7.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,295 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.6 kWh/100km efficiency is strong for its 1,920 kg curb weight. It suits family and executive buyers prioritizing space.
+Arcfox AS5 is an SUV fully electric offered by Arcfox. Specification highlights are peak output of 185 kW and a 7-second 0–100 km/h time. Chassis details include RWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $18,000 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,080 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

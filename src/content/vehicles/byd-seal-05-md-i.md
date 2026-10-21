@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 05 MD I"
-description: "BYD Seal 05 MD I is a sedan from Byd, a 15.87 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "BYD Seal 05 MD I is a sedan plug-in hybrid electric offered by BYD, offering a CLTC-rated range of 120 km, a 15 kWh battery, 120 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-seal-05-md-i"
 brand: "byd"
 type: "Sedan"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd Seal 05 MD I (starting at $11,210) is a Sedan from BYD.
 
 ## Overview
 
-The Byd Seal 05 MD I is a midsize sedan plug-in hybrid from BYD, with 120 kW of motor power, a 7.6-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $11,210 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,809 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 13.2 kWh/100km efficiency is strong for its 1,580 kg curb weight. It suits business fleets and long-distance commuters.
+The BYD Seal 05 MD I is a sedan plug-in hybrid from BYD. Specification highlights are 120 km of CLTC range and 210 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drivetrain. At an ex-factory price of $11,210, it sits in the entry-level segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +42.3% over base ($15,950 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

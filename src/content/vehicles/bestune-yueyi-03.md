@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 03"
-description: "Bestune Yueyi 03 is a suv from Bestune, offering 445 km of CLTC range a 48.35 kWh battery and 122 kW of motor power. Full landed-cost breakdown to the EU/DAC..."
+description: "Bestune Yueyi 03 is an SUV fully electric offered by Bestune with a CLTC-rated range of 445 km, a 48 kWh battery, 122 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "bestune-yueyi-03"
 brand: "bestune"
 type: "SUV"
@@ -57,7 +57,7 @@ Bestune Yueyi 03 (starting at $11,240) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune Yueyi 03 is a compact SUV battery-electric from BESTUNE, with 445 km of CLTC range, 122 kW of motor power, a 3.3-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $11,240 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,842 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.8 kWh/100km efficiency is strong for its 1,530 kg curb weight. It suits families and fleet buyers who need practicality.
+Bestune Yueyi 03 is an SUV battery-electric offered by Bestune. Specification highlights are 0–100 km/h in 3.3 seconds and a top speed of 160 km/h. The platform pairs FWD drivetrain with LFP cells. At an ex-factory price of $11,240, it sits in the entry-level segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +42.2% over base (≈ $15,982 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

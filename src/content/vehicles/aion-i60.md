@@ -1,6 +1,6 @@
 ---
 title: "Aion I60"
-description: "Aion I60 is a suv from Aion, offering 530 km of CLTC range a 62.27 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aion I60 is AION's SUV battery-electric, offering 530 km of CLTC range, 62 kWh of battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aion-i60"
 brand: "aion"
 type: "SUV"
@@ -55,7 +55,7 @@ Aion I60 (starting at $15,460) is a SUV from AION.
 
 ## Overview
 
-The Aion I60 is a compact SUV battery-electric from AION, with 530 km of CLTC range, 150 kW of motor power. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.7 kWh/100km efficiency is strong for its 1,800 kg curb weight. It suits families and fleet buyers who need practicality.
+The Aion I60 is AION's SUV fully electric. Specification highlights are peak torque of 205 Nm and 62 kWh of battery capacity. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP cells. The ex-factory price of $15,460 positions it as a mainstream-value import. On landed cost, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Bestune E01"
-description: "Bestune E01 is a SUV battery-electric from Bestune, a 61.34 kWh battery and 140 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Bestune E01 is an SUV battery-electric from Bestune with a 61 kWh battery, 140 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "bestune-e01"
 brand: "bestune"
 type: "SUV"
@@ -55,8 +55,7 @@ Bestune E01 (starting at $27,330) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune E01 is a suv battery-electric from Bestune, with 140 kW of motor power, a 9.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $27,330 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $34,581 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Bestune E01 is an SUV battery-electric from Bestune. It carries 61 kWh of battery capacity and 0–100 km/h in 9 seconds. The platform pairs MacPherson strut front / Multi-link rear suspension with LFP chemistry. It is positioned as a mid-tier import, priced from $27,330 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +20.3% over base (about $32,876 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

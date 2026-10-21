@@ -1,6 +1,6 @@
 ---
 title: "Aion V"
-description: "Aion V is a suv from Aion, offering 520 km of CLTC range a 62.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aion V is AION's SUV fully electric with 520 km of CLTC range, 62 kWh of battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "aion-v"
 brand: "aion"
 type: "SUV"
@@ -57,7 +57,7 @@ Aion V (starting at $15,460) is a SUV from AION.
 
 ## Overview
 
-The Aion V is a compact SUV battery-electric from AION, with 520 km of CLTC range, 150 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.8 kWh/100km efficiency is strong for its 1,780 kg curb weight. It suits families and fleet buyers who need practicality.
+The Aion V is AION's SUV battery-electric. Specification highlights are 160 km/h top speed and a 7.9-second 0–100 km/h time. Chassis details include LFP cells, plus FWD drive. It is positioned as a mainstream-value import, priced from $15,460 ex-factory. For importers, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

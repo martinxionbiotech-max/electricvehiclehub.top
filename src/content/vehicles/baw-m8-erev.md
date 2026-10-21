@@ -1,6 +1,6 @@
 ---
 title: "BAW M8 EREV"
-description: "BAW M8 EREV is a MPV extended-range electric from BAW, offering 230 km of CLTC range a 35.0 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BAW M8 EREV is BAW's MPV extended-range electric with 230 km of CLTC range, 35 kWh of battery, 170 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "baw-m8-erev"
 brand: "baw"
 type: "MPV"
@@ -34,8 +34,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ BAW M8 EREV (starting at $23,580) is a MPV from BAW.
 
 ## Overview
 
-The BAW M8 EREV is a mpv extended-range electric from BAW, with 170 kW of motor power. It is positioned as a value-focused import, priced from $23,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,446 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+BAW M8 EREV is an MPV range-extended electric offered by BAW. It carries 35 kWh of battery capacity and 230 km of CLTC range. Chassis details include a Double wishbone front / Multi-link rear suspension setup, plus LFP cells. It is positioned as a value-segment import, priced from $23,580 ex-factory. On landed cost, Qatar offers the cheapest entry at about +22.7% over base (≈ $28,939 landed) — Germany levies only the 10% standard tariff. It suits people-carrier operators and family buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

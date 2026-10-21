@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Plus"
-description: "At around $11,000, the Qin Plus is one of the cheapest electric sedans a Western importer can actually put on a boat, and that is precisely its pitch. It's a co"
+description: "The BYD Qin Plus is a sedan fully electric from BYD, offering 510 km of CLTC range, a 57 kWh battery, 120 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-qin-plus"
 brand: "byd"
 type: "Sedan"
@@ -59,7 +59,7 @@ BYD Qin Plus (starting at $11,080) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Qin Plus is a midsize sedan battery-electric from BYD, with 120 kW of motor power, a 7.6-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $11,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,666 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is strong for its 1,480 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits business fleets and long-distance commuters.
+The BYD Qin Plus is BYD's sedan battery-electric. It carries 57 kWh of battery capacity, a 7.6-second 0–100 km/h time, and 185 km/h top speed. Chassis details include LFP (Blade) cells, plus a MacPherson strut front / Torsion beam rear suspension setup. The ex-factory price of $11,080 positions it as an entry-level import. For importers, the least-costly destination is Qatar, near +42.7% over base ($15,814 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

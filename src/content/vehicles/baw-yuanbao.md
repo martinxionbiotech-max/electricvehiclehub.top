@@ -1,6 +1,6 @@
 ---
 title: "BAW Yuanbao"
-description: "BAW Yuanbao is a Hatchback battery-electric from BAW, offering 120 km of CLTC range a 9.6 kWh battery and 20 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BAW Yuanbao is BAW's hatchback fully electric with a CLTC-rated range of 120 km, 9 kWh of battery, 20 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "baw-yuanbao"
 brand: "baw"
 type: "Hatchback"
@@ -53,8 +53,7 @@ BAW Yuanbao (starting at $4,130) is a Hatchback from BAW.
 
 ## Overview
 
-The BAW Yuanbao is a hatchback battery-electric from BAW, with 20 kW of motor power. It is positioned as a value-focused import, priced from $4,130 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +118% over base (about $9,003 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The BAW Yuanbao is a hatchback battery-electric from BAW. It carries a rated range of 120 km (CLTC) and peak output of 20 kW. Chassis details include FWD drivetrain, plus LFP cells. Pricing starts at $4,130 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +106.2% over base (≈ $8,516 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

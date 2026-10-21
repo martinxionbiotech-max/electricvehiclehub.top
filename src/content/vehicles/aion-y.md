@@ -1,6 +1,6 @@
 ---
 title: "GAC Aion Y"
-description: "The Aion Y is GAC's clever, boxy, value-forward family EV — proof that cheap doesn't have to feel stripped. Its tall, squared-off body and 2,750 mm wheelbase cr"
+description: "AION's GAC Aion Y is an SUV battery-electric with a CLTC-rated range of 430 km, a 49 kWh battery, 100 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "aion-y"
 brand: "aion"
 type: "SUV"
@@ -56,7 +56,7 @@ GAC Aion Y (starting at $14,060) is a SUV from AION.
 
 ## Overview
 
-The GAC Aion Y is a compact SUV battery-electric from AION, with 430 km of CLTC range, 100 kW of motor power. It is positioned as a value-focused import, priced from $14,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,951 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.9 kWh/100km efficiency is strong for its 1,590 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
+The GAC Aion Y is AION's SUV battery-electric. It carries peak torque of 176 Nm and a top speed of 150 km/h. Chassis details include MacPherson strut front / Torsion beam rear suspension, plus FWD drive. It is positioned as an affordable-end import, priced from $14,060 ex-factory. For importers, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Aeolus Huge"
-description: "Aeolus Huge is a suv from Aeolus,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Aeolus Huge is an SUV hybrid offered by Aeolus, offering 1 kWh of battery, 130 kW of motor power, and NMC (Li-ion) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "aeolus-huge"
 brand: "aeolus"
 type: "SUV"
@@ -36,7 +36,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -50,7 +50,7 @@ Aeolus Huge (starting at $19,700) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus Huge is a compact SUV plug-in hybrid from AEOLUS, with a compact electric powertrain. It is positioned as a value-focused import, priced from $19,700 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $26,169 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+Aeolus Huge is an SUV non-plug-in hybrid offered by Aeolus. Specification highlights are peak output of 130 kW and a 1 kWh battery. Chassis details include NMC (Li-ion) chemistry, plus MacPherson strut front / Multi-link rear suspension. The ex-factory price of $19,700 positions it as a value-focused import. For importers, Qatar offers the cheapest entry at about +26.2% over base (≈ $24,865 landed) — Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Bestune T90"
-description: "Bestune T90 is a suv from Bestune, offering 1500 km of CLTC range a 21.2 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Bestune T90 is an SUV plug-in hybrid electric from Bestune with a CLTC-rated range of 210 km, a 30 kWh battery, 168 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "bestune-t90"
 brand: "bestune"
 type: "SUV"
@@ -39,8 +39,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -58,7 +58,7 @@ Bestune T90 (starting at $14,060) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune T90 is a compact SUV plug-in hybrid from BESTUNE, with 1,500 km of CLTC range, 168 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,951 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.9 kWh/100km efficiency is strong for its 1,750 kg curb weight. It suits families and fleet buyers who need practicality.
+The Bestune T90 is Bestune's SUV plug-in hybrid electric. It carries a top speed of 180 km/h and 0–100 km/h in 6.9 seconds. Chassis details include LFP chemistry, plus FWD drivetrain. At an ex-factory price of $14,060, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +34.7% over base ($18,943 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

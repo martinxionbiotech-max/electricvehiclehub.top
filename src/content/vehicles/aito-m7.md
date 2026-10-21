@@ -1,6 +1,6 @@
 ---
 title: "Aito M7"
-description: "Aito M7 is a suv from AITO, a 100 kWh battery and 392 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aito M7 is an SUV fully electric from AITO with 710 km of CLTC range, a 100 kWh battery, 392 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "aito-m7"
 brand: "aito"
 type: "SUV"
@@ -60,7 +60,7 @@ Aion Aito M7 (starting at $39,410) is a SUV from AION.
 
 ## Overview
 
-The Aion Aito M7 is a midsize SUV battery-electric from AION, with 392 kW of motor power, a 5.2-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $39,410 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $47,900 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.1 kWh/100km efficiency is unremarkable for its 2,600 kg curb weight. It suits family and executive buyers prioritizing space.
+The Aito M7 is AITO's SUV fully electric. Specification highlights are a rated range of 710 km (CLTC) and 200 km/h top speed. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with AWD (dual motor) drive. At an ex-factory price of $39,410, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +15.6% over base (≈ $45,560 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

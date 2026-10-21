@@ -1,6 +1,6 @@
 ---
 title: "Baojun Xiangjing PHEV"
-description: "Baojun Xiangjing PHEV is a Sedan plug-in hybrid from Baojun, offering 140 km of CLTC range a 20.5 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Baojun Xiangjing PHEV is a sedan plug-in hybrid from Baojun, offering 140 km of CLTC range, a 20 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "baojun-xiangjing-phev"
 brand: "baojun"
 type: "Sedan"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ Baojun Xiangjing PHEV (starting at $18,030) is a Sedan from BAOJUN.
 
 ## Overview
 
-The Baojun Xiangjing PHEV is a sedan plug-in hybrid from Baojun, with 160 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,328 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Baojun Xiangjing PHEV is a sedan plug-in hybrid electric offered by Baojun. It carries 20 kWh of battery capacity and a 7.9-second 0–100 km/h time. The platform pairs FWD drive with LFP chemistry. It is positioned as a value-focused import, priced from $18,030 ex-factory. On landed cost, Qatar offers the cheapest entry at about +28.2% over base (≈ $23,111 landed), while Germany levies only the 10% standard tariff. This positions it for executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "BYD Han L DM-i"
-description: "BYD Han L DM-i is a Sedan plug-in hybrid from BYD, offering 200 km of CLTC range a 29.4 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Han L DM-i is BYD's sedan plug-in hybrid electric with 200 km of CLTC range, a 29 kWh battery, 200 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-han-l-dm-i"
 brand: "byd"
 type: "Sedan"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,8 +56,7 @@ BYD Han L DM-i (starting at $29,140) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Han L DM-i is a sedan plug-in hybrid from BYD, with 200 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $29,140 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $36,576 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+BYD Han L DM-i is a sedan plug-in hybrid electric offered by BYD. Specification highlights are 200 km/h top speed, a 6.9-second 0–100 km/h time, and a CLTC-rated range of 200 km. Chassis details include LFP (Blade) chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $29,140 positions it as a mid-market import. On landed cost, the lowest landed premium is Qatar at roughly +19.3% over base (about $34,777 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 07"
-description: "Bestune Yueyi 07 is a SUV plug-in hybrid from Bestune, offering 150 km of CLTC range a 21.2 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Bestune Yueyi 07 is an SUV plug-in hybrid offered by Bestune, offering a CLTC-rated range of 150 km, a 21 kWh battery, 168 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "bestune-yueyi-07"
 brand: "bestune"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,8 +57,7 @@ Bestune Yueyi 07 (starting at $13,860) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune Yueyi 07 is a suv plug-in hybrid from Bestune, with 168 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. In practice, the 11.9 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Bestune Yueyi 07 is Bestune's SUV plug-in hybrid. It carries peak torque of 340 Nm, 21 kWh of battery capacity, and a CLTC-rated range of 150 km. The platform pairs LFP chemistry with FWD drivetrain. Pricing starts at $13,860 ex-factory, placing it in the entry-level tier. Across export markets, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

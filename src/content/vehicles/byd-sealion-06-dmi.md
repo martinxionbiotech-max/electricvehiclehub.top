@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 06 DM-i"
-description: "BYD Sealion 06 DM-i is a suv from Byd, a 18.3 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "BYD Sealion 06 DM-i is an SUV plug-in hybrid electric offered by BYD, offering 150 km of CLTC range, a 18 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-sealion-06-dmi"
 brand: "byd"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Byd Sealion 06 DMI (starting at $19,690) is a SUV from BYD.
 
 ## Overview
 
-The Byd Sealion 06 DMI is a midsize SUV plug-in hybrid from BYD, with 160 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $26,158 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 15.3 kWh/100km efficiency is strong for its 1,890 kg curb weight. It suits family and executive buyers prioritizing space.
+BYD Sealion 06 DM-i is an SUV plug-in hybrid electric offered by BYD. Specification highlights are a CLTC-rated range of 150 km and a 7.5-second 0–100 km/h time. The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. Pricing starts at $19,690 ex-factory, placing it in the value tier. For importers, the least-costly destination is Qatar, near +26.2% over base ($24,854 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

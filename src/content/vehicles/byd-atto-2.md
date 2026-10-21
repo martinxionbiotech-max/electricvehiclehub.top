@@ -1,6 +1,6 @@
 ---
 title: "BYD Atto 2"
-description: "BYD Atto 2 is a suv from Byd, offering 301 km of CLTC range a 32 kWh battery and 70 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Atto 2 is an SUV battery-electric from BYD with a CLTC-rated range of 301 km, a 32 kWh battery, 70 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-atto-2"
 brand: "byd"
 type: "SUV"
@@ -58,7 +58,7 @@ Byd Atto 2 (starting at $10,540) is a SUV from BYD.
 
 ## Overview
 
-The Byd Atto 2 is a subcompact SUV battery-electric from BYD, with 301 km of CLTC range, 70 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $10,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +52% over base (about $16,070 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 12.0 kWh/100km efficiency is strong for its 1,430 kg curb weight. It suits urban families who want a raised driving position.
+The BYD Atto 2 is an SUV battery-electric from BYD. Specification highlights are a top speed of 150 km/h and a 12-second 0–100 km/h time. Chassis details include LFP (Blade) chemistry, plus a MacPherson strut front / Torsion beam rear suspension setup. At an ex-factory price of $10,540, it sits in the entry-level segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +44.7% over base (≈ $15,247 landed), while Germany applies a 17% countervailing duty on top of the 10% standard tariff. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

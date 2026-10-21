@@ -1,6 +1,6 @@
 ---
 title: "BYD E3"
-description: "BYD E3 is a sedan from Byd, a 43.2 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD E3 is BYD's sedan battery-electric with a CLTC-rated range of 401 km, 43 kWh of battery, 100 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-e3"
 brand: "byd"
 type: "Sedan"
@@ -53,7 +53,7 @@ Byd E3 (starting at $21,800) is a Sedan from BYD.
 
 ## Overview
 
-The Byd E3 is a compact sedan battery-electric from BYD, with 100 kW of motor power. It is positioned as a value-focused import, priced from $21,800 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,484 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is strong for its 1,360 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits budget-conscious commuters and ride-hailing fleets.
+The BYD E3 is BYD's sedan battery-electric. Specification highlights are 180 Nm of torque and 43 kWh of battery capacity. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus FWD drivetrain. Pricing starts at $21,800 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +24.2% over base ($27,070 landed), while Germany's estimate carries a 17% countervailing duty over the 10% base tariff. It suits importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

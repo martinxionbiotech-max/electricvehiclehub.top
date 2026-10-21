@@ -1,6 +1,6 @@
 ---
 title: "Aito M5"
-description: "Aito M5 is a suv from Aito, a 42 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aito M5 is an SUV fully electric from AITO, offering a CLTC-rated range of 620 km, a 83 kWh battery, 200 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aito-m5"
 brand: "aito"
 type: "SUV"
@@ -58,7 +58,7 @@ Aito M5 (starting at $32,370) is a SUV from AITO.
 
 ## Overview
 
-The Aito M5 is a compact SUV battery-electric from AITO, with 200 kW of motor power, a 7.1-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,138 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 19.5 kWh/100km efficiency is strong for its 2,220 kg curb weight. It suits families and fleet buyers who need practicality.
+Aito M5 is an SUV battery-electric offered by AITO. Specification highlights are 200 km/h top speed and a CLTC-rated range of 620 km. The platform pairs NMC (CATL) chemistry with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $32,370, it sits in the mid-market segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +17.9% over base (≈ $38,168 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

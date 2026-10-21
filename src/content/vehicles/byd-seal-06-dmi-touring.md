@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 DM-i Touring"
-description: "BYD Seal 06 DM-i Touring is a sedan from Byd, a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Seal 06 DM-i Touring is BYD's sedan plug-in hybrid, offering 150 km of CLTC range, a 18 kWh battery, 120 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-seal-06-dmi-touring"
 brand: "byd"
 type: "Sedan"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd Seal 06 DMI Touring (starting at $15,460) is a Sedan from BYD.
 
 ## Overview
 
-The Byd Seal 06 DMI Touring is a midsize sedan plug-in hybrid from BYD, with 120 kW of motor power. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 12.1 kWh/100km efficiency is strong for its 1,700 kg curb weight. It suits business fleets and long-distance commuters.
+The BYD Seal 06 DM-i Touring is BYD's sedan plug-in hybrid. Specification highlights are peak torque of 210 Nm and 0–100 km/h in 8.7 seconds. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drive. It is positioned as a mainstream-value import, priced from $15,460 ex-factory. Across export markets, the least-costly destination is Qatar, near +32% over base ($20,413 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07 EREV"
-description: "Avatr 07 EREV is a SUV extended-range electric from Avatr, offering 245 km of CLTC range a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Avatr 07 EREV is Avatr's SUV extended-range electric with a CLTC-rated range of 245 km, 39 kWh of battery, 231 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "avatr-07-erev"
 brand: "avatr"
 type: "SUV"
@@ -37,8 +37,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,8 +56,7 @@ Avatr 07 EREV (starting at $30,540) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 07 EREV is a suv extended-range electric from Avatr, with 231 kW of motor power, a 6.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $30,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $38,120 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Avatr 07 EREV is an SUV extended-range electric offered by Avatr. Specification highlights are peak torque of 367 Nm and peak output of 231 kW. The platform pairs NMC (CATL) chemistry with Double wishbone front / Multi-link rear suspension. Pricing starts at $30,540 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +18.7% over base (≈ $36,247 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

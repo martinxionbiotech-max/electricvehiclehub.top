@@ -1,6 +1,6 @@
 ---
 title: "BYD E2"
-description: "BYD E2 is a sedan from Byd, offering 405 km of CLTC range a 43.2 kWh battery and 70 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD E2 is BYD's sedan fully electric with 405 km of CLTC range, 43 kWh of battery, 70 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-e2"
 brand: "byd"
 type: "Sedan"
@@ -58,7 +58,7 @@ Byd E2 (starting at $12,650) is a Sedan from BYD.
 
 ## Overview
 
-The Byd E2 is a compact sedan battery-electric from BYD, with 405 km of CLTC range, 70 kW of motor power, a 4.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $12,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,397 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 10.3 kWh/100km efficiency is strong for its 1,340 kg curb weight. It suits budget-conscious commuters and ride-hailing fleets.
+The BYD E2 is a sedan battery-electric from BYD. Specification highlights are 130 km/h top speed, 0–100 km/h in 4.9 seconds, and a rated range of 405 km (CLTC). The platform pairs LFP (Blade) chemistry with FWD drive. It is positioned as a budget import, priced from $12,650 ex-factory. For importers, the lowest landed premium is Qatar at roughly +38% over base (about $17,462 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. This positions it for business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

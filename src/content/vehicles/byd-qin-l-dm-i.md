@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin L DM-i"
-description: "BYD Qin L DM-i is a Sedan plug-in hybrid from BYD, offering 80 km of CLTC range a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "BYD Qin L DM-i is a sedan plug-in hybrid electric offered by BYD, offering a CLTC-rated range of 80 km, 10 kWh of battery, 120 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-qin-l-dm-i"
 brand: "byd"
 type: "Sedan"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,8 +56,7 @@ BYD Qin L DM-i (starting at $13,860) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Qin L DM-i is a sedan plug-in hybrid from BYD, with 120 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The BYD Qin L DM-i is a sedan plug-in hybrid electric from BYD. Specification highlights are 180 km/h top speed and peak output of 120 kW. Chassis details include FWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as an entry-level import, priced from $13,860 ex-factory. For importers, the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

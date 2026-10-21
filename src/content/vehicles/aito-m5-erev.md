@@ -1,6 +1,6 @@
 ---
 title: "Aito M5 EREV"
-description: "Aito M5 EREV is a SUV extended-range electric from AITO, offering 255 km of CLTC range a 40.0 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Aito M5 EREV is an SUV range-extended electric offered by AITO, offering a CLTC-rated range of 255 km, a 40 kWh battery, 200 kW of motor power, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aito-m5-erev"
 brand: "aito"
 type: "SUV"
@@ -36,8 +36,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Aito M5 EREV (starting at $31,920) is a SUV from AITO.
 
 ## Overview
 
-The Aito M5 EREV is a suv extended-range electric from AITO, with 200 kW of motor power, a 7.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $31,920 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $39,641 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Aito M5 EREV is an SUV extended-range electric offered by AITO. It carries 255 km of CLTC range and peak output of 200 kW. Chassis details include MacPherson strut front / Multi-link rear suspension, plus RWD / AWD drivetrain. Pricing starts at $31,920 ex-factory, placing it in the mid-market tier. On landed cost, the lowest landed premium is Qatar at roughly +18.1% over base (about $37,696 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

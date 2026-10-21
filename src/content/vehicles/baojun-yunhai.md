@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yunhai"
-description: "Baojun Yunhai is a suv from Baojun, offering 500 km of CLTC range a 56.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Baojun Yunhai is an SUV battery-electric offered by Baojun with a CLTC-rated range of 500 km, a 56 kWh battery, 150 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "baojun-yunhai"
 brand: "baojun"
 type: "SUV"
@@ -53,7 +53,7 @@ Baojun Yunhai (starting at $15,460) is a SUV from BAOJUN.
 
 ## Overview
 
-The Baojun Yunhai is a compact SUV battery-electric from BAOJUN, with 500 km of CLTC range, 150 kW of motor power. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.3 kWh/100km efficiency is strong for its 1,675 kg curb weight. It suits families and fleet buyers who need practicality.
+The Baojun Yunhai is an SUV fully electric from Baojun. Specification highlights are a CLTC-rated range of 500 km, a 150 kW electric motor, and 56 kWh of battery capacity. Chassis details include FWD drivetrain, plus LFP chemistry. The ex-factory price of $15,460 positions it as a value-focused import. Across export markets, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed); meanwhile, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

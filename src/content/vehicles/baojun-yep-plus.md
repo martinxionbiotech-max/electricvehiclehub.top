@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yep Plus"
-description: "Baojun Yep Plus is a suv from Baojun, offering 301 km of CLTC range a 31.9 kWh battery and 75 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Baojun Yep Plus is Baojun's SUV fully electric, offering 301 km of CLTC range, a 31 kWh battery, 75 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "baojun-yep-plus"
 brand: "baojun"
 type: "SUV"
@@ -55,7 +55,7 @@ Baojun YEP PLUS (starting at $10,820) is a SUV from BAOJUN.
 
 ## Overview
 
-The Baojun YEP PLUS is a subcompact SUV battery-electric from BAOJUN, with 301 km of CLTC range, 75 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $10,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +51% over base (about $16,379 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.2 kWh/100km efficiency is strong for its 1,255 kg curb weight. It suits urban families who want a raised driving position.
+The Baojun Yep Plus is Baojun's SUV battery-electric. It carries 180 Nm of torque and 301 km of CLTC range. Chassis details include RWD drive, plus MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $10,820 positions it as an affordable-end import. On landed cost, the least-costly destination is Qatar, near +43.6% over base ($15,541 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

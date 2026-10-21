@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AS"
-description: "Arcfox AS is a suv from Arcfox, offering 602 km of CLTC range a 74.5 kWh battery and 252 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Arcfox AS is an SUV battery-electric from Arcfox with a CLTC-rated range of 602 km, 74 kWh of battery, 252 kW of motor power, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "arcfox-as"
 brand: "arcfox"
 type: "SUV"
@@ -58,7 +58,7 @@ Arcfox AS (starting at $36,170) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox AS is a midsize SUV battery-electric from ARCFOX, with 602 km of CLTC range, 252 kW of motor power, a 6.4-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $36,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $44,327 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.8 kWh/100km efficiency is strong for its 1,985 kg curb weight. It suits family and executive buyers prioritizing space.
+Arcfox AS is an SUV fully electric offered by Arcfox. Specification highlights are a rated range of 602 km (CLTC) and peak torque of 370 Nm. The platform pairs NMC chemistry with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $36,170, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +16.6% over base (≈ $42,158 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

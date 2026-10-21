@@ -1,6 +1,6 @@
 ---
 title: "BYD E7"
-description: "BYD E7 is a sedan from Byd, offering 450 km of CLTC range a 48 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD E7 is BYD's sedan fully electric with a CLTC-rated range of 450 km, 48 kWh of battery, 100 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-e7"
 brand: "byd"
 type: "Sedan"
@@ -57,7 +57,7 @@ Byd E7 (starting at $14,620) is a Sedan from BYD.
 
 ## Overview
 
-The Byd E7 is a midsize sedan battery-electric from BYD, with 450 km of CLTC range, 100 kW of motor power, a 4.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,620 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +41% over base (about $20,569 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is strong for its 1,499 kg curb weight. It suits business fleets and long-distance commuters.
+BYD E7 is a sedan battery-electric offered by BYD. Specification highlights are peak output of 100 kW and a rated range of 450 km (CLTC). The platform pairs LFP (Blade) chemistry with FWD drive. At an ex-factory price of $14,620, it sits in the entry-level segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +33.6% over base (about $19,531 landed); meanwhile, Germany applies a 17% countervailing duty on top of the 10% standard tariff. The profile suits importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

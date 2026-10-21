@@ -1,6 +1,6 @@
 ---
 title: "BYD Destroyer 05"
-description: "BYD Destroyer 05 is a sedan from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "BYD Destroyer 05 is a sedan plug-in hybrid offered by BYD with a CLTC-rated range of 120 km, 18 kWh of battery, 132 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-destroyer-05"
 brand: "byd"
 type: "Sedan"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd Destroyer 05 (starting at $14,340) is a Sedan from BYD.
 
 ## Overview
 
-The Byd Destroyer 05 is a midsize sedan plug-in hybrid from BYD, with 132 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,340 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +41% over base (about $20,260 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is strong for its 1,515 kg curb weight. It suits business fleets and long-distance commuters.
+BYD Destroyer 05 is a sedan plug-in hybrid electric offered by BYD. Specification highlights are 18 kWh of battery capacity and 316 Nm of torque. The platform pairs FWD drive with a MacPherson strut front / Torsion beam rear suspension setup. It is positioned as an entry-level import, priced from $14,340 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +34.1% over base (about $19,237 landed) — Germany levies only the 10% standard tariff. This positions it for budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

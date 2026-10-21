@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Plus DM-i"
-description: "BYD Qin Plus DM-i is a Sedan plug-in hybrid from BYD, offering 55 km of CLTC range a 8.32 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Qin Plus DM-i is BYD's sedan plug-in hybrid electric, offering 55 km of CLTC range, 8 kWh of battery, 120 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-qin-plus-dm-i"
 brand: "byd"
 type: "Sedan"
@@ -34,8 +34,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ BYD Qin Plus DM-i (starting at $11,080) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Qin Plus DM-i is a sedan plug-in hybrid from BYD, with 120 kW of motor power. It is positioned as a value-focused import, priced from $11,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,665 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The BYD Qin Plus DM-i is a sedan plug-in hybrid from BYD. Specification highlights are a 120 kW electric motor and 55 km of CLTC range. The platform pairs FWD drivetrain with LFP (Blade) cells. At an ex-factory price of $11,080, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +42.7% over base (≈ $15,814 landed), while Germany levies only the 10% standard tariff. The profile suits executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

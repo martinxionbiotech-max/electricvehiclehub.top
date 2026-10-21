@@ -1,6 +1,6 @@
 ---
 title: "Aito M7 EREV"
-description: "Aito M7 EREV is a SUV extended-range electric from AITO, offering 327 km of CLTC range a 37.0 kWh battery and 227 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aito M7 EREV is an SUV extended-range electric from AITO with 327 km of CLTC range, 37 kWh of battery, 227 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aito-m7-erev"
 brand: "aito"
 type: "SUV"
@@ -35,8 +35,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,8 +53,7 @@ Aito M7 EREV (starting at $41,640) is a SUV from AITO.
 
 ## Overview
 
-The Aito M7 EREV is a suv extended-range electric from AITO, with 227 kW of motor power. It is positioned as a value-focused import, priced from $41,640 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $50,358 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Aito M7 EREV is AITO's SUV extended-range electric. Specification highlights are peak output of 227 kW and peak torque of 320 Nm. The platform pairs NMC (CATL) chemistry with RWD / AWD drivetrain. At an ex-factory price of $41,640, it sits in the premium segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +15% over base (≈ $47,902 landed), while Germany levies only the 10% standard tariff. The profile suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

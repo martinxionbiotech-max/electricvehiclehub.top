@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L7"
-description: "Aeolus L7 is a suv from Aeolus, offering 205 km of pure-electric CLTC range, a 30.3 kWh battery, and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Aeolus L7 is an SUV plug-in hybrid offered by Aeolus with 205 km of CLTC range, 30 kWh of battery, 120 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aeolus-l7"
 brand: "aeolus"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Aeolus L7 (starting at $13,370) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus L7 is a compact SUV battery-electric from AEOLUS, with 430 km of CLTC range, 120 kW of motor power. It is positioned as a value-focused import, priced from $13,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +44% over base (about $19,190 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.0 kWh/100km efficiency is strong for its 1,618 kg curb weight. It suits families and fleet buyers who need practicality.
+The Aeolus L7 is an SUV plug-in hybrid electric from Aeolus. Specification highlights are a 30 kWh battery and a 120 kW electric motor. Chassis details include LFP cells, plus FWD drive. It is positioned as a budget import, priced from $13,370 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +36.3% over base (about $18,218 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

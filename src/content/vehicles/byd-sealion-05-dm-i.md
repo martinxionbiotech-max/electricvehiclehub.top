@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 05 DM I"
-description: "BYD Sealion 05 DM I is a suv from Byd, a 12.9 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Sealion 05 DM I is an SUV plug-in hybrid electric from BYD with a CLTC-rated range of 115 km, 12 kWh of battery, 120 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-sealion-05-dm-i"
 brand: "byd"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd Sealion 05 DM I (starting at $14,480) is a SUV from BYD.
 
 ## Overview
 
-The Byd Sealion 05 DM I is a compact SUV plug-in hybrid from BYD, with 120 kW of motor power. It is positioned as a value-focused import, priced from $14,480 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +41% over base (about $20,414 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 13.1 kWh/100km efficiency is strong for its 1,670 kg curb weight. It suits families and fleet buyers who need practicality.
+The BYD Sealion 05 DM I is an SUV plug-in hybrid from BYD. It carries a top speed of 180 km/h and 210 Nm of torque. Chassis details include FWD drive, plus MacPherson strut front / Multi-link rear suspension. It is positioned as an affordable-end import, priced from $14,480 ex-factory. Across export markets, Qatar offers the cheapest entry at about +33.9% over base (≈ $19,384 landed), while Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

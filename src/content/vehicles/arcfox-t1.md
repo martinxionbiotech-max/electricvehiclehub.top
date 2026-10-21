@@ -1,6 +1,6 @@
 ---
 title: "Arcfox T1"
-description: "Arcfox T1 is a suv from Arcfox, offering 320 km of CLTC range a 33.4 kWh battery and 95 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Arcfox T1 is Arcfox's SUV fully electric, offering 320 km of CLTC range, a 33 kWh battery, 95 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "arcfox-t1"
 brand: "arcfox"
 type: "SUV"
@@ -57,7 +57,7 @@ Arcfox T1 (starting at $8,850) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox T1 is a subcompact SUV battery-electric from ARCFOX, with 320 km of CLTC range, 95 kW of motor power, a 3.9-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $8,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +60% over base (about $14,207 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.2 kWh/100km efficiency is strong for its 1,415 kg curb weight. It suits urban families who want a raised driving position.
+The Arcfox T1 is an SUV battery-electric from Arcfox. Specification highlights are 33 kWh of battery capacity and peak torque of 176 Nm. The platform pairs NMC (ternary) cells with RWD drivetrain. Pricing starts at $8,850 ex-factory, placing it in the entry-level tier. On landed cost, the least-costly destination is Qatar, near +52.2% over base ($13,472 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

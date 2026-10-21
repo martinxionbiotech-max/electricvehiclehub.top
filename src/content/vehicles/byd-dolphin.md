@@ -1,6 +1,6 @@
 ---
 title: "BYD Dolphin"
-description: "The Dolphin is BYD's city-car ace — a 4,280 mm hatchback that packs a 45.12 kWh Blade battery and 418 km of CLTC range into a footprint smaller than a Golf. A 7"
+description: "The BYD Dolphin is BYD's hatchback fully electric, offering a CLTC-rated range of 418 km, 45 kWh of battery, 70 kW of motor power, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-dolphin"
 brand: "byd"
 type: "Hatchback"
@@ -60,7 +60,7 @@ BYD Dolphin (starting at $14,020) is a Hatchback from BYD.
 
 ## Overview
 
-The BYD Dolphin is a compact sedan battery-electric from BYD, with 418 km of CLTC range, 70 kW of motor power, a 4.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,020 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,907 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.2 kWh/100km efficiency is strong for its 1,410 kg curb weight. It suits budget-conscious commuters and ride-hailing fleets.
+The BYD Dolphin is BYD's hatchback battery-electric. It carries a 45 kWh battery, 0–100 km/h in 4.3 seconds, and a rated range of 418 km (CLTC). Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP (Blade) cells. It is positioned as an affordable-end import, priced from $14,020 ex-factory. For importers, the lowest landed premium is Qatar at roughly +34.8% over base (about $18,901 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits city-focused buyers and delivery fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

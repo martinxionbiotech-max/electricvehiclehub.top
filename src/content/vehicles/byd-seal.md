@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal"
-description: "The Seal is BYD's answer to the Tesla Model 3, built on the e-Platform 3.0 with the brand's signature Blade battery and cell-to-body construction. At just under"
+description: "The BYD Seal is BYD's sedan battery-electric, offering a CLTC-rated range of 450 km, 61 kWh of battery, 170 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-seal"
 brand: "byd"
 type: "Sedan"
@@ -62,7 +62,7 @@ BYD Seal (starting at $24,690) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Seal is a midsize sedan battery-electric from BYD, with 450 km of CLTC range, 170 kW of motor power, a 6.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $24,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,671 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 13.0 kWh/100km efficiency is strong for its 1,950 kg curb weight. It suits business fleets and long-distance commuters.
+The BYD Seal is BYD's sedan battery-electric. It carries a rated range of 450 km (CLTC) and peak output of 170 kW. The platform pairs a drag coefficient of 0.219 with RWD / AWD drivetrain. Pricing starts at $24,690 ex-factory, placing it in the value tier. Across export markets, Qatar offers the cheapest entry at about +21.9% over base (≈ $30,104 landed); meanwhile, Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

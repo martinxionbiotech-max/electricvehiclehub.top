@@ -1,6 +1,6 @@
 ---
 title: "Avatr 11"
-description: "Avatr 11 is a suv from Avatr, a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Avatr 11 is Avatr's SUV battery-electric with 680 km of CLTC range, a 116 kWh battery, 231 kW peak output, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "avatr-11"
 brand: "avatr"
 type: "SUV"
@@ -59,7 +59,7 @@ Avatr 11 (starting at $40,830) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 11 is a midsize SUV battery-electric from AVATR, with 231 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a premium import, priced from $40,830 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $49,465 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 19.9 kWh/100km efficiency is strong for its 2,240 kg curb weight. It suits family and executive buyers prioritizing space.
+The Avatr 11 is an SUV battery-electric from Avatr. It carries a rated range of 680 km (CLTC), a top speed of 200 km/h, and peak torque of 367 Nm. Chassis details include RWD / AWD drive, plus NMC chemistry. It is positioned as an upper-mid import, priced from $40,830 ex-factory. Across export markets, Qatar offers the cheapest entry at about +15.2% over base (≈ $47,051 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

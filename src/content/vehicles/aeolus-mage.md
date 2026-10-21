@@ -1,6 +1,6 @@
 ---
 title: "Aeolus Mage"
-description: "Aeolus Mage is a suv from Aeolus, and 105 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aeolus Mage is Aeolus's SUV hybrid, offering 105 kW peak output and a NMC (Li-ion) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "aeolus-mage"
 brand: "aeolus"
 type: "SUV"
@@ -37,7 +37,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,7 +53,7 @@ Aeolus Mage (starting at $17,170) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus Mage is a compact SUV plug-in hybrid from AEOLUS, with 105 kW of motor power, a 6.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $17,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,380 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The Aeolus Mage is an SUV non-plug-in hybrid from Aeolus. It carries a top speed of 170 km/h, 210 Nm of torque, and 0–100 km/h in 6 seconds. Chassis details include FWD drive, plus NMC (Li-ion) chemistry. At an ex-factory price of $17,170, it sits in the value segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +29.3% over base ($22,208 landed), while Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

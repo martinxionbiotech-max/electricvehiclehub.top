@@ -1,6 +1,6 @@
 ---
 title: "BYD Frigate 07"
-description: "BYD Frigate 07 is a suv from Byd, a 18.3 kWh battery and 145 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Frigate 07 is BYD's SUV plug-in hybrid electric with a CLTC-rated range of 205 km, 36 kWh of battery, 145 kW of motor power, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "byd-frigate-07"
 brand: "byd"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd Frigate 07 (starting at $25,320) is a SUV from BYD.
 
 ## Overview
 
-The Byd Frigate 07 is a midsize SUV plug-in hybrid from BYD, with 145 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,320 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,365 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 21.5 kWh/100km efficiency is unremarkable for its 2,047 kg curb weight. It suits family and executive buyers prioritizing space.
+The BYD Frigate 07 is an SUV plug-in hybrid electric from BYD. Specification highlights are 180 km/h top speed and a 8.5-second 0–100 km/h time. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus LFP (Blade) chemistry. The ex-factory price of $25,320 positions it as a mid-tier import. Across export markets, the lowest landed premium is Qatar at roughly +21.5% over base (about $30,766 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

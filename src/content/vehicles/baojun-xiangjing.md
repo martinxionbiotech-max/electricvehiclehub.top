@@ -1,6 +1,6 @@
 ---
 title: "Baojun Xiangjing"
-description: "Baojun Xiangjing is a suv from Baojun, a 20.5 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Baojun Xiangjing is a sedan fully electric offered by Baojun with 600 km of CLTC range, 69 kWh of battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "baojun-xiangjing"
 brand: "baojun"
 type: "Sedan"
@@ -55,7 +55,7 @@ Baojun Xiangjing (starting at $18,280) is a SUV from BAOJUN.
 
 ## Overview
 
-The Baojun Xiangjing is a midsize SUV battery-electric from BAOJUN, with 160 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,604 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.9 kWh/100km efficiency is strong for its 1,840 kg curb weight. It suits family and executive buyers prioritizing space.
+The Baojun Xiangjing is a sedan fully electric from Baojun. It carries a 7.9-second 0–100 km/h time and a top speed of 190 km/h. Chassis details include LFP chemistry, plus FWD drivetrain. The ex-factory price of $18,280 positions it as a value-segment import. For importers, Qatar offers the cheapest entry at about +27.9% over base (≈ $23,374 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

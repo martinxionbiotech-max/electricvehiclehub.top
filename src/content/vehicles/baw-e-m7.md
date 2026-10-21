@@ -1,6 +1,6 @@
 ---
 title: "Baw E M7"
-description: "Baw E M7 is a mpv from Baw, offering 340 km of CLTC range a 50 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Baw E M7 is an MPV battery-electric offered by BAW with a CLTC-rated range of 340 km, 50 kWh of battery, 100 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "baw-e-m7"
 brand: "baw"
 type: "MPV"
@@ -55,7 +55,7 @@ Baw E M7 (starting at $14,060) is a MPV from BAW.
 
 ## Overview
 
-The Baw E M7 is a MPV battery-electric from BAW, with 340 km of CLTC range, 100 kW of motor power. It is positioned as a value-focused import, priced from $14,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,951 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.4 kWh/100km efficiency is strong for its 1,870 kg curb weight. It suits shuttle operators and large families.
+The Baw E M7 is an MPV battery-electric from BAW. Specification highlights are a top speed of 100 km/h and 230 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with RWD drive. The ex-factory price of $14,060 positions it as a budget import. On landed cost, the lowest landed premium is Qatar at roughly +34.7% over base (about $18,943 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

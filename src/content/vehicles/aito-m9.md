@@ -1,6 +1,6 @@
 ---
 title: "Aito M9"
-description: "Aito M9 is a suv from Aito, a 52 kWh battery and 365 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aito M9 is an SUV fully electric from AITO with 630 km of CLTC range, 100 kWh of battery, 365 kW peak output, and NMC (Qilin) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "aito-m9"
 brand: "aito"
 type: "SUV"
@@ -62,7 +62,7 @@ Aito M9 (starting at $66,170) is a SUV from AITO.
 
 ## Overview
 
-The Aito M9 is a full-size SUV battery-electric from AITO, with 365 kW of motor power, a 4.9-second 0–100 km/h time. It is a luxury-tier flagship, priced from $66,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +17% over base (about $77,402 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 23.3 kWh/100km efficiency is unremarkable for its 2,650 kg curb weight. It suits large families and executive fleets.
+Aito M9 is an SUV fully electric offered by AITO. Specification highlights are 200 km/h top speed, peak output of 365 kW, and 675 Nm of torque. The platform pairs a drag coefficient of 0.264 with AWD drivetrain. It is positioned as a flagship import, priced from $66,170 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +11.3% over base (about $73,658 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

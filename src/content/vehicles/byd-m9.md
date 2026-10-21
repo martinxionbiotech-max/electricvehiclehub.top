@@ -1,6 +1,6 @@
 ---
 title: "BYD M9"
-description: "BYD M9 is a mpv from Byd, a 20.39 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD M9 is BYD's MPV plug-in hybrid electric, offering a CLTC-rated range of 180 km, a 20 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-m9"
 brand: "byd"
 type: "MPV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Byd M9 (starting at $32,370) is a MPV from BYD.
 
 ## Overview
 
-The Byd M9 is a MPV plug-in hybrid from BYD, with 200 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,138 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 17.8 kWh/100km efficiency is strong for its 2,470 kg curb weight. It suits shuttle operators and large families.
+BYD M9 is an MPV plug-in hybrid electric offered by BYD. Specification highlights are 190 km/h top speed, a 200 kW electric motor, and 20 kWh of battery capacity. Chassis details include FWD drivetrain, plus LFP (Blade) chemistry. It is positioned as a mid-tier import, priced from $32,370 ex-factory. For importers, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,168 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

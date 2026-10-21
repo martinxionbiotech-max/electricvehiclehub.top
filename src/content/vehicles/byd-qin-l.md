@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin L"
-description: "BYD Qin L is a sedan from Byd, a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Qin L is BYD's sedan battery-electric, offering 545 km of CLTC range, a 56 kWh battery, 120 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-qin-l"
 brand: "byd"
 type: "Sedan"
@@ -58,7 +58,7 @@ Byd QIN L (starting at $13,600) is a Sedan from BYD.
 
 ## Overview
 
-The Byd QIN L is a midsize sedan battery-electric from BYD, with 120 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,600 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,444 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.1 kWh/100km efficiency is strong for its 1,660 kg curb weight. It suits business fleets and long-distance commuters.
+BYD Qin L is a sedan battery-electric offered by BYD. Specification highlights are a rated range of 545 km (CLTC) and peak output of 120 kW. Chassis details include LFP (Blade) cells, plus FWD drive. It is positioned as an affordable-end import, priced from $13,600 ex-factory. For importers, Qatar offers the cheapest entry at about +35.7% over base (≈ $18,460 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
