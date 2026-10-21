@@ -1,6 +1,6 @@
 ---
 title: "MG S5 EV"
-description: "MG S5 EV is a suv from Mg, offering 425 km of CLTC range a 49.1 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "MG S5 EV is an SUV fully electric offered by MG with a CLTC-rated range of 425 km, 49 kWh of battery, 125 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "mg-s5-ev"
 brand: "mg"
 type: "SUV"
@@ -58,7 +58,7 @@ Mg S5 EV (starting at $16,460) is a SUV from MG.
 
 ## Overview
 
-The Mg S5 EV is a compact SUV battery-electric from MG, with 425 km of CLTC range, 125 kW of motor power, a 7.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,597 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 13.3 kWh/100km efficiency is strong for its 1,615 kg curb weight. It suits families and fleet buyers who need practicality.
+MG S5 EV is an SUV fully electric offered by MG. Specification highlights are peak torque of 250 Nm and a 125 kW electric motor. Chassis details include LFP cells, plus FWD drive. It is positioned as a mainstream-value import, priced from $16,460 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +30.4% over base (about $21,463 landed); meanwhile, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

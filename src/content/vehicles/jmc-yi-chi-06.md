@@ -1,6 +1,6 @@
 ---
 title: "JMC Yi Chi 06"
-description: "JMC Yi Chi 06 is a MPV battery-electric from Jmc,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "JMC Yi Chi 06 is an MPV fully electric offered by JMC, offering LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "jmc-yi-chi-06"
 brand: "jmc"
 type: "MPV"
@@ -41,8 +41,7 @@ JMC Yi Chi 06 (starting at $28,420) is a MPV from JMC.
 
 ## Overview
 
-The JMC Yi Chi 06 is a mpv battery-electric from Jmc, . It is positioned as a value-focused import, priced from $28,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $35,783 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JMC Yi Chi 06 is an MPV battery-electric offered by JMC. Chassis details include RWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $28,420, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +19.7% over base (≈ $34,021 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine M3"
-description: "JAC Refine M3 is a mpv from JAC Refine, and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JAC Refine M3 is an MPV plug-in hybrid electric from JAC Refine with a CLTC-rated range of 63 km, a 17 kWh battery, 130 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "jac-refine-m3"
 brand: "jac-refine"
 type: "MPV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,7 +52,7 @@ Jac Refine M3 (starting at $15,480) is a MPV from JAC REFINE.
 
 ## Overview
 
-The Jac Refine M3 is a MPV plug-in hybrid from JAC-REFINE, with 130 kW of motor power. It is positioned as a value-focused import, priced from $15,480 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,517 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits shuttle operators and large families.
+The JAC Refine M3 is JAC Refine's MPV plug-in hybrid electric. Specification highlights are 63 km of CLTC range, peak output of 130 kW, and 320 Nm of torque. The platform pairs LFP cells with RWD drivetrain. At an ex-factory price of $15,480, it sits in the value segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +32% over base (≈ $20,434 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

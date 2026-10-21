@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L8"
-description: "Li Auto L8 is a suv from Li Auto, a 42.8 kWh battery and 330 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Li Auto L8 is Li Auto's SUV range-extended electric, offering a CLTC-rated range of 430 km, 42 kWh of battery, 330 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "li-auto-l8"
 brand: "li-auto"
 type: "SUV"
@@ -40,8 +40,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "Pro / Max / Ultra"
 brakes: "Front ventilated disc / rear disc"
@@ -59,7 +59,7 @@ Li Auto L8 (starting at $45,190) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto L8 is a midsize SUV extended-range electric from LI-AUTO, with 330 kW of motor power, a 5.3-second 0–100 km/h time. It is positioned as a premium import, priced from $45,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $54,272 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.9 kWh/100km efficiency is unremarkable for its 2,490 kg curb weight. It suits family and executive buyers prioritizing space.
+The Li Auto L8 is Li Auto's SUV range-extended electric. It carries a 330 kW electric motor and peak torque of 620 Nm. Chassis details include a Double wishbone front / Multi-link (air) rear suspension setup, plus LFP chemistry. The ex-factory price of $45,190 positions it as an upper-mid import. Across export markets, the least-costly destination is Qatar, near +14.2% over base ($51,629 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Maxus Mifa 9"
-description: "Maxus Mifa 9 is a mpv from Maxus, a 39.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Maxus Mifa 9 is Maxus's MPV fully electric, offering 560 km of CLTC range, 90 kWh of battery, 176 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "maxus-mifa-9"
 brand: "maxus"
 type: "MPV"
@@ -53,7 +53,7 @@ Maxus Mifa 9 (starting at $38,010) is a MPV from MAXUS.
 
 ## Overview
 
-The Maxus Mifa 9 is a MPV battery-electric from MAXUS, with 176 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $38,010 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $46,356 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 21.7 kWh/100km efficiency is unremarkable for its 2,440 kg curb weight. It suits shuttle operators and large families.
+The Maxus Mifa 9 is Maxus's MPV battery-electric. It carries a 176 kW electric motor, peak torque of 390 Nm, and 180 km/h top speed. Chassis details include NMC chemistry, plus FWD drivetrain. At an ex-factory price of $38,010, it sits in the mid-market segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +16% over base (≈ $44,090 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. It suits shuttle and charter fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

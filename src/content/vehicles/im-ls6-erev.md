@@ -1,6 +1,6 @@
 ---
 title: "IM LS6 EREV"
-description: "IM LS6 EREV is a SUV extended-range electric from IM, offering 370 km of CLTC range a 52.0 kWh battery and 230 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The IM LS6 EREV is IM's SUV extended-range electric with a CLTC-rated range of 370 km, a 52 kWh battery, 230 kW peak output, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "im-ls6-erev"
 brand: "im"
 type: "SUV"
@@ -34,8 +34,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ IM LS6 EREV (starting at $29,850) is a SUV from IM.
 
 ## Overview
 
-The IM LS6 EREV is a suv extended-range electric from IM, with 230 kW of motor power. It is positioned as a value-focused import, priced from $29,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $37,359 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+IM LS6 EREV is an SUV extended-range electric offered by IM. It carries a CLTC-rated range of 370 km, 52 kWh of battery capacity, and a 230 kW electric motor. The platform pairs Double wishbone front / Multi-link (air) rear suspension with NMC (CATL) cells. It is positioned as a mid-tier import, priced from $29,850 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +19% over base (about $35,522 landed) — Germany levies only the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

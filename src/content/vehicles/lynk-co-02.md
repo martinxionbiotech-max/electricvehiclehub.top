@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 02"
-description: "Lynk Co 02 is a suv from Lynk Co, and 115 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Lynk Co 02 is an SUV battery-electric from Lynk & Co, offering 530 km of CLTC range, 61 kWh of battery, 115 kW peak output, and LFP (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "lynk-co-02"
 brand: "lynk-co"
 type: "SUV"
@@ -54,7 +54,7 @@ Lynk Co 02 (starting at $16,870) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk Co 02 is a compact SUV battery-electric from LYNK-CO, with 115 kW of motor power. It is positioned as a value-focused import, priced from $16,870 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,049 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
+The Lynk Co 02 is an SUV battery-electric from Lynk & Co. Specification highlights are 0–100 km/h in 8.9 seconds and a CLTC-rated range of 530 km. Chassis details include LFP (CATL) cells, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $16,870 ex-factory, placing it in the value tier. On landed cost, the least-costly destination is Qatar, near +29.8% over base ($21,893 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Neta Aya"
-description: "Neta Aya is a SUV battery-electric from Neta, offering 318 km of CLTC range a 35.0 kWh battery and 40 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Neta Aya is Neta's SUV fully electric, offering a CLTC-rated range of 318 km, 35 kWh of battery, 40 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "neta-aya"
 brand: "neta"
 type: "SUV"
@@ -51,8 +51,7 @@ Neta Aya (starting at $9,140) is a SUV from NETA.
 
 ## Overview
 
-The Neta Aya is a suv battery-electric from Neta, with 40 kW of motor power. It is positioned as a value-focused import, priced from $9,140 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +58% over base (about $14,526 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Neta Aya is Neta's SUV battery-electric. It carries a 40 kW electric motor, a 35 kWh battery, and a CLTC-rated range of 318 km. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus FWD drivetrain. The ex-factory price of $9,140 positions it as an affordable-end import. Across export markets, Qatar offers the cheapest entry at about +50.7% over base (≈ $13,777 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

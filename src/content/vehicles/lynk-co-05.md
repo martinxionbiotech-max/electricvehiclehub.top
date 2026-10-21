@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 05"
-description: "Lynk Co 05 is a suv from Lynk Co, a 17.7 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Lynk & Co's Lynk Co 05 is an SUV plug-in hybrid, offering 85 km of CLTC range, 17 kWh of battery, 100 kW of motor power, and LFP (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "lynk-co-05"
 brand: "lynk-co"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,7 +54,7 @@ Lynk Co 05 (starting at $31,520) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk Co 05 is a compact SUV plug-in hybrid from LYNK-CO, with 100 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $31,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $39,201 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.0 kWh/100km efficiency is unremarkable for its 1,901 kg curb weight. It suits families and fleet buyers who need practicality.
+Lynk Co 05 is an SUV plug-in hybrid offered by Lynk & Co. It carries 210 km/h top speed, a 17 kWh battery, and a 100 kW electric motor. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP (CATL) chemistry. It is positioned as a mid-market import, priced from $31,520 ex-factory. For importers, the lowest landed premium is Qatar at roughly +18.3% over base (about $37,276 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

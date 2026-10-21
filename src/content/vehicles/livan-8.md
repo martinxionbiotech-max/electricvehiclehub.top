@@ -1,6 +1,6 @@
 ---
 title: "Livan 8"
-description: "Livan 8 is a MPV battery-electric from Livan, offering 515 km of CLTC range a 68.03 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Livan 8 is Livan's MPV battery-electric with 515 km of CLTC range, a 68 kWh battery, 100 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "livan-8"
 brand: "livan"
 type: "MPV"
@@ -54,8 +54,7 @@ Livan 8 (starting at $19,140) is a MPV from LIVAN.
 
 ## Overview
 
-The Livan 8 is a mpv battery-electric from Livan, with 100 kW of motor power. It is positioned as a value-focused import, priced from $19,140 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,551 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.38 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Livan 8 is an MPV battery-electric from Livan. Specification highlights are 68 kWh of battery capacity and a CLTC-rated range of 515 km. The platform pairs MacPherson strut front / Torsion beam rear suspension with FWD drivetrain. The ex-factory price of $19,140 positions it as a value-focused import. For importers, the least-costly destination is Qatar, near +26.8% over base ($24,277 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

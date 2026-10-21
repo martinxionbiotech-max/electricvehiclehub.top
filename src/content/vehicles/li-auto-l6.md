@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L6"
-description: "Li Auto L6 is a suv from Li Auto, a 36.8 kWh battery and 300 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Li Auto L6 is an SUV range-extended electric offered by Li Auto, offering 300 km of CLTC range, 36 kWh of battery, 300 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "li-auto-l6"
 brand: "li-auto"
 type: "SUV"
@@ -40,8 +40,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -58,7 +58,7 @@ Li Auto L6 (starting at $35,080) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto L6 is a midsize SUV extended-range electric from LI-AUTO, with 300 kW of motor power, a 5.4-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $35,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $43,126 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.1 kWh/100km efficiency is unremarkable for its 2,330 kg curb weight. It suits family and executive buyers prioritizing space.
+The Li Auto L6 is Li Auto's SUV extended-range electric. Specification highlights are peak torque of 529 Nm, 36 kWh of battery capacity, and a 5.4-second 0–100 km/h time. The platform pairs LFP cells with a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $35,080 ex-factory. On landed cost, Qatar offers the cheapest entry at about +16.9% over base (≈ $41,014 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

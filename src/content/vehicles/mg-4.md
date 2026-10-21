@@ -1,6 +1,6 @@
 ---
 title: "MG 4"
-description: "MG 4 is a hatchback from MG, offering 437 km of CLTC range a 42.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The MG 4 is a hatchback battery-electric from MG, offering 437 km of CLTC range, 42 kWh of battery, 120 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "mg-4"
 brand: "mg"
 type: "Hatchback"
@@ -41,8 +41,8 @@ suspension_rear: "Five-link"
 drag_coefficient: 0.28
 range_wltp_km: 350
 charging_interface: "CCS2 (DC) + Type 2 (AC) — EU export spec; GB/T (China)"
-charging_adapter: "EU-spec CCS2 native; no adapter required in EU"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval (CCS2 native, no adapter required). GCC: GSO conformity certificate."
 hs_code: "87038000"
 trim: "标准版 / 长续航 / XPower"
 brakes: "Front ventilated disc / rear disc"
@@ -61,7 +61,7 @@ Mg 4 (starting at $9,690) is a Hatchback from MG.
 
 ## Overview
 
-The Mg 4 is a subcompact hatchback battery-electric from MG, with 437 km of CLTC range, 120 kW of motor power, a 3.0-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $9,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +56% over base (about $15,133 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 10.4 kWh/100km efficiency is strong for its 1,415 kg curb weight. It suits urban families who want a practical, compact package.
+The MG 4 is a hatchback battery-electric from MG. It carries peak torque of 250 Nm and a 120 kW electric motor. The platform pairs a MacPherson strut front / Five-link rear suspension setup with RWD drive. Pricing starts at $9,690 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +48.1% over base (≈ $14,354 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. It suits city-focused buyers and delivery fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

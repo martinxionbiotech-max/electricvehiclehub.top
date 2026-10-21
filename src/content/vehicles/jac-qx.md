@@ -1,6 +1,6 @@
 ---
 title: "JAC QX"
-description: "JAC QX is a suv from Jac, offering 1300 km of CLTC range a 21.68 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "JAC QX is an SUV plug-in hybrid electric offered by JAC with 120 km of CLTC range, 21 kWh of battery, 150 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jac-qx"
 brand: "jac"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Jac QX (starting at $18,300) is a SUV from JAC.
 
 ## Overview
 
-The Jac QX is a compact SUV plug-in hybrid from JAC, with 1,300 km of CLTC range, 150 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,300 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,626 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.1 kWh/100km efficiency is strong for its 1,765 kg curb weight. It suits families and fleet buyers who need practicality.
+The JAC QX is JAC's SUV plug-in hybrid electric. It carries a 7.3-second 0–100 km/h time and peak torque of 300 Nm. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drive. Pricing starts at $18,300 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +27.8% over base (about $23,395 landed) — Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

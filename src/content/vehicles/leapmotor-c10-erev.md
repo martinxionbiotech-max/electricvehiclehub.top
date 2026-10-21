@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C10 EREV"
-description: "Leapmotor C10 EREV is a SUV extended-range electric from Leapmotor, offering 210 km of CLTC range a 28.4 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Leapmotor C10 EREV is Leapmotor's SUV extended-range electric with a CLTC-rated range of 210 km, 28 kWh of battery, 170 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-c10-erev"
 brand: "leapmotor"
 type: "SUV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Leapmotor C10 EREV (starting at $18,860) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C10 EREV is a suv extended-range electric from Leapmotor, with 170 kW of motor power, a 7.68-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,243 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor C10 EREV is Leapmotor's SUV extended-range electric. It carries 170 km/h top speed and 0–100 km/h in 7.68 seconds. The platform pairs MacPherson strut front / Multi-link rear suspension with LFP cells. Pricing starts at $18,860 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +27.2% over base (≈ $23,983 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

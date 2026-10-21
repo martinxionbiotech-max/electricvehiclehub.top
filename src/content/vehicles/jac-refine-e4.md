@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine E4"
-description: "JAC Refine E4 is a MPV battery-electric from JAC Refine, offering 440 km of CLTC range a 77.28 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JAC Refine E4 is JAC Refine's MPV battery-electric, offering 440 km of CLTC range, a 77 kWh battery, 130 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "jac-refine-e4"
 brand: "jac-refine"
 type: "MPV"
@@ -56,8 +56,7 @@ JAC Refine E4 (starting at $24,970) is a MPV from JAC REFINE.
 
 ## Overview
 
-The JAC Refine E4 is a mpv battery-electric from JAC Refine, with 130 kW of motor power. It is positioned as a value-focused import, priced from $24,970 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,979 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 18.6 kWh/100km efficiency is reasonable for its 2,210 kg curb weight; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The JAC Refine E4 is an MPV fully electric from JAC Refine. It carries a 77 kWh battery and a CLTC-rated range of 440 km. Chassis details include RWD drivetrain, plus MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $24,970, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +21.7% over base (≈ $30,398 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

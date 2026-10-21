@@ -1,6 +1,6 @@
 ---
 title: "JAC Yiwei Hua Xian Zi"
-description: "JAC Yiwei Hua Xian Zi is a sedan from JAC Yiwei, offering 301 km of CLTC range a 30.2 kWh battery and 36 kW of motor power. Full landed-cost breakdown to the..."
+description: "JAC Yiwei Hua Xian Zi is a sedan battery-electric offered by JAC Yiwei, offering a CLTC-rated range of 301 km, 30 kWh of battery, 36 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jac-yiwei-hua-xian-zi"
 brand: "jac-yiwei"
 type: "Sedan"
@@ -55,7 +55,7 @@ Jac Yiwei HUA Xian ZI (starting at $8,440) is a Sedan from JAC YIWEI.
 
 ## Overview
 
-The Jac Yiwei HUA Xian ZI is a compact sedan battery-electric from JAC-YIWEI, with 301 km of CLTC range, 36 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $8,440 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,755 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.1 kWh/100km efficiency is strong for its 1,100 kg curb weight. It suits budget-conscious commuters and ride-hailing fleets.
+The JAC Yiwei Hua Xian Zi is JAC Yiwei's sedan fully electric. Specification highlights are peak torque of 110 Nm and 301 km of CLTC range. Chassis details include FWD drive, plus LFP cells. Pricing starts at $8,440 ex-factory, placing it in the entry-level tier. On landed cost, Qatar offers the cheapest entry at about +54.5% over base (≈ $13,042 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

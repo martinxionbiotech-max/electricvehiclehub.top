@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor B01"
-description: "Leapmotor B01 is a suv from Leapmotor, offering 430 km of CLTC range a 43.9 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Leapmotor B01 is Leapmotor's SUV battery-electric with a CLTC-rated range of 430 km, 43 kWh of battery, 100 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "leapmotor-b01"
 brand: "leapmotor"
 type: "SUV"
@@ -57,7 +57,7 @@ Leapmotor B01 (starting at $12,610) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor B01 is a compact SUV battery-electric from LEAPMOTOR, with 430 km of CLTC range, 100 kW of motor power. It is positioned as a value-focused import, priced from $12,610 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +46% over base (about $18,353 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is strong for its 1,550 kg curb weight. It suits families and fleet buyers who need practicality.
+The Leapmotor B01 is Leapmotor's SUV battery-electric. Specification highlights are 43 kWh of battery capacity, a CLTC-rated range of 430 km, and 0–100 km/h in 9.4 seconds. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP chemistry. The ex-factory price of $12,610 positions it as a budget import. On landed cost, the lowest landed premium is Qatar at roughly +38.1% over base (about $17,420 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Jetour X70 C DM"
-description: "Jetour X70 C DM is a suv from Jetour, a 19.43 kWh battery and 199 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Jetour X70 C DM is an SUV plug-in hybrid from Jetour, offering 110 km of CLTC range, 19 kWh of battery, 199 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "jetour-x70-c-dm"
 brand: "jetour"
 type: "SUV"
@@ -37,8 +37,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,7 +54,7 @@ Jetour X70 C DM (starting at $21,110) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour X70 C DM is a compact SUV plug-in hybrid from JETOUR, with 199 kW of motor power. It is positioned as a value-focused import, priced from $21,110 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,724 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+Jetour X70 C DM is an SUV plug-in hybrid offered by Jetour. It carries 19 kWh of battery capacity and peak output of 199 kW. Chassis details include LFP cells, plus FWD drivetrain. It is positioned as a value-segment import, priced from $21,110 ex-factory. For importers, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,345 landed) — Germany levies only the 10% standard tariff. The profile suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

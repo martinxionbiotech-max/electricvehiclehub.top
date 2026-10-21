@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C16"
-description: "Leapmotor C16 is a suv from Leapmotor, a 28.4 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Leapmotor C16 is Leapmotor's SUV battery-electric with 520 km of CLTC range, a 67 kWh battery, 170 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "leapmotor-c16"
 brand: "leapmotor"
 type: "SUV"
@@ -59,7 +59,7 @@ Leapmotor C16 (starting at $21,380) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C16 is a midsize SUV battery-electric from LEAPMOTOR, with 170 kW of motor power. It is positioned as a value-focused import, priced from $21,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,021 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.5 kWh/100km efficiency is strong for its 2,065 kg curb weight. It suits family and executive buyers prioritizing space.
+Leapmotor C16 is an SUV fully electric offered by Leapmotor. Specification highlights are 320 Nm of torque, 170 km/h top speed, and a 67 kWh battery. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $21,380, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +24.6% over base (≈ $26,629 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

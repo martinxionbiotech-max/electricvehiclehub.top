@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L9"
-description: "Li Auto L9 is a suv from Li Auto, a 52.3 kWh battery and 330 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Li Auto L9 is Li Auto's SUV extended-range electric, offering 420 km of CLTC range, a 52 kWh battery, 330 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "li-auto-l9"
 brand: "li-auto"
 type: "SUV"
@@ -40,8 +40,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "Max / Ultra"
 brakes: "Front ventilated disc / rear disc"
@@ -60,7 +60,7 @@ Li Auto L9 (starting at $57,550) is a SUV from LI AUTO.
 
 ## Overview
 
-The Li Auto L9 is a full-size SUV extended-range electric from LI-AUTO, with 330 kW of motor power, a 5.18-second 0–100 km/h time. It is positioned as a premium import, priced from $57,550 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $67,899 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 23.3 kWh/100km efficiency is unremarkable for its 2,570 kg curb weight. It suits large families and executive fleets.
+The Li Auto L9 is Li Auto's SUV extended-range electric. Specification highlights are a 330 kW electric motor and 0–100 km/h in 5.18 seconds. Chassis details include AWD drivetrain, plus Double wishbone front / Multi-link (air) rear suspension. Pricing starts at $57,550 ex-factory, placing it in the premium tier. For importers, Qatar offers the cheapest entry at about +12.3% over base (≈ $64,607 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits premium-tier importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

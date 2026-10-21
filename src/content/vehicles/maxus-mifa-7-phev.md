@@ -1,6 +1,6 @@
 ---
 title: "Maxus MIFA 7 PHEV"
-description: "Maxus MIFA 7 PHEV is a MPV plug-in hybrid from Maxus, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Maxus MIFA 7 PHEV is Maxus's MPV plug-in hybrid electric, offering a 24 kWh battery, 176 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "maxus-mifa-7-phev"
 brand: "maxus"
 type: "MPV"
@@ -33,8 +33,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -50,8 +50,7 @@ Maxus MIFA 7 PHEV (starting at $27,760) is a MPV from MAXUS.
 
 ## Overview
 
-The Maxus MIFA 7 PHEV is a mpv plug-in hybrid from Maxus, with 176 kW of motor power. It is positioned as a value-focused import, priced from $27,760 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,055 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Maxus MIFA 7 PHEV is Maxus's MPV plug-in hybrid. It carries 24 kWh of battery capacity and a 176 kW electric motor. The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. Pricing starts at $27,760 ex-factory, placing it in the mid-market tier. On landed cost, the lowest landed premium is Qatar at roughly +20.1% over base (about $33,328 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits shuttle and charter fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

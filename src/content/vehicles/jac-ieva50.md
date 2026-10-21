@@ -1,6 +1,6 @@
 ---
 title: "JAC iEVA50"
-description: "JAC iEVA50 is a Sedan battery-electric from JAC, a 44.5 kWh battery and 92 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "JAC iEVA50 is a sedan fully electric offered by JAC, offering a 44 kWh battery, 92 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "jac-ieva50"
 brand: "jac"
 type: "Sedan"
@@ -48,8 +48,7 @@ JAC iEVA50 (starting at $19,380) is a Sedan from JAC.
 
 ## Overview
 
-The JAC iEVA50 is a sedan battery-electric from JAC, with 92 kW of motor power. It is positioned as a value-focused import, priced from $19,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,816 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JAC iEVA50 is a sedan battery-electric offered by JAC. Specification highlights are a 92 kW electric motor, peak torque of 270 Nm, and 130 km/h top speed. The platform pairs FWD drivetrain with LFP chemistry. At an ex-factory price of $19,380, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +26.6% over base ($24,529 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

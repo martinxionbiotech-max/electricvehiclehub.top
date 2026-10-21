@@ -1,6 +1,6 @@
 ---
 title: "Maxus Eg10"
-description: "Maxus Eg10 is a mpv from Maxus, a 71.8 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Maxus Eg10 is an MPV battery-electric from Maxus with a CLTC-rated range of 300 km, a 71 kWh battery, and 150 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "maxus-eg10"
 brand: "maxus"
 type: "MPV"
@@ -50,7 +50,7 @@ Maxus Eg10 (starting at $42,150) is a MPV from MAXUS.
 
 ## Overview
 
-The Maxus Eg10 is a MPV battery-electric from MAXUS, with 150 kW of motor power. It is positioned as a premium import, priced from $42,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $50,920 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, it suits shuttle operators and large families.
+Maxus Eg10 is an MPV fully electric offered by Maxus. Specification highlights are a CLTC-rated range of 300 km, peak output of 150 kW, and a 71 kWh battery. The platform pairs MacPherson strut front / Multi-link rear suspension with RWD drivetrain. Pricing starts at $42,150 ex-factory, placing it in the premium tier. For importers, the lowest landed premium is Qatar at roughly +14.9% over base (about $48,437 landed); meanwhile, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "JAC iEVS4"
-description: "JAC iEVS4 is a SUV battery-electric from JAC, offering 470 km of CLTC range a 66.0 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JAC iEVS4 is an SUV battery-electric from JAC with a CLTC-rated range of 470 km, 66 kWh of battery, 110 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "jac-ievs4"
 brand: "jac"
 type: "SUV"
@@ -54,8 +54,7 @@ JAC iEVS4 (starting at $19,380) is a SUV from JAC.
 
 ## Overview
 
-The JAC iEVS4 is a suv battery-electric from JAC, with 110 kW of motor power. It is positioned as a value-focused import, priced from $19,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,816 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The JAC iEVS4 is an SUV fully electric from JAC. It carries a CLTC-rated range of 470 km and a 66 kWh battery. Chassis details include LFP chemistry, plus a MacPherson strut front / Torsion beam rear suspension setup. At an ex-factory price of $19,380, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +26.6% over base ($24,529 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

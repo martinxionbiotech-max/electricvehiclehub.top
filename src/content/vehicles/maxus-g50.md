@@ -1,6 +1,6 @@
 ---
 title: "Maxus G50"
-description: "Maxus G50 is a mpv from Maxus, a 18.65 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Maxus G50 is an MPV plug-in hybrid offered by Maxus, offering 95 km of CLTC range, 18 kWh of battery, 160 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "maxus-g50"
 brand: "maxus"
 type: "MPV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,7 +54,7 @@ Maxus G50 (starting at $22,510) is a MPV from MAXUS.
 
 ## Overview
 
-The Maxus G50 is a MPV plug-in hybrid from MAXUS, with 160 kW of motor power. It is positioned as a value-focused import, priced from $22,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,267 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 15.1 kWh/100km efficiency is strong for its 1,800 kg curb weight. It suits shuttle operators and large families.
+Maxus G50 is an MPV plug-in hybrid electric offered by Maxus. It carries a 160 kW electric motor and a top speed of 180 km/h. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drive. The ex-factory price of $22,510 positions it as a value-focused import. Across export markets, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed) — Germany levies only the 10% standard tariff. This positions it for people-carrier operators and family buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

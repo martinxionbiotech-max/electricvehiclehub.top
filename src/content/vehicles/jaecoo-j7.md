@@ -1,6 +1,6 @@
 ---
 title: "Jaecoo J7"
-description: "Jaecoo J7 is a suv from Jaecoo, a 18.3 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Jaecoo J7 is an SUV plug-in hybrid offered by Jaecoo with 88 km of CLTC range, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jaecoo-j7"
 brand: "jaecoo"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,7 +55,7 @@ Jaecoo J7 (starting at $16,890) is a SUV from JAECOO.
 
 ## Overview
 
-The Jaecoo J7 is a compact SUV plug-in hybrid from JAECOO, with 150 kW of motor power. It is positioned as a value-focused import, priced from $16,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,071 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.2 kWh/100km efficiency is strong for its 1,775 kg curb weight. It suits families and fleet buyers who need practicality.
+Jaecoo J7 is an SUV plug-in hybrid electric offered by Jaecoo. It carries a 18 kWh battery and 88 km of CLTC range. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $16,890 ex-factory, placing it in the value tier. On landed cost, the lowest landed premium is Qatar at roughly +29.7% over base (about $21,914 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

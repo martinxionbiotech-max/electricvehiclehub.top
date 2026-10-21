@@ -1,6 +1,6 @@
 ---
 title: "Jetour Zongheng G700"
-description: "Jetour Zongheng G700 is a suv from Jetour, a 34.13 kWh battery and 510 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Jetour Zongheng G700 is Jetour's SUV plug-in hybrid with a CLTC-rated range of 150 km, 34 kWh of battery, 510 kW peak output, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "jetour-zongheng-g700"
 brand: "jetour"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Jetour Zongheng G700 (starting at $46,460) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour Zongheng G700 is a full-size SUV plug-in hybrid from JETOUR, with 510 kW of motor power, a 4.6-second 0–100 km/h time. It is positioned as a premium import, priced from $46,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $55,672 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 25.6 kWh/100km efficiency is unremarkable for its 3,063 kg curb weight. It suits large families and executive fleets.
+The Jetour Zongheng G700 is Jetour's SUV plug-in hybrid. Specification highlights are a 510 kW electric motor and 150 km of CLTC range. Chassis details include NMC cells, plus a Double wishbone front / Multi-link rear suspension setup. The ex-factory price of $46,460 positions it as a premium import. For importers, the lowest landed premium is Qatar at roughly +14% over base (about $52,963 landed) — Germany levies only the 10% standard tariff. The profile suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

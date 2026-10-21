@@ -1,6 +1,6 @@
 ---
 title: "Jetour X90 C DM"
-description: "Jetour X90 C DM is a suv from Jetour, a 19.43 kWh battery and 199 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Jetour X90 C DM is an SUV plug-in hybrid electric offered by Jetour, offering 108 km of CLTC range, a 19 kWh battery, 199 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jetour-x90-c-dm"
 brand: "jetour"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,7 +55,7 @@ Jetour X90 C DM (starting at $22,520) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour X90 C DM is a midsize SUV plug-in hybrid from JETOUR, with 199 kW of motor power. It is positioned as a value-focused import, priced from $22,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,278 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.1 kWh/100km efficiency is strong for its 1,870 kg curb weight. It suits family and executive buyers prioritizing space.
+The Jetour X90 C DM is Jetour's SUV plug-in hybrid electric. Specification highlights are a top speed of 180 km/h and peak output of 199 kW. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $22,520 positions it as a value-focused import. Across export markets, the least-costly destination is Qatar, near +23.6% over base ($27,826 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

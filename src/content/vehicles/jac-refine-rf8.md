@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine RF8"
-description: "JAC Refine RF8 is an MPV (PHEV) from JAC Refine, offering 252 km of electric range, a 44.5 kWh battery, and 160 kW of motor power. Full landed-cost breakdown across key export markets."
+description: "The JAC Refine RF8 is an MPV plug-in hybrid electric from JAC Refine with 252 km of CLTC range, a 44 kWh battery, 160 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jac-refine-rf8"
 brand: "jac-refine"
 type: "MPV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Jac Refine RF8 (starting at $52,100) is a MPV from JAC REFINE.
 
 ## Overview
 
-The Jac Refine RF8 is a MPV plug-in hybrid from JAC-REFINE, with 252 km of CLTC range, 160 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a premium import, priced from $52,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $61,890 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.5 kWh/100km efficiency is strong for its 2,365 kg curb weight. It suits shuttle operators and large families.
+JAC Refine RF8 is an MPV plug-in hybrid offered by JAC Refine. It carries 44 kWh of battery capacity and a 7.3-second 0–100 km/h time. The platform pairs FWD drivetrain with LFP chemistry. The ex-factory price of $52,100 positions it as an upper-mid import. For importers, the least-costly destination is Qatar, near +13% over base ($58,885 landed) — Germany levies only the 10% standard tariff. This positions it for importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

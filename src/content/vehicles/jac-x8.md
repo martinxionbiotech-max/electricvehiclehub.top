@@ -1,6 +1,6 @@
 ---
 title: "JAC X8"
-description: "JAC X8 is a suv from Jac, a 19.01 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JAC X8 is an SUV plug-in hybrid from JAC with a CLTC-rated range of 110 km, a 19 kWh battery, 150 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jac-x8"
 brand: "jac"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Jac X8 (starting at $26,730) is a SUV from JAC.
 
 ## Overview
 
-The Jac X8 is a midsize SUV plug-in hybrid from JAC, with 150 kW of motor power, a 7.7-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,730 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,920 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.4 kWh/100km efficiency is strong for its 1,835 kg curb weight. It suits family and executive buyers prioritizing space.
+The JAC X8 is JAC's SUV plug-in hybrid. Specification highlights are a top speed of 170 km/h and a 19 kWh battery. Chassis details include LFP chemistry, plus FWD drivetrain. The ex-factory price of $26,730 positions it as a mid-market import. Across export markets, Qatar offers the cheapest entry at about +20.6% over base (≈ $32,246 landed); meanwhile, Germany levies only the 10% standard tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

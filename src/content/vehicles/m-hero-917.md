@@ -1,6 +1,6 @@
 ---
 title: "M Hero 917"
-description: "M Hero 917 is a suv from M Hero, offering 1026 km of CLTC range a 65.8 kWh battery and 600 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The M Hero 917 is an SUV battery-electric from M-Hero, offering 505 km of CLTC range, 142 kWh of battery, 600 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "m-hero-917"
 brand: "m-hero"
 type: "SUV"
@@ -58,7 +58,7 @@ M Hero 917 (starting at $89,820) is a SUV from M HERO.
 
 ## Overview
 
-The M Hero 917 is a midsize SUV battery-electric from M-HERO, with 1,026 km of CLTC range, 600 kW of motor power, a 6.0-second 0–100 km/h time. It is a luxury-tier flagship, priced from $89,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +15% over base (about $103,477 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
+The M Hero 917 is an SUV fully electric from M-Hero. It carries a 142 kWh battery, peak output of 600 kW, and 1,050 Nm of torque. Chassis details include Double wishbone front / Multi-link rear suspension, plus NMC (ternary) cells. The ex-factory price of $89,820 positions it as a flagship import. On landed cost, the least-costly destination is Qatar, near +9.7% over base ($98,491 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

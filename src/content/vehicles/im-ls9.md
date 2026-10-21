@@ -1,6 +1,6 @@
 ---
 title: "Im LS9"
-description: "Im LS9 is a suv from Im, a 52 kWh battery and 380 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Im LS9 is an SUV range-extended electric from IM with a CLTC-rated range of 402 km, 52 kWh of battery, and 380 kW of motor power. Per-market landed-cost modeling across 30 export destinations."
 slug: "im-ls9"
 brand: "im"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Im LS9 (starting at $46,870) is a SUV from IM.
 
 ## Overview
 
-The Im LS9 is a full-size SUV extended-range electric from IM, with 380 kW of motor power, a 4.9-second 0–100 km/h time. It is positioned as a premium import, priced from $46,870 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $56,124 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.3 kWh/100km efficiency is unremarkable for its 2,670 kg curb weight. It suits large families and executive fleets.
+The Im LS9 is an SUV range-extended electric from IM. It carries 0–100 km/h in 4.9 seconds and a top speed of 220 km/h. The platform pairs AWD drive with a Double wishbone front / Multi-link rear suspension setup. Pricing starts at $46,870 ex-factory, placing it in the premium tier. For importers, the lowest landed premium is Qatar at roughly +13.9% over base (about $53,393 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

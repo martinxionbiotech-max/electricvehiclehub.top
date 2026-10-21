@@ -1,6 +1,6 @@
 ---
 title: "M Hero M817"
-description: "M Hero M817 is a suv from M Hero, a 31.7 kWh battery and 405 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The M Hero M817 is an SUV plug-in hybrid electric from M-Hero with 215 km of CLTC range, 31 kWh of battery, 405 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "m-hero-m817"
 brand: "m-hero"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ M Hero M817 (starting at $42,520) is a SUV from M HERO.
 
 ## Overview
 
-The M Hero M817 is a full-size SUV plug-in hybrid from M-HERO, with 405 kW of motor power, a 5.2-second 0–100 km/h time. It is positioned as a premium import, priced from $42,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $51,328 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 24.8 kWh/100km efficiency is unremarkable for its 2,817 kg curb weight. It suits large families and executive fleets.
+The M Hero M817 is an SUV plug-in hybrid electric from M-Hero. It carries a 405 kW electric motor, 0–100 km/h in 5.2 seconds, and a 31 kWh battery. Chassis details include NMC (ternary) cells, plus AWD drivetrain. At an ex-factory price of $42,520, it sits in the premium segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +14.8% over base ($48,826 landed), while Germany levies only the 10% standard tariff. This positions it for high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

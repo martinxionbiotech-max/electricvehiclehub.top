@@ -1,6 +1,6 @@
 ---
 title: "Jetour T2"
-description: "Jetour T2 is a suv from Jetour, a 27.2 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Jetour T2 is Jetour's SUV plug-in hybrid electric with a CLTC-rated range of 129 km, 27 kWh of battery, 165 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jetour-t2"
 brand: "jetour"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Jetour T2 (starting at $22,520) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour T2 is a compact SUV plug-in hybrid from JETOUR, with 165 kW of motor power. It is positioned as a value-focused import, priced from $22,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,278 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 20.5 kWh/100km efficiency is unremarkable for its 2,097 kg curb weight. It suits families and fleet buyers who need practicality.
+The Jetour T2 is Jetour's SUV plug-in hybrid electric. Specification highlights are peak torque of 390 Nm and 27 kWh of battery capacity. Chassis details include FWD / AWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $22,520, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +23.6% over base (≈ $27,826 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 08"
-description: "Lynk Co 08 is a suv from Lynk Co, a 28.3 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Lynk Co 08 is an SUV plug-in hybrid offered by Lynk & Co, offering 185 km of CLTC range, 28 kWh of battery, 180 kW peak output, and LFP (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "lynk-co-08"
 brand: "lynk-co"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,7 +54,7 @@ Lynk Co 08 (starting at $24,760) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk Co 08 is a midsize SUV plug-in hybrid from LYNK-CO, with 180 kW of motor power. It is positioned as a value-focused import, priced from $24,760 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,748 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 19.1 kWh/100km efficiency is strong for its 2,050 kg curb weight. It suits family and executive buyers prioritizing space.
+Lynk & Co's Lynk Co 08 is an SUV plug-in hybrid. It carries a top speed of 190 km/h, 28 kWh of battery capacity, and a rated range of 185 km (CLTC). Chassis details include LFP (CATL) chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $24,760 positions it as a mainstream-value import. Across export markets, the least-costly destination is Qatar, near +21.9% over base ($30,178 landed) — Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

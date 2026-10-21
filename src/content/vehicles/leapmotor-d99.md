@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor D99"
-description: "Leapmotor D99 is a MPV extended-range electric from Leapmotor, offering 480 km of CLTC range a 80.3 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Leapmotor D99 is an MPV extended-range electric from Leapmotor, offering 480 km of CLTC range, 80 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-d99"
 brand: "leapmotor"
 type: "MPV"
@@ -33,8 +33,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -50,8 +50,7 @@ Leapmotor D99 (starting at $34,690) is a MPV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor D99 is a mpv extended-range electric from Leapmotor, . It is positioned as a value-focused import, priced from $34,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $42,695 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor D99 is Leapmotor's MPV range-extended electric. Specification highlights are a 80 kWh battery and a CLTC-rated range of 480 km. The platform pairs RWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $34,690 positions it as a mid-market import. On landed cost, Qatar offers the cheapest entry at about +17% over base (≈ $40,604 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits shuttle and charter fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

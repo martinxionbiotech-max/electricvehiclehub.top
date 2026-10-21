@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor D19"
-description: "Leapmotor D19 is a SUV extended-range electric from Leapmotor, offering 400 km of CLTC range a 80.3 kWh battery and 300 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Leapmotor D19 is an SUV range-extended electric offered by Leapmotor, offering a CLTC-rated range of 400 km, a 80 kWh battery, 300 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-d19"
 brand: "leapmotor"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,8 +57,7 @@ Leapmotor D19 (starting at $30,530) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor D19 is a suv extended-range electric from Leapmotor, with 300 kW of motor power, a 6.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $30,530 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $38,109 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor D19 is an SUV range-extended electric from Leapmotor. Specification highlights are a 80 kWh battery and 180 km/h top speed. The platform pairs RWD drive with a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $30,530 ex-factory. For importers, the least-costly destination is Qatar, near +18.7% over base ($36,236 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

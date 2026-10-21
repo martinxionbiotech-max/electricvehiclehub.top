@@ -1,6 +1,6 @@
 ---
 title: "Livan 7"
-description: "Livan 7 is a SUV battery-electric from Livan, offering 450 km of CLTC range a 50.4 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Livan 7 is Livan's SUV fully electric, offering a CLTC-rated range of 450 km, 50 kWh of battery, 120 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "livan-7"
 brand: "livan"
 type: "SUV"
@@ -54,8 +54,7 @@ Livan 7 (starting at $16,350) is a SUV from LIVAN.
 
 ## Overview
 
-The Livan 7 is a suv battery-electric from Livan, with 120 kW of motor power. It is positioned as a value-focused import, priced from $16,350 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,475 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Livan 7 is an SUV battery-electric from Livan. It carries a rated range of 450 km (CLTC), a 50 kWh battery, and a 120 kW electric motor. The platform pairs LFP cells with FWD drive. It is positioned as a value-focused import, priced from $16,350 ex-factory. For importers, the lowest landed premium is Qatar at roughly +30.6% over base (about $21,347 landed), while Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

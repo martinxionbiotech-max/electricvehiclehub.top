@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C01 EREV"
-description: "Leapmotor C01 EREV is a Sedan extended-range electric from Leapmotor, offering 216 km of CLTC range a 30.1 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Leapmotor C01 EREV is a sedan extended-range electric from Leapmotor with a CLTC-rated range of 216 km, 30 kWh of battery, 200 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-c01-erev"
 brand: "leapmotor"
 type: "Sedan"
@@ -34,8 +34,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "Double wishbone"
 suspension_rear: "Five-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ Leapmotor C01 EREV (starting at $20,250) is a Sedan from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C01 EREV is a sedan extended-range electric from Leapmotor, with 200 kW of motor power. It is positioned as a value-focused import, priced from $20,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $26,775 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor C01 EREV is a sedan range-extended electric from Leapmotor. Specification highlights are a CLTC-rated range of 216 km, peak output of 200 kW, and 360 Nm of torque. The platform pairs Double wishbone front / Five-link rear suspension with RWD drivetrain. It is positioned as a value-segment import, priced from $20,250 ex-factory. Across export markets, the least-costly destination is Qatar, near +25.6% over base ($25,442 landed); meanwhile, Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

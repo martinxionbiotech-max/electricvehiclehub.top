@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine M3 PHEV"
-description: "JAC Refine M3 PHEV is a MPV plug-in hybrid from JAC Refine, offering 85 km of CLTC range a 17.52 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JAC Refine M3 PHEV is an MPV plug-in hybrid from JAC Refine with 85 km of CLTC range, a 17 kWh battery, 130 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jac-refine-m3-phev"
 brand: "jac-refine"
 type: "MPV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ JAC Refine M3 PHEV (starting at $15,960) is a MPV from JAC REFINE.
 
 ## Overview
 
-The JAC Refine M3 PHEV is a mpv plug-in hybrid from JAC Refine, with 130 kW of motor power. It is positioned as a value-focused import, priced from $15,960 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,045 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JAC Refine M3 PHEV is an MPV plug-in hybrid offered by JAC Refine. Specification highlights are peak output of 130 kW and a CLTC-rated range of 85 km. The platform pairs LFP cells with RWD drive. Pricing starts at $15,960 ex-factory, placing it in the value tier. Across export markets, the lowest landed premium is Qatar at roughly +31.2% over base (about $20,938 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

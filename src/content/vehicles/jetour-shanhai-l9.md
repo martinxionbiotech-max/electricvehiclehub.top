@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L9"
-description: "Jetour Shanhai L9 is a SUV plug-in hybrid from Jetour, offering 108 km of CLTC range a 19.43 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Jetour Shanhai L9 is an SUV plug-in hybrid electric from Jetour, offering 108 km of CLTC range, 19 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jetour-shanhai-l9"
 brand: "jetour"
 type: "SUV"
@@ -29,8 +29,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -46,8 +46,7 @@ Jetour Shanhai L9 (starting at $23,180) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour Shanhai L9 is a suv plug-in hybrid from Jetour, . It is positioned as a value-focused import, priced from $23,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,005 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Jetour Shanhai L9 is an SUV plug-in hybrid from Jetour. It carries 19 kWh of battery capacity and a rated range of 108 km (CLTC). The platform pairs FWD drive with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $23,180, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +23% over base ($28,519 landed) — Germany levies only the 10% standard tariff. It suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

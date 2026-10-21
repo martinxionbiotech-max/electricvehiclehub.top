@@ -1,6 +1,6 @@
 ---
 title: "Kaicene A600Ev"
-description: "Kaicene A600Ev is a mpv from Kaicene, a 56.68 kWh battery and 90 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Kaicene A600Ev is Kaicene's MPV fully electric, offering 402 km of CLTC range, a 56 kWh battery, 90 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "kaicene-a600ev"
 brand: "kaicene"
 type: "MPV"
@@ -54,7 +54,7 @@ Kaicene A600Ev (starting at $21,100) is a MPV from KAICENE.
 
 ## Overview
 
-The Kaicene A600Ev is a MPV battery-electric from KAICENE, with 90 kW of motor power. It is positioned as a value-focused import, priced from $21,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,713 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.1 kWh/100km efficiency is strong for its 1,580 kg curb weight. It suits shuttle operators and large families.
+The Kaicene A600Ev is an MPV battery-electric from Kaicene. Specification highlights are 245 Nm of torque and 56 kWh of battery capacity. Chassis details include LFP cells, plus MacPherson strut front / Torsion beam rear suspension. Pricing starts at $21,100 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits people-carrier operators and family buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

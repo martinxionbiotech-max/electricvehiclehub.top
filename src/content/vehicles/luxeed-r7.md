@@ -1,6 +1,6 @@
 ---
 title: "Luxeed R7"
-description: "Luxeed R7 is a suv from Luxeed, offering 667 km of CLTC range a 82 kWh battery and 215 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Luxeed R7 is an SUV fully electric offered by Luxeed with a CLTC-rated range of 667 km, a 82 kWh battery, 215 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "luxeed-r7"
 brand: "luxeed"
 type: "SUV"
@@ -58,7 +58,7 @@ Luxeed R7 (starting at $35,180) is a SUV from LUXEED.
 
 ## Overview
 
-The Luxeed R7 is a midsize SUV battery-electric from LUXEED, with 667 km of CLTC range, 215 kW of motor power, a 5.9-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $35,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $43,236 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.1 kWh/100km efficiency is strong for its 2,148 kg curb weight. It suits family and executive buyers prioritizing space.
+The Luxeed R7 is Luxeed's SUV battery-electric. It carries a 215 kW electric motor and 82 kWh of battery capacity. The platform pairs NMC (CATL) cells with a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $35,180 ex-factory. For importers, the least-costly destination is Qatar, near +16.9% over base ($41,119 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

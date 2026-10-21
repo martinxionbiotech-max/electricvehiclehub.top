@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C11 EREV"
-description: "Leapmotor C11 EREV is a SUV extended-range electric from Leapmotor, offering 285 km of CLTC range a 43.74 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Leapmotor C11 EREV is Leapmotor's SUV extended-range electric with 285 km of CLTC range, a 43 kWh battery, 200 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "leapmotor-c11-erev"
 brand: "leapmotor"
 type: "SUV"
@@ -34,8 +34,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ Leapmotor C11 EREV (starting at $20,810) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C11 EREV is a suv extended-range electric from Leapmotor, with 200 kW of motor power. It is positioned as a value-focused import, priced from $20,810 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,393 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor C11 EREV is an SUV range-extended electric from Leapmotor. Specification highlights are peak output of 200 kW and 43 kWh of battery capacity. Chassis details include RWD drive, plus LFP chemistry. It is positioned as a value-focused import, priced from $20,810 ex-factory. For importers, Qatar offers the cheapest entry at about +25.1% over base (≈ $26,030 landed), while Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

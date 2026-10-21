@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C16 EREV"
-description: "Leapmotor C16 EREV is a SUV extended-range electric from Leapmotor, offering 200 km of CLTC range a 28.4 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Leapmotor C16 EREV is an SUV extended-range electric offered by Leapmotor, offering 200 km of CLTC range, 28 kWh of battery, 170 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-c16-erev"
 brand: "leapmotor"
 type: "SUV"
@@ -34,8 +34,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,8 +52,7 @@ Leapmotor C16 EREV (starting at $21,640) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C16 EREV is a suv extended-range electric from Leapmotor, with 170 kW of motor power. It is positioned as a value-focused import, priced from $21,640 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,308 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor C16 EREV is Leapmotor's SUV range-extended electric. It carries a 170 kW electric motor and a 28 kWh battery. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $21,640, it sits in the value segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +24.3% over base (about $26,902 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

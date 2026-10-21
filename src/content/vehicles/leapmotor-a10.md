@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor A10"
-description: "Leapmotor A10 is a SUV battery-electric from Leapmotor, offering 403 km of CLTC range a 39.8 kWh battery and 70 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Leapmotor A10 is an SUV battery-electric from Leapmotor, offering 403 km of CLTC range, 39 kWh of battery, 70 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-a10"
 brand: "leapmotor"
 type: "SUV"
@@ -55,8 +55,7 @@ Leapmotor A10 (starting at $9,140) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor A10 is a suv battery-electric from Leapmotor, with 70 kW of motor power. It is positioned as a value-focused import, priced from $9,140 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +58% over base (about $14,526 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 10.7 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor A10 is Leapmotor's SUV battery-electric. Specification highlights are a CLTC-rated range of 403 km, a top speed of 160 km/h, and peak torque of 150 Nm. The platform pairs FWD drivetrain with MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $9,140 positions it as an entry-level import. Across export markets, the least-costly destination is Qatar, near +50.7% over base ($13,777 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "JAC X8 E-Jia"
-description: "JAC X8 E-Jia is a SUV plug-in hybrid from JAC, offering 110 km of CLTC range a 17.4 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JAC X8 E-Jia is JAC's SUV plug-in hybrid electric, offering a CLTC-rated range of 110 km, a 17 kWh battery, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "jac-x8-ejia"
 brand: "jac"
 type: "SUV"
@@ -32,8 +32,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -49,8 +49,7 @@ JAC X8 E-Jia (starting at $13,860) is a SUV from JAC.
 
 ## Overview
 
-The JAC X8 E-Jia is a suv plug-in hybrid from JAC, . It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JAC X8 E-Jia is an SUV plug-in hybrid offered by JAC. It carries 17 kWh of battery capacity and 110 km of CLTC range. The platform pairs LFP chemistry with FWD drive. At an ex-factory price of $13,860, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +35.2% over base ($18,733 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

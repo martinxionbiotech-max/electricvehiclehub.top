@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 06"
-description: "Lynk Co 06 is a suv from Lynk Co, offering 1280 km of CLTC range a 19.09 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Lynk Co 06 is an SUV plug-in hybrid electric offered by Lynk & Co with 126 km of CLTC range, a 19 kWh battery, 160 kW of motor power, and a LFP (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "lynk-co-06"
 brand: "lynk-co"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Lynk Co 06 (starting at $20,820) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk Co 06 is a subcompact SUV plug-in hybrid from LYNK-CO, with 1,280 km of CLTC range, 160 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $27,404 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.3 kWh/100km efficiency is strong for its 1,720 kg curb weight. It suits urban families who want a raised driving position.
+Lynk & Co's Lynk Co 06 is an SUV plug-in hybrid. Specification highlights are 0–100 km/h in 5.9 seconds, a CLTC-rated range of 126 km, and 350 Nm of torque. Chassis details include LFP (CATL) chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $20,820 positions it as a mainstream-value import. For importers, the lowest landed premium is Qatar at roughly +25.1% over base (about $26,041 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

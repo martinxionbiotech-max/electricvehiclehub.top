@@ -1,6 +1,6 @@
 ---
 title: "MG Pilot PHEV"
-description: "MG Pilot PHEV is a SUV plug-in hybrid from MG, offering 75 km of CLTC range a 16.6 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The MG Pilot PHEV is an SUV plug-in hybrid from MG with 75 km of CLTC range, 16 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "mg-pilot-phev"
 brand: "mg"
 type: "SUV"
@@ -32,8 +32,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -49,8 +49,7 @@ MG Pilot PHEV (starting at $23,170) is a SUV from MG.
 
 ## Overview
 
-The MG Pilot PHEV is a suv plug-in hybrid from MG, . It is positioned as a value-focused import, priced from $23,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $29,994 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The MG Pilot PHEV is MG's SUV plug-in hybrid electric. It carries a 16 kWh battery and 75 km of CLTC range. Chassis details include LFP chemistry, plus FWD drivetrain. It is positioned as a value-segment import, priced from $23,170 ex-factory. For importers, the least-costly destination is Qatar, near +23% over base ($28,508 landed) — Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

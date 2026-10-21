@@ -1,6 +1,6 @@
 ---
 title: "Landian E5 Plus"
-description: "Landian E5 Plus is a SUV plug-in hybrid from Landian, offering 165 km of CLTC range a 25.0 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Landian E5 Plus is an SUV plug-in hybrid electric offered by Landian, offering 165 km of CLTC range, a 25 kWh battery, 160 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "landian-e5-plus"
 brand: "landian"
 type: "SUV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Landian E5 Plus (starting at $13,860) is a SUV from LANDIAN.
 
 ## Overview
 
-The Landian E5 Plus is a suv plug-in hybrid from Landian, with 160 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Landian E5 Plus is an SUV plug-in hybrid from Landian. It carries peak output of 160 kW and a 7.8-second 0–100 km/h time. Chassis details include LFP chemistry, plus MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $13,860, it sits in the entry-level segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

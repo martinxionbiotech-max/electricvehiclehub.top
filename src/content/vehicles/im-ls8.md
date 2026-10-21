@@ -1,6 +1,6 @@
 ---
 title: "IM LS8"
-description: "IM LS8 is a SUV extended-range electric from IM,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The IM LS8 is IM's SUV extended-range electric with NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "im-ls8"
 brand: "im"
 type: "SUV"
@@ -31,8 +31,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -46,8 +46,7 @@ IM LS8 (starting at $34,690) is a SUV from IM.
 
 ## Overview
 
-The IM LS8 is a suv extended-range electric from IM, . It is positioned as a value-focused import, priced from $34,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $42,695 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The IM LS8 is an SUV range-extended electric from IM. Chassis details include NMC (CATL) chemistry, plus Double wishbone front / Multi-link (air) rear suspension. The ex-factory price of $34,690 positions it as a mid-market import. For importers, Qatar offers the cheapest entry at about +17% over base (≈ $40,604 landed) — Germany levies only the 10% standard tariff. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

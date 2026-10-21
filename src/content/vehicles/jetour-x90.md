@@ -1,6 +1,6 @@
 ---
 title: "Jetour X90"
-description: "Jetour X90 is a suv from Jetour, a 19.43 kWh battery and 199 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Jetour X90 is an SUV plug-in hybrid electric offered by Jetour with a CLTC-rated range of 108 km, 19 kWh of battery, 199 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jetour-x90"
 brand: "jetour"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Jetour X90 (starting at $23,230) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour X90 is a midsize SUV plug-in hybrid from JETOUR, with 199 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $23,230 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,061 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.1 kWh/100km efficiency is strong for its 1,870 kg curb weight. It suits family and executive buyers prioritizing space.
+The Jetour X90 is Jetour's SUV plug-in hybrid electric. It carries 0–100 km/h in 7.8 seconds, peak output of 199 kW, and 395 Nm of torque. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drive. The ex-factory price of $23,230 positions it as a value-segment import. Across export markets, the least-costly destination is Qatar, near +23% over base ($28,571 landed), while Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

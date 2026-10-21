@@ -1,6 +1,6 @@
 ---
 title: "MG 4X"
-description: "MG 4X is a SUV battery-electric from MG, offering 510 km of CLTC range a 53.9 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The MG 4X is an SUV battery-electric from MG, offering 510 km of CLTC range, 53 kWh of battery, 125 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "mg-4x"
 brand: "mg"
 type: "SUV"
@@ -54,8 +54,7 @@ MG 4X (starting at $13,860) is a SUV from MG.
 
 ## Overview
 
-The MG 4X is a suv battery-electric from MG, with 125 kW of motor power. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+MG 4X is an SUV fully electric offered by MG. Specification highlights are a rated range of 510 km (CLTC), a 125 kW electric motor, and a 53 kWh battery. Chassis details include LFP chemistry, plus MacPherson strut front / Torsion beam rear suspension. At an ex-factory price of $13,860, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

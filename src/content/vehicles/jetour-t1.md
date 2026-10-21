@@ -1,6 +1,6 @@
 ---
 title: "Jetour T1"
-description: "Jetour T1 is a suv from Jetour, a 18.3 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Jetour T1 is an SUV plug-in hybrid from Jetour with 150 km of CLTC range, a 18 kWh battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jetour-t1"
 brand: "jetour"
 type: "SUV"
@@ -36,8 +36,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,7 +53,7 @@ Jetour T1 (starting at $19,000) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour T1 is a compact SUV plug-in hybrid from JETOUR, with 150 kW of motor power. It is positioned as a value-focused import, priced from $19,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $25,398 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+Jetour T1 is an SUV plug-in hybrid electric offered by Jetour. It carries 180 km/h top speed and 310 Nm of torque. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $19,000 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +27% over base (≈ $24,130 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

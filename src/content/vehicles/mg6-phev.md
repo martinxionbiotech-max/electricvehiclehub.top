@@ -1,6 +1,6 @@
 ---
 title: "MG6 PHEV"
-description: "MG6 PHEV is a Sedan plug-in hybrid from MG, offering 70 km of CLTC range a 11.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "MG6 PHEV is a sedan plug-in hybrid electric offered by MG with 70 km of CLTC range, a 11 kWh battery, 100 kW of motor power, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "mg6-phev"
 brand: "mg"
 type: "Sedan"
@@ -36,8 +36,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ MG6 PHEV (starting at $19,830) is a Sedan from MG.
 
 ## Overview
 
-The MG6 PHEV is a sedan plug-in hybrid from MG, with 100 kW of motor power, a 6.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,830 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $26,312 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+MG6 PHEV is a sedan plug-in hybrid electric offered by MG. Specification highlights are a 6.8-second 0–100 km/h time and a rated range of 70 km (CLTC). The platform pairs NMC cells with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $19,830, it sits in the value segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +26.1% over base (≈ $25,001 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
