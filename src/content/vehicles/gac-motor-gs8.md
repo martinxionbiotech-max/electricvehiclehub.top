@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor GS8"
-description: "GAC Motor GS8 is a suv from GAC Motor, and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The GAC Motor GS8 is an SUV hybrid from GAC Motor, offering 134 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "gac-motor-gs8"
 brand: "gac-motor"
 type: "SUV"
@@ -34,7 +34,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -49,7 +49,7 @@ Gac Motor GS8 (starting at $32,230) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The Gac Motor GS8 is a midsize SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,230 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $39,984 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
+GAC Motor GS8 is an SUV non-plug-in hybrid offered by GAC Motor. Specification highlights are peak torque of 270 Nm and 190 km/h top speed. The platform pairs FWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $32,230, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +18% over base (about $38,021 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

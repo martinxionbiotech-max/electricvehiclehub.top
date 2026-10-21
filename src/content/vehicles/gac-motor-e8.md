@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor E8"
-description: "GAC Motor E8 is a suv from GAC Motor, a 25.57 kWh battery and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The GAC Motor E8 is an SUV plug-in hybrid electric from GAC Motor with 136 km of CLTC range, a 25 kWh battery, 134 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "gac-motor-e8"
 brand: "gac-motor"
 type: "SUV"
@@ -36,8 +36,8 @@ drive_type: "FWD"
 motor_type: "PMSM (single motor, DHT)"
 battery_thermal: "Liquid cooling"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,7 +54,7 @@ Gac Motor E8 (starting at $32,790) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The Gac Motor E8 is a midsize SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,790 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,601 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.8 kWh/100km efficiency is strong for its 2,175 kg curb weight. It suits family and executive buyers prioritizing space.
+The GAC Motor E8 is GAC Motor's SUV plug-in hybrid electric. Specification highlights are peak output of 134 kW and 300 Nm of torque. Chassis details include NMC chemistry, plus FWD drive. At an ex-factory price of $32,790, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +17.7% over base (about $38,609 landed) — Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

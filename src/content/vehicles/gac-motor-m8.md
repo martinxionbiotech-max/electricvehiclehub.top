@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor M8"
-description: "GAC Motor M8 is a suv from GAC Motor, and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "GAC Motor M8 is an SUV plug-in hybrid electric offered by GAC Motor with a CLTC-rated range of 106 km, a 25 kWh battery, 134 kW of motor power, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "gac-motor-m8"
 brand: "gac-motor"
 type: "SUV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -52,7 +52,7 @@ Gac Motor M8 (starting at $40,390) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The Gac Motor M8 is a full-size SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It is positioned as a premium import, priced from $40,390 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $48,980 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
+GAC Motor M8 is an SUV plug-in hybrid offered by GAC Motor. It carries peak torque of 300 Nm and a top speed of 170 km/h. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. It is positioned as an upper-mid import, priced from $40,390 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +15.3% over base (about $46,589 landed) — Germany levies only the 10% standard tariff. It suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

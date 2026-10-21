@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Empow"
-description: "GAC Motor Empow is a suv from GAC Motor, a 2.1 kWh battery and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "GAC Motor Empow is an SUV non-plug-in hybrid offered by GAC Motor with a 2 kWh battery, 134 kW peak output, and a NMC (Li-ion) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "gac-motor-empow"
 brand: "gac-motor"
 type: "SUV"
@@ -37,7 +37,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,7 +53,7 @@ Gac Motor Empow (starting at $18,030) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The Gac Motor Empow is a compact SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It is positioned as a value-focused import, priced from $18,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,328 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The GAC Motor Empow is an SUV non-plug-in hybrid from GAC Motor. It carries 300 Nm of torque and a top speed of 165 km/h. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with FWD drive. The ex-factory price of $18,030 positions it as a value-segment import. For importers, the least-costly destination is Qatar, near +28.2% over base ($23,111 landed) — Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy A7"
-description: "Geely Galaxy A7 is a suv from Geely Galaxy, a 8.5 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Galaxy A7 is an SUV plug-in hybrid offered by Geely Galaxy, offering a CLTC-rated range of 150 km, a 18 kWh battery, 175 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-a7"
 brand: "geely-galaxy"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,7 +55,7 @@ Geely Galaxy A7 (starting at $12,610) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy A7 is a midsize SUV plug-in hybrid from GEELY-GALAXY, with 175 kW of motor power, a 7.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $12,610 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +46% over base (about $18,353 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
+The Geely Galaxy A7 is Geely Galaxy's SUV plug-in hybrid. Specification highlights are 262 Nm of torque and a top speed of 190 km/h. The platform pairs FWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $12,610, it sits in the entry-level segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +38.1% over base (≈ $17,420 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

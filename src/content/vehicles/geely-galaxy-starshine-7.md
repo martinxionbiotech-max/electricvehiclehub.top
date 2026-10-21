@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 7 MAX"
-description: "Geely Galaxy Starshine 7 MAX is a Sedan plug-in hybrid from Geely Galaxy, offering 220 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Galaxy Starshine 7 MAX is a sedan plug-in hybrid electric offered by Geely Galaxy, offering a CLTC-rated range of 220 km and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-starshine-7"
 brand: "geely-galaxy"
 type: "Sedan"
@@ -30,8 +30,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -46,8 +46,7 @@ Geely Galaxy Starshine 7 MAX (starting at $13,720) is a Sedan from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starshine 7 MAX is a sedan plug-in hybrid from Geely Galaxy, . It is positioned as a value-focused import, priced from $13,720 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,576 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Geely Galaxy Starshine 7 MAX is a sedan plug-in hybrid electric offered by Geely Galaxy. Its specification includes a CLTC-rated range of 220 km. Chassis details include LFP chemistry, plus MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $13,720, it sits in the entry-level segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +35.5% over base (≈ $18,586 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Haval Shenshou"
-description: "Haval Shenshou is a suv from Haval, a 1.69 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Haval Shenshou is an SUV hybrid from Haval with a 1 kWh battery, 130 kW peak output, and NMC (Li-ion) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "haval-shenshou"
 brand: "haval"
 type: "SUV"
@@ -55,7 +55,7 @@ Haval Shenshou (starting at $21,660) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Shenshou is a compact SUV plug-in hybrid from HAVAL, with 130 kW of motor power, a 7.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,660 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,330 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The Haval Shenshou is an SUV hybrid from Haval. It carries a 1 kWh battery and peak torque of 300 Nm. The platform pairs FWD drivetrain with MacPherson strut front / Multi-link rear suspension. It is positioned as a mainstream-value import, priced from $21,660 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +24.3% over base (about $26,923 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

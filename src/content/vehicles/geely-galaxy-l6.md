@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy L6"
-description: "Geely Galaxy L6 is a suv from Geely Galaxy, a 8.5 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geely Galaxy L6 is Geely Galaxy's SUV plug-in hybrid electric, offering a CLTC-rated range of 115 km, a 19 kWh battery, 160 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-l6"
 brand: "geely-galaxy"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "标准版 / 旗舰版"
 brakes: "Front ventilated disc / rear disc"
@@ -57,7 +57,7 @@ Geely Galaxy L6 (starting at $11,240) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy L6 is a compact SUV plug-in hybrid from GEELY-GALAXY, with 160 kW of motor power, a 7.4-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $11,240 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,842 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.0 kWh/100km efficiency is strong for its 1,570 kg curb weight. It suits families and fleet buyers who need practicality.
+Geely Galaxy L6 is an SUV plug-in hybrid electric offered by Geely Galaxy. It carries peak torque of 262 Nm and 115 km of CLTC range. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP cells. Pricing starts at $11,240 ex-factory, placing it in the entry-level tier. For importers, Qatar offers the cheapest entry at about +42.2% over base (≈ $15,982 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

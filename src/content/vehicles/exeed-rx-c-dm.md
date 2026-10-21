@@ -1,6 +1,6 @@
 ---
 title: "Exeed RX C DM"
-description: "Exeed RX C DM is a suv from Exeed, a 19.53 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Exeed RX C DM is Exeed's SUV plug-in hybrid electric with a CLTC-rated range of 182 km, 19 kWh of battery, 150 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "exeed-rx-c-dm"
 brand: "exeed"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Exeed RX C DM (starting at $19,700) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed RX C DM is a compact SUV plug-in hybrid from EXEED, with 150 kW of motor power. It is positioned as a value-focused import, priced from $19,700 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $26,169 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.8 kWh/100km efficiency is strong for its 1,913 kg curb weight. It suits families and fleet buyers who need practicality.
+The Exeed RX C DM is an SUV plug-in hybrid electric from Exeed. It carries 182 km of CLTC range and 180 km/h top speed. The platform pairs FWD drive with LFP cells. At an ex-factory price of $19,700, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +26.2% over base (about $24,865 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

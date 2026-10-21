@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Xingyuan"
-description: "Geely Galaxy Xingyuan is a suv from Geely Galaxy, offering 310 km of CLTC range a 30.12 kWh battery and 58 kW of motor power. Full landed-cost breakdown to t..."
+description: "The Geely Galaxy Xingyuan is Geely Galaxy's SUV fully electric with a CLTC-rated range of 310 km, 30 kWh of battery, 58 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-xingyuan"
 brand: "geely-galaxy"
 type: "SUV"
@@ -55,7 +55,7 @@ Geely Galaxy Xingyuan (starting at $9,660) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Xingyuan is a subcompact SUV battery-electric from GEELY-GALAXY, with 310 km of CLTC range, 58 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $9,660 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +56% over base (about $15,100 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 10.7 kWh/100km efficiency is strong for its 1,215 kg curb weight. It suits urban families who want a raised driving position.
+The Geely Galaxy Xingyuan is an SUV battery-electric from Geely Galaxy. It carries a 30 kWh battery and a CLTC-rated range of 310 km. Chassis details include LFP chemistry, plus FWD drivetrain. At an ex-factory price of $9,660, it sits in the entry-level segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +48.3% over base (≈ $14,323 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. The profile suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "GAC Xiangwang S7"
-description: "GAC Xiangwang S7 is a SUV plug-in hybrid from GAC Motor, offering 205 km of CLTC range a 36.3 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The GAC Xiangwang S7 is an SUV plug-in hybrid from GAC Motor, offering a CLTC-rated range of 205 km, a 36 kWh battery, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "gac-motor-xiangwang-s7"
 brand: "gac-motor"
 type: "SUV"
@@ -30,8 +30,8 @@ drive_type: "FWD / AWD"
 motor_type: "PMSM (DHT hybrid)"
 battery_thermal: "Liquid cooling"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -47,8 +47,7 @@ GAC Xiangwang S7 (starting at $23,580) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The GAC Xiangwang S7 is a suv plug-in hybrid from GAC Motor, . It is positioned as a value-focused import, priced from $23,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,446 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The GAC Xiangwang S7 is an SUV plug-in hybrid electric from GAC Motor. It carries 205 km of CLTC range and a 36 kWh battery. Chassis details include FWD / AWD drive, plus NMC chemistry. At an ex-factory price of $23,580, it sits in the value segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +22.7% over base ($28,939 landed); meanwhile, Germany levies only the 10% standard tariff. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

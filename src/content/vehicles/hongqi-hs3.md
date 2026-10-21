@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS3"
-description: "Hongqi HS3 is a suv from Hongqi, a 18.4 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hongqi HS3 is Hongqi's SUV plug-in hybrid electric, offering a CLTC-rated range of 115 km, a 18 kWh battery, 168 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-hs3"
 brand: "hongqi"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Hongqi HS3 (starting at $22,510) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi HS3 is a compact SUV plug-in hybrid from HONGQI, with 168 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $22,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,267 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.5 kWh/100km efficiency is strong for its 1,920 kg curb weight. It suits families and fleet buyers who need practicality.
+Hongqi HS3 is an SUV plug-in hybrid electric offered by Hongqi. It carries a 18 kWh battery, a rated range of 115 km (CLTC), and 190 km/h top speed. The platform pairs NMC (ternary) chemistry with FWD drive. Pricing starts at $22,510 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

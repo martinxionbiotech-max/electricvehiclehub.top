@@ -1,6 +1,6 @@
 ---
 title: "Forthing Thunder 410"
-description: "Forthing Thunder 410 is a SUV battery-electric from Forthing, offering 410 km of CLTC range a 49.27 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Forthing Thunder 410 is Forthing's SUV battery-electric, offering 410 km of CLTC range, a 49 kWh battery, 120 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-thunder-410"
 brand: "forthing"
 type: "SUV"
@@ -52,8 +52,7 @@ Forthing Thunder 410 (starting at $13,860) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Thunder 410 is a suv battery-electric from Forthing, with 120 kW of motor power. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Forthing Thunder 410 is an SUV fully electric from Forthing. It carries 49 kWh of battery capacity and a rated range of 410 km (CLTC). Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drive. The ex-factory price of $13,860 positions it as an affordable-end import. For importers, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

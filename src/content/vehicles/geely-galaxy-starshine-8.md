@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 8"
-description: "Geely Galaxy Starshine 8 is a suv from Geely Galaxy, offering 1600 km of CLTC range a 8.5 kWh battery and 175 kW of motor power. Full landed-cost breakdown t..."
+description: "The Geely Galaxy Starshine 8 is an SUV plug-in hybrid from Geely Galaxy with a CLTC-rated range of 130 km, 18 kWh of battery, 175 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-starshine-8"
 brand: "geely-galaxy"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Geely Galaxy Starshine 8 (starting at $17,670) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starshine 8 is a midsize SUV plug-in hybrid from GEELY-GALAXY, with 1,600 km of CLTC range, 175 kW of motor power. It is positioned as a value-focused import, priced from $17,670 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $23,931 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
+The Geely Galaxy Starshine 8 is an SUV plug-in hybrid electric from Geely Galaxy. It carries a 18 kWh battery and 190 km/h top speed. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP cells. Pricing starts at $17,670 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +28.7% over base ($22,733 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

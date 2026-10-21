@@ -1,6 +1,6 @@
 ---
 title: "firefly Habitat"
-description: "firefly Habitat is a Hatchback battery-electric from Firefly, offering 420 km of CLTC range a 42.1 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The firefly Habitat is firefly's hatchback battery-electric, offering 420 km of CLTC range, 42 kWh of battery, 120 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "firefly-habitat"
 brand: "firefly"
 type: "Hatchback"
@@ -53,8 +53,7 @@ firefly Habitat (starting at $18,510) is a Hatchback from FIREFLY.
 
 ## Overview
 
-The firefly Habitat is a hatchback battery-electric from Firefly, with 120 kW of motor power. It is positioned as a value-focused import, priced from $18,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,857 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+firefly Habitat is a hatchback fully electric offered by firefly. It carries a rated range of 420 km (CLTC), peak output of 120 kW, and 150 km/h top speed. The platform pairs RWD drive with LFP cells. Pricing starts at $18,510 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +27.6% over base (about $23,615 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

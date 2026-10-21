@@ -1,6 +1,6 @@
 ---
 title: "Haval Xiaolong"
-description: "Haval Xiaolong is a suv from Haval, a 9.41 kWh battery and 115 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Haval Xiaolong is Haval's SUV plug-in hybrid electric, offering a CLTC-rated range of 110 km, a 19 kWh battery, 115 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "haval-xiaolong"
 brand: "haval"
 type: "SUV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,7 +53,7 @@ Haval Xiaolong (starting at $19,690) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Xiaolong is a compact SUV plug-in hybrid from HAVAL, with 115 kW of motor power. It is positioned as a value-focused import, priced from $19,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $26,158 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The Haval Xiaolong is Haval's SUV plug-in hybrid. Specification highlights are peak torque of 250 Nm and 175 km/h top speed. Chassis details include MacPherson strut front / Multi-link rear suspension, plus NMC chemistry. It is positioned as a value-segment import, priced from $19,690 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +26.2% over base (about $24,854 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

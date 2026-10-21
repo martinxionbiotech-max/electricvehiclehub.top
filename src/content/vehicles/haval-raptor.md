@@ -1,6 +1,6 @@
 ---
 title: "Haval Raptor"
-description: "Haval Raptor is a suv from Haval, a 18.74 kWh battery and 220 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Haval Raptor is an SUV plug-in hybrid electric offered by Haval, offering a CLTC-rated range of 105 km, a 18 kWh battery, 220 kW peak output, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "haval-raptor"
 brand: "haval"
 type: "SUV"
@@ -40,8 +40,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -58,7 +58,7 @@ Haval Raptor (starting at $24,480) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Raptor is a midsize SUV plug-in hybrid from HAVAL, with 220 kW of motor power, a 6.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $24,480 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,439 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.5 kWh/100km efficiency is strong for its 2,055 kg curb weight. It suits family and executive buyers prioritizing space.
+Haval Raptor is an SUV plug-in hybrid offered by Haval. Specification highlights are 190 km/h top speed and a CLTC-rated range of 105 km. Chassis details include AWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $24,480, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +22.1% over base (≈ $29,884 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Xiangwang S9"
-description: "GAC Motor Xiangwang S9 is a suv from GAC Motor, a 44.5 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The GAC Motor Xiangwang S9 is an SUV plug-in hybrid from GAC Motor, offering 252 km of CLTC range, a 44 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "gac-motor-xiangwang-s9"
 brand: "gac-motor"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Gac Motor Xiangwang S9 (starting at $32,380) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The Gac Motor Xiangwang S9 is a midsize SUV plug-in hybrid from GAC-MOTOR, with 250 kW of motor power, a 6.6-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,149 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.6 kWh/100km efficiency is unremarkable for its 2,365 kg curb weight. It suits family and executive buyers prioritizing space.
+The GAC Motor Xiangwang S9 is GAC Motor's SUV plug-in hybrid. It carries 393 Nm of torque, a 6.6-second 0–100 km/h time, and a CLTC-rated range of 252 km. The platform pairs FWD drivetrain with NMC (ternary) chemistry. The ex-factory price of $32,380 positions it as a mid-tier import. Across export markets, the lowest landed premium is Qatar at roughly +17.9% over base (about $38,179 landed) — Germany levies only the 10% standard tariff. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

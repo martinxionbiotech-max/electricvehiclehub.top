@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HL"
-description: "Hyptec HL is a suv from Hyptec, a 60.33 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hyptec HL is an SUV battery-electric from Hyptec, offering 750 km of CLTC range, a 108 kWh battery, 250 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "hyptec-hl"
 brand: "hyptec"
 type: "SUV"
@@ -58,7 +58,7 @@ Hyptec HL (starting at $38,000) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec HL is a full-size SUV battery-electric from HYPTEC, with 250 kW of motor power, a 7.5-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $38,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $46,345 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 23.0 kWh/100km efficiency is unremarkable for its 2,490 kg curb weight. It suits large families and executive fleets.
+The Hyptec HL is an SUV battery-electric from Hyptec. Specification highlights are 201 km/h top speed and a 7.5-second 0–100 km/h time. Chassis details include RWD drive, plus NMC (ternary) chemistry. At an ex-factory price of $38,000, it sits in the mid-market segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +16% over base (≈ $44,080 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

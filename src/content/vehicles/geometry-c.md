@@ -1,6 +1,6 @@
 ---
 title: "Geometry C"
-description: "Geometry C is a SUV battery-electric from Geometry, offering 400 km of CLTC range a 53.0 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geometry C is Geometry's SUV battery-electric, offering 400 km of CLTC range, 53 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geometry-c"
 brand: "geometry"
 type: "SUV"
@@ -54,8 +54,7 @@ Geometry C (starting at $18,030) is a SUV from GEOMETRY.
 
 ## Overview
 
-The Geometry C is a suv battery-electric from Geometry, with 150 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,328 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Geometry C is an SUV fully electric offered by Geometry. It carries peak torque of 310 Nm and a 150 kW electric motor. The platform pairs LFP chemistry with MacPherson strut front / Multi-link rear suspension. Pricing starts at $18,030 ex-factory, placing it in the value tier. For importers, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,111 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

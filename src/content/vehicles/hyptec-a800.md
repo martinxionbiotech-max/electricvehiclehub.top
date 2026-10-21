@@ -1,6 +1,6 @@
 ---
 title: "Hyptec A800"
-description: "Hyptec A800 is a suv from Hyptec, a 35 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hyptec A800 is an SUV range-extended electric from Hyptec, offering a CLTC-rated range of 220 km, 35 kWh of battery, 200 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "hyptec-a800"
 brand: "hyptec"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Hyptec A800 (starting at $26,730) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec A800 is a full-size SUV extended-range electric from HYPTEC, with 200 kW of motor power, a 7.4-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,730 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,920 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.1 kWh/100km efficiency is strong for its 2,245 kg curb weight. It suits large families and executive fleets.
+Hyptec A800 is an SUV range-extended electric offered by Hyptec. It carries peak torque of 305 Nm and 185 km/h top speed. Chassis details include RWD drive, plus NMC (ternary) cells. Pricing starts at $26,730 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +20.6% over base (≈ $32,246 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

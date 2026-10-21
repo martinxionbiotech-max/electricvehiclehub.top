@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS7"
-description: "Hongqi HS7 is a suv from Hongqi, a 20.1 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hongqi HS7 is Hongqi's SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, 20 kWh of battery, and 168 kW of motor power. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-hs7"
 brand: "hongqi"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Hongqi HS7 (starting at $40,960) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi HS7 is a midsize SUV plug-in hybrid from HONGQI, with 168 kW of motor power. It is positioned as a premium import, priced from $40,960 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $49,608 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.4 kWh/100km efficiency is strong for its 2,200 kg curb weight. It suits family and executive buyers prioritizing space.
+The Hongqi HS7 is an SUV plug-in hybrid electric from Hongqi. It carries 180 km/h top speed and a 168 kW electric motor. The platform pairs MacPherson strut front / Multi-link rear suspension with FWD drivetrain. At an ex-factory price of $40,960, it sits in the premium segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +15.2% over base (about $47,188 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

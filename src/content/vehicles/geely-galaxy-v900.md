@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy V900"
-description: "Geely Galaxy V900 is a MPV extended-range electric from Geely Galaxy, offering 202 km of CLTC range a 50.0 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Galaxy V900 is an MPV extended-range electric offered by Geely Galaxy with 202 km of CLTC range, a 50 kWh battery, 340 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-v900"
 brand: "geely-galaxy"
 type: "MPV"
@@ -37,8 +37,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,8 +56,7 @@ Geely Galaxy V900 (starting at $37,470) is a MPV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy V900 is a mpv extended-range electric from Geely Galaxy, with 340 kW of motor power, a 6.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $37,470 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $45,760 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Galaxy V900 is Geely Galaxy's MPV range-extended electric. It carries a rated range of 202 km (CLTC) and 0–100 km/h in 6.5 seconds. The platform pairs NMC (CATL) chemistry with a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $37,470 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +16.2% over base (about $43,523 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

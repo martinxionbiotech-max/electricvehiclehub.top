@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V9"
-description: "Forthing Xinghai V9 is a suv from Forthing, a 34.9 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Forthing Xinghai V9 is an SUV plug-in hybrid electric offered by Forthing, offering 200 km of CLTC range, 34 kWh of battery, 150 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-xinghai-v9"
 brand: "forthing"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Forthing Xinghai V9 (starting at $25,340) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai V9 is a full-size SUV plug-in hybrid from FORTHING, with 150 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,340 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,387 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.9 kWh/100km efficiency is unremarkable for its 2,325 kg curb weight. It suits large families and executive fleets.
+The Forthing Xinghai V9 is an SUV plug-in hybrid from Forthing. It carries a 150 kW electric motor and 0–100 km/h in 9.5 seconds. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. Pricing starts at $25,340 ex-factory, placing it in the mid-market tier. Across export markets, the lowest landed premium is Qatar at roughly +21.5% over base (about $30,787 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy M9"
-description: "Geely Galaxy M9 is a suv from Geely Galaxy, a 18.4 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geely Galaxy M9 is an SUV plug-in hybrid electric from Geely Galaxy, offering a CLTC-rated range of 230 km, 41 kWh of battery, 180 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-m9"
 brand: "geely-galaxy"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Geely Galaxy M9 (starting at $25,890) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy M9 is a full-size SUV plug-in hybrid from GEELY-GALAXY, with 180 kW of motor power, a 7.7-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $32,994 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.3 kWh/100km efficiency is strong for its 2,180 kg curb weight. It suits large families and executive fleets.
+Geely Galaxy M9 is an SUV plug-in hybrid offered by Geely Galaxy. It carries a 180 kW electric motor and 41 kWh of battery capacity. Chassis details include LFP chemistry, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $25,890 ex-factory. On landed cost, Qatar offers the cheapest entry at about +21.1% over base (≈ $31,364 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy LC"
-description: "Geely Galaxy LC is a hatchback from Geely Galaxy, offering 210 km of CLTC range a 17.03 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/..."
+description: "Geely Galaxy LC is a hatchback fully electric offered by Geely Galaxy with 210 km of CLTC range, 17 kWh of battery, 30 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-lc"
 brand: "geely-galaxy"
 type: "Hatchback"
@@ -55,8 +55,7 @@ Geely Galaxy LC (starting at $6,590) is a Hatchback from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy LC is a hatchback from Geely Galaxy, offering 210 km of CLTC range a 17.03 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/...
-
+The Geely Galaxy LC is Geely Galaxy's hatchback battery-electric. It carries a 30 kW electric motor and a 17 kWh battery. Chassis details include FWD drive, plus LFP cells. It is positioned as an affordable-end import, priced from $6,590 ex-factory. On landed cost, Qatar offers the cheapest entry at about +68.4% over base (≈ $11,099 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for city-focused buyers and delivery fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

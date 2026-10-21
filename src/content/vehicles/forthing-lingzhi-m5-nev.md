@@ -1,6 +1,6 @@
 ---
 title: "Forthing Lingzhi M5 NEV"
-description: "Forthing Lingzhi M5 NEV is a suv from Forthing, a 19.09 kWh battery and 60 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Forthing Lingzhi M5 NEV is an SUV battery-electric offered by Forthing with a CLTC-rated range of 410 km, 59 kWh of battery, 60 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "forthing-lingzhi-m5-nev"
 brand: "forthing"
 type: "SUV"
@@ -53,7 +53,7 @@ Forthing Lingzhi M5 NEV (starting at $15,460) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Lingzhi M5 NEV is a full-size SUV battery-electric from FORTHING, with 60 kW of motor power. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
+The Forthing Lingzhi M5 NEV is an SUV fully electric from Forthing. Specification highlights are peak output of 60 kW and 175 Nm of torque. The platform pairs a MacPherson strut front / Multi-link rear suspension setup with LFP cells. Pricing starts at $15,460 ex-factory, placing it in the value tier. For importers, the least-costly destination is Qatar, near +32% over base ($20,413 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

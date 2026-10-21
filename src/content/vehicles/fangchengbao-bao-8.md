@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao BAO 8"
-description: "Fangchengbao BAO 8 is a suv from Fangchengbao, offering 1200 km of CLTC range a 36.8 kWh battery and 500 kW of motor power. Full landed-cost breakdown to the..."
+description: "The Fangchengbao BAO 8 is an SUV plug-in hybrid from Fangchengbao with a CLTC-rated range of 125 km, 36 kWh of battery, 500 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "fangchengbao-bao-8"
 brand: "fangchengbao"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "旗舰版"
 brakes: "Front ventilated disc / rear disc"
@@ -59,7 +59,7 @@ Fangchengbao BAO 8 (starting at $53,490) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-The Fangchengbao BAO 8 is a full-size SUV plug-in hybrid from FANGCHENGBAO, with 1,200 km of CLTC range, 500 kW of motor power, a 4.8-second 0–100 km/h time. It is positioned as a premium import, priced from $53,490 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $63,423 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
+The Fangchengbao BAO 8 is an SUV plug-in hybrid from Fangchengbao. Specification highlights are peak torque of 760 Nm and a 4.8-second 0–100 km/h time. The platform pairs AWD drive with LFP (Blade) cells. At an ex-factory price of $53,490, it sits in the premium segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +12.8% over base (about $60,344 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Geely Emgrand EV"
-description: "Geely Emgrand EV is a suv from Geely, offering 430 km of CLTC range a 51.8 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Emgrand EV is an SUV fully electric offered by Geely, offering 430 km of CLTC range, 51 kWh of battery, 100 kW of motor power, and a NMC (CTP) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-emgrand-ev"
 brand: "geely"
 type: "SUV"
@@ -55,7 +55,7 @@ Geely Emgrand EV (starting at $20,680) is a SUV from GEELY.
 
 ## Overview
 
-The Geely Emgrand EV is a compact SUV battery-electric from GEELY, with 430 km of CLTC range, 100 kW of motor power. It is positioned as a value-focused import, priced from $20,680 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $27,250 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.8 kWh/100km efficiency is strong for its 1,575 kg curb weight. It suits families and fleet buyers who need practicality.
+The Geely Emgrand EV is an SUV battery-electric from Geely. It carries a rated range of 430 km (CLTC) and peak torque of 230 Nm. The platform pairs FWD drive with NMC (CTP) chemistry. At an ex-factory price of $20,680, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +25.2% over base (about $25,894 landed); meanwhile, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

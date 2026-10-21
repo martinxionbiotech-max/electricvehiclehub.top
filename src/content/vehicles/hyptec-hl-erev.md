@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HL EREV"
-description: "Hyptec HL EREV is a SUV extended-range electric from Hyptec, offering 350 km of CLTC range a 60.33 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hyptec HL EREV is Hyptec's SUV range-extended electric with a CLTC-rated range of 350 km, a 60 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hyptec-hl-erev"
 brand: "hyptec"
 type: "SUV"
@@ -35,8 +35,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,8 +53,7 @@ Hyptec HL EREV (starting at $37,470) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec HL EREV is a suv extended-range electric from Hyptec, with 250 kW of motor power. It is positioned as a value-focused import, priced from $37,470 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $45,760 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Hyptec HL EREV is an SUV extended-range electric offered by Hyptec. Specification highlights are a 60 kWh battery, a CLTC-rated range of 350 km, and peak output of 250 kW. The platform pairs MacPherson strut front / Multi-link rear suspension with NMC (ternary) cells. Pricing starts at $37,470 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +16.2% over base (≈ $43,523 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Hongqi EH5"
-description: "Hongqi EH5 is a suv from Hongqi, offering 550 km of CLTC range a 62 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Hongqi EH5 is an SUV battery-electric offered by Hongqi with a CLTC-rated range of 550 km, 62 kWh of battery, 210 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "hongqi-eh5"
 brand: "hongqi"
 type: "SUV"
@@ -57,7 +57,7 @@ Hongqi EH5 (starting at $22,510) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi EH5 is a midsize SUV battery-electric from HONGQI, with 550 km of CLTC range, 210 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $22,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,267 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.1 kWh/100km efficiency is strong for its 1,890 kg curb weight. It suits family and executive buyers prioritizing space.
+The Hongqi EH5 is an SUV battery-electric from Hongqi. Specification highlights are 200 km/h top speed, 550 km of CLTC range, and a 62 kWh battery. The platform pairs FWD drive with LFP chemistry. It is positioned as a value-focused import, priced from $22,510 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +23.6% over base (about $27,815 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

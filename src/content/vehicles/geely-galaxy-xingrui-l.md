@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Xingrui L"
-description: "Geely Galaxy Xingrui L is a suv from Geely Galaxy, and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Galaxy Xingrui L is an SUV hybrid offered by Geely Galaxy with 100 kW of motor power and NMC (Li-ion) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-xingrui-l"
 brand: "geely-galaxy"
 type: "SUV"
@@ -37,7 +37,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,7 +53,7 @@ Geely Galaxy Xingrui L (starting at $17,850) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Xingrui L is a midsize SUV plug-in hybrid from GEELY-GALAXY, with 100 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $17,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,130 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
+Geely Galaxy Xingrui L is an SUV hybrid offered by Geely Galaxy. It carries a 7.5-second 0–100 km/h time and 200 km/h top speed. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus NMC (Li-ion) cells. It is positioned as a mainstream-value import, priced from $17,850 ex-factory. Across export markets, the least-costly destination is Qatar, near +28.4% over base ($22,922 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

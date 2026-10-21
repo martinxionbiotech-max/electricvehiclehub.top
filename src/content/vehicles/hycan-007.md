@@ -1,6 +1,6 @@
 ---
 title: "Hycan 007"
-description: "Hycan 007 is a SUV battery-electric from Hycan, offering 523 km of CLTC range a 73.0 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hycan 007 is an SUV battery-electric from Hycan, offering a CLTC-rated range of 523 km, a 73 kWh battery, 135 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "hycan-007"
 brand: "hycan"
 type: "SUV"
@@ -54,8 +54,7 @@ Hycan 007 (starting at $36,080) is a SUV from HYCAN.
 
 ## Overview
 
-The Hycan 007 is a suv battery-electric from Hycan, with 135 kW of motor power, a 8.2-second 0–100 km/h time. It is positioned as a value-focused import, priced from $36,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $44,228 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Hycan 007 is Hycan's SUV fully electric. Specification highlights are peak output of 135 kW and 0–100 km/h in 8.2 seconds. Chassis details include NMC (ternary) cells, plus RWD drive. Pricing starts at $36,080 ex-factory, placing it in the mid-market tier. On landed cost, the lowest landed premium is Qatar at roughly +16.6% over base (about $42,064 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

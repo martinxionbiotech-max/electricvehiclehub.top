@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy E5"
-description: "Geely Galaxy E5 is a suv from Geely Galaxy, offering 530 km of CLTC range a 60.22 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU..."
+description: "The Geely Galaxy E5 is Geely Galaxy's SUV fully electric, offering a CLTC-rated range of 530 km, a 60 kWh battery, 160 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-e5"
 brand: "geely-galaxy"
 type: "SUV"
@@ -59,7 +59,7 @@ Geely Galaxy E5 (starting at $15,460) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy E5 is a compact SUV battery-electric from GEELY-GALAXY, with 530 km of CLTC range, 160 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.1 kWh/100km efficiency is strong for its 1,655 kg curb weight. It suits families and fleet buyers who need practicality.
+The Geely Galaxy E5 is Geely Galaxy's SUV battery-electric. Specification highlights are a 60 kWh battery, 180 km/h top speed, and 320 Nm of torque. Chassis details include LFP cells, plus FWD drivetrain. It is positioned as a value-segment import, priced from $15,460 ex-factory. For importers, Qatar offers the cheapest entry at about +32% over base (≈ $20,413 landed) — Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

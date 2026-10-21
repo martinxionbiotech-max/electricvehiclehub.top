@@ -1,6 +1,6 @@
 ---
 title: "Hyptec S600"
-description: "Hyptec S600 is a SUV battery-electric from Hyptec, offering 660 km of CLTC range and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hyptec S600 is Hyptec's SUV fully electric, offering a CLTC-rated range of 660 km, 250 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hyptec-s600"
 brand: "hyptec"
 type: "SUV"
@@ -50,8 +50,7 @@ Hyptec S600 (starting at $27,760) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec S600 is a suv battery-electric from Hyptec, with 250 kW of motor power. It is positioned as a value-focused import, priced from $27,760 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,055 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Hyptec S600 is an SUV fully electric from Hyptec. Specification highlights are a CLTC-rated range of 660 km and a 250 kW electric motor. Chassis details include MacPherson strut front / Multi-link rear suspension, plus RWD drivetrain. Pricing starts at $27,760 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +20.1% over base (≈ $33,328 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

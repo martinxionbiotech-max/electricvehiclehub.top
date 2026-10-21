@@ -1,6 +1,6 @@
 ---
 title: "Hyptec GT"
-description: "Hyptec GT is a suv from Hyptec, offering 560 km of CLTC range a 60 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hyptec GT is an SUV fully electric from Hyptec, offering a CLTC-rated range of 560 km, a 60 kWh battery, 180 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hyptec-gt"
 brand: "hyptec"
 type: "SUV"
@@ -57,7 +57,7 @@ Hyptec GT (starting at $21,660) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec GT is a midsize SUV battery-electric from HYPTEC, with 560 km of CLTC range, 180 kW of motor power, a 6.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,660 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,330 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.9 kWh/100km efficiency is strong for its 1,870 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits family and executive buyers prioritizing space.
+The Hyptec GT is Hyptec's SUV fully electric. It carries 0–100 km/h in 6.5 seconds and 60 kWh of battery capacity. The platform pairs NMC (ternary) chemistry with MacPherson strut front / Multi-link rear suspension. Pricing starts at $21,660 ex-factory, placing it in the value tier. Across export markets, the least-costly destination is Qatar, near +24.3% over base ($26,923 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

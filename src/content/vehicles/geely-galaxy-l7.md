@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy L7"
-description: "Geely Galaxy L7 is a suv from Geely Galaxy, a 18.4 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geely Galaxy L7 is an SUV plug-in hybrid from Geely Galaxy with a CLTC-rated range of 115 km, a 18 kWh battery, 160 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-l7"
 brand: "geely-galaxy"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "标准版 / 旗舰版"
 brakes: "Front ventilated disc / rear disc"
@@ -55,7 +55,7 @@ Geely Galaxy L7 (starting at $16,310) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy L7 is a compact SUV plug-in hybrid from GEELY-GALAXY, with 160 kW of motor power. It is positioned as a value-focused import, priced from $16,310 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,432 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.9 kWh/100km efficiency is strong for its 1,810 kg curb weight. It suits families and fleet buyers who need practicality.
+Geely Galaxy L7 is an SUV plug-in hybrid offered by Geely Galaxy. It carries peak torque of 262 Nm and 180 km/h top speed. The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $16,310 positions it as a value-focused import. For importers, the lowest landed premium is Qatar at roughly +30.6% over base (about $21,305 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Haval Jolion Pro"
-description: "Haval Jolion Pro is a suv from Haval, and 115 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Haval Jolion Pro is an SUV hybrid offered by Haval, offering 115 kW of motor power and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "haval-jolion-pro"
 brand: "haval"
 type: "SUV"
@@ -36,7 +36,7 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "N/A (non-plug-in HEV)"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,7 +51,7 @@ Haval Jolion PRO (starting at $18,140) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Jolion PRO is a compact SUV plug-in hybrid from HAVAL, with 115 kW of motor power. It is positioned as a value-focused import, priced from $18,140 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,449 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The Haval Jolion Pro is an SUV non-plug-in hybrid from Haval. It carries peak output of 115 kW and a top speed of 150 km/h. Chassis details include FWD drive, plus NMC chemistry. It is positioned as a value-focused import, priced from $18,140 ex-factory. Across export markets, Qatar offers the cheapest entry at about +28% over base (≈ $23,227 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

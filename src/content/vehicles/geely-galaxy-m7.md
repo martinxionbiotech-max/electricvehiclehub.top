@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy M7"
-description: "Geely Galaxy M7 is a SUV plug-in hybrid from Geely Galaxy, offering 225 km of CLTC range a 29.8 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Galaxy M7 is an SUV plug-in hybrid offered by Geely Galaxy, offering a CLTC-rated range of 225 km, a 29 kWh battery, 160 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-m7"
 brand: "geely-galaxy"
 type: "SUV"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ Geely Galaxy M7 (starting at $16,640) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy M7 is a suv plug-in hybrid from Geely Galaxy, with 160 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,640 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,795 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Galaxy M7 is Geely Galaxy's SUV plug-in hybrid electric. Specification highlights are 0–100 km/h in 7.5 seconds and a 160 kW electric motor. The platform pairs FWD drivetrain with LFP chemistry. Pricing starts at $16,640 ex-factory, placing it in the value tier. For importers, Qatar offers the cheapest entry at about +30.1% over base (≈ $21,652 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

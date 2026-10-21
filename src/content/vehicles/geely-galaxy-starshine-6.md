@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 6"
-description: "Geely Galaxy Starshine 6 is a sedan from Geely Galaxy, a 8.5 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Galaxy Starshine 6 is a sedan plug-in hybrid offered by Geely Galaxy, offering 60 km of CLTC range, 8 kWh of battery, 120 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-starshine-6"
 brand: "geely-galaxy"
 type: "Sedan"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "标准版 / 旗舰版"
 brakes: "Front ventilated disc / rear disc"
@@ -56,7 +56,7 @@ Geely Galaxy Starshine 6 (starting at $10,540) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starshine 6 is a midsize SUV plug-in hybrid from GEELY-GALAXY, with 120 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $10,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +52% over base (about $16,070 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.0 kWh/100km efficiency is strong for its 1,505 kg curb weight. It suits family and executive buyers prioritizing space.
+The Geely Galaxy Starshine 6 is Geely Galaxy's sedan plug-in hybrid. Specification highlights are peak output of 120 kW, a rated range of 60 km (CLTC), and 210 Nm of torque. The platform pairs LFP chemistry with MacPherson strut front / Multi-link rear suspension. It is positioned as an entry-level import, priced from $10,540 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +44.7% over base (about $15,247 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

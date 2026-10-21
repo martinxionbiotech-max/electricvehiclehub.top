@@ -1,6 +1,6 @@
 ---
 title: "iCAR 03T"
-description: "iCAR 03T is a SUV battery-electric from iCAR,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "iCAR 03T is an SUV battery-electric offered by iCAUR with LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "icaur-03t"
 brand: "icaur"
 type: "SUV"
@@ -45,8 +45,7 @@ iCAR 03T (starting at $19,420) is a SUV from ICAUR.
 
 ## Overview
 
-The iCAR 03T is a suv battery-electric from iCAR, . It is positioned as a value-focused import, priced from $19,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,860 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The iCAR 03T is an SUV fully electric from iCAUR. The platform pairs RWD drive with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $19,420 ex-factory. On landed cost, the least-costly destination is Qatar, near +26.5% over base ($24,571 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

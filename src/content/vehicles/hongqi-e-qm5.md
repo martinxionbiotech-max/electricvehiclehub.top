@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E QM5"
-description: "Hongqi E QM5 is a suv from Hongqi, offering 500 km of CLTC range a 56 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hongqi E QM5 is Hongqi's SUV fully electric with a CLTC-rated range of 500 km, 56 kWh of battery, 110 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hongqi-e-qm5"
 brand: "hongqi"
 type: "SUV"
@@ -55,7 +55,7 @@ Hongqi E QM5 (starting at $12,650) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi E QM5 is a midsize SUV battery-electric from HONGQI, with 500 km of CLTC range, 110 kW of motor power. It is positioned as a value-focused import, priced from $12,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,397 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.7 kWh/100km efficiency is strong for its 1,750 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits family and executive buyers prioritizing space.
+The Hongqi E QM5 is Hongqi's SUV fully electric. Specification highlights are a 110 kW electric motor and 56 kWh of battery capacity. The platform pairs FWD drive with NMC (CATL) chemistry. The ex-factory price of $12,650 positions it as an entry-level import. On landed cost, the least-costly destination is Qatar, near +38% over base ($17,462 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

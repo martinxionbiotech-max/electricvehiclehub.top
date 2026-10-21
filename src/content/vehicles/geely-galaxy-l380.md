@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy LEVC L380"
-description: "Geely Galaxy LEVC L380 is a MPV battery-electric from Geely Galaxy, offering 570 km of CLTC range a 100.0 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Galaxy LEVC L380 is an MPV battery-electric offered by Geely Galaxy, offering 570 km of CLTC range, a 100 kWh battery, 200 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-l380"
 brand: "geely-galaxy"
 type: "MPV"
@@ -55,8 +55,7 @@ Geely Galaxy LEVC L380 (starting at $41,650) is a MPV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy LEVC L380 is a mpv battery-electric from Geely Galaxy, with 200 kW of motor power. It is positioned as a value-focused import, priced from $41,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $50,369 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Galaxy LEVC L380 is Geely Galaxy's MPV battery-electric. Specification highlights are peak torque of 343 Nm and 170 km/h top speed. The platform pairs RWD drivetrain with NMC (CATL) cells. At an ex-factory price of $41,650, it sits in the premium segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +15% over base (≈ $47,912 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

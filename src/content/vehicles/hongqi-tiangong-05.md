@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Tiangong 05"
-description: "Hongqi Tiangong 05 is a Sedan battery-electric from Hongqi, offering 550 km of CLTC range a 62.0 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hongqi Tiangong 05 is Hongqi's sedan battery-electric, offering a CLTC-rated range of 550 km, 62 kWh of battery, 210 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-tiangong-05"
 brand: "hongqi"
 type: "Sedan"
@@ -56,8 +56,7 @@ Hongqi Tiangong 05 (starting at $22,190) is a Sedan from HONGQI.
 
 ## Overview
 
-The Hongqi Tiangong 05 is a sedan battery-electric from Hongqi, with 210 kW of motor power, a 6.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $22,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,914 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Hongqi Tiangong 05 is a sedan fully electric offered by Hongqi. Specification highlights are peak output of 210 kW and 317 Nm of torque. The platform pairs RWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $22,190, it sits in the value segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +23.8% over base (≈ $27,479 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

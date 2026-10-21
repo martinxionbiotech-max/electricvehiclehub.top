@@ -1,6 +1,6 @@
 ---
 title: "Forthing S50Ev"
-description: "Forthing S50Ev is a suv from Forthing, offering 410 km of CLTC range a 44.51 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Forthing S50Ev is Forthing's SUV fully electric with 410 km of CLTC range, a 44 kWh battery, 110 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "forthing-s50ev"
 brand: "forthing"
 type: "SUV"
@@ -57,7 +57,7 @@ Forthing S50Ev (starting at $21,250) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing S50Ev is a compact SUV battery-electric from FORTHING, with 410 km of CLTC range, 110 kW of motor power. It is positioned as a value-focused import, priced from $21,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,878 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.5 kWh/100km efficiency is strong for its 1,520 kg curb weight. It suits families and fleet buyers who need practicality.
+The Forthing S50Ev is an SUV fully electric from Forthing. Specification highlights are peak output of 110 kW and a 44 kWh battery. The platform pairs FWD drive with LFP chemistry. At an ex-factory price of $21,250, it sits in the value segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +24.7% over base (≈ $26,492 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

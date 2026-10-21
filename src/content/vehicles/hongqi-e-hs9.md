@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS9"
-description: "Hongqi E HS9 is a suv from Hongqi, a 120 kWh battery and 320 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Hongqi E HS9 is an SUV fully electric offered by Hongqi with 760 km of CLTC range, a 120 kWh battery, 320 kW peak output, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-e-hs9"
 brand: "hongqi"
 type: "SUV"
@@ -59,7 +59,7 @@ Hongqi E HS9 (starting at $83,070) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi E HS9 is a full-size SUV battery-electric from HONGQI, with 320 kW of motor power, a 6.5-second 0–100 km/h time. It is a luxury-tier flagship, priced from $83,070 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +16% over base (about $96,035 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.0 kWh/100km efficiency is strong for its 2,644 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits large families and executive fleets.
+The Hongqi E HS9 is an SUV battery-electric from Hongqi. It carries 760 km of CLTC range, peak torque of 600 Nm, and 200 km/h top speed. The platform pairs AWD (dual-motor) drive with NMC (CATL) cells. It is positioned as a top-tier import, priced from $83,070 ex-factory. On landed cost, the least-costly destination is Qatar, near +10% over base ($91,403 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

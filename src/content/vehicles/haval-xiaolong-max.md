@@ -1,6 +1,6 @@
 ---
 title: "Haval Xiaolong Max"
-description: "Haval Xiaolong Max is a SUV plug-in hybrid from Haval, offering 126 km of CLTC range and 220 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Haval Xiaolong Max is an SUV plug-in hybrid from Haval with 126 km of CLTC range, 220 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "haval-xiaolong-max"
 brand: "haval"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Haval Xiaolong Max (starting at $15,530) is a SUV from HAVAL.
 
 ## Overview
 
-The Haval Xiaolong Max is a suv plug-in hybrid from Haval, with 220 kW of motor power, a 6.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,530 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $21,571 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. In practice, the 18.5 kWh/100km efficiency is reasonable for its 2,075 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Haval Xiaolong Max is an SUV plug-in hybrid electric from Haval. Specification highlights are a top speed of 180 km/h and peak output of 220 kW. The platform pairs AWD drivetrain with MacPherson strut front / Multi-link rear suspension. The ex-factory price of $15,530 positions it as a value-focused import. Across export markets, the lowest landed premium is Qatar at roughly +31.9% over base (about $20,486 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

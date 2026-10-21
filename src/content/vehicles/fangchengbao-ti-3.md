@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao TI 3"
-description: "Fangchengbao TI 3 is a suv from Fangchengbao, offering 501 km of CLTC range a 65.28 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the ..."
+description: "Fangchengbao TI 3 is an SUV battery-electric offered by Fangchengbao with 501 km of CLTC range, a 65 kWh battery, 160 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "fangchengbao-ti-3"
 brand: "fangchengbao"
 type: "SUV"
@@ -58,7 +58,7 @@ Fangchengbao TI 3 (starting at $18,850) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-The Fangchengbao TI 3 is a compact SUV battery-electric from FANGCHENGBAO, with 501 km of CLTC range, 160 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $25,232 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.2 kWh/100km efficiency is strong for its 1,995 kg curb weight. It suits families and fleet buyers who need practicality.
+Fangchengbao TI 3 is an SUV fully electric offered by Fangchengbao. Specification highlights are 0–100 km/h in 7.9 seconds and 201 km/h top speed. The platform pairs a Double wishbone front / Multi-link rear suspension setup with RWD drivetrain. Pricing starts at $18,850 ex-factory, placing it in the value tier. On landed cost, Qatar offers the cheapest entry at about +27.2% over base (≈ $23,972 landed) — Germany's estimate carries a 17% countervailing duty over the 10% base tariff. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Geely Panda Mini EV"
-description: "Geely Panda Mini EV is a Hatchback battery-electric from Geely Galaxy, offering 200 km of CLTC range a 17.03 kWh battery and 30 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geely Panda Mini EV is Geely Galaxy's hatchback fully electric, offering a CLTC-rated range of 200 km, 17 kWh of battery, 30 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-panda-mini"
 brand: "geely-galaxy"
 type: "Hatchback"
@@ -51,8 +51,7 @@ Geely Panda Mini EV (starting at $5,540) is a Hatchback from GEELY GALAXY.
 
 ## Overview
 
-The Geely Panda Mini EV is a hatchback battery-electric from Geely Galaxy, with 30 kW of motor power. It is positioned as a value-focused import, priced from $5,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +90% over base (about $10,557 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Geely Galaxy's Geely Panda Mini EV is a hatchback fully electric. It carries 17 kWh of battery capacity and peak output of 30 kW. Chassis details include RWD drivetrain, plus MacPherson strut front / Torsion beam rear suspension. Pricing starts at $5,540 ex-factory, placing it in the entry-level tier. Across export markets, Qatar offers the cheapest entry at about +80.5% over base (≈ $9,997 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

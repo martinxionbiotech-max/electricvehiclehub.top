@@ -1,6 +1,6 @@
 ---
 title: "Geely Emgrand L HIP"
-description: "Geely Emgrand L HIP is a suv from Geely, a 15.5 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Emgrand L HIP is an SUV plug-in hybrid electric offered by Geely with a CLTC-rated range of 100 km, 15 kWh of battery, 100 kW of motor power, and NMC (CTP) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-emgrand-l-hip"
 brand: "geely"
 type: "SUV"
@@ -37,8 +37,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,7 +55,7 @@ Geely Emgrand L HIP (starting at $12,650) is a SUV from GEELY.
 
 ## Overview
 
-The Geely Emgrand L HIP is a compact SUV plug-in hybrid from GEELY, with 100 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $12,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,397 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+Geely Emgrand L HIP is an SUV plug-in hybrid offered by Geely. Specification highlights are 0–100 km/h in 6.9 seconds and a 100 kW electric motor. The platform pairs NMC (CTP) cells with MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $12,650 positions it as an affordable-end import. Across export markets, the lowest landed premium is Qatar at roughly +38% over base (about $17,462 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

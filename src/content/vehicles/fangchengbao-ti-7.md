@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao TI 7"
-description: "Fangchengbao TI 7 is a suv from Fangchengbao, a 26.6 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Fangchengbao TI 7 is Fangchengbao's SUV plug-in hybrid with a CLTC-rated range of 130 km, a 26 kWh battery, 200 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "fangchengbao-ti-7"
 brand: "fangchengbao"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Fangchengbao TI 7 (starting at $25,320) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-The Fangchengbao TI 7 is a midsize SUV plug-in hybrid from FANGCHENGBAO, with 200 kW of motor power, a 7.9-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,320 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,365 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.3 kWh/100km efficiency is strong for its 2,230 kg curb weight. It suits family and executive buyers prioritizing space.
+The Fangchengbao TI 7 is an SUV plug-in hybrid electric from Fangchengbao. It carries a 200 kW electric motor and a top speed of 190 km/h. Chassis details include LFP (Blade) cells, plus a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $25,320 ex-factory. On landed cost, the least-costly destination is Qatar, near +21.5% over base ($30,766 landed); meanwhile, Germany levies only the 10% standard tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

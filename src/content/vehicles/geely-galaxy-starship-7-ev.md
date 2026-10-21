@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starship 7 EV"
-description: "Geely Galaxy Starship 7 EV is a SUV battery-electric from Geely Galaxy, offering 605 km of CLTC range and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geely Galaxy Starship 7 EV is Geely Galaxy's SUV battery-electric with a CLTC-rated range of 605 km, 160 kW of motor power, and LFP (Aegis Short Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-starship-7-ev"
 brand: "geely-galaxy"
 type: "SUV"
@@ -49,8 +49,7 @@ Geely Galaxy Starship 7 EV (starting at $13,860) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starship 7 EV is a suv battery-electric from Geely Galaxy, with 160 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.4 kWh/100km efficiency is a practical figure; only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Galaxy Starship 7 EV is an SUV battery-electric from Geely Galaxy. Specification highlights are a CLTC-rated range of 605 km, peak output of 160 kW, and 0–100 km/h in 7.3 seconds. Chassis details include LFP (Aegis Short Blade) chemistry, plus MacPherson strut front / Multi-link rear suspension. It is positioned as a budget import, priced from $13,860 ex-factory. Across export markets, the least-costly destination is Qatar, near +35.2% over base ($18,733 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

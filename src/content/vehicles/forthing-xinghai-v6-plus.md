@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V6 Plus"
-description: "Forthing Xinghai V6 Plus is a SUV extended-range electric from Forthing,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Forthing Xinghai V6 Plus is an SUV range-extended electric from Forthing, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-xinghai-v6-plus"
 brand: "forthing"
 type: "SUV"
@@ -30,8 +30,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -45,8 +45,7 @@ Forthing Xinghai V6 Plus (starting at $21,100) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai V6 Plus is a suv extended-range electric from Forthing, . It is positioned as a value-focused import, priced from $21,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,712 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Forthing Xinghai V6 Plus is an SUV range-extended electric from Forthing. The platform pairs LFP chemistry with MacPherson strut front / Multi-link rear suspension. It is positioned as a value-focused import, priced from $21,100 ex-factory. For importers, the least-costly destination is Qatar, near +24.8% over base ($26,335 landed) — Germany levies only the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

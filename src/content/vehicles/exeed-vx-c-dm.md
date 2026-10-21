@@ -1,6 +1,6 @@
 ---
 title: "Exeed VX C DM"
-description: "Exeed VX C DM is a suv from Exeed, a 34.46 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Exeed VX C DM is Exeed's SUV plug-in hybrid, offering 180 km of CLTC range, 34 kWh of battery, 340 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "exeed-vx-c-dm"
 brand: "exeed"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Exeed VX C DM (starting at $29,560) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed VX C DM is a midsize SUV plug-in hybrid from EXEED, with 340 kW of motor power, a 5.0-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $29,560 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $37,040 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 20.9 kWh/100km efficiency is unremarkable for its 2,280 kg curb weight. It suits family and executive buyers prioritizing space.
+The Exeed VX C DM is Exeed's SUV plug-in hybrid electric. Specification highlights are 700 Nm of torque and a CLTC-rated range of 180 km. The platform pairs AWD (dual motor) drivetrain with NMC (CATL) cells. At an ex-factory price of $29,560, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +19.1% over base (≈ $35,218 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

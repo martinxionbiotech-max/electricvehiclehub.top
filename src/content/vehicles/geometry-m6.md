@@ -1,6 +1,6 @@
 ---
 title: "Geometry M6"
-description: "Geometry M6 is a SUV battery-electric from Geometry, offering 450 km of CLTC range a 53.0 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geometry M6 is an SUV battery-electric from Geometry, offering 450 km of CLTC range, 53 kWh of battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geometry-m6"
 brand: "geometry"
 type: "SUV"
@@ -57,8 +57,7 @@ Geometry M6 (starting at $20,810) is a SUV from GEOMETRY.
 
 ## Overview
 
-The Geometry M6 is a suv battery-electric from Geometry, with 150 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $20,810 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,393 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geometry M6 is Geometry's SUV fully electric. It carries peak output of 150 kW and a top speed of 150 km/h. Chassis details include FWD drivetrain, plus MacPherson strut front / Multi-link rear suspension. The ex-factory price of $20,810 positions it as a value-focused import. For importers, the lowest landed premium is Qatar at roughly +25.1% over base (about $26,030 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

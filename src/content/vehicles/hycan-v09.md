@@ -1,6 +1,6 @@
 ---
 title: "Hycan V09"
-description: "Hycan V09 is a MPV battery-electric from Hycan, offering 620 km of CLTC range a 92.0 kWh battery and 202 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hycan V09 is an MPV battery-electric from Hycan, offering a CLTC-rated range of 620 km, a 92 kWh battery, and 202 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hycan-v09"
 brand: "hycan"
 type: "MPV"
@@ -52,8 +52,7 @@ Hycan V09 (starting at $44,280) is a MPV from HYCAN.
 
 ## Overview
 
-The Hycan V09 is a mpv battery-electric from Hycan, with 202 kW of motor power. It is positioned as a value-focused import, priced from $44,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $53,268 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Hycan V09 is an MPV battery-electric from Hycan. Specification highlights are a CLTC-rated range of 620 km and 335 Nm of torque. Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus FWD drivetrain. The ex-factory price of $44,280 positions it as an upper-mid import. Across export markets, Qatar offers the cheapest entry at about +14.4% over base (≈ $50,674 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for people-carrier operators and family buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

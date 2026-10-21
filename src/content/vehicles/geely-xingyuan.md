@@ -1,6 +1,6 @@
 ---
 title: "Geely Xingyuan"
-description: "Geely Xingyuan is a Hatchback battery-electric from Geely, offering 310 km of CLTC range a 30.12 kWh battery and 58 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Geely Xingyuan is a hatchback battery-electric offered by Geely with 310 km of CLTC range, a 30 kWh battery, 58 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-xingyuan"
 brand: "geely"
 type: "Hatchback"
@@ -54,8 +54,7 @@ Geely Xingyuan (starting at $9,000) is a Hatchback from GEELY.
 
 ## Overview
 
-The Geely Xingyuan is a hatchback battery-electric from Geely, with 58 kW of motor power. It is positioned as a value-focused import, priced from $9,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +59% over base (about $14,372 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 10.7 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Xingyuan is a hatchback fully electric from Geely. Specification highlights are a CLTC-rated range of 310 km and a 30 kWh battery. The platform pairs LFP cells with a MacPherson strut front / Torsion beam rear suspension setup. It is positioned as an affordable-end import, priced from $9,000 ex-factory. On landed cost, Qatar offers the cheapest entry at about +51.4% over base (≈ $13,630 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. It suits urban commuters and fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Hongqi EH7"
-description: "Hongqi EH7 is a suv from Hongqi, offering 600 km of CLTC range a 75 kWh battery and 253 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hongqi EH7 is Hongqi's SUV battery-electric with 600 km of CLTC range, 75 kWh of battery, 253 kW of motor power, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "hongqi-eh7"
 brand: "hongqi"
 type: "SUV"
@@ -58,7 +58,7 @@ Hongqi EH7 (starting at $29,410) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi EH7 is a midsize SUV battery-electric from HONGQI, with 600 km of CLTC range, 253 kW of motor power, a 7.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $29,410 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $36,875 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.9 kWh/100km efficiency is strong for its 2,233 kg curb weight. It suits family and executive buyers prioritizing space.
+The Hongqi EH7 is an SUV battery-electric from Hongqi. Specification highlights are a 253 kW electric motor and a 75 kWh battery. The platform pairs MacPherson strut front / Multi-link rear suspension with RWD drivetrain. Pricing starts at $29,410 ex-factory, placing it in the mid-market tier. Across export markets, the least-costly destination is Qatar, near +19.2% over base ($35,060 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

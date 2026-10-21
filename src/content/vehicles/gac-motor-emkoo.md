@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Emkoo"
-description: "GAC Motor Emkoo is a suv from GAC Motor, and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The GAC Motor Emkoo is GAC Motor's SUV non-plug-in hybrid, offering 134 kW of motor power and a NMC (Li-ion) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "gac-motor-emkoo"
 brand: "gac-motor"
 type: "SUV"
@@ -36,7 +36,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,7 +51,7 @@ Gac Motor Emkoo (starting at $21,100) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The Gac Motor Emkoo is a compact SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It is positioned as a value-focused import, priced from $21,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,713 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The GAC Motor Emkoo is GAC Motor's SUV non-plug-in hybrid. It carries 300 Nm of torque and 160 km/h top speed. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. At an ex-factory price of $21,100, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +24.8% over base (about $26,335 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

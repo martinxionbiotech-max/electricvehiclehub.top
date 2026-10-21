@@ -1,6 +1,6 @@
 ---
 title: "Geometry G6"
-description: "Geometry G6 is a Sedan battery-electric from Geometry, offering 410 km of CLTC range a 46.11 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Geometry G6 is a sedan battery-electric from Geometry, offering 410 km of CLTC range, a 46 kWh battery, 100 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "geometry-g6"
 brand: "geometry"
 type: "Sedan"
@@ -54,8 +54,7 @@ Geometry G6 (starting at $16,640) is a Sedan from GEOMETRY.
 
 ## Overview
 
-The Geometry G6 is a sedan battery-electric from Geometry, with 100 kW of motor power. It is positioned as a value-focused import, priced from $16,640 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,795 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geometry G6 is Geometry's sedan battery-electric. Specification highlights are 150 km/h top speed, a 46 kWh battery, and a rated range of 410 km (CLTC). The platform pairs LFP cells with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $16,640 positions it as a mainstream-value import. For importers, Qatar offers the cheapest entry at about +30.1% over base (≈ $21,652 landed) — Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. It suits executive and corporate fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

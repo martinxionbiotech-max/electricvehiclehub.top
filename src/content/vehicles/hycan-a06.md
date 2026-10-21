@@ -1,6 +1,6 @@
 ---
 title: "Hycan A06"
-description: "Hycan A06 is a Sedan battery-electric from Hycan, offering 550 km of CLTC range a 60.04 kWh battery and 137 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Hycan A06 is Hycan's sedan battery-electric with a CLTC-rated range of 550 km, 60 kWh of battery, 137 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hycan-a06"
 brand: "hycan"
 type: "Sedan"
@@ -52,8 +52,7 @@ Hycan A06 (starting at $24,970) is a Sedan from HYCAN.
 
 ## Overview
 
-The Hycan A06 is a sedan battery-electric from Hycan, with 137 kW of motor power. It is positioned as a value-focused import, priced from $24,970 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,979 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Hycan A06 is Hycan's sedan battery-electric. It carries 60 kWh of battery capacity and a rated range of 550 km (CLTC). Chassis details include RWD drive, plus NMC (ternary) chemistry. The ex-factory price of $24,970 positions it as a value-segment import. For importers, the lowest landed premium is Qatar at roughly +21.7% over base (about $30,398 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

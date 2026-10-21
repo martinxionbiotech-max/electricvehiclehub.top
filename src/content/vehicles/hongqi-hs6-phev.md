@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS6 Phev"
-description: "Hongqi HS6 Phev is a suv from Hongqi, a 23 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Hongqi HS6 Phev is an SUV plug-in hybrid offered by Hongqi with 148 km of CLTC range, a 23 kWh battery, 168 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hongqi-hs6-phev"
 brand: "hongqi"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Hongqi HS6 Phev (starting at $25,180) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi HS6 Phev is a midsize SUV plug-in hybrid from HONGQI, with 168 kW of motor power, a 7.9-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,211 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.5 kWh/100km efficiency is strong for its 2,040 kg curb weight. It suits family and executive buyers prioritizing space.
+Hongqi HS6 Phev is an SUV plug-in hybrid offered by Hongqi. Specification highlights are 340 Nm of torque and a rated range of 148 km (CLTC). Chassis details include a MacPherson strut front / Multi-link rear suspension setup, plus AWD (dual motor) drivetrain. At an ex-factory price of $25,180, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the lowest landed premium is Qatar at roughly +21.6% over base (about $30,619 landed), while Germany levies only the 10% standard tariff. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

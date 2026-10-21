@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao BAO 5"
-description: "Fangchengbao BAO 5 is a suv from Fangchengbao, a 31.8 kWh battery and 485 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Fangchengbao BAO 5 is Fangchengbao's SUV plug-in hybrid, offering 125 km of CLTC range, a 31 kWh battery, 485 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "fangchengbao-bao-5"
 brand: "fangchengbao"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "旗舰版"
 brakes: "Front ventilated disc / rear disc"
@@ -59,7 +59,7 @@ Fangchengbao BAO 5 (starting at $33,770) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-The Fangchengbao BAO 5 is a midsize SUV plug-in hybrid from FANGCHENGBAO, with 485 kW of motor power, a 4.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $33,770 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $41,681 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 23.5 kWh/100km efficiency is unremarkable for its 2,890 kg curb weight. It suits family and executive buyers prioritizing space.
+The Fangchengbao BAO 5 is Fangchengbao's SUV plug-in hybrid electric. It carries a 485 kW electric motor and a 4.8-second 0–100 km/h time. Chassis details include LFP (Blade) cells, plus AWD drive. It is positioned as a mid-market import, priced from $33,770 ex-factory. On landed cost, the least-costly destination is Qatar, near +17.4% over base ($39,638 landed) — Germany levies only the 10% standard tariff. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

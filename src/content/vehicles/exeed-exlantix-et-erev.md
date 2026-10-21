@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ET EREV"
-description: "Exeed Exlantix ET EREV is a SUV extended-range electric from Exeed, offering 200 km of CLTC range a 32.0 kWh battery and 195 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Exeed Exlantix ET EREV is Exeed's SUV range-extended electric, offering 200 km of CLTC range, 32 kWh of battery, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "exeed-exlantix-et-erev"
 brand: "exeed"
 type: "SUV"
@@ -35,8 +35,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,8 +53,7 @@ Exeed Exlantix ET EREV (starting at $24,000) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed Exlantix ET EREV is a suv extended-range electric from Exeed, with 195 kW of motor power. It is positioned as a value-focused import, priced from $24,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $30,910 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Exeed Exlantix ET EREV is an SUV range-extended electric from Exeed. It carries 200 km of CLTC range and 32 kWh of battery capacity. The platform pairs RWD / AWD drive with a Double wishbone front / Multi-link rear suspension setup. The ex-factory price of $24,000 positions it as a mainstream-value import. For importers, the lowest landed premium is Qatar at roughly +22.4% over base (about $29,380 landed) — Germany levies only the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

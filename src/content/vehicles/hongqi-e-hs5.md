@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS5"
-description: "Hongqi E HS5 is a suv from Hongqi, offering 520 km of CLTC range a 62 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Hongqi E HS5 is an SUV battery-electric offered by Hongqi with 520 km of CLTC range, 62 kWh of battery, 210 kW of motor power, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-e-hs5"
 brand: "hongqi"
 type: "SUV"
@@ -58,7 +58,7 @@ Hongqi E HS5 (starting at $25,320) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi E HS5 is a compact SUV battery-electric from HONGQI, with 520 km of CLTC range, 210 kW of motor power, a 7.4-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,320 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,365 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.9 kWh/100km efficiency is strong for its 1,997 kg curb weight. It suits families and fleet buyers who need practicality.
+Hongqi E HS5 is an SUV battery-electric offered by Hongqi. Specification highlights are peak torque of 317 Nm and peak output of 210 kW. The platform pairs NMC (CATL) cells with RWD drive. Pricing starts at $25,320 ex-factory, placing it in the mid-market tier. For importers, Qatar offers the cheapest entry at about +21.5% over base (≈ $30,766 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
