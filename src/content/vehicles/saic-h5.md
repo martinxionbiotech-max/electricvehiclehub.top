@@ -1,6 +1,6 @@
 ---
 title: "SAIC H5"
-description: "SAIC H5 is a suv from Saic, a 32.6 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "SAIC H5 is an SUV battery-electric offered by SAIC with 655 km of CLTC range, a 80 kWh battery, 150 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "saic-h5"
 brand: "saic"
 type: "SUV"
@@ -57,7 +57,7 @@ Saic H5 (starting at $22,510) is a SUV from SAIC.
 
 ## Overview
 
-The Saic H5 is a compact SUV battery-electric from SAIC, with 150 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $22,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,267 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 17.2 kWh/100km efficiency is strong for its 2,000 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
+SAIC H5 is an SUV battery-electric offered by SAIC. It carries a 150 kW electric motor and peak torque of 350 Nm. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drive. It is positioned as a value-segment import, priced from $22,510 ex-factory. Across export markets, Qatar offers the cheapest entry at about +23.6% over base (≈ $27,815 landed), while Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. This positions it for budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

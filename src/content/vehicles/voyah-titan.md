@@ -1,6 +1,6 @@
 ---
 title: "Voyah Titan"
-description: "Voyah Titan is a suv from Voyah, a 65 kWh battery and 380 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Voyah Titan is an SUV plug-in hybrid electric from Voyah, offering 370 km of CLTC range, a 65 kWh battery, 380 kW of motor power, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "voyah-titan"
 brand: "voyah"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "旗舰版"
 brakes: "Front ventilated disc / rear disc"
@@ -58,7 +58,7 @@ Voyah Titan (starting at $53,510) is a SUV from VOYAH.
 
 ## Overview
 
-The Voyah Titan is a full-size SUV plug-in hybrid from VOYAH, with 380 kW of motor power, a 5.2-second 0–100 km/h time. It is positioned as a premium import, priced from $53,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $63,445 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.6 kWh/100km efficiency is unremarkable for its 2,760 kg curb weight. It suits large families and executive fleets.
+The Voyah Titan is an SUV plug-in hybrid electric from Voyah. Specification highlights are peak output of 380 kW and a 65 kWh battery. The platform pairs NMC cells with AWD drive. Pricing starts at $53,510 ex-factory, placing it in the premium tier. For importers, the least-costly destination is Qatar, near +12.8% over base ($60,365 landed); meanwhile, Germany levies only the 10% standard tariff. It suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

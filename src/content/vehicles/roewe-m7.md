@@ -1,6 +1,6 @@
 ---
 title: "Roewe M7"
-description: "Roewe M7 is a sedan from Roewe, a 19.7 kWh battery and 137 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Roewe M7 is Roewe's sedan plug-in hybrid, offering a CLTC-rated range of 160 km, 19 kWh of battery, 137 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "roewe-m7"
 brand: "roewe"
 type: "Sedan"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Roewe M7 (starting at $13,770) is a Sedan from ROEWE.
 
 ## Overview
 
-The Roewe M7 is a full-size sedan plug-in hybrid from ROEWE, with 137 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,770 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,631 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 13.9 kWh/100km efficiency is strong for its 1,670 kg curb weight. It suits executive and chauffeur-driven fleets.
+The Roewe M7 is Roewe's sedan plug-in hybrid. It carries 185 km/h top speed and peak output of 137 kW. Chassis details include MacPherson strut front / Multi-link rear suspension, plus LFP cells. The ex-factory price of $13,770 positions it as a budget import. On landed cost, Qatar offers the cheapest entry at about +35.4% over base (≈ $18,638 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

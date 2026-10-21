@@ -1,6 +1,6 @@
 ---
 title: "Sehol E20X"
-description: "Sehol E20X is a SUV battery-electric from Sehol, offering 402 km of CLTC range a 49.5 kWh battery and 92 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Sehol E20X is an SUV fully electric offered by Sehol with 402 km of CLTC range, 49 kWh of battery, 92 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "sehol-e20x"
 brand: "sehol"
 type: "SUV"
@@ -52,8 +52,7 @@ Sehol E20X (starting at $17,780) is a SUV from SEHOL.
 
 ## Overview
 
-The Sehol E20X is a suv battery-electric from Sehol, with 92 kW of motor power. It is positioned as a value-focused import, priced from $17,780 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,052 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Sehol E20X is an SUV fully electric from Sehol. Specification highlights are 49 kWh of battery capacity and a rated range of 402 km (CLTC). Chassis details include MacPherson strut front / Torsion beam rear suspension, plus NMC (ternary) cells. It is positioned as a mainstream-value import, priced from $17,780 ex-factory. On landed cost, Qatar offers the cheapest entry at about +28.5% over base (≈ $22,849 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

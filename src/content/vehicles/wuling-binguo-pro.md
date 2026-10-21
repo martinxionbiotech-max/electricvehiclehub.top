@@ -1,6 +1,6 @@
 ---
 title: "Wuling Binguo Pro"
-description: "Wuling Binguo Pro is a Hatchback battery-electric from Wuling, offering 330 km of CLTC range a 31.9 kWh battery and 65 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wuling Binguo Pro is a hatchback battery-electric from Wuling with 330 km of CLTC range, 31 kWh of battery, 65 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-binguo-pro"
 brand: "wuling"
 type: "Hatchback"
@@ -52,8 +52,7 @@ Wuling Binguo Pro (starting at $8,170) is a Hatchback from WULING.
 
 ## Overview
 
-The Wuling Binguo Pro is a hatchback battery-electric from Wuling, with 65 kW of motor power. It is positioned as a value-focused import, priced from $8,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +64% over base (about $13,457 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Wuling Binguo Pro is a hatchback fully electric offered by Wuling. Specification highlights are a CLTC-rated range of 330 km and 31 kWh of battery capacity. The platform pairs LFP cells with FWD drive. The ex-factory price of $8,170 positions it as an entry-level import. Across export markets, Qatar offers the cheapest entry at about +56.2% over base (≈ $12,758 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. It suits urban commuters and fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

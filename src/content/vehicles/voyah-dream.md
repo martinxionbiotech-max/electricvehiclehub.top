@@ -1,6 +1,6 @@
 ---
 title: "Voyah Dream"
-description: "Voyah Dream is a suv from Voyah, a 43.2 kWh battery and 370 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Voyah Dream is Voyah's MPV fully electric, offering a CLTC-rated range of 650 km, 108 kWh of battery, 370 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "voyah-dream"
 brand: "voyah"
 type: "MPV"
@@ -59,7 +59,7 @@ Voyah Dream (starting at $46,460) is a SUV from VOYAH.
 
 ## Overview
 
-The Voyah Dream is a full-size SUV battery-electric from VOYAH, with 370 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a premium import, priced from $46,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $55,672 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.2 kWh/100km efficiency is unremarkable for its 2,740 kg curb weight. It suits large families and executive fleets.
+Voyah Dream is an MPV battery-electric offered by Voyah. Specification highlights are 620 Nm of torque and 650 km of CLTC range. The platform pairs NMC chemistry with AWD drive. At an ex-factory price of $46,460, it sits in the premium segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +14% over base (about $52,963 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits importers serving the multi-passenger segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

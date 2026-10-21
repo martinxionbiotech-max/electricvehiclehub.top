@@ -1,6 +1,6 @@
 ---
 title: "NIO EC7"
-description: "NIO EC7 is a suv from Nio, offering 635 km of CLTC range a 100 kWh battery and 480 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The NIO EC7 is an SUV battery-electric from NIO with 635 km of CLTC range, a 100 kWh battery, 480 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "nio-ec7"
 brand: "nio"
 type: "SUV"
@@ -59,7 +59,7 @@ Nio EC7 (starting at $64,510) is a SUV from NIO.
 
 ## Overview
 
-The Nio EC7 is a midsize SUV battery-electric from NIO, with 635 km of CLTC range, 480 kW of motor power, a 3.8-second 0–100 km/h time. It is positioned as a premium import, priced from $64,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +17% over base (about $75,572 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.6 kWh/100km efficiency is strong for its 2,419 kg curb weight. It suits family and executive buyers prioritizing space.
+The NIO EC7 is NIO's SUV fully electric. Specification highlights are a 480 kW electric motor, 100 kWh of battery capacity, and 635 km of CLTC range. The platform pairs NMC (CATL) chemistry with AWD (dual-motor) drive. It is positioned as a flagship import, priced from $64,510 ex-factory. For importers, Qatar offers the cheapest entry at about +11.5% over base (≈ $71,915 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits premium-tier importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

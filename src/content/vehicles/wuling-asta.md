@@ -1,6 +1,6 @@
 ---
 title: "Wuling Asta"
-description: "Wuling Asta is a suv from Wuling, and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wuling Asta is an SUV non-plug-in hybrid from Wuling with 130 kW of motor power and a NMC (Li-ion) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-asta"
 brand: "wuling"
 type: "SUV"
@@ -36,7 +36,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,7 +51,7 @@ Wuling Asta (starting at $14,060) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Asta is a compact SUV plug-in hybrid from WULING, with 130 kW of motor power. It is positioned as a value-focused import, priced from $14,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,951 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+Wuling Asta is an SUV non-plug-in hybrid offered by Wuling. Specification highlights are peak torque of 320 Nm and 145 km/h top speed. Chassis details include NMC (Li-ion) chemistry, plus FWD drivetrain. It is positioned as a budget import, priced from $14,060 ex-factory. For importers, Qatar offers the cheapest entry at about +34.7% over base (≈ $18,943 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "NIO ET9"
-description: "NIO ET9 is a suv from Nio, offering 650 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The NIO ET9 is an SUV battery-electric from NIO with 650 km of CLTC range, a 102 kWh battery, 520 kW peak output, and a NMC (900V) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "nio-et9"
 brand: "nio"
 type: "SUV"
@@ -59,7 +59,7 @@ Nio ET9 (starting at $108,170) is a SUV from NIO.
 
 ## Overview
 
-The Nio ET9 is a full-size SUV battery-electric from NIO, with 650 km of CLTC range, 520 kW of motor power, a 4.1-second 0–100 km/h time. It is a luxury-tier flagship, priced from $108,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +14% over base (about $123,707 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.2 kWh/100km efficiency is strong for its 2,700 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits large families and executive fleets.
+The NIO ET9 is NIO's SUV battery-electric. It carries a CLTC-rated range of 650 km, peak output of 520 kW, and 102 kWh of battery capacity. Chassis details include AWD drivetrain, plus a Double wishbone front / Multi-link (air, SkyRide) rear suspension setup. It is positioned as a top-tier import, priced from $108,170 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +8.9% over base (about $117,758 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

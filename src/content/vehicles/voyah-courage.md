@@ -1,6 +1,6 @@
 ---
 title: "Voyah Courage"
-description: "Voyah Courage is a suv from Voyah, offering 650 km of CLTC range a 81 kWh battery and 230 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Voyah Courage is an SUV battery-electric from Voyah with 650 km of CLTC range, a 81 kWh battery, 230 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "voyah-courage"
 brand: "voyah"
 type: "SUV"
@@ -58,7 +58,7 @@ Voyah Courage (starting at $28,580) is a SUV from VOYAH.
 
 ## Overview
 
-The Voyah Courage is a midsize SUV battery-electric from VOYAH, with 650 km of CLTC range, 230 kW of motor power, a 6.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $28,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,959 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.8 kWh/100km efficiency is strong for its 2,175 kg curb weight. It suits family and executive buyers prioritizing space.
+The Voyah Courage is Voyah's SUV battery-electric. Specification highlights are a rated range of 650 km (CLTC), peak output of 230 kW, and 0–100 km/h in 6.8 seconds. The platform pairs RWD drive with NMC (CATL) chemistry. At an ex-factory price of $28,580, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +19.6% over base ($34,189 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

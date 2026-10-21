@@ -1,6 +1,6 @@
 ---
 title: "Wuling Nebula"
-description: "Wuling Nebula is a suv from Wuling, and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Wuling Nebula is an SUV non-plug-in hybrid offered by Wuling with 130 kW of motor power and NMC (Li-ion) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-nebula"
 brand: "wuling"
 type: "SUV"
@@ -36,7 +36,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,7 +51,7 @@ Wuling Nebula (starting at $12,650) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Nebula is a compact SUV plug-in hybrid from WULING, with 130 kW of motor power. It is positioned as a value-focused import, priced from $12,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,397 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The Wuling Nebula is Wuling's SUV non-plug-in hybrid. Specification highlights are 320 Nm of torque and 135 km/h top speed. Chassis details include FWD drive, plus MacPherson strut front / Torsion beam rear suspension. It is positioned as a budget import, priced from $12,650 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +38% over base (about $17,462 landed); meanwhile, Germany levies only the 10% standard tariff. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "XPENG G9"
-description: "XPENG G9 is a suv from Xpeng, offering 625 km of CLTC range a 79 kWh battery and 285 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The XPENG G9 is XPeng's SUV fully electric with 625 km of CLTC range, a 79 kWh battery, 285 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "xpeng-g9"
 brand: "xpeng"
 type: "SUV"
@@ -60,7 +60,7 @@ Xpeng G9 (starting at $43,162) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng G9 is a midsize SUV battery-electric from XPENG, with 625 km of CLTC range, 285 kW of motor power, a 6.6-second 0–100 km/h time. It is positioned as a premium import, priced from $43,162 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $52,036 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 13.9 kWh/100km efficiency is strong for its 2,196 kg curb weight. It suits family and executive buyers prioritizing space.
+XPENG G9 is an SUV fully electric offered by XPeng. It carries 0–100 km/h in 6.6 seconds and a CLTC-rated range of 625 km. Chassis details include a Cd of 0.272, plus LFP chemistry. It is positioned as an upper-mid import, priced from $43,162 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +14.7% over base (about $49,500 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

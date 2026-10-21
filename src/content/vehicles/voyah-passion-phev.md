@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion PHEV"
-description: "Voyah Passion PHEV is a Sedan plug-in hybrid from Voyah, offering 262 km of CLTC range a 43.0 kWh battery and 390 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Voyah Passion PHEV is Voyah's sedan plug-in hybrid, offering a CLTC-rated range of 262 km, a 43 kWh battery, 390 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "voyah-passion-phev"
 brand: "voyah"
 type: "Sedan"
@@ -36,8 +36,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Voyah Passion PHEV (starting at $35,110) is a Sedan from VOYAH.
 
 ## Overview
 
-The Voyah Passion PHEV is a sedan plug-in hybrid from Voyah, with 390 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $35,110 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $43,158 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Voyah Passion PHEV is a sedan plug-in hybrid offered by Voyah. Specification highlights are a 390 kW electric motor, a CLTC-rated range of 262 km, and a 5.9-second 0–100 km/h time. Chassis details include a Double wishbone front / Multi-link (air) rear suspension setup, plus NMC (CATL) cells. Pricing starts at $35,110 ex-factory, placing it in the mid-market tier. Across export markets, the least-costly destination is Qatar, near +16.9% over base ($41,045 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

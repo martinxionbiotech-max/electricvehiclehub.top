@@ -1,6 +1,6 @@
 ---
 title: "Wuling Hongguang BEV"
-description: "Wuling Hongguang BEV is a suv from Wuling, a 8.5 kWh battery and 75 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wuling Hongguang BEV is an MPV battery-electric from Wuling with 300 km of CLTC range, a 32 kWh battery, 75 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "wuling-hongguang-bev"
 brand: "wuling"
 type: "MPV"
@@ -51,7 +51,7 @@ Wuling Hongguang BEV (starting at $9,690) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Hongguang BEV is a compact SUV battery-electric from WULING, with 75 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $9,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +56% over base (about $15,133 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 12.7 kWh/100km efficiency is strong for its 1,400 kg curb weight. It suits families and fleet buyers who need practicality.
+Wuling Hongguang BEV is an MPV battery-electric offered by Wuling. Specification highlights are 180 Nm of torque and a 32 kWh battery. The platform pairs RWD drivetrain with LFP chemistry. It is positioned as a budget import, priced from $9,690 ex-factory. On landed cost, the least-costly destination is Qatar, near +48.1% over base ($14,354 landed) — Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. It suits shuttle and charter fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

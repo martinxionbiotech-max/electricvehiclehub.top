@@ -1,6 +1,6 @@
 ---
 title: "Ora 5"
-description: "Ora 5 is a SUV battery-electric from Ora, offering 480 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Ora 5 is an SUV fully electric from Ora with a CLTC-rated range of 480 km and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "ora-5"
 brand: "ora"
 type: "SUV"
@@ -43,8 +43,7 @@ Ora 5 (starting at $13,860) is a SUV from ORA.
 
 ## Overview
 
-The Ora 5 is a suv battery-electric from Ora, . It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Ora 5 is an SUV battery-electric offered by Ora. Its specification includes 480 km of CLTC range. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus FWD drive. The ex-factory price of $13,860 positions it as an affordable-end import. Across export markets, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

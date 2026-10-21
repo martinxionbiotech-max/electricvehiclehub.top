@@ -1,6 +1,6 @@
 ---
 title: "Tank 300"
-description: "Tank 300 is a suv from Tank, a 37.1 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Tank 300 is an SUV plug-in hybrid electric offered by Tank, offering 115 km of CLTC range, 37 kWh of battery, 120 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "tank-300"
 brand: "tank"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "Hi4-T 越野版"
 brakes: "Front ventilated disc / rear disc"
@@ -59,7 +59,7 @@ Tank 300 (starting at $35,180) is a SUV from TANK.
 
 ## Overview
 
-The Tank 300 is a compact SUV plug-in hybrid from TANK, with 120 kW of motor power, a 6.7-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $35,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $43,236 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 27.6 kWh/100km efficiency is unremarkable for its 2,645 kg curb weight. It suits families and fleet buyers who need practicality.
+The Tank 300 is Tank's SUV plug-in hybrid electric. It carries a 120 kW electric motor, 400 Nm of torque, and 0–100 km/h in 6.7 seconds. Chassis details include LFP chemistry, plus a Double wishbone front / Multi-link rear suspension setup. At an ex-factory price of $35,180, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +16.9% over base ($41,119 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

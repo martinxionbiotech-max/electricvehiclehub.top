@@ -1,6 +1,6 @@
 ---
 title: "Wuling Hongguang MINI EV"
-description: "Wuling Hongguang MINI EV is a hatchback from Wuling, offering 120 km of CLTC range a 9.3 kWh battery and 20 kW of motor power. Full landed-cost breakdown to the EU..."
+description: "The Wuling Hongguang MINI EV is a hatchback battery-electric from Wuling, offering 120 km of CLTC range, 9 kWh of battery, 20 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-hongguang-mini-ev"
 brand: "wuling"
 type: "Hatchback"
@@ -37,7 +37,7 @@ heat_pump: "No"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC (China domestic, slow charge)"
-charging_adapter: "Type 2 (AC) adapter for EU slow charging"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
 certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
 hs_code: "87038000"
 trim: "120 km / 170 km 马卡龙版 / 悦享版"
@@ -56,8 +56,7 @@ Wuling Hongguang MINI EV (starting at $5,000) is a Hatchback from WULING.
 
 ## Overview
 
-Wuling Hongguang MINI EV is a hatchback from Wuling, offering 120 km of CLTC range a 9.3 kWh battery and 20 kW of motor power. Full landed-cost breakdown to the EU...
-
+Wuling Hongguang MINI EV is a hatchback battery-electric offered by Wuling. Specification highlights are a 9 kWh battery and peak output of 20 kW. Chassis details include a MacPherson strut front / Torsion beam rear suspension setup, plus LFP chemistry. It is positioned as an affordable-end import, priced from $5,000 ex-factory. For importers, the least-costly destination is Qatar, near +88.6% over base ($9,430 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for urban commuters and fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

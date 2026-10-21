@@ -1,6 +1,6 @@
 ---
 title: "Wuling Jiachen"
-description: "Wuling Jiachen is a MPV from Wuling, and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wuling Jiachen is Wuling's MPV petrol, offering 130 kW peak output. Per-market landed-cost modeling across 30 export destinations."
 slug: "wuling-jiachen"
 brand: "wuling"
 type: "MPV"
@@ -48,7 +48,7 @@ Wuling Jiachen (starting at $16,310) is a MPV from WULING.
 
 ## Overview
 
-The Wuling Jiachen is a compact MPV petrol from WULING, with 130 kW of motor power. It is positioned as a value-focused import, priced from $16,310 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,432 landed), while the Germany estimate applies the 10% standard tariff only — no countervailing duty applies to petrol powertrains. In practice, it suits families and fleet buyers who need practicality.
+The Wuling Jiachen is an MPV petrol from Wuling. Specification highlights are peak torque of 320 Nm and a 130 kW electric motor. The platform pairs FWD drivetrain with MacPherson strut front / Torsion beam rear suspension. The ex-factory price of $16,310 positions it as a value-segment import. On landed cost, Qatar offers the cheapest entry at about +30.6% over base (≈ $21,305 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits people-carrier operators and family buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

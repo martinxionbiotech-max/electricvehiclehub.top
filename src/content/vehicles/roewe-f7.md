@@ -1,6 +1,6 @@
 ---
 title: "Roewe F7"
-description: "Roewe F7 is a Sedan battery-electric from Roewe, offering 576 km of CLTC range a 77.0 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Roewe F7 is a sedan fully electric from Roewe with a CLTC-rated range of 576 km, 77 kWh of battery, 250 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "roewe-f7"
 brand: "roewe"
 type: "Sedan"
@@ -54,8 +54,7 @@ Roewe F7 (starting at $22,630) is a Sedan from ROEWE.
 
 ## Overview
 
-The Roewe F7 is a sedan battery-electric from Roewe, with 250 kW of motor power. It is positioned as a value-focused import, priced from $22,630 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $29,399 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Roewe F7 is a sedan battery-electric from Roewe. It carries peak torque of 450 Nm, a 250 kW electric motor, and 576 km of CLTC range. The platform pairs LFP chemistry with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $22,630 positions it as a value-focused import. On landed cost, Qatar offers the cheapest entry at about +23.5% over base (≈ $27,941 landed) — Germany applies a 35.3% countervailing duty on top of the 10% standard tariff. It suits private buyers and ride-hailing operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

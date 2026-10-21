@@ -1,6 +1,6 @@
 ---
 title: "Xpeng MONA L03"
-description: "Xpeng MONA L03 is a SUV battery-electric from XPENG, offering 550 km of CLTC range and 183 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Xpeng MONA L03 is an SUV battery-electric offered by XPeng, offering 550 km of CLTC range, 183 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "xpeng-mona-l03"
 brand: "xpeng"
 type: "SUV"
@@ -51,8 +51,7 @@ Xpeng MONA L03 (starting at $17,190) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng MONA L03 is a suv battery-electric from XPENG, with 183 kW of motor power. It is positioned as a value-focused import, priced from $17,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,401 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Xpeng MONA L03 is an SUV battery-electric from XPeng. It carries 550 km of CLTC range, a top speed of 180 km/h, and a 183 kW electric motor. Chassis details include LFP cells, plus FWD drivetrain. The ex-factory price of $17,190 positions it as a value-segment import. Across export markets, Qatar offers the cheapest entry at about +29.3% over base (≈ $22,229 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

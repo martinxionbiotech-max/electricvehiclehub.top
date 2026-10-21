@@ -1,6 +1,6 @@
 ---
 title: "Roewe i6 MAX PHEV"
-description: "Roewe i6 MAX PHEV is a Sedan plug-in hybrid from Roewe, offering 51 km of CLTC range a 9.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Roewe i6 MAX PHEV is a sedan plug-in hybrid offered by Roewe, offering 51 km of CLTC range, 9 kWh of battery, 100 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "roewe-i6-max-phev"
 brand: "roewe"
 type: "Sedan"
@@ -31,8 +31,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -50,8 +50,7 @@ Roewe i6 MAX PHEV (starting at $19,000) is a Sedan from ROEWE.
 
 ## Overview
 
-The Roewe i6 MAX PHEV is a sedan plug-in hybrid from Roewe, with 100 kW of motor power, a 7.2-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,397 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Roewe i6 MAX PHEV is a sedan plug-in hybrid offered by Roewe. Specification highlights are a 9 kWh battery, peak torque of 480 Nm, and a rated range of 51 km (CLTC). The platform pairs MacPherson strut front / Torsion beam rear suspension with LFP cells. It is positioned as a value-focused import, priced from $19,000 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +27% over base (about $24,130 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

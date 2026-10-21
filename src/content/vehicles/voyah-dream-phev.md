@@ -1,6 +1,6 @@
 ---
 title: "Voyah Dream PHEV"
-description: "Voyah Dream PHEV is a MPV plug-in hybrid from Voyah, offering 82 km of CLTC range a 25.57 kWh battery and 290 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Voyah Dream PHEV is Voyah's MPV plug-in hybrid with a CLTC-rated range of 82 km, 25 kWh of battery, 290 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "voyah-dream-phev"
 brand: "voyah"
 type: "MPV"
@@ -38,8 +38,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "增程版 尊享 / 旗舰"
 brakes: "Front ventilated disc / rear disc"
@@ -58,8 +58,7 @@ Voyah Dream PHEV (starting at $51,380) is a MPV from VOYAH.
 
 ## Overview
 
-The Voyah Dream PHEV is a mpv plug-in hybrid from Voyah, with 290 kW of motor power, a 6.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $51,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $61,096 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Voyah Dream PHEV is Voyah's MPV plug-in hybrid. Specification highlights are a CLTC-rated range of 82 km, a 6.6-second 0–100 km/h time, and a 290 kW electric motor. Chassis details include AWD drive, plus a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $51,380 positions it as a premium import. Across export markets, the least-costly destination is Qatar, near +13.1% over base ($58,129 landed), while Germany levies only the 10% standard tariff. This positions it for high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

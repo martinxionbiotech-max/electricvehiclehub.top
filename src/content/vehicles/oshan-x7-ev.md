@@ -1,6 +1,6 @@
 ---
 title: "Oshan X7 EV"
-description: "Oshan X7 EV is a SUV battery-electric from Oshan, a 59.9 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Oshan X7 EV is an SUV battery-electric from Oshan with 59 kWh of battery, 150 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "oshan-x7-ev"
 brand: "oshan"
 type: "SUV"
@@ -52,8 +52,7 @@ Oshan X7 EV (starting at $22,210) is a SUV from OSHAN.
 
 ## Overview
 
-The Oshan X7 EV is a suv battery-electric from Oshan, with 150 kW of motor power. It is positioned as a value-focused import, priced from $22,210 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,936 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Oshan X7 EV is an SUV fully electric offered by Oshan. Specification highlights are a 150 kW electric motor and a 59 kWh battery. Chassis details include LFP chemistry, plus MacPherson strut front / Multi-link rear suspension. It is positioned as a value-segment import, priced from $22,210 ex-factory. For importers, the lowest landed premium is Qatar at roughly +23.8% over base (about $27,500 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

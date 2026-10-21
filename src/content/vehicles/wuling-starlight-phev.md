@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight PHEV"
-description: "Wuling Starlight PHEV is a Sedan plug-in hybrid from Wuling, offering 70 km of CLTC range a 9.5 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wuling Starlight PHEV is a sedan plug-in hybrid electric from Wuling with a CLTC-rated range of 70 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "wuling-starlight-phev"
 brand: "wuling"
 type: "Sedan"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,8 +53,7 @@ Wuling Starlight PHEV (starting at $11,080) is a Sedan from WULING.
 
 ## Overview
 
-The Wuling Starlight PHEV is a sedan plug-in hybrid from Wuling, with 150 kW of motor power. It is positioned as a value-focused import, priced from $11,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,665 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Wuling Starlight PHEV is a sedan plug-in hybrid electric offered by Wuling. It carries a 150 kW electric motor and a top speed of 185 km/h. The platform pairs LFP chemistry with FWD drive. It is positioned as an entry-level import, priced from $11,080 ex-factory. For importers, the lowest landed premium is Qatar at roughly +42.7% over base (about $15,814 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

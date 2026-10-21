@@ -1,6 +1,6 @@
 ---
 title: "Seres SF5"
-description: "Seres SF5 is a SUV extended-range electric from Seres, a 40.0 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Seres SF5 is Seres's SUV extended-range electric with a 40 kWh battery and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "seres-sf5"
 brand: "seres"
 type: "SUV"
@@ -32,8 +32,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -48,8 +48,7 @@ Seres SF5 (starting at $32,890) is a SUV from SERES.
 
 ## Overview
 
-The Seres SF5 is a suv extended-range electric from Seres, . It is positioned as a value-focused import, priced from $32,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $40,711 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Seres SF5 is Seres's SUV range-extended electric. Its specification includes 40 kWh of battery capacity. The platform pairs RWD / AWD drive with NMC (CATL) chemistry. The ex-factory price of $32,890 positions it as a mid-market import. For importers, the least-costly destination is Qatar, near +17.7% over base ($38,714 landed) — Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

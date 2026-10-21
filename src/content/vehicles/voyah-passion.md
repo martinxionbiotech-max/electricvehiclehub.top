@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion"
-description: "Voyah Passion is a suv from Voyah, a 43 kWh battery and 290 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Voyah Passion is a sedan fully electric from Voyah with a CLTC-rated range of 730 km, a 108 kWh battery, 290 kW of motor power, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "voyah-passion"
 brand: "voyah"
 type: "Sedan"
@@ -57,7 +57,7 @@ Voyah Passion (starting at $35,610) is a SUV from VOYAH.
 
 ## Overview
 
-The Voyah Passion is a midsize SUV battery-electric from VOYAH, with 290 kW of motor power, a 5.9-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $35,610 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $43,710 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 19.3 kWh/100km efficiency is strong for its 2,245 kg curb weight. It suits family and executive buyers prioritizing space.
+Voyah Passion is a sedan battery-electric offered by Voyah. It carries 0–100 km/h in 5.9 seconds, a 108 kWh battery, and a CLTC-rated range of 730 km. Chassis details include NMC (CATL) cells, plus Double wishbone front / Multi-link (air) rear suspension. The ex-factory price of $35,610 positions it as a mid-market import. Across export markets, the least-costly destination is Qatar, near +16.7% over base ($41,570 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This positions it for importers serving the executive-sedan segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

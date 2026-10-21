@@ -1,6 +1,6 @@
 ---
 title: "Wey 03"
-description: "Wey 03 is a suv from Wey, a 34 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wey 03 is an SUV plug-in hybrid from WEY, offering 130 km of CLTC range, a 34 kWh battery, 130 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "wey-03"
 brand: "wey"
 type: "SUV"
@@ -38,8 +38,8 @@ heat_pump: "N/A"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,7 +55,7 @@ Wey 03 (starting at $32,250) is a SUV from WEY.
 
 ## Overview
 
-The Wey 03 is a compact SUV plug-in hybrid from WEY, with 130 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,006 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.6 kWh/100km efficiency is strong for its 1,998 kg curb weight. It suits families and fleet buyers who need practicality.
+The Wey 03 is an SUV plug-in hybrid electric from WEY. It carries a top speed of 180 km/h and 34 kWh of battery capacity. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. At an ex-factory price of $32,250, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +18% over base (about $38,042 landed); meanwhile, Germany levies only the 10% standard tariff. The profile suits private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

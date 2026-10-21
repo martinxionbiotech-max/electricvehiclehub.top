@@ -1,6 +1,6 @@
 ---
 title: "Voyah Free"
-description: "Voyah Free is a suv from Voyah, a 45 kWh battery and 215 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Voyah Free is Voyah's SUV range-extended electric, offering a CLTC-rated range of 318 km, 45 kWh of battery, 215 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "voyah-free"
 brand: "voyah"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Voyah Free (starting at $30,970) is a SUV from VOYAH.
 
 ## Overview
 
-The Voyah Free is a midsize SUV extended-range electric from VOYAH, with 215 kW of motor power, a 7.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $30,970 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $38,594 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.3 kWh/100km efficiency is strong for its 2,250 kg curb weight. It suits family and executive buyers prioritizing space.
+Voyah Free is an SUV extended-range electric offered by Voyah. It carries 380 Nm of torque and 180 km/h top speed. The platform pairs Double wishbone front / Multi-link (air) rear suspension with RWD / AWD drivetrain. At an ex-factory price of $30,970, it sits in the mid-market segment of the Chinese EV export range. Across export markets, the least-costly destination is Qatar, near +18.5% over base ($36,698 landed), while Germany applies the 10% standard tariff with no countervailing duty. The profile suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

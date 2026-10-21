@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9T"
-description: "Stelato S9T is a sedan from Stelato, a 37 kWh battery and 227 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Stelato S9T is a sedan fully electric from Stelato, offering a CLTC-rated range of 816 km, 100 kWh of battery, 227 kW peak output, and a NMC (Whale, CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "stelato-s9t"
 brand: "stelato"
 type: "Sedan"
@@ -60,8 +60,7 @@ Stelato S9T (starting at $43,630) is a Sedan from STELATO.
 
 ## Overview
 
-Stelato S9T is a sedan from Stelato, a 37 kWh battery and 227 kW of motor power. Full landed-cost breakdown across 7 export markets included for B2B import planning.
-
+The Stelato S9T is a sedan fully electric from Stelato. Specification highlights are a top speed of 204 km/h, 320 Nm of torque, and 816 km of CLTC range. The platform pairs NMC (Whale, CATL) cells with Double wishbone front / Multi-link (air) rear suspension. Pricing starts at $43,630 ex-factory, placing it in the premium tier. On landed cost, the least-costly destination is Qatar, near +14.6% over base ($49,991 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

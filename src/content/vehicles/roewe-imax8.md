@@ -1,6 +1,6 @@
 ---
 title: "Roewe Imax8"
-description: "Roewe Imax8 is a mpv from Roewe, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Roewe Imax8 is an MPV fully electric from Roewe, offering a CLTC-rated range of 570 km, 90 kWh of battery, 176 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "roewe-imax8"
 brand: "roewe"
 type: "MPV"
@@ -54,7 +54,7 @@ Roewe Imax8 (starting at $28,150) is a MPV from ROEWE.
 
 ## Overview
 
-The Roewe Imax8 is a MPV battery-electric from ROEWE, with 176 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $28,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,485 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 19.1 kWh/100km efficiency is strong for its 2,266 kg curb weight. It suits shuttle operators and large families.
+Roewe Imax8 is an MPV battery-electric offered by Roewe. Specification highlights are a rated range of 570 km (CLTC) and peak torque of 390 Nm. Chassis details include FWD drivetrain, plus a MacPherson strut front / Multi-link rear suspension setup. It is positioned as a mid-tier import, priced from $28,150 ex-factory. On landed cost, the lowest landed premium is Qatar at roughly +19.8% over base (about $33,737 landed), while Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. This positions it for shuttle and charter fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

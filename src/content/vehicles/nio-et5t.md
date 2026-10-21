@@ -1,6 +1,6 @@
 ---
 title: "NIO Et5T"
-description: "NIO Et5T is a suv from Nio, offering 710 km of CLTC range a 100 kWh battery and 360 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "NIO Et5T is an SUV fully electric offered by NIO with 710 km of CLTC range, a 100 kWh battery, 360 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "nio-et5t"
 brand: "nio"
 type: "SUV"
@@ -58,7 +58,7 @@ Nio Et5T (starting at $41,970) is a SUV from NIO.
 
 ## Overview
 
-The Nio Et5T is a compact SUV battery-electric from NIO, with 710 km of CLTC range, 360 kW of motor power, a 4.0-second 0–100 km/h time. It is positioned as a premium import, priced from $41,970 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $50,722 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.7 kWh/100km efficiency is strong for its 2,245 kg curb weight. It suits families and fleet buyers who need practicality.
+NIO Et5T is an SUV battery-electric offered by NIO. It carries a 4-second 0–100 km/h time, 200 km/h top speed, and peak output of 360 kW. The platform pairs NMC (CATL) chemistry with a MacPherson strut front / Multi-link rear suspension setup. It is positioned as an upper-mid import, priced from $41,970 ex-factory. Across export markets, the lowest landed premium is Qatar at roughly +15% over base (about $48,248 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits regional distributors serving family and logistics demand.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

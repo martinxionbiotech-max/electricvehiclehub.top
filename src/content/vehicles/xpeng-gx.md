@@ -1,6 +1,6 @@
 ---
 title: "Xpeng GX"
-description: "Xpeng GX is a SUV extended-range electric from XPENG, offering 430 km of CLTC range a 63.3 kWh battery and 370 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Xpeng GX is an SUV extended-range electric from XPeng with a CLTC-rated range of 430 km, a 63 kWh battery, 370 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "xpeng-gx"
 brand: "xpeng"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -58,8 +58,7 @@ Xpeng GX (starting at $38,860) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng GX is a suv extended-range electric from XPENG, with 370 kW of motor power, a 4.98-second 0–100 km/h time. It is positioned as a value-focused import, priced from $38,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $47,293 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. In practice, the 16.8 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Xpeng GX is XPeng's SUV extended-range electric. Specification highlights are peak output of 370 kW, 200 km/h top speed, and 430 km of CLTC range. The platform pairs RWD drivetrain with a Double wishbone front / Multi-link rear suspension setup. At an ex-factory price of $38,860, it sits in the mid-market segment of the Chinese EV export range. For importers, Qatar offers the cheapest entry at about +15.8% over base (≈ $44,983 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

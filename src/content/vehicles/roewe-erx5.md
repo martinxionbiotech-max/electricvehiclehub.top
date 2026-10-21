@@ -1,6 +1,6 @@
 ---
 title: "Roewe Erx5"
-description: "Roewe Erx5 is a suv from Roewe, a 12.3 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Roewe Erx5 is an SUV plug-in hybrid electric offered by Roewe with a CLTC-rated range of 61 km, 12 kWh of battery, 180 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "roewe-erx5"
 brand: "roewe"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Roewe Erx5 (starting at $21,680) is a SUV from ROEWE.
 
 ## Overview
 
-The Roewe Erx5 is a compact SUV plug-in hybrid from ROEWE, with 180 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,680 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,352 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 18.0 kWh/100km efficiency is strong for its 1,840 kg curb weight. It suits families and fleet buyers who need practicality.
+The Roewe Erx5 is Roewe's SUV plug-in hybrid electric. Specification highlights are a top speed of 200 km/h and a CLTC-rated range of 61 km. The platform pairs FWD drive with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $21,680, it sits in the value segment of the Chinese EV export range. For importers, the lowest landed premium is Qatar at roughly +24.3% over base (about $26,944 landed), while Germany levies only the 10% standard tariff. The profile suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

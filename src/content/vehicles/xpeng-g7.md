@@ -1,6 +1,6 @@
 ---
 title: "XPENG G7"
-description: "XPENG G7 is a suv from Xpeng, offering 602 km of CLTC range and 218 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The XPENG G7 is an SUV fully electric from XPeng with a CLTC-rated range of 602 km, 68 kWh of battery, 218 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "xpeng-g7"
 brand: "xpeng"
 type: "SUV"
@@ -57,7 +57,7 @@ Xpeng G7 (starting at $27,580) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng G7 is a midsize SUV battery-electric from XPENG, with 602 km of CLTC range, 218 kW of motor power, a 6.6-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $27,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $34,857 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.9 kWh/100km efficiency is strong for its 2,085 kg curb weight. It suits family and executive buyers prioritizing space.
+XPENG G7 is an SUV battery-electric offered by XPeng. It carries peak output of 218 kW and 602 km of CLTC range. Chassis details include RWD / AWD drive, plus a Double wishbone front / Multi-link rear suspension setup. It is positioned as a mid-market import, priced from $27,580 ex-factory. For importers, the least-costly destination is Qatar, near +20.2% over base ($33,139 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Wey 80"
-description: "Wey 80 is a suv from Wey, a 44.28 kWh battery and 215 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wey 80 is an SUV plug-in hybrid from WEY, offering a CLTC-rated range of 183 km, 44 kWh of battery, 215 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wey-80"
 brand: "wey"
 type: "SUV"
@@ -39,8 +39,8 @@ heat_pump: "Yes"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -57,7 +57,7 @@ Wey 80 (starting at $40,250) is a SUV from WEY.
 
 ## Overview
 
-The Wey 80 is a midsize SUV plug-in hybrid from WEY, with 215 kW of motor power, a 5.7-second 0–100 km/h time. It is positioned as a premium import, priced from $40,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $48,826 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 25.3 kWh/100km efficiency is unremarkable for its 2,765 kg curb weight. It suits family and executive buyers prioritizing space.
+The Wey 80 is WEY's SUV plug-in hybrid. It carries a 5.7-second 0–100 km/h time, a rated range of 183 km (CLTC), and 44 kWh of battery capacity. The platform pairs AWD drive with a MacPherson strut front / Multi-link rear suspension setup. The ex-factory price of $40,250 positions it as a premium import. For importers, Qatar offers the cheapest entry at about +15.4% over base (≈ $46,442 landed), while Germany levies only the 10% standard tariff. This positions it for private buyers and fleet managers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

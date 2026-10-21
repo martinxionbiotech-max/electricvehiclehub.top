@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SkyNomad N90"
-description: "Xiaomi SkyNomad N90 is a SUV extended-range electric from Xiaomi, offering 464 km of CLTC range a 76.0 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Xiaomi SkyNomad N90 is an SUV range-extended electric from Xiaomi with 464 km of CLTC range, 76 kWh of battery, and a NMC (Qilin, CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "xiaomi-skynomad-n90"
 brand: "xiaomi"
 type: "SUV"
@@ -35,8 +35,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,8 +53,7 @@ Xiaomi SkyNomad N90 (starting at $37,490) is a SUV from XIAOMI.
 
 ## Overview
 
-The Xiaomi SkyNomad N90 is a suv extended-range electric from Xiaomi, , a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $37,490 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $45,782 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Xiaomi SkyNomad N90 is an SUV extended-range electric offered by Xiaomi. Specification highlights are a 76 kWh battery and a 5.9-second 0–100 km/h time. Chassis details include a Double wishbone front / Multi-link rear suspension setup, plus NMC (Qilin, CATL) cells. At an ex-factory price of $37,490, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the lowest landed premium is Qatar at roughly +16.1% over base (about $43,544 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

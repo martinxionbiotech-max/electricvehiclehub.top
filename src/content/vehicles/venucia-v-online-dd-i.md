@@ -1,6 +1,6 @@
 ---
 title: "Venucia V-Online DD-i"
-description: "Venucia V-Online DD-i is a SUV plug-in hybrid from Venucia, a 18.4 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Venucia V-Online DD-i is an SUV plug-in hybrid offered by Venucia, offering a 18 kWh battery, 150 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "venucia-v-online-dd-i"
 brand: "venucia"
 type: "SUV"
@@ -35,8 +35,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -53,8 +53,7 @@ Venucia V-Online DD-i (starting at $16,510) is a SUV from VENUCIA.
 
 ## Overview
 
-The Venucia V-Online DD-i is a suv plug-in hybrid from Venucia, with 150 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,652 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Venucia V-Online DD-i is an SUV plug-in hybrid electric from Venucia. Specification highlights are a 18 kWh battery, 0–100 km/h in 7.8 seconds, and peak torque of 320 Nm. The platform pairs FWD drivetrain with a MacPherson strut front / Multi-link rear suspension setup. At an ex-factory price of $16,510, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +30.3% over base ($21,515 landed), while Germany applies the 10% standard tariff with no countervailing duty. This positions it for price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "NIO ES8"
-description: "NIO ES8 is a suv from Nio, offering 635 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "NIO ES8 is an SUV battery-electric offered by NIO, offering 635 km of CLTC range, a 102 kWh battery, 520 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "nio-es8"
 brand: "nio"
 type: "SUV"
@@ -60,7 +60,7 @@ Nio ES8 (starting at $57,130) is a SUV from NIO.
 
 ## Overview
 
-The Nio ES8 is a full-size SUV battery-electric from NIO, with 635 km of CLTC range, 520 kW of motor power, a 3.97-second 0–100 km/h time. It is positioned as a premium import, priced from $57,130 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $67,436 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.6 kWh/100km efficiency is strong for its 2,630 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits large families and executive fleets.
+NIO ES8 is an SUV fully electric offered by NIO. It carries a 102 kWh battery and a 520 kW electric motor. Chassis details include NMC cells, plus Double wishbone front / Multi-link (air) rear suspension. At an ex-factory price of $57,130, it sits in the premium segment of the Chinese EV export range. On landed cost, Qatar offers the cheapest entry at about +12.3% over base (≈ $64,166 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

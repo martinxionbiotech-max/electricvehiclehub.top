@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9"
-description: "Stelato S9 is a Sedan battery-electric from Stelato, offering 816 km of CLTC range a 100.0 kWh battery and 230 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Stelato S9 is a sedan fully electric offered by Stelato, offering 816 km of CLTC range, 100 kWh of battery, 230 kW peak output, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "stelato-s9"
 brand: "stelato"
 type: "Sedan"
@@ -53,8 +53,7 @@ Stelato S9 (starting at $55,530) is a Sedan from STELATO.
 
 ## Overview
 
-The Stelato S9 is a sedan battery-electric from Stelato, with 230 kW of motor power. It is positioned as a value-focused import, priced from $55,530 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $65,671 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Stelato S9 is a sedan battery-electric from Stelato. It carries a CLTC-rated range of 816 km and a 230 kW electric motor. The platform pairs RWD / AWD drive with a Double wishbone front / Multi-link (air) rear suspension setup. Pricing starts at $55,530 ex-factory, placing it in the premium tier. For importers, Qatar offers the cheapest entry at about +12.5% over base (≈ $62,486 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits high-spec private buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

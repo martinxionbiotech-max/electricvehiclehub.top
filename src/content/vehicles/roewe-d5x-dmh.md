@@ -1,6 +1,6 @@
 ---
 title: "Roewe D5X DMH"
-description: "Roewe D5X DMH is a suv from Roewe, a 21.4 kWh battery and 145 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Roewe D5X DMH is an SUV plug-in hybrid electric offered by Roewe with a CLTC-rated range of 135 km, 21 kWh of battery, 145 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "roewe-d5x-dmh"
 brand: "roewe"
 type: "SUV"
@@ -38,8 +38,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -56,7 +56,7 @@ Roewe D5X DMH (starting at $18,280) is a SUV from ROEWE.
 
 ## Overview
 
-The Roewe D5X DMH is a compact SUV plug-in hybrid from ROEWE, with 145 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,604 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 16.4 kWh/100km efficiency is strong for its 1,880 kg curb weight. It suits families and fleet buyers who need practicality.
+The Roewe D5X DMH is an SUV plug-in hybrid from Roewe. Specification highlights are a 145 kW electric motor, peak torque of 350 Nm, and a 21 kWh battery. Chassis details include MacPherson strut front / Multi-link rear suspension, plus FWD drivetrain. Pricing starts at $18,280 ex-factory, placing it in the value tier. For importers, the least-costly destination is Qatar, near +27.9% over base ($23,374 landed) — Germany levies only the 10% standard tariff. This positions it for families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

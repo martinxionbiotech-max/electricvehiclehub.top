@@ -1,6 +1,6 @@
 ---
 title: "Tank 400"
-description: "Tank 400 is a suv from Tank, a 37.1 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Tank 400 is an SUV plug-in hybrid from Tank with 105 km of CLTC range, a 37 kWh battery, 300 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "tank-400"
 brand: "tank"
 type: "SUV"
@@ -40,8 +40,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "Hi4-T 越野版"
 brakes: "Front ventilated disc / rear disc"
@@ -60,7 +60,7 @@ Tank 400 (starting at $40,250) is a SUV from TANK.
 
 ## Overview
 
-The Tank 400 is a midsize SUV plug-in hybrid from TANK, with 130 kW of motor power, a 6.8-second 0–100 km/h time. It is positioned as a premium import, priced from $40,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $48,826 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 24.6 kWh/100km efficiency is unremarkable for its 2,770 kg curb weight. It suits family and executive buyers prioritizing space.
+The Tank 400 is Tank's SUV plug-in hybrid electric. Specification highlights are a 300 kW electric motor and 0–100 km/h in 6.8 seconds. Chassis details include NMC (ternary) cells, plus AWD drivetrain. At an ex-factory price of $40,250, it sits in the premium segment of the Chinese EV export range. Across export markets, Qatar offers the cheapest entry at about +15.4% over base (≈ $46,442 landed) — Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

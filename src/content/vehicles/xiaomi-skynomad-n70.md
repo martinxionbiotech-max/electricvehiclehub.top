@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SkyNomad N70"
-description: "Xiaomi SkyNomad N70 is a SUV extended-range electric from Xiaomi, offering 351 km of CLTC range a 52.0 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Xiaomi SkyNomad N70 is an SUV range-extended electric from Xiaomi with 351 km of CLTC range, 52 kWh of battery, 210 kW peak output, and NMC (Qilin, CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "xiaomi-skynomad-n70"
 brand: "xiaomi"
 type: "SUV"
@@ -36,8 +36,8 @@ heat_pump: "Yes"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -55,8 +55,7 @@ Xiaomi SkyNomad N70 (starting at $29,150) is a SUV from XIAOMI.
 
 ## Overview
 
-The Xiaomi SkyNomad N70 is a suv extended-range electric from Xiaomi, with 210 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $29,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $36,587 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Xiaomi SkyNomad N70 is an SUV extended-range electric offered by Xiaomi. It carries a 7.9-second 0–100 km/h time and a 52 kWh battery. The platform pairs Double wishbone front / Multi-link rear suspension with NMC (Qilin, CATL) chemistry. Pricing starts at $29,150 ex-factory, placing it in the mid-market tier. For importers, the least-costly destination is Qatar, near +19.3% over base ($34,787 landed) — Germany applies the 10% standard tariff with no countervailing duty. The profile suits families and commercial fleet operators.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

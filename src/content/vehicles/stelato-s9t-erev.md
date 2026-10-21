@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9T EREV"
-description: "Stelato S9T EREV is a Sedan extended-range electric from Stelato, offering 251 km of CLTC range a 36.0 kWh battery and 227 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Stelato S9T EREV is a sedan extended-range electric offered by Stelato with 251 km of CLTC range, a 36 kWh battery, 227 kW peak output, and a LFP (CATL) / NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "stelato-s9t-erev"
 brand: "stelato"
 type: "Sedan"
@@ -38,8 +38,8 @@ suspension_front: "Double wishbone"
 suspension_rear: "Multi-link (air)"
 drag_coefficient: 0.193
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -58,8 +58,7 @@ Stelato S9T EREV (starting at $43,030) is a Sedan from STELATO.
 
 ## Overview
 
-The Stelato S9T EREV is a sedan extended-range electric from Stelato, with 227 kW of motor power, a 7.32-second 0–100 km/h time. It is positioned as a value-focused import, priced from $43,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $51,890 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Stelato S9T EREV is Stelato's sedan extended-range electric. Specification highlights are 36 kWh of battery capacity and a rated range of 251 km (CLTC). Chassis details include a Double wishbone front / Multi-link (air) rear suspension setup, plus a Cd of 0.193. The ex-factory price of $43,030 positions it as an upper-mid import. On landed cost, Qatar offers the cheapest entry at about +14.7% over base (≈ $49,361 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This positions it for business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

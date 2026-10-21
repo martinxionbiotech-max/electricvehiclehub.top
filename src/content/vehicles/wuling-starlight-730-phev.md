@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 730 PHEV"
-description: "Wuling Starlight 730 PHEV is a MPV plug-in hybrid from Wuling, offering 125 km of CLTC range a 9.5 kWh battery and 145 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Wuling Starlight 730 PHEV is an MPV plug-in hybrid offered by Wuling with 125 km of CLTC range, 9 kWh of battery, 145 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-starlight-730-phev"
 brand: "wuling"
 type: "MPV"
@@ -36,8 +36,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -54,8 +54,7 @@ Wuling Starlight 730 PHEV (starting at $14,420) is a MPV from WULING.
 
 ## Overview
 
-The Wuling Starlight 730 PHEV is a mpv plug-in hybrid from Wuling, with 145 kW of motor power. It is positioned as a value-focused import, priced from $14,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +41% over base (about $20,348 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Wuling Starlight 730 PHEV is an MPV plug-in hybrid electric from Wuling. Specification highlights are 230 Nm of torque and 9 kWh of battery capacity. The platform pairs LFP cells with MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $14,420, it sits in the entry-level segment of the Chinese EV export range. For importers, the least-costly destination is Qatar, near +34% over base ($19,321 landed) — Germany applies the 10% standard tariff with no countervailing duty. It suits budget-conscious fleet buyers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

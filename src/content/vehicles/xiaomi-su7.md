@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SU7"
-description: "The SU7 is Xiaomi's first car, and it landed like a product from a tech company, not a carmaker. A 4,997 mm sports sedan with a 73.6 kWh pack, a 220 kW motor an"
+description: "The Xiaomi SU7 is Xiaomi's sedan battery-electric, offering 700 km of CLTC range, 73 kWh of battery, 220 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "xiaomi-su7"
 brand: "xiaomi"
 type: "Sedan"
@@ -64,7 +64,7 @@ Xiaomi SU7 (starting at $30,320) is a Sedan from XIAOMI.
 
 ## Overview
 
-The Xiaomi SU7 is a full-size sedan battery-electric from XIAOMI, with 700 km of CLTC range, 220 kW of motor power, a 5.28-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $30,320 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $37,878 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.3 kWh/100km efficiency is strong for its 1,980 kg curb weight. It suits executive and chauffeur-driven fleets.
+The Xiaomi SU7 is a sedan battery-electric from Xiaomi. It carries 0–100 km/h in 5.28 seconds and 400 Nm of torque. The platform pairs a drag coefficient of 0.195 with RWD / AWD drive. The ex-factory price of $30,320 positions it as a mid-tier import. On landed cost, Qatar offers the cheapest entry at about +18.8% over base (≈ $36,016 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The profile suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Skywell HT-i"
-description: "Skywell HT-i is a SUV plug-in hybrid from Skywell, offering 115 km of CLTC range a 21.68 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Skywell HT-i is Skywell's SUV plug-in hybrid, offering 115 km of CLTC range, a 21 kWh battery, 130 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "skywell-ht-i"
 brand: "skywell"
 type: "SUV"
@@ -33,8 +33,8 @@ battery_thermal: "Liquid cooling"
 suspension_front: "MacPherson strut"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,8 +51,7 @@ Skywell HT-i (starting at $20,390) is a SUV from SKYWELL.
 
 ## Overview
 
-The Skywell HT-i is a suv plug-in hybrid from Skywell, with 130 kW of motor power. It is positioned as a value-focused import, priced from $20,390 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $26,929 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Skywell HT-i is an SUV plug-in hybrid offered by Skywell. It carries 21 kWh of battery capacity and a rated range of 115 km (CLTC). The platform pairs FWD drivetrain with NMC (ternary) cells. At an ex-factory price of $20,390, it sits in the value segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +25.5% over base ($25,589 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It suits price-sensitive importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

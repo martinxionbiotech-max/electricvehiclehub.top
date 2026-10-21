@@ -1,6 +1,6 @@
 ---
 title: "Wuling Victory"
-description: "Wuling Victory is a suv from Wuling, and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Wuling Victory is an SUV hybrid from Wuling, offering 130 kW peak output and NMC (Li-ion) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "wuling-victory"
 brand: "wuling"
 type: "SUV"
@@ -36,7 +36,7 @@ suspension_front: "MacPherson strut"
 suspension_rear: "Torsion beam"
 charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
 charging_adapter: "N/A"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
@@ -51,7 +51,7 @@ Wuling Victory (starting at $18,280) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Victory is a midsize SUV plug-in hybrid from WULING, with 130 kW of motor power. It is positioned as a value-focused import, priced from $18,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,604 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
+The Wuling Victory is an SUV hybrid from Wuling. It carries peak torque of 320 Nm and peak output of 130 kW. Chassis details include FWD drivetrain, plus NMC (Li-ion) cells. It is positioned as a mainstream-value import, priced from $18,280 ex-factory. Across export markets, the least-costly destination is Qatar, near +27.9% over base ($23,374 landed) — Germany levies only the 10% standard tariff. The profile suits importers targeting the family-SUV segment.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

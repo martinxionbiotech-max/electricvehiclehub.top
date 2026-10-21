@@ -1,6 +1,6 @@
 ---
 title: "Tank 500"
-description: "Tank 500 is a suv from Tank, a 37.1 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Tank 500 is an SUV plug-in hybrid offered by Tank, offering 120 km of CLTC range, 37 kWh of battery, 300 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "tank-500"
 brand: "tank"
 type: "SUV"
@@ -40,8 +40,8 @@ heat_pump: "N/A"
 suspension_front: "Double wishbone"
 suspension_rear: "Multi-link"
 charging_interface: "GB/T AC + GB/T DC (China domestic)"
-charging_adapter: "PHEV/EREV: Type 2 (AC) adapter for EU AC charging"
-certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
 hs_code: "870340"
 trim: "Hi4-T 尊享型 / 豪华型"
 brakes: "Front ventilated disc / rear disc"
@@ -60,7 +60,7 @@ Tank 500 (starting at $47,180) is a SUV from TANK.
 
 ## Overview
 
-The Tank 500 is a midsize SUV plug-in hybrid from TANK, with 130 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a premium import, priced from $47,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $56,466 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 24.5 kWh/100km efficiency is unremarkable for its 3,330 kg curb weight. It suits family and executive buyers prioritizing space.
+The Tank 500 is an SUV plug-in hybrid from Tank. It carries a 37 kWh battery, 180 km/h top speed, and a CLTC-rated range of 120 km. The platform pairs AWD drivetrain with NMC (ternary) chemistry. Pricing starts at $47,180 ex-factory, placing it in the premium tier. For importers, the least-costly destination is Qatar, near +13.9% over base ($53,719 landed), while Germany applies the 10% standard tariff with no countervailing duty. It suits premium-tier importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

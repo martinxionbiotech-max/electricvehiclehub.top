@@ -1,6 +1,6 @@
 ---
 title: "Onvo L80"
-description: "Onvo L80 is a SUV battery-electric from Onvo, offering 605 km of CLTC range a 85.1 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Onvo L80 is an SUV battery-electric from Onvo, offering a CLTC-rated range of 605 km, 85 kWh of battery, 340 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "onvo-l80"
 brand: "onvo"
 type: "SUV"
@@ -58,8 +58,7 @@ Onvo L80 (starting at $33,720) is a SUV from ONVO.
 
 ## Overview
 
-The Onvo L80 is a suv battery-electric from Onvo, with 340 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $33,720 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $41,626 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 13.2 kWh/100km efficiency is reasonable for its 2,250 kg curb weight; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Onvo L80 is an SUV fully electric offered by Onvo. It carries peak output of 340 kW and 605 km of CLTC range. Chassis details include LFP cells, plus MacPherson strut front / Multi-link rear suspension. At an ex-factory price of $33,720, it sits in the mid-market segment of the Chinese EV export range. On landed cost, the least-costly destination is Qatar, near +17.4% over base ($39,586 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. It suits family and fleet buyers needing practical space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
