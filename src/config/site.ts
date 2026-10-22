@@ -16,7 +16,7 @@ export const name = import.meta.env.SITE_NAME || 'EVHub Top';
 /** Site description for SEO and meta tags */
 export const description =
   import.meta.env.SITE_DESCRIPTION ||
-  'The real landed cost of importing Chinese EVs to Europe and key export markets — duties, countervailing tariffs, VAT, freight, and certification, broken down transparently.';
+  'Chinese EV product database — deep specifications, versions, and technology data for Chinese electric vehicles across 72 brands.';
 
 /** Production URL of your site (used for sitemap, RSS, canonical URLs) */
 export const url = import.meta.env.SITE_URL || 'https://electricvehiclehub.top';
@@ -42,7 +42,7 @@ export const company = {
   name: 'Chengguang Energy',
   legalName: 'Jinzhou Chengguang Power Source Co., Ltd.',
   description:
-    'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an automotive battery manufacturer founded in 2002 whose quality management system is certified to IATF 16949, providing independent landed-cost intelligence and cross-border research for Chinese EV importers.',
+    'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an automotive battery manufacturer founded in 2002 whose quality management system is certified to IATF 16949, publishing an independent product database of Chinese EV specifications, versions, and technology data.',
   url: 'https://electricvehiclehub.top',
   logo: '/logo.svg',
   email: 'info@electricvehiclehub.top',
