@@ -68,7 +68,10 @@ const {
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, siteConfig.url);
-const fullTitle = `${title} | ${siteConfig.name}`;
+// 避免站点名重复：模板若已内嵌站点名（如 "About - China EV Mart"），不再追加 " | China EV Mart"
+const fullTitle = title.includes(siteConfig.name)
+  ? title
+  : `${title} | ${siteConfig.name}`;
 const imageUrl = image || siteConfig.ogImage;
 const ogImage = imageUrl ? new URL(imageUrl, siteConfig.url).href : undefined;
 
@@ -79,11 +82,6 @@ const websiteSchema = {
   name: siteConfig.name,
   description: siteConfig.description,
   url: siteConfig.url,
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: `${siteConfig.url}/search?q={search_term_string}`,
-    'query-input': 'required name=search_term_string',
-  },
 };
 
 const organizationSchema = {

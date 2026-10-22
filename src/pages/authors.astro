@@ -1,6 +1,5 @@
 ---
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { siteConfig, company } from '@/config';
 
 const lastUpdated = siteConfig.legal.lastUpdated;
@@ -52,12 +51,10 @@ const bylines = [
 ];
 ---
 
-<SEO
+<MarketingLayout
   title="Authors & Review Standards — Who Writes and Reviews China EV Mart"
   description="China EV Mart's author roster and byline system: Written by, Reviewed by, Data verified by, and Last updated — and what each role is accountable for."
-/>
-
-<MarketingLayout title="Authors & Review Standards">
+>
   <article class="max-w-3xl mx-auto px-6 py-16">
     <div class="mb-10">
       <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>

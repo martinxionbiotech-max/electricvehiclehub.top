@@ -1,17 +1,14 @@
 ---
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { siteConfig, company } from '@/config';
 
 const lastUpdated = siteConfig.legal.lastUpdated;
 ---
 
-<SEO
+<MarketingLayout
   title="Editorial Independence Policy — Ownership, Review, and Disclosure"
   description="How China EV Mart separates commercial ownership from editorial control: who owns the site, how content is produced and reviewed, and how conflicts of interest are disclosed."
-/>
-
-<MarketingLayout title="Editorial Independence Policy">
+>
   <article class="max-w-3xl mx-auto px-6 py-16">
     <div class="mb-10">
       <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>

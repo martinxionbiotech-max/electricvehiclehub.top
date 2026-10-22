@@ -8,7 +8,6 @@
  */
 import { getCollection } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { siteConfig, company } from '@/config';
 
 const { legal } = siteConfig;
@@ -56,12 +55,8 @@ const byLicense = rows.reduce<Record<string, number>>((acc, r) => {
 
 <MarketingLayout
   title="Image Credits and Copyright"
-  description="Full attribution for photographs used on China EV Mart, the licences they are used under, and how rights holders can request correction or removal of any image."
+  description={`Attribution and licence details for the ${rows.length} freely licensed photographs used on ${siteConfig.name}, plus our process for rights-holder corrections and removals.`}
 >
-  <SEO
-    title="Image Credits and Copyright"
-    description={`Attribution and licence details for the ${rows.length} freely licensed photographs used on ${siteConfig.name}, plus our process for rights-holder corrections and removals.`}
-  />
   <section class="py-section">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
       <header class="mb-12">

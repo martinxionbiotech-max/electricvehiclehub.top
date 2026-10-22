@@ -1,6 +1,5 @@
 ---
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { siteConfig, company } from '@/config';
 
 const lastUpdated = siteConfig.legal.lastUpdated;
@@ -110,12 +109,10 @@ const rules = [
 ];
 ---
 
-<SEO
+<MarketingLayout
   title="Data & Editorial Methodology — Sources, Prices, Range Standards, and Review"
   description="How China EV Mart sources and updates data, defines price bases and range standards, separates facts from claims and estimates, and runs its editorial review."
-/>
-
-<MarketingLayout title="Data & Editorial Methodology">
+>
   <article class="max-w-3xl mx-auto px-6 py-16">
     <div class="mb-10">
       <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>
