@@ -490,7 +490,7 @@ const jsonLd = {
       </div>
     </div>
     <p class="text-xs text-gray-400 mt-4">
-      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'} · Confidence: {costConfidence} · Status: {data.data_reviewed ? 'Reviewed' : 'Pending review'}
+      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'} · Confidence: {costConfidence} · Status: {data.data_reviewed ? 'Reviewed' : 'Pending review'}{data.verification_status ? ` · Verification: ${data.verification_status}` : ''}
     </p>
   </section>
 

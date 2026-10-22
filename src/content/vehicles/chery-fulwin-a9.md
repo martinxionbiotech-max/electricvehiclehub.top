@@ -25,6 +25,7 @@ author: "Wei Wang"
 tags: ["chery-fulwin", "Sedan", "chinese-ev", "export"]
 data_tier: 1
 data_reviewed: False
+verification_status: "partial"
 family: "Fulwin A9"
 image: "/images/vehicles/chery-fulwin-a9.jpg"
 image_credit: "Poprace / Wikimedia Commons / CC0"
@@ -41,7 +42,7 @@ certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapte
 hs_code: "87038000"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
+data_updated: "2026-10-22"
 data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Fulwin A9

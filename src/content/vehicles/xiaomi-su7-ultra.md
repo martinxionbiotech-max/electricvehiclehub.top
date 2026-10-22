@@ -27,6 +27,7 @@ author: "Wei Wang"
 tags: ["xiaomi", "Sedan", "chinese-ev", "export"]
 data_tier: 1
 data_reviewed: False
+verification_status: "partial"
 family: "SU7"
 image: "/images/vehicles/xiaomi-su7-ultra.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
@@ -48,7 +49,7 @@ trim: "Ultra (四电机)"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
 network_bands: "5G NR (sub-6 GHz)"
-data_updated: "2026-10-21"
+data_updated: "2026-10-22"
 data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Xiaomi SU7 Ultra

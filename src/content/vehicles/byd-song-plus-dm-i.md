@@ -25,6 +25,7 @@ author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 data_tier: 1
 data_reviewed: False
+verification_status: "partial"
 family: "Song"
 image: "/images/vehicles/byd-song-plus-dm-i.jpg"
 image_credit: "Mateusmatsuda / Wikimedia Commons / CC BY 4.0"
@@ -41,7 +42,7 @@ certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapte
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
+data_updated: "2026-10-22"
 data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # BYD Song Plus DM-i
