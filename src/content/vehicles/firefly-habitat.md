@@ -26,8 +26,8 @@ data_tier: 1
 data_reviewed: False
 family: "Halo"
 image: "/images/vehicles/firefly-habitat.jpg"
-image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.top/image-credits/"
+image_credit: "China EV Mart original illustration (no third-party rights)"
+image_source: "https://chinaevmart.com/image-credits/"
 battery_type: "LFP"
 drive_type: "RWD"
 motor_type: "PMSM (single motor)"
@@ -41,7 +41,7 @@ hs_code: "87038000"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
 data_updated: "2026-10-21"
-data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 quality_tier: "A"
 ---
 # firefly Habitat

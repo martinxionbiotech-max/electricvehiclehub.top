@@ -46,7 +46,7 @@ trim: "702 km / 610 km"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
 data_updated: "2026-10-21"
-data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 quality_tier: "A"
 ---
 # Xpeng X9

@@ -29,8 +29,8 @@ data_tier: 2
 data_reviewed: false
 family: "Titan"
 image: "/images/vehicles/voyah-titan.jpg"
-image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.top/image-credits/"
+image_credit: "China EV Mart original illustration (no third-party rights)"
+image_source: "https://chinaevmart.com/image-credits/"
 battery_type: "NMC"
 drive_type: "AWD"
 motor_type: "PMSM (dual motor)"
@@ -46,7 +46,7 @@ trim: "旗舰版"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
 data_updated: "2026-10-21"
-data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 quality_tier: "A"
 ---
 # Voyah Titan

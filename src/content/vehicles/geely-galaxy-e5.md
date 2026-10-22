@@ -47,7 +47,7 @@ trim: "440 km / 530 km 探索版 / 领航版"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
 data_updated: "2026-10-22"
-data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22"
 quality_tier: "A"
 ---
 # Geely Galaxy E5

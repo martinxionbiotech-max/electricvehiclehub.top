@@ -29,8 +29,8 @@ data_tier: 2
 data_reviewed: false
 family: "TI 7"
 image: "/images/vehicles/fangchengbao-ti-7.jpg"
-image_credit: "EV Hub original illustration (no third-party rights)"
-image_source: "https://electricvehiclehub.top/image-credits/"
+image_credit: "China EV Mart original illustration (no third-party rights)"
+image_source: "https://chinaevmart.com/image-credits/"
 battery_type: "LFP (Blade)"
 drive_type: "AWD (dual motor)"
 motor_type: "PMSM (dual motor)"
@@ -45,7 +45,7 @@ hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
 data_updated: "2026-10-21"
-data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 quality_tier: "A"
 ---
 # Fangchengbao TI 7

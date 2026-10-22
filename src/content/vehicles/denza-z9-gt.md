@@ -49,7 +49,7 @@ trim: "尊贵型 / 旗舰型"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
 data_updated: "2026-10-22"
-data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22"
 quality_tier: "A"
 ---
 # Denza Z9 GT
