@@ -42,12 +42,12 @@ export const contactFAQs: ContactFAQ[] = [
   {
     question: 'Can you help me source a specific Chinese EV?',
     answer:
-      'Yes. Send us the model and destination country, and we will provide a transparent landed-cost breakdown including duties, countervailing tariffs, VAT, freight, and certification.',
+      'We can offer specification guidance for a specific model — clarify the product record, its battery, powertrain, and price basis. We do not act as a purchasing agent or broker, and we do not provide transactional prices or quotes.',
   },
   {
     question: 'Do you sell vehicles directly?',
     answer:
-      'No. China EV Mart is an independent information platform. We provide landed-cost intelligence and sourcing guidance, but do not sell vehicles or act on behalf of any manufacturer.',
+      'No. China EV Mart is an independent information platform. We catalog and clarify Chinese EV product data, but we do not sell vehicles, source vehicles, or act on behalf of any manufacturer.',
   },
 ];
 

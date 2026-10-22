@@ -5,56 +5,56 @@ import StatsSection from '@sections/social-proof/StatsSection.astro';
 import ValuesSection from '@sections/team/ValuesSection.astro';
 import ContentSection from '@sections/content/ContentSection.astro';
 import CTA from '@sections/marketing/CTA.astro';
-import { siteConfig } from '@/config';
+import { siteConfig, company } from '@/config';
 
 const values = [
   {
-    title: 'Deep, Structured Specifications',
+    title: 'Structured, not marketing copy',
     description:
-      'Every vehicle is a normalized product record — battery chemistry, powertrain architecture, dimensions, versions, and technology — not a marketing blurb.',
+      'Every vehicle is a normalized product record — battery chemistry, powertrain architecture, dimensions, versions, and technology — with provenance attached, not a promotional blurb.',
   },
   {
-    title: 'Verified Data',
+    title: 'Provenance over assertion',
     description:
-      'Every spec is cross-checked against manufacturer datasheets and authoritative sources, and stamped with its update date and verification status.',
+      'Each figure carries a source type and an update date, and any field we could not verify is marked as not recorded rather than filled with a guess.',
   },
   {
-    title: 'Product-First',
+    title: 'Product-first',
     description:
-      'Built for anyone researching Chinese EVs — buyers, analysts, journalists, and enthusiasts — who needs reliable product data rather than sales copy.',
+      'Built for anyone researching Chinese EVs — buyers, analysts, journalists, and enthusiasts — who needs a structured record rather than sales copy.',
   },
   {
-    title: 'Compliance by Default',
+    title: 'Honest about limits',
     description:
-      'HS code classification and certification facts are folded into every record, so the regulatory context sits alongside the specification.',
+      'We state plainly what this platform is and is not: an information platform, not a seller, importer, or broker. See the full policy pages for the fine print.',
   },
 ];
 
 import { getSiteStats } from '@/lib/site-stats';
 const s = await getSiteStats();
 const stats = [
-  { value: String(s.vehicles), label: 'Vehicles Cataloged' },
-  { value: String(s.brands), label: 'Chinese Brands' },
-  { value: String(s.bevCount + s.phevCount + s.erevCount + s.otherPowertrainCount), label: 'Powertrains Indexed' },
-  { value: '1', label: 'Structured Record Format' },
+  { value: String(s.vehicles), label: 'Vehicles cataloged' },
+  { value: String(s.brands), label: 'Chinese brands' },
+  { value: String(s.bevCount + s.phevCount + s.erevCount + s.hevCount + s.iceCount), label: 'Powertrains indexed' },
+  { value: '4', label: 'Range test standards tracked' },
 ];
 ---
 
 <MarketingLayout
   title={`About - ${siteConfig.name}`}
-  description="China EV Mart is an independent Chinese EV product database — deep, source-verified specifications, versions, and technology data across 72 brands."
+  description="What China EV Mart is and is not: an independent information platform for discovering Chinese new-energy vehicles — not a seller, importer, or broker."
 >
-  <PageHeader title="The complete product database for Chinese EVs" align="left" maxWidth="lg">
+  <PageHeader title="An independent platform for Chinese EV data" align="left" maxWidth="lg">
     <p class="mt-6 text-lg text-text-muted leading-relaxed">
-      China EV Mart exists to solve a single, persistent problem: Chinese EV specifications are scattered
-      across manufacturer sites, press releases, and forum posts, in inconsistent formats and with
-      no source provenance. Most research starts with piecing together spec sheets from five
-      different places — and still ends up with gaps.
+      Chinese EV specifications are scattered across manufacturer sites, press releases, and
+      forum posts, in inconsistent formats and with no source provenance. Most research starts
+      by piecing together spec sheets from several places — and still ends up with gaps.
     </p>
     <p class="mt-4 text-lg text-text-muted leading-relaxed">
-      We built China EV Mart to make that data structured and verifiable <em>before</em> you rely on it.
-      Every vehicle page is a normalized product record — battery chemistry, powertrain, dimensions,
-      versions, and technology — with the source and update date attached to each figure.
+      {siteConfig.name} exists to make that data structured and checkable <em>before</em> you rely
+      on it. Every vehicle page is a normalized product record — battery chemistry, powertrain,
+      dimensions, versions, and technology — with the source and update date attached to each
+      figure.
     </p>
   </PageHeader>
 
@@ -69,27 +69,38 @@ const stats = [
   />
 
   <ContentSection
-    title="Independent data, verified sources"
+    title="What this platform does"
     content={[
-      "China EV Mart is operated by Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.), an automotive battery manufacturer whose quality management system is certified to IATF 16949 founded in 2002, and edited by Wei Wang, with a focus on technical accuracy and product data for Chinese electric vehicles.",
-      "Our specification methodology is published in full, so any reader can judge how a figure was sourced. We record battery chemistry and architecture at the vehicle level, apply a consistent normalization scheme, and mark any field we could not verify as N/A rather than guessing.",
-      "We do not sell vehicles and are not affiliated with any manufacturer. That independence is what lets us publish specifications without a sales agenda.",
+      `${siteConfig.name} catalogs Chinese new-energy vehicle records — specifications, versions, battery and powertrain data, and export-relevant facts such as HS code classification. It is operated by ${company.name} (${company.legalName}) and edited by ${company.author}, ${company.authorRole}.`,
+      "Our specification methodology is published in full, so any reader can judge how a figure was sourced. We record battery chemistry and architecture at the vehicle level, apply a consistent normalization scheme, and mark any field we could not verify as not recorded rather than guessing.",
+      "We publish the data model, the source types, and the range and price conventions on the methodology and data-provenance pages, so the record is auditable rather than a black box.",
     ]}
     background="default"
   />
 
   <ContentSection
-    title="About the author & review process"
+    title="What this platform does not do"
     content={[
-      "Wei Wang is China EV Mart's EV & Battery Industry Analyst. He spent many years in automotive battery production before turning to product research on electric vehicles — battery chemistry, powertrain architecture, and cross-border compliance.",
-      "Every specification on China EV Mart is cross-checked against authoritative sources: manufacturer datasheets, type-approval databases, and industry records. Data is stamped with its update date and verification status so readers can judge its freshness.",
+      `${siteConfig.name} does not sell vehicles and is not a dealer, importer, customs broker, or purchasing agent. It is not affiliated with any manufacturer, and its inclusion of a brand or model does not imply endorsement.`,
+      "We do not provide quotes, transactional prices, live inventory, or sourcing/matchmaking. Where a reader asks about a specific model, we can offer specification guidance only — see the FAQ.",
+      "We do not run battery, range, or safety tests, and we do not present any figure as a measured result when it is not. Where independent test data is cited, it is attributed to whoever ran the test.",
+      "We do not claim credentials, awards, testing facilities, partnerships, or client relationships we do not have. Any credential we state is one we can point to.",
     ]}
     background="muted"
   />
 
+  <ContentSection
+    title="About the author & review process"
+    content={[
+      `${company.author} is ${siteConfig.name}'s ${company.authorRole}. He spent many years in automotive battery production before turning to product research on electric vehicles — battery chemistry, powertrain architecture, and cross-border compliance.`,
+      "Records are compiled from public sources — manufacturer datasheets, type-approval databases, and industry records — and stamped with an update date and verification status so readers can judge freshness. Where a record has not yet been human-reviewed, that status is shown rather than implied away.",
+    ]}
+    background="default"
+  />
+
   <CTA
-    title="Start with the full product record"
-    description="Browse the complete catalog and see the structured, source-verified specification for any Chinese EV."
+    title="Start with the structured record"
+    description="Browse the catalog and see the sourced, dated specification for any Chinese EV."
     action={{ label: 'Explore Vehicles', href: '/vehicles' }}
     background="muted"
   />
