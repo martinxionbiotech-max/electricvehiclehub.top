@@ -1,0 +1,7050 @@
+{
+ "total": 517,
+ "tiers": {
+  "A": [
+   "aeolus-e70",
+   "aeolus-huge",
+   "aeolus-l7",
+   "aeolus-l7-ev",
+   "aeolus-l8",
+   "aeolus-mage",
+   "aeolus-sky-ev01",
+   "aion-i60",
+   "aion-lx",
+   "aion-lx-plus",
+   "aion-ut",
+   "aion-v",
+   "aion-y-plus",
+   "aito-m5",
+   "aito-m5-erev",
+   "aito-m7",
+   "aito-m7-erev",
+   "aito-m8",
+   "aito-m8-erev",
+   "aito-m9",
+   "aito-m9-erev",
+   "aito-m9-ultimate",
+   "arcfox-as",
+   "arcfox-as5",
+   "arcfox-at",
+   "arcfox-at5",
+   "arcfox-at5-erev",
+   "arcfox-kaola",
+   "avatr-06",
+   "avatr-06-erev",
+   "avatr-06t",
+   "avatr-07",
+   "avatr-07-erev",
+   "avatr-07l",
+   "avatr-11",
+   "avatr-12",
+   "avatr-12-erev",
+   "baojun-kiwi-ev",
+   "baojun-xiangjing",
+   "baojun-xiangjing-phev",
+   "baojun-yep",
+   "baojun-yep-plus",
+   "baojun-yunduo",
+   "baojun-yunhai",
+   "baw-e-m7",
+   "baw-m8",
+   "baw-m8-erev",
+   "bestune-e01",
+   "bestune-pony",
+   "bestune-t90",
+   "bestune-yueyi-03",
+   "bestune-yueyi-07",
+   "bestune-yueyi-08",
+   "byd-atto-2",
+   "byd-atto-3",
+   "byd-d1",
+   "byd-destroyer-05",
+   "byd-dolphin",
+   "byd-e2",
+   "byd-e3",
+   "byd-e7",
+   "byd-frigate-07",
+   "byd-han",
+   "byd-han-dm-i",
+   "byd-han-l",
+   "byd-han-l-dm-i",
+   "byd-m9",
+   "byd-qin",
+   "byd-qin-l",
+   "byd-qin-max-ev",
+   "byd-qin-plus",
+   "byd-qin-plus-dm-i",
+   "byd-seagull",
+   "byd-seal",
+   "byd-seal-05-md-i",
+   "byd-seal-06-dm-i",
+   "byd-seal-06-dmi-touring",
+   "byd-seal-06-ev",
+   "byd-seal-06-gt",
+   "byd-seal-07-dm-i",
+   "byd-sealion-05-ev",
+   "byd-sealion-07",
+   "byd-song-l-ev",
+   "byd-song-max",
+   "byd-song-plus-dm-i",
+   "byd-song-pro",
+   "byd-tang",
+   "byd-tang-l",
+   "byd-tang-l-dm-i",
+   "changan-cs55",
+   "changan-cs55-plus-hev",
+   "changan-cs55-plus-phev",
+   "changan-cs75",
+   "changan-cs75-plus-hev",
+   "changan-cs75-plus-idd",
+   "changan-eado",
+   "changan-eado-hev",
+   "changan-nevo-a06",
+   "changan-nevo-a06-erev",
+   "changan-nevo-a07",
+   "changan-nevo-a07-erev",
+   "changan-nevo-e07",
+   "changan-nevo-e07-erev",
+   "changan-nevo-lamore",
+   "changan-nevo-lumin",
+   "changan-nevo-q05",
+   "changan-nevo-q06",
+   "changan-nevo-q07",
+   "changan-uni-k-idd",
+   "changan-uni-v-hev",
+   "changan-uni-v-idd",
+   "changan-uni-z",
+   "changan-x5-plus",
+   "chery-fulwin-a8",
+   "chery-fulwin-a8l",
+   "chery-fulwin-a9",
+   "chery-fulwin-t10",
+   "chery-fulwin-t7",
+   "chery-fulwin-t8",
+   "chery-fulwin-t9l",
+   "chery-fulwin-x3l",
+   "chery-new-energy-arrizo-e",
+   "chery-new-energy-eq1",
+   "chery-new-energy-qq-duomi",
+   "chery-new-energy-qq-ice-cream",
+   "chery-new-energy-qq3",
+   "chery-new-energy-shuxiangjia",
+   "chery-new-energy-wujie-pro",
+   "chery-tiggo-7-plus-new-energy",
+   "chery-tiggo-8-pro-new-energy",
+   "chery-tiggo-9",
+   "cowin-shiyue",
+   "cowin-showjet-pro-ev",
+   "cowin-xuandu-ev",
+   "dayun-h8",
+   "dayun-h9",
+   "dayun-y6",
+   "dayun-y7",
+   "deepal-g318",
+   "deepal-l06",
+   "deepal-l07",
+   "deepal-l07-erev",
+   "deepal-s05",
+   "deepal-s07-erev",
+   "deepal-s09",
+   "deepal-sl03",
+   "deepal-sl03-erev",
+   "denza-d9",
+   "denza-d9-dm-i",
+   "denza-n7",
+   "denza-n8l",
+   "denza-n9",
+   "denza-z9",
+   "denza-z9-dm-i",
+   "denza-z9-gt",
+   "denza-z9-gt-dm-i",
+   "dongfeng-epi-007",
+   "dongfeng-epi-008",
+   "dongfeng-epi-008-erev",
+   "dongfeng-epi-nammi-06",
+   "dongfeng-nammi-01",
+   "dongfeng-nammi-box",
+   "exeed-et5",
+   "exeed-ex7",
+   "exeed-exlantix-es",
+   "exeed-exlantix-es-erev",
+   "exeed-exlantix-et-erev",
+   "exeed-lx-c-dm",
+   "exeed-rx-c-dm",
+   "exeed-txl",
+   "exeed-vx-c-dm",
+   "fangchengbao-bao-5",
+   "fangchengbao-bao-8",
+   "fangchengbao-ti-3",
+   "fangchengbao-ti-7",
+   "firefly-firefly",
+   "firefly-habitat",
+   "forthing-lingzhi-m5-nev",
+   "forthing-s50ev",
+   "forthing-t5-evo",
+   "forthing-thunder",
+   "forthing-thunder-410",
+   "forthing-xinghai-s7",
+   "forthing-xinghai-v6",
+   "forthing-xinghai-v9",
+   "forthing-xinghai-x5",
+   "gac-motor-e8",
+   "gac-motor-e9",
+   "gac-motor-emkoo",
+   "gac-motor-empow",
+   "gac-motor-es9",
+   "gac-motor-gs7",
+   "gac-motor-gs8",
+   "gac-motor-m8",
+   "gac-motor-xiangwang-s9",
+   "geely-emgrand-ev",
+   "geely-emgrand-l-hip",
+   "geely-galaxy-e5",
+   "geely-galaxy-e8",
+   "geely-galaxy-l380",
+   "geely-galaxy-l6",
+   "geely-galaxy-l7",
+   "geely-galaxy-lc",
+   "geely-galaxy-m7",
+   "geely-galaxy-m9",
+   "geely-galaxy-panda-mini",
+   "geely-galaxy-starshine-6",
+   "geely-galaxy-starshine-8",
+   "geely-galaxy-tt",
+   "geely-galaxy-v900",
+   "geely-galaxy-xingrui-l",
+   "geely-monjaro",
+   "geely-xingyuan",
+   "geometry-a",
+   "geometry-c",
+   "geometry-e",
+   "geometry-m6",
+   "haval-big-dog-plus",
+   "haval-h6",
+   "haval-jolion-pro",
+   "haval-raptor",
+   "haval-shenshou",
+   "haval-xiaolong",
+   "haval-xiaolong-max",
+   "hongqi-e-hs5",
+   "hongqi-e-hs9",
+   "hongqi-e-qm5",
+   "hongqi-eh7",
+   "hongqi-guoya",
+   "hongqi-h5-phev",
+   "hongqi-hq9",
+   "hongqi-hs3",
+   "hongqi-hs6-phev",
+   "hongqi-hs7",
+   "hongqi-tiangong-05",
+   "hongqi-tiangong-06",
+   "hycan-007",
+   "hycan-a06",
+   "hycan-v09",
+   "hycan-z03",
+   "hyptec-a800",
+   "hyptec-gt",
+   "hyptec-hl",
+   "hyptec-hl-erev",
+   "hyptec-ht",
+   "hyptec-s600",
+   "icaur-03",
+   "icaur-v23",
+   "icaur-v27",
+   "im-l6",
+   "im-l7",
+   "im-ls6",
+   "im-ls6-erev",
+   "im-ls7",
+   "im-ls9",
+   "jac-iev7l",
+   "jac-ieva60",
+   "jac-qx",
+   "jac-refine-e3",
+   "jac-refine-e4",
+   "jac-refine-m3",
+   "jac-refine-m3-phev",
+   "jac-refine-rf8",
+   "jac-x8",
+   "jac-x8-ejia",
+   "jac-yiwei-3",
+   "jac-yiwei-aipao",
+   "jaecoo-j7",
+   "jetour-dashing-i-dm",
+   "jetour-shanhai-l6",
+   "jetour-shanhai-l7-plus",
+   "jetour-t2",
+   "jetour-x90",
+   "jetour-x90-c-dm",
+   "jetour-zongheng-g700",
+   "kaicene-a600ev",
+   "landian-e3",
+   "landian-e5-plus",
+   "landian-e5-plus-gen3",
+   "leapmotor-a05",
+   "leapmotor-c01",
+   "leapmotor-c01-erev",
+   "leapmotor-c10-erev",
+   "leapmotor-c11",
+   "leapmotor-c11-erev",
+   "leapmotor-c16",
+   "leapmotor-c16-erev",
+   "leapmotor-d19",
+   "leapmotor-d99",
+   "leapmotor-lafa5",
+   "leapmotor-t03",
+   "li-auto-i6",
+   "li-auto-i8",
+   "li-auto-l6",
+   "li-auto-l7",
+   "li-auto-l8",
+   "li-auto-l9",
+   "li-auto-mega",
+   "livan-7",
+   "livan-8",
+   "livan-9",
+   "luxeed-r7",
+   "luxeed-s7",
+   "lynk-co-01",
+   "lynk-co-02",
+   "lynk-co-06",
+   "lynk-co-07",
+   "lynk-co-07-gt",
+   "lynk-co-08",
+   "lynk-co-09",
+   "lynk-co-10",
+   "lynk-co-900",
+   "lynk-co-z10",
+   "lynk-co-z20",
+   "m-hero-917",
+   "m-hero-917-erev",
+   "m-hero-m817",
+   "maextro-s800",
+   "maxus-eg10",
+   "maxus-g50",
+   "maxus-mifa-7",
+   "maxus-mifa-7-phev",
+   "maxus-mifa-9",
+   "mg-4",
+   "mg-4x",
+   "mg6-phev",
+   "neta-l",
+   "neta-s",
+   "neta-v",
+   "neta-x",
+   "nio-ec6",
+   "nio-ec7",
+   "nio-es6",
+   "nio-es7",
+   "nio-es8",
+   "nio-es9",
+   "nio-et5",
+   "nio-et5t",
+   "nio-et7",
+   "nio-et9",
+   "onvo-l60",
+   "onvo-l80",
+   "onvo-l90",
+   "ora-ballet-cat",
+   "ora-good-cat",
+   "ora-good-cat-gt",
+   "ora-lightning-cat",
+   "oshan-keshan-ev",
+   "oshan-x7-ev",
+   "oshan-z6-idd",
+   "roewe-d5x-dmh",
+   "roewe-d6",
+   "roewe-d7",
+   "roewe-d7-phev",
+   "roewe-erx5",
+   "roewe-f7",
+   "roewe-i6-max",
+   "roewe-imax8",
+   "roewe-m7",
+   "roewe-r7",
+   "saic-h5",
+   "saic-h5-erev",
+   "sehol-aipao",
+   "sehol-e10x",
+   "sehol-e20x",
+   "sehol-e40x",
+   "skywell-ht-i",
+   "stelato-s9",
+   "stelato-s9t",
+   "stelato-s9t-erev",
+   "tank-300",
+   "tank-500",
+   "tank-700",
+   "venucia-d60ev",
+   "venucia-vx6",
+   "voyah-courage",
+   "voyah-dream",
+   "voyah-dream-phev",
+   "voyah-free",
+   "voyah-passion",
+   "voyah-passion-l",
+   "voyah-passion-phev",
+   "voyah-titan",
+   "wey-05",
+   "wey-80",
+   "wey-lanshan",
+   "wuling-air-ev",
+   "wuling-asta",
+   "wuling-binguo",
+   "wuling-binguo-pro",
+   "wuling-binguo-s",
+   "wuling-binguo-suv",
+   "wuling-hongguang-bev",
+   "wuling-hongguang-mini-ev",
+   "wuling-jiachen",
+   "wuling-nano-ev",
+   "wuling-nebula",
+   "wuling-starlight",
+   "wuling-starlight-560",
+   "wuling-starlight-730",
+   "wuling-starlight-730-phev",
+   "wuling-starlight-phev",
+   "wuling-starlight-s",
+   "wuling-starlight-s-phev",
+   "wuling-victory",
+   "xiaomi-skynomad-n70",
+   "xiaomi-skynomad-n90",
+   "xiaomi-su7",
+   "xiaomi-su7-ultra",
+   "xiaomi-yu7",
+   "xiaomi-yu7-gt",
+   "xpeng-g6",
+   "xpeng-g7",
+   "xpeng-g9",
+   "xpeng-gx",
+   "xpeng-mona-l03",
+   "xpeng-mona-m03",
+   "xpeng-p7",
+   "xpeng-p7-plus",
+   "xpeng-x9",
+   "yangwang-u7",
+   "yangwang-u8",
+   "yangwang-u8l",
+   "yudo-pi-1",
+   "yudo-pi-3",
+   "zeekr-001",
+   "zeekr-007",
+   "zeekr-007-gt",
+   "zeekr-009",
+   "zeekr-7x",
+   "zeekr-8x",
+   "zeekr-9x",
+   "zeekr-mix"
+  ],
+  "B": [
+   "aion-n60",
+   "aion-rt",
+   "aion-s",
+   "aion-s-max",
+   "aion-s-plus",
+   "aion-y",
+   "aito-m6",
+   "arcfox-t1",
+   "baw-yuanbao",
+   "bestune-nat",
+   "byd-sealion-05-dm-i",
+   "byd-sealion-06",
+   "byd-sealion-06-dmi",
+   "byd-sealion-07-dm-i",
+   "byd-song-l-dmi",
+   "byd-song-plus",
+   "byd-xia",
+   "byd-yuan-up",
+   "chery-fulwin-a9l",
+   "chery-fulwin-t11",
+   "chery-fulwin-t9",
+   "chery-tiggo-7-c-dm",
+   "chery-tiggo-8-plus-c-dm",
+   "deepal-s07",
+   "exeed-exlantix-et",
+   "forthing-xinghai-t5",
+   "geely-galaxy-a7",
+   "geely-galaxy-starship-7",
+   "geely-galaxy-xingyuan",
+   "geometry-g6",
+   "hongqi-e-hs7",
+   "hongqi-eh5",
+   "jac-ic5",
+   "jac-ievs4",
+   "jac-yiwei-hua-xian-zi",
+   "jetour-shanhai-l7",
+   "jetour-t1",
+   "jetour-x70-c-dm",
+   "leapmotor-a10",
+   "leapmotor-b01",
+   "leapmotor-b10",
+   "leapmotor-c10",
+   "lynk-co-05",
+   "mg-07",
+   "mg-pilot-phev",
+   "mg-s5-ev",
+   "neta-aya",
+   "skywell-ev6",
+   "tank-400",
+   "venucia-v-online-dd-i",
+   "wey-03",
+   "xpeng-g9l",
+   "zeekr-x"
+  ],
+  "C": [
+   "aion-v-plus",
+   "byd-qin-l-dm-i",
+   "byd-qin-max-dm-i",
+   "chery-explore-06-c-dm",
+   "chery-fulwin-t6",
+   "chery-fulwin-x3",
+   "chery-fulwin-x3-plus",
+   "cowin-kunlun-ihd",
+   "dongfeng-epi-007-plus",
+   "dongfeng-epi-m8",
+   "forthing-xinghai-v6-plus",
+   "gac-motor-xiangwang-m8",
+   "gac-motor-xiangwang-s7",
+   "geely-galaxy-starshine-7",
+   "geely-galaxy-starship-7-ev",
+   "icaur-03t",
+   "im-ls8",
+   "jac-ieva50",
+   "jetour-shanhai-l9",
+   "jmc-yi-chi-05",
+   "jmc-yi-chi-05s",
+   "jmc-yi-chi-06",
+   "jmc-yichi-ev3",
+   "kaicene-changxing-ev",
+   "landian-e5",
+   "maxus-mifa-5",
+   "maxus-mifa-9-phev",
+   "ora-5",
+   "roewe-i6-max-phev",
+   "roewe-imax8-dmh",
+   "seres-sf5"
+  ]
+ },
+ "rows": [
+  {
+   "slug": "aeolus-e70",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aeolus-huge",
+   "tier": "A",
+   "completeness": 0.85,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "aeolus-l7",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "aeolus-l7-ev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aeolus-l8",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "aeolus-mage",
+   "tier": "A",
+   "completeness": 0.95,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "aeolus-sky-ev01",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-i60",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-lx",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-lx-plus",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-n60",
+   "tier": "B",
+   "completeness": 0.792,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-rt",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-s",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-s-max",
+   "tier": "B",
+   "completeness": 0.833,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-s-plus",
+   "tier": "B",
+   "completeness": 0.833,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-ut",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-v",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-v-plus",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: range_cltc_km, battery_kwh, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-y",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.8,
+   "verif": "partial",
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aion-y-plus",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aito-m5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aito-m5-erev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "aito-m6",
+   "tier": "B",
+   "completeness": 0.75,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aito-m7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aito-m7-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "aito-m8",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aito-m8-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "aito-m9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "aito-m9-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "aito-m9-ultimate",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "arcfox-as",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "arcfox-as5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "arcfox-at",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "arcfox-at5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "arcfox-at5-erev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "arcfox-kaola",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "arcfox-t1",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "avatr-06",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "avatr-06-erev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "avatr-06t",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "avatr-07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "avatr-07-erev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "avatr-07l",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "avatr-11",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "avatr-12",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "avatr-12-erev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "baojun-kiwi-ev",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baojun-xiangjing",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baojun-xiangjing-phev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "baojun-yep",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "battery_thermal",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baojun-yep-plus",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baojun-yunduo",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baojun-yunhai",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baw-e-m7",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baw-m8",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "baw-m8-erev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "baw-yuanbao",
+   "tier": "B",
+   "completeness": 0.875,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "bestune-e01",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "bestune-nat",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "bestune-pony",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "bestune-t90",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "bestune-yueyi-03",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "bestune-yueyi-07",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "bestune-yueyi-08",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-atto-2",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-atto-3",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-d1",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-destroyer-05",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-dolphin",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-e2",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-e3",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-e7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-frigate-07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-han",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-han-dm-i",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-han-l",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-han-l-dm-i",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-m9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-qin",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-qin-l",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-qin-l-dm-i",
+   "tier": "C",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": "unverifiable",
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "unverifiable (no authoritative source)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-qin-max-dm-i",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-qin-max-ev",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-qin-plus",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-qin-plus-dm-i",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-seagull",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-seal",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-seal-05-md-i",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-seal-06-dm-i",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-seal-06-dmi-touring",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-seal-06-ev",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-seal-06-gt",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-seal-07-dm-i",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-sealion-05-dm-i",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-sealion-05-ev",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-sealion-06",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-sealion-06-dmi",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-sealion-07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-sealion-07-dm-i",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-song-l-dmi",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-song-l-ev",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-song-max",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-song-plus",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-song-plus-dm-i",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": "partial",
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-song-pro",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-tang",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-tang-l",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "byd-tang-l-dm-i",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-xia",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "byd-yuan-up",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "changan-cs55",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "changan-cs55-plus-hev",
+   "tier": "A",
+   "completeness": 0.8,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "changan-cs55-plus-phev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-cs75",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "torque_nm",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-cs75-plus-hev",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "changan-cs75-plus-idd",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-eado",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-eado-hev",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "changan-nevo-a06",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "changan-nevo-a06-erev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "changan-nevo-a07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "changan-nevo-a07-erev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "changan-nevo-e07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "changan-nevo-e07-erev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "changan-nevo-lamore",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "ICE"
+  },
+  {
+   "slug": "changan-nevo-lumin",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "changan-nevo-q05",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-nevo-q06",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "changan-nevo-q07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-uni-k-idd",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-uni-v-hev",
+   "tier": "A",
+   "completeness": 0.8,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "changan-uni-v-idd",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-uni-z",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "changan-x5-plus",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "ICE"
+  },
+  {
+   "slug": "chery-explore-06-c-dm",
+   "tier": "C",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": "unverifiable",
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "unverifiable (no authoritative source)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-a8",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-a8l",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-a9",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-fulwin-a9l",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-t10",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-t11",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "chery-fulwin-t6",
+   "tier": "C",
+   "completeness": 0.5,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (50%, missing 12: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-t7",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-fulwin-t8",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-t9",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-t9l",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-fulwin-x3",
+   "tier": "C",
+   "completeness": 0.5,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (50%, missing 12: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-fulwin-x3-plus",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-fulwin-x3l",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "chery-new-energy-arrizo-e",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-new-energy-eq1",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-new-energy-qq-duomi",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-new-energy-qq-ice-cream",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-new-energy-qq3",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-new-energy-shuxiangjia",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-new-energy-wujie-pro",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "chery-tiggo-7-c-dm",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-tiggo-7-plus-new-energy",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-tiggo-8-plus-c-dm",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-tiggo-8-pro-new-energy",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "chery-tiggo-9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "cowin-kunlun-ihd",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: range_cltc_km, battery_kwh, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "cowin-shiyue",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "cowin-showjet-pro-ev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "cowin-xuandu-ev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dayun-h8",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_type",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dayun-h9",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_type",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dayun-y6",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_type",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dayun-y7",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "battery_type",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "deepal-g318",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "deepal-l06",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "deepal-l07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "deepal-l07-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "deepal-s05",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "deepal-s07",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "deepal-s07-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "deepal-s09",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "deepal-sl03",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "deepal-sl03-erev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "denza-d9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "denza-d9-dm-i",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "denza-n7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "denza-n8l",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "denza-n9",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "denza-z9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "denza-z9-dm-i",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "denza-z9-gt",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "denza-z9-gt-dm-i",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "dongfeng-epi-007",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dongfeng-epi-007-plus",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "dongfeng-epi-008",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dongfeng-epi-008-erev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "dongfeng-epi-m8",
+   "tier": "C",
+   "completeness": 0.5,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (50%, missing 12: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "dongfeng-epi-nammi-06",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dongfeng-nammi-01",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "dongfeng-nammi-box",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "exeed-et5",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "exeed-ex7",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "exeed-exlantix-es",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "exeed-exlantix-es-erev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "exeed-exlantix-et",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "exeed-exlantix-et-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "exeed-lx-c-dm",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "exeed-rx-c-dm",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "exeed-txl",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "exeed-vx-c-dm",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "fangchengbao-bao-5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "fangchengbao-bao-8",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "fangchengbao-ti-3",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "fangchengbao-ti-7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "firefly-firefly",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "firefly-habitat",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-lingzhi-m5-nev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-s50ev",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-t5-evo",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-thunder",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "forthing-thunder-410",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-xinghai-s7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-xinghai-t5",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-xinghai-v6",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "forthing-xinghai-v6-plus",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "forthing-xinghai-v9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "forthing-xinghai-x5",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "gac-motor-e8",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "gac-motor-e9",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_type"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "gac-motor-emkoo",
+   "tier": "A",
+   "completeness": 0.9,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "gac-motor-empow",
+   "tier": "A",
+   "completeness": 0.9,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "gac-motor-es9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "gac-motor-gs7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "gac-motor-gs8",
+   "tier": "A",
+   "completeness": 0.8,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_type",
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "battery_thermal"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "gac-motor-m8",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "gac-motor-xiangwang-m8",
+   "tier": "C",
+   "completeness": 0.458,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "battery_type",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (46%, missing 13: range_cltc_km, battery_kwh, battery_type, motor_power_kw, torque_nm, accel_0_100_s)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "gac-motor-xiangwang-s7",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "data incomplete (67%, missing 8: motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km, weight_kg)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "gac-motor-xiangwang-s9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-emgrand-ev",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-emgrand-l-hip",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-a7",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-e5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-galaxy-e8",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-galaxy-l380",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-galaxy-l6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-l7",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": "partial",
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-lc",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-galaxy-m7",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-m9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-panda-mini",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-galaxy-starshine-6",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-starshine-7",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-starshine-8",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-starship-7",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-galaxy-starship-7-ev",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "torque_nm",
+    "top_speed_kmh",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: battery_kwh, torque_nm, top_speed_kmh, length_mm, width_mm, height_mm)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-galaxy-tt",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-galaxy-v900",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "geely-galaxy-xingrui-l",
+   "tier": "A",
+   "completeness": 0.95,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "geely-galaxy-xingyuan",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geely-monjaro",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": "partial",
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "geely-xingyuan",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geometry-a",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geometry-c",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geometry-e",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geometry-g6",
+   "tier": "B",
+   "completeness": 0.875,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "geometry-m6",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "haval-big-dog-plus",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "haval-h6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "haval-jolion-pro",
+   "tier": "A",
+   "completeness": 0.9,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "haval-raptor",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "haval-shenshou",
+   "tier": "A",
+   "completeness": 0.95,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "haval-xiaolong",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "haval-xiaolong-max",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_kwh"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "hongqi-e-hs5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hongqi-e-hs7",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hongqi-e-hs9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hongqi-e-qm5",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hongqi-eh5",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hongqi-eh7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hongqi-guoya",
+   "tier": "A",
+   "completeness": 0.95,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "hongqi-h5-phev",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "hongqi-hq9",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "hongqi-hs3",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "hongqi-hs6-phev",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "hongqi-hs7",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_type"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "hongqi-tiangong-05",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hongqi-tiangong-06",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "efficiency_kwh_100km",
+    "wheelbase_mm"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hycan-007",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hycan-a06",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hycan-v09",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_type",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hycan-z03",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hyptec-a800",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "hyptec-gt",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hyptec-hl",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hyptec-hl-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "hyptec-ht",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "hyptec-s600",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "icaur-03",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "icaur-03t",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "icaur-v23",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "icaur-v27",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "im-l6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "im-l7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "im-ls6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "im-ls6-erev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "im-ls7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "im-ls8",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "im-ls9",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "battery_type"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "jac-ic5",
+   "tier": "B",
+   "completeness": 0.875,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-iev7l",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-ieva50",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: range_cltc_km, accel_0_100_s, efficiency_kwh_100km, width_mm, height_mm, wheelbase_mm)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-ieva60",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-ievs4",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-qx",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jac-refine-e3",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-refine-e4",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-refine-m3",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jac-refine-m3-phev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jac-refine-rf8",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jac-x8",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jac-x8-ejia",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jac-yiwei-3",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-yiwei-aipao",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jac-yiwei-hua-xian-zi",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jaecoo-j7",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-dashing-i-dm",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-shanhai-l6",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-shanhai-l7",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": "partial",
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-shanhai-l7-plus",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-shanhai-l9",
+   "tier": "C",
+   "completeness": 0.583,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (58%, missing 10: motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km, length_mm)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-t1",
+   "tier": "B",
+   "completeness": 0.875,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-t2",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-x70-c-dm",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-x90",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-x90-c-dm",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jetour-zongheng-g700",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "jmc-yi-chi-05",
+   "tier": "C",
+   "completeness": 0.625,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (62%, missing 9: torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km, length_mm, width_mm)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jmc-yi-chi-05s",
+   "tier": "C",
+   "completeness": 0.542,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (54%, missing 11: battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jmc-yi-chi-06",
+   "tier": "C",
+   "completeness": 0.5,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (50%, missing 12: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "jmc-yichi-ev3",
+   "tier": "C",
+   "completeness": 0.625,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (62%, missing 9: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "kaicene-a600ev",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "kaicene-changxing-ev",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: range_cltc_km, battery_kwh, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "landian-e3",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "landian-e5",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: range_cltc_km, battery_kwh, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "landian-e5-plus",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "landian-e5-plus-gen3",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "leapmotor-a05",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-a10",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-b01",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-b10",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-c01",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-c01-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "leapmotor-c10",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": "partial",
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-c10-erev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "leapmotor-c11",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-c11-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "leapmotor-c16",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-c16-erev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "leapmotor-d19",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "leapmotor-d99",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "leapmotor-lafa5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "leapmotor-t03",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "li-auto-i6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "li-auto-i8",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "li-auto-l6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "li-auto-l7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "li-auto-l8",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "li-auto-l9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "li-auto-mega",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "livan-7",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "livan-8",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "livan-9",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "luxeed-r7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "luxeed-s7",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "lynk-co-01",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-02",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "lynk-co-05",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-06",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-07",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-07-gt",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-08",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-09",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-10",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-900",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "lynk-co-z10",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "lynk-co-z20",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "m-hero-917",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "m-hero-917-erev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "m-hero-m817",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "maextro-s800",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "maxus-eg10",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "battery_type",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "maxus-g50",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "maxus-mifa-5",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: accel_0_100_s, top_speed_kmh, efficiency_kwh_100km, length_mm, width_mm, height_mm)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "maxus-mifa-7",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "maxus-mifa-7-phev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "maxus-mifa-9",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "maxus-mifa-9-phev",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "mg-07",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "mg-4",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "mg-4x",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "mg-pilot-phev",
+   "tier": "B",
+   "completeness": 0.75,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "mg-s5-ev",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "mg6-phev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "neta-aya",
+   "tier": "B",
+   "completeness": 0.792,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "neta-l",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "neta-s",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "neta-v",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "neta-x",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-ec6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-ec7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-es6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-es7",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-es8",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": "verified",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-es9",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-et5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-et5t",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-et7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "nio-et9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "onvo-l60",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "onvo-l80",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "onvo-l90",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "ora-5",
+   "tier": "C",
+   "completeness": 0.542,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (54%, missing 11: battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "ora-ballet-cat",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "ora-good-cat",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "ora-good-cat-gt",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "ora-lightning-cat",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "oshan-keshan-ev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "oshan-x7-ev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "oshan-z6-idd",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "roewe-d5x-dmh",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "roewe-d6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "roewe-d7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "roewe-d7-phev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "roewe-erx5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "roewe-f7",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "roewe-i6-max",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "roewe-i6-max-phev",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "length_mm",
+    "width_mm",
+    "height_mm",
+    "wheelbase_mm",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: top_speed_kmh, efficiency_kwh_100km, length_mm, width_mm, height_mm, wheelbase_mm)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "roewe-imax8",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "roewe-imax8-dmh",
+   "tier": "C",
+   "completeness": 0.667,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (67%, missing 8: range_cltc_km, battery_kwh, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "roewe-m7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "roewe-r7",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "saic-h5",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "saic-h5-erev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "sehol-aipao",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "sehol-e10x",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "sehol-e20x",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "sehol-e40x",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "seres-sf5",
+   "tier": "C",
+   "completeness": 0.708,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "data incomplete (71%, missing 7: range_cltc_km, motor_power_kw, torque_nm, accel_0_100_s, top_speed_kmh, efficiency_kwh_100km)",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "skywell-ev6",
+   "tier": "B",
+   "completeness": 0.917,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "skywell-ht-i",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "stelato-s9",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "stelato-s9t",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "stelato-s9t-erev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "tank-300",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "tank-400",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "tank-500",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "tank-700",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "venucia-d60ev",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "venucia-v-online-dd-i",
+   "tier": "B",
+   "completeness": 0.833,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [
+    "range_cltc_km",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "venucia-vx6",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "voyah-courage",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "voyah-dream",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "voyah-dream-phev",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "voyah-free",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "voyah-passion",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "voyah-passion-l",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "voyah-passion-phev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "voyah-titan",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wey-03",
+   "tier": "B",
+   "completeness": 0.958,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wey-05",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wey-80",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wey-lanshan",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [
+    "torque_nm"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wuling-air-ev",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-asta",
+   "tier": "A",
+   "completeness": 0.9,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "wuling-binguo",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "battery_thermal",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-binguo-pro",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-binguo-s",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-binguo-suv",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-hongguang-bev",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "battery_thermal",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-hongguang-mini-ev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "battery_thermal"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-jiachen",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "ICE"
+  },
+  {
+   "slug": "wuling-nano-ev",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-nebula",
+   "tier": "A",
+   "completeness": 0.9,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "wuling-starlight",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-starlight-560",
+   "tier": "A",
+   "completeness": 0.75,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "accel_0_100_s",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wuling-starlight-730",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-starlight-730-phev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wuling-starlight-phev",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wuling-starlight-s",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "suspension_front",
+    "suspension_rear"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "wuling-starlight-s-phev",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "wuling-victory",
+   "tier": "A",
+   "completeness": 0.9,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "HEV"
+  },
+  {
+   "slug": "xiaomi-skynomad-n70",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "xiaomi-skynomad-n90",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "motor_power_kw",
+    "torque_nm",
+    "efficiency_kwh_100km",
+    "width_mm",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "xiaomi-su7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xiaomi-su7-ultra",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xiaomi-yu7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xiaomi-yu7-gt",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-g6",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": "partial",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-g7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-g9",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-g9l",
+   "tier": "B",
+   "completeness": 0.792,
+   "tmpl_rate": 0.8,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "motor_power_kw",
+    "torque_nm",
+    "top_speed_kmh",
+    "weight_kg"
+   ],
+   "reason": "narrative isomorphic (template rate 80%)",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-gx",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "xpeng-mona-l03",
+   "tier": "A",
+   "completeness": 0.792,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "battery_kwh",
+    "torque_nm",
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-mona-m03",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-p7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-p7-plus",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "xpeng-x9",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "yangwang-u7",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": "verified",
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "yangwang-u8",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": "partial",
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "yangwang-u8l",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "EREV"
+  },
+  {
+   "slug": "yudo-pi-1",
+   "tier": "A",
+   "completeness": 0.875,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "yudo-pi-3",
+   "tier": "A",
+   "completeness": 0.917,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [
+    "accel_0_100_s",
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "zeekr-001",
+   "tier": "A",
+   "completeness": 0.958,
+   "tmpl_rate": 0.4,
+   "verif": "partial",
+   "missing": [
+    "efficiency_kwh_100km"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "zeekr-007",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "zeekr-007-gt",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "zeekr-009",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "zeekr-7x",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "zeekr-8x",
+   "tier": "A",
+   "completeness": 0.833,
+   "tmpl_rate": 0.0,
+   "verif": null,
+   "missing": [
+    "torque_nm",
+    "top_speed_kmh",
+    "efficiency_kwh_100km",
+    "weight_kg"
+   ],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "zeekr-9x",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.2,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "PHEV"
+  },
+  {
+   "slug": "zeekr-mix",
+   "tier": "A",
+   "completeness": 1.0,
+   "tmpl_rate": 0.4,
+   "verif": null,
+   "missing": [],
+   "reason": "complete + differentiated narrative",
+   "powertrain": "BEV"
+  },
+  {
+   "slug": "zeekr-x",
+   "tier": "B",
+   "completeness": 1.0,
+   "tmpl_rate": 0.6,
+   "verif": null,
+   "missing": [],
+   "reason": "narrative isomorphic (template rate 60%)",
+   "powertrain": "BEV"
+  }
+ ],
+ "thresholds": {
+  "COMPLETE_MIN": 0.72,
+  "PARTIAL_COMPLETE_MIN": 0.85,
+  "TMPL_ISOMORPHIC": 0.5
+ }
+}

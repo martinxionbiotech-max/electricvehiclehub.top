@@ -217,6 +217,17 @@ const jsonLd = {
     <p class="text-2xl text-green-700 font-bold">${data.price_usd.toLocaleString()} <span class="text-sm font-normal text-gray-500">starting price (ex-factory China)</span></p>
   </div>
 
+  <!-- C 层质量标注（数据待补，诚实声明，不删除不隐藏） -->
+  {data.quality_tier === 'C' && (
+    <div class="mb-8 rounded-xl border border-amber-300 bg-amber-50 px-5 py-4">
+      <p class="text-sm font-semibold text-amber-800">Data status: partial — verify before purchase decisions</p>
+      <p class="text-xs text-amber-700 mt-1 leading-relaxed">
+        Key specifications (range, battery, power, or performance) are not fully confirmed for this model.
+        Figures shown are indicative and should be verified against the manufacturer or a supplier quote before ordering.
+      </p>
+    </div>
+  )}
+
   <!-- 全宽 hero 图片 -->
   {data.image && (
     <div class="mb-10 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
@@ -363,6 +374,11 @@ const jsonLd = {
         <h3 class="text-lg font-semibold mb-2 text-gray-900">Estimated Landed Cost by Market</h3>
         <p class="text-sm text-gray-500 mb-3">Estimated total import cost to each destination — duty, countervailing duty, VAT/GST, freight and compliance.</p>
         <p class="text-xs text-gray-400 mb-6">Confidence: <span class="font-semibold text-amber-600">{costConfidence}</span> · Last verified: {costLastVerified}</p>
+        <p class="text-xs text-gray-500 mb-6 leading-relaxed">
+          Landed-cost figures are indicative planning estimates (base price + duty, countervailing duty, VAT,
+          freight and compliance fees); final totals vary with shipping route, insurance and supplier quotation —
+          verify before purchase decisions.
+        </p>
         <div class="space-y-3">
           {multiLc.map((m) => {
             const isLowest = m.total_landed_usd === lowestTotal;

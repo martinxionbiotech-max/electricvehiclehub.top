@@ -1,0 +1,25 @@
+{
+ "total": 517,
+ "authors": {
+  "Wei Wang": 517
+ },
+ "missing": {
+  "data_source": [],
+  "data_updated": [],
+  "image_source": [],
+  "author": []
+ },
+ "data_source_full_url": 0,
+ "data_source_domain_only": 517,
+ "verification_status": {
+  "None": 477,
+  "partial": 36,
+  "unverifiable": 2,
+  "verified": 2
+ },
+ "quality_tier": {
+  "A": 433,
+  "B": 53,
+  "C": 31
+ }
+}

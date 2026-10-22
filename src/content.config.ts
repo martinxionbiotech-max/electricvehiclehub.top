@@ -65,6 +65,7 @@ const vehicles = defineCollection({
     data_updated: z.string().optional(),
     data_reviewed: z.boolean().optional(),
     verification_status: z.string().optional(),
+    quality_tier: z.string().optional(),
     confidence: z.string().optional(),
     family: z.string().optional(),
     // ── EVHub Top deep-profile fields (five-section template; all optional) ──

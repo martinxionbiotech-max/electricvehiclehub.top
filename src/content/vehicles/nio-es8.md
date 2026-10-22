@@ -49,6 +49,7 @@ ground_clearance_mm: 135
 infotainment_language: "Chinese / English"
 data_updated: "2026-10-22"
 data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+quality_tier: "A"
 ---
 # Nio ES8
 
