@@ -12,28 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Avatr, Chinese EV brand, EV export]
 ---
 
-# Avatr
-
 Avatr is a premium intelligent electric vehicle brand jointly developed by Changan Automobile, Huawei, and CATL, positioned at the intersection of advanced technology, luxury, and emotional design. Established in 2018 and relaunched in 2021, Avatr represents a new generation of Chinese smart mobility, integrating cutting-edge electrification with digital intelligence to deliver an immersive driving experience.
-
-## Brand Overview
-
-- **Brand:** Avatr
-- **Established:** 2018
-- **Parent Manufacturer:** ChangAn
-- **Headquarters:** Chongqing, China
-- **Parent Founded:** 1862
-- **Official Website:** https://www.avatr.com/
-
-## Brand at a Glance
-
-- **Models cataloged:** 9
-- **Base price range:** $29,560 – $40,830
-- **Landed cost (Germany):** $52,569 – $70,094
-- **Landed premium (Germany):** +72% to +78%
-- **Body types:** SUV
-
-## Explore Avatr Models
-
-[View all Avatr vehicles](/vehicles/) · [Calculate landed cost](/landed-cost-calculator/)
-

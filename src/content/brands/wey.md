@@ -12,28 +12,4 @@ publishedDate: "2026-09-05"
 tags: [WEY, Chinese EV brand, EV export]
 ---
 
-# WEY
-
 WEY is a premium SUV brand under Great Wall Motor, founded in 2016 and named after the company’s founder Wei Jianjun, symbolizing innovation rooted in heritage. As China’s first luxury SUV brand, WEY was created to blend European design sophistication with Chinese technological excellence, offering intelligent, safe, and refined vehicles that compete on a global scale.
-
-## Brand Overview
-
-- **Brand:** WEY
-- **Established:** 2016
-- **Parent Manufacturer:** Great Wall
-- **Headquarters:** Baoding, Hebei, China
-- **Parent Founded:** 1984
-- **Official Website:** https://www.wey.com/
-
-## Brand at a Glance
-
-- **Models cataloged:** 4
-- **Base price range:** $32,250 – $42,230
-- **Landed cost (Germany):** $56,752 – $72,272
-- **Landed premium (Germany):** +71% to +76%
-- **Body types:** SUV
-
-## Explore WEY Models
-
-[View all WEY vehicles](/vehicles/) · [Calculate landed cost](/landed-cost-calculator/)
-

@@ -12,19 +12,4 @@ publishedDate: "2026-09-14"
 tags: [JMC, Chinese EV brand, EV export]
 ---
 
-# JMC
-
 JMC (Jiangling Motors Corporation) is a Nanchang-based automaker founded in 1968, best known for light commercial vehicles and its joint ventures. Its new-energy passenger and light-commercial range spans small EVs and electric MPVs/vans.
-
-## Brand Overview
-
-- **Brand:** JMC
-- **Established:** 1968
-- **Parent Manufacturer:** JMC (Jiangling Motors)
-- **Headquarters:** Nanchang, Jiangxi, China
-- **Parent Founded:** 1968
-
-## Brand at a Glance
-
-- **Models cataloged:** 4
-- **Base price range:** TBD

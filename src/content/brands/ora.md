@@ -12,28 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Ora, Chinese EV brand, EV export]
 ---
 
-# Ora
-
 Ora is the dedicated electric vehicle brand under Great Wall Motor (GWM), created to make smart, sustainable, and stylish electric mobility accessible to everyone. Launched in 2018, Ora represents GWM’s forward-thinking approach to electrification — blending retro-inspired design, intelligent technology, and youthful energy into a distinctive brand identity. According to GWM, Ora stands for \"open, reliable and alternative\", while also paying homage to Leonhard Euler, a notable Swiss mathematician whose surname is phonetically translated as \"Oula\" in Mandarin Chinese.
-
-## Brand Overview
-
-- **Brand:** Ora
-- **Established:** 2018
-- **Parent Manufacturer:** Great Wall
-- **Headquarters:** Baoding, Hebei, China
-- **Parent Founded:** 1984
-- **Official Website:** https://www.oraev.com/
-
-## Brand at a Glance
-
-- **Models cataloged:** 5
-- **Base price range:** $11,800 – $29,410
-- **Landed cost (Germany):** $24,950 – $52,335
-- **Landed premium (Germany):** +78% to +111%
-- **Body types:** Sedan
-
-## Explore Ora Models
-
-[View all Ora vehicles](/vehicles/) · [Calculate landed cost](/landed-cost-calculator/)
-
