@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 06"
-description: "The BYD Sealion 06 is an SUV fully electric from BYD, offering 520 km of CLTC range, 65 kWh of battery, 170 kW of motor power, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Sealion 06 is an SUV fully electric from BYD, offering 520 km of CLTC range, 65 kWh of battery, 170 kW of motor power, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-sealion-06"
 brand: "byd"
 type: "SUV"

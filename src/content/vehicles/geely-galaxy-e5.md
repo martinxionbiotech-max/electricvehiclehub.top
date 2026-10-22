@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy E5"
-description: "The Geely Galaxy E5 is Geely Galaxy's SUV fully electric, offering a CLTC-rated range of 530 km, a 60 kWh battery, 160 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Galaxy E5 is Geely Galaxy's SUV fully electric, offering a CLTC-rated range of 530 km, a 60 kWh battery, 160 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "geely-galaxy-e5"
 brand: "geely-galaxy"
 type: "SUV"

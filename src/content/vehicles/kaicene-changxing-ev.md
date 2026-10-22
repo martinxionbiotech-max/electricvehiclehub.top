@@ -1,6 +1,6 @@
 ---
 title: "Kaicene Changxing EV"
-description: "Kaicene's Kaicene Changxing EV is an MPV battery-electric with 90 kW peak output and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Kaicene's Kaicene Changxing EV is an MPV battery-electric with 90 kW peak output and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "kaicene-changxing-ev"
 brand: "kaicene"
 type: "MPV"

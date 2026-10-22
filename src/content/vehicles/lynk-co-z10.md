@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co Z10"
-description: "The Lynk Co Z10, an SUV battery-electric from Lynk & Co, offering 702 km of CLTC range, a 95 kWh battery, 580 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Lynk Co Z10, an SUV battery-electric from Lynk & Co, offering 702 km of CLTC range, a 95 kWh battery, 580 kW peak output, and NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "lynk-co-z10"
 brand: "lynk-co"
 type: "SUV"

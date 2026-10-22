@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 8 Plus C DM"
-description: "The Chery Tiggo 8 Plus C DM is Chery's SUV plug-in hybrid electric, offering a CLTC-rated range of 130 km, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery Tiggo 8 Plus C DM is Chery's SUV plug-in hybrid electric, offering a CLTC-rated range of 130 km, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-tiggo-8-plus-c-dm"
 brand: "chery"
 type: "SUV"

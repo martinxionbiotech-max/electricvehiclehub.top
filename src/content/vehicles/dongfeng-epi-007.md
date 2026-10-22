@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng E PI 007"
-description: "The Dongfeng E PI 007 is an SUV battery-electric from Dongfeng eπ with 620 km of CLTC range, 70 kWh of battery, 160 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Dongfeng E PI 007 is an SUV battery-electric from Dongfeng eπ with 620 km of CLTC range, 70 kWh of battery, 160 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "dongfeng-epi-007"
 brand: "dongfeng-e"
 type: "SUV"

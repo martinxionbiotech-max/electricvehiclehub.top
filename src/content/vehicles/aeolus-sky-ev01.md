@@ -1,6 +1,6 @@
 ---
 title: "Aeolus SKY EV01"
-description: "Aeolus's Aeolus SKY EV01 is an SUV battery-electric with a CLTC-rated range of 445 km, a 50 kWh battery, 160 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Aeolus's Aeolus SKY EV01 is an SUV battery-electric with a CLTC-rated range of 445 km, a 50 kWh battery, 160 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aeolus-sky-ev01"
 brand: "aeolus"
 type: "SUV"

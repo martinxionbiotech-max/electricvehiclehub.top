@@ -1,6 +1,6 @@
 ---
 title: "Wey 05"
-description: "The Wey 05 is WEY's SUV plug-in hybrid electric, offering a CLTC-rated range of 146 km, a 35 kWh battery, 230 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Wey 05 is WEY's SUV plug-in hybrid electric, offering a CLTC-rated range of 146 km, a 35 kWh battery, 230 kW of motor power, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "wey-05"
 brand: "wey"
 type: "SUV"

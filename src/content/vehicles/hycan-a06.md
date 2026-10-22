@@ -1,6 +1,6 @@
 ---
 title: "Hycan A06"
-description: "The Hycan A06, a sedan battery-electric from Hycan with a CLTC-rated range of 550 km, 60 kWh of battery, 137 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hycan A06, a sedan battery-electric from Hycan with a CLTC-rated range of 550 km, 60 kWh of battery, 137 kW of motor power, and a NMC (ternary) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "hycan-a06"
 brand: "hycan"
 type: "Sedan"

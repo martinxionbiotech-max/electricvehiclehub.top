@@ -1,6 +1,6 @@
 ---
 title: "NIO EC6"
-description: "The NIO EC6, an SUV fully electric from NIO with a CLTC-rated range of 655 km, a 100 kWh battery, 360 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The NIO EC6, an SUV fully electric from NIO with a CLTC-rated range of 655 km, a 100 kWh battery, 360 kW of motor power, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "nio-ec6"
 brand: "nio"
 type: "SUV"

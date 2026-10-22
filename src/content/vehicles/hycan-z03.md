@@ -1,6 +1,6 @@
 ---
 title: "Hycan Z03"
-description: "Hycan's Hycan Z03 is an SUV fully electric, offering a CLTC-rated range of 430 km, 55 kWh of battery, 135 kW peak output, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Hycan's Hycan Z03 is an SUV fully electric, offering a CLTC-rated range of 430 km, 55 kWh of battery, 135 kW peak output, and a NMC (ternary) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "hycan-z03"
 brand: "hycan"
 type: "SUV"

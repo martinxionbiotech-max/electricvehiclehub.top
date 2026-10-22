@@ -1,6 +1,6 @@
 ---
 title: "NIO ET5"
-description: "The NIO ET5, an SUV battery-electric from NIO, offering 740 km of CLTC range, a 100 kWh battery, 360 kW peak output, and NMC / LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The NIO ET5, an SUV battery-electric from NIO, offering 740 km of CLTC range, a 100 kWh battery, 360 kW peak output, and NMC / LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "nio-et5"
 brand: "nio"
 type: "SUV"

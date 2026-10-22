@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 6"
-description: "Geely Galaxy's Geely Galaxy Starshine 6 is a sedan plug-in hybrid, offering a CLTC-rated range of 60 km, a 8 kWh battery, 120 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Geely Galaxy's Geely Galaxy Starshine 6 is a sedan plug-in hybrid, offering a CLTC-rated range of 60 km, a 8 kWh battery, 120 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "geely-galaxy-starshine-6"
 brand: "geely-galaxy"
 type: "Sedan"

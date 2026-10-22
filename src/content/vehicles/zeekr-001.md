@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 001"
-description: "The Zeekr 001 is Zeekr's SUV battery-electric, offering 710 km of CLTC range, a 95 kWh battery, 680 kW peak output, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Zeekr 001 is Zeekr's SUV battery-electric, offering 710 km of CLTC range, a 95 kWh battery, 680 kW peak output, and a NMC pack. Full product specification in the Chinese EV database."
 slug: "zeekr-001"
 brand: "zeekr"
 type: "SUV"

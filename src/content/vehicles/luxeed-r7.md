@@ -1,6 +1,6 @@
 ---
 title: "Luxeed R7"
-description: "The Luxeed R7 is Luxeed's SUV fully electric, offering 667 km of CLTC range, 82 kWh of battery, 215 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Luxeed R7 is Luxeed's SUV fully electric, offering 667 km of CLTC range, 82 kWh of battery, 215 kW of motor power, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "luxeed-r7"
 brand: "luxeed"
 type: "SUV"

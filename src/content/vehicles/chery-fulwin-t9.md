@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T9"
-description: "Chery Fulwin's Chery Fulwin T9 is an SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery Fulwin's Chery Fulwin T9 is an SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, 18 kWh of battery, 150 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-fulwin-t9"
 brand: "chery-fulwin"
 type: "SUV"

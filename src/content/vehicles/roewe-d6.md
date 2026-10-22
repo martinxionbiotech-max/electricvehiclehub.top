@@ -1,6 +1,6 @@
 ---
 title: "Roewe D6"
-description: "The Roewe D6 is a sedan fully electric from Roewe with 520 km of CLTC range, a 53 kWh battery, 105 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Roewe D6 is a sedan fully electric from Roewe with 520 km of CLTC range, a 53 kWh battery, 105 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "roewe-d6"
 brand: "roewe"
 type: "Sedan"

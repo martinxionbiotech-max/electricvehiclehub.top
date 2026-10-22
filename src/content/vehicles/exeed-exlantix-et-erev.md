@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ET EREV"
-description: "The Exeed Exlantix ET EREV is Exeed's SUV range-extended electric, offering 200 km of CLTC range, 32 kWh of battery, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Exeed Exlantix ET EREV is Exeed's SUV range-extended electric, offering 200 km of CLTC range, 32 kWh of battery, 195 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "exeed-exlantix-et-erev"
 brand: "exeed"
 type: "SUV"

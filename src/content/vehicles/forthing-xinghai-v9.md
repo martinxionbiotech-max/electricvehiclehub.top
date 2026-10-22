@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V9"
-description: "Forthing's Forthing Xinghai V9 is an SUV plug-in hybrid electric with a CLTC-rated range of 200 km, 34 kWh of battery, 150 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Forthing's Forthing Xinghai V9 is an SUV plug-in hybrid electric with a CLTC-rated range of 200 km, 34 kWh of battery, 150 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "forthing-xinghai-v9"
 brand: "forthing"
 type: "SUV"

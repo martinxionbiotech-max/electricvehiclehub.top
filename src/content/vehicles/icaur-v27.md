@@ -1,6 +1,6 @@
 ---
 title: "iCAR V27"
-description: "The iCAR V27, an SUV extended-range electric from iCAUR, offering a CLTC-rated range of 200 km, 34 kWh of battery, 185 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The iCAR V27, an SUV extended-range electric from iCAUR, offering a CLTC-rated range of 200 km, 34 kWh of battery, 185 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "icaur-v27"
 brand: "icaur"
 type: "SUV"

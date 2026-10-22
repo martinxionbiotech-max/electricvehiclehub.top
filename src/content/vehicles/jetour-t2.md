@@ -1,6 +1,6 @@
 ---
 title: "Jetour T2"
-description: "The Jetour T2, an SUV plug-in hybrid electric from Jetour with a CLTC-rated range of 129 km, 27 kWh of battery, 165 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Jetour T2, an SUV plug-in hybrid electric from Jetour with a CLTC-rated range of 129 km, 27 kWh of battery, 165 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "jetour-t2"
 brand: "jetour"
 type: "SUV"

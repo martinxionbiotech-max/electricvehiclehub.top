@@ -1,6 +1,6 @@
 ---
 title: "Jetour Dashing I DM"
-description: "The Jetour Dashing I DM, an SUV plug-in hybrid electric from Jetour with 100 km of CLTC range, a 19 kWh battery, 125 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Jetour Dashing I DM, an SUV plug-in hybrid electric from Jetour with 100 km of CLTC range, a 19 kWh battery, 125 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "jetour-dashing-i-dm"
 brand: "jetour"
 type: "SUV"

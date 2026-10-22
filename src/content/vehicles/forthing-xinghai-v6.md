@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V6"
-description: "Forthing's Forthing Xinghai V6 is an SUV fully electric with 400 km of CLTC range, a 45 kWh battery, 135 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Forthing's Forthing Xinghai V6 is an SUV fully electric with 400 km of CLTC range, a 45 kWh battery, 135 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "forthing-xinghai-v6"
 brand: "forthing"
 type: "SUV"

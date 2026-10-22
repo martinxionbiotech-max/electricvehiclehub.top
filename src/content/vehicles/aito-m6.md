@@ -1,6 +1,6 @@
 ---
 title: "Aito M6"
-description: "The Aito M6 is an SUV fully electric from AITO with a CLTC-rated range of 602 km, 81 kWh of battery, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aito M6 is an SUV fully electric from AITO with a CLTC-rated range of 602 km, 81 kWh of battery, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aito-m6"
 brand: "aito"
 type: "SUV"

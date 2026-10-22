@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L9"
-description: "The Li Auto L9 is Li Auto's SUV extended-range electric, offering 420 km of CLTC range, a 52 kWh battery, 330 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Li Auto L9 is Li Auto's SUV extended-range electric, offering 420 km of CLTC range, a 52 kWh battery, 330 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "li-auto-l9"
 brand: "li-auto"
 type: "SUV"

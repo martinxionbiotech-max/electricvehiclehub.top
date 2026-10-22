@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ M8"
-description: "The Dongfeng eπ M8 is Dongfeng eπ's SUV extended-range electric, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Dongfeng eπ M8 is Dongfeng eπ's SUV extended-range electric, offering LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "dongfeng-epi-m8"
 brand: "dongfeng-e"
 type: "SUV"

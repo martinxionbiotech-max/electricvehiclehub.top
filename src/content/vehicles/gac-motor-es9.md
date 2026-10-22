@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor ES9"
-description: "GAC Motor's GAC Motor ES9 is an SUV plug-in hybrid with a CLTC-rated range of 143 km, 25 kWh of battery, 134 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "GAC Motor's GAC Motor ES9 is an SUV plug-in hybrid with a CLTC-rated range of 143 km, 25 kWh of battery, 134 kW of motor power, and a NMC (ternary) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "gac-motor-es9"
 brand: "gac-motor"
 type: "SUV"

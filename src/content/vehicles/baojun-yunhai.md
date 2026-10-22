@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yunhai"
-description: "The Baojun Yunhai, an SUV battery-electric from Baojun with 500 km of CLTC range, a 56 kWh battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Baojun Yunhai, an SUV battery-electric from Baojun with 500 km of CLTC range, a 56 kWh battery, 150 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "baojun-yunhai"
 brand: "baojun"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Bestune T90"
-description: "Bestune's Bestune T90 is an SUV plug-in hybrid electric with a CLTC-rated range of 210 km, a 30 kWh battery, 168 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Bestune's Bestune T90 is an SUV plug-in hybrid electric with a CLTC-rated range of 210 km, a 30 kWh battery, 168 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "bestune-t90"
 brand: "bestune"
 type: "SUV"

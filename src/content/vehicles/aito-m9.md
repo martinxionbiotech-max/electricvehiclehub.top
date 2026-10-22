@@ -1,6 +1,6 @@
 ---
 title: "Aito M9"
-description: "The Aito M9 is an SUV fully electric from AITO with 630 km of CLTC range, 100 kWh of battery, 365 kW peak output, and NMC (Qilin) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Aito M9 is an SUV fully electric from AITO with 630 km of CLTC range, 100 kWh of battery, 365 kW peak output, and NMC (Qilin) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aito-m9"
 brand: "aito"
 type: "SUV"

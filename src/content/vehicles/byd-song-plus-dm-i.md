@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Plus DM-i"
-description: "The BYD Song Plus DM-i, an SUV plug-in hybrid from BYD with a CLTC-rated range of 75 km, a 12 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Song Plus DM-i, an SUV plug-in hybrid from BYD with a CLTC-rated range of 75 km, a 12 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-song-plus-dm-i"
 brand: "byd"
 type: "SUV"

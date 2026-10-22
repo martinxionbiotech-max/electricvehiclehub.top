@@ -1,6 +1,6 @@
 ---
 title: "Tank 400"
-description: "The Tank 400 is an SUV plug-in hybrid from Tank with 105 km of CLTC range, a 37 kWh battery, 300 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Tank 400 is an SUV plug-in hybrid from Tank with 105 km of CLTC range, a 37 kWh battery, 300 kW of motor power, and a NMC (ternary) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "tank-400"
 brand: "tank"
 type: "SUV"

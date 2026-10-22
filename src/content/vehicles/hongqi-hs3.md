@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS3"
-description: "The Hongqi HS3 is Hongqi's SUV plug-in hybrid electric, offering a CLTC-rated range of 115 km, a 18 kWh battery, 168 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hongqi HS3 is Hongqi's SUV plug-in hybrid electric, offering a CLTC-rated range of 115 km, a 18 kWh battery, 168 kW of motor power, and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "hongqi-hs3"
 brand: "hongqi"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "IM LS6 EREV"
-description: "The IM LS6 EREV is IM's SUV extended-range electric with a CLTC-rated range of 370 km, a 52 kWh battery, 230 kW peak output, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The IM LS6 EREV is IM's SUV extended-range electric with a CLTC-rated range of 370 km, a 52 kWh battery, 230 kW peak output, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "im-ls6-erev"
 brand: "im"
 type: "SUV"

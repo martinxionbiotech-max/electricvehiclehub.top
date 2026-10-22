@@ -1,6 +1,6 @@
 ---
 title: "Roewe iMAX8 DMH"
-description: "The Roewe iMAX8 DMH is Roewe's MPV plug-in hybrid electric, offering a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Roewe iMAX8 DMH is Roewe's MPV plug-in hybrid electric, offering a LFP pack. Full product specification in the Chinese EV database."
 slug: "roewe-imax8-dmh"
 brand: "roewe"
 type: "MPV"

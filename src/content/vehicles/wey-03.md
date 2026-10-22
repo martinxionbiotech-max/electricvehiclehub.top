@@ -1,6 +1,6 @@
 ---
 title: "Wey 03"
-description: "The Wey 03 is an SUV plug-in hybrid from WEY, offering 130 km of CLTC range, a 34 kWh battery, 130 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wey 03 is an SUV plug-in hybrid from WEY, offering 130 km of CLTC range, a 34 kWh battery, 130 kW peak output, and NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wey-03"
 brand: "wey"
 type: "SUV"

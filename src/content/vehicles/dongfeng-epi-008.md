@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng E PI 008"
-description: "Dongfeng eπ's Dongfeng E PI 008 is an SUV fully electric, offering a CLTC-rated range of 620 km, a 82 kWh battery, 200 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Dongfeng eπ's Dongfeng E PI 008 is an SUV fully electric, offering a CLTC-rated range of 620 km, a 82 kWh battery, 200 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "dongfeng-epi-008"
 brand: "dongfeng-e"
 type: "SUV"

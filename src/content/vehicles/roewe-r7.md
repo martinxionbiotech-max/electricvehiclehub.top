@@ -1,6 +1,6 @@
 ---
 title: "Roewe R7"
-description: "Roewe's Roewe R7 is an SUV battery-electric with 90 kWh of battery, 250 kW peak output, and LFP (NMC option) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Roewe's Roewe R7 is an SUV battery-electric with 90 kWh of battery, 250 kW peak output, and LFP (NMC option) chemistry. Full product specification in the Chinese EV database."
 slug: "roewe-r7"
 brand: "roewe"
 type: "SUV"

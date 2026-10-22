@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi YU7"
-description: "The Xiaomi YU7, an SUV fully electric from Xiaomi, offering 835 km of CLTC range, 96 kWh of battery, 235 kW peak output, and LFP / NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Xiaomi YU7, an SUV fully electric from Xiaomi, offering 835 km of CLTC range, 96 kWh of battery, 235 kW peak output, and LFP / NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "xiaomi-yu7"
 brand: "xiaomi"
 type: "SUV"

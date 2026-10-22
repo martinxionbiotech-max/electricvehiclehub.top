@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor T03"
-description: "The Leapmotor T03 is Leapmotor's hatchback battery-electric, offering a CLTC-rated range of 310 km, 31 kWh of battery, 55 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Leapmotor T03 is Leapmotor's hatchback battery-electric, offering a CLTC-rated range of 310 km, 31 kWh of battery, 55 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "leapmotor-t03"
 brand: "leapmotor"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "XPENG G9"
-description: "The XPENG G9, an SUV fully electric from XPeng with 625 km of CLTC range, a 79 kWh battery, 285 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The XPENG G9, an SUV fully electric from XPeng with 625 km of CLTC range, a 79 kWh battery, 285 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "xpeng-g9"
 brand: "xpeng"
 type: "SUV"

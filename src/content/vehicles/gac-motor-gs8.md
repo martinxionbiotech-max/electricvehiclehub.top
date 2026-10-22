@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor GS8"
-description: "GAC Motor's GAC Motor GS8 is an SUV hybrid, offering 134 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "GAC Motor's GAC Motor GS8 is an SUV hybrid, offering 134 kW of motor power. Full product specification in the Chinese EV database."
 slug: "gac-motor-gs8"
 brand: "gac-motor"
 type: "SUV"

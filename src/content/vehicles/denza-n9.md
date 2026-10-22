@@ -1,6 +1,6 @@
 ---
 title: "Denza N9"
-description: "The Denza N9 is Denza's SUV fully electric with 165 km of CLTC range, 46 kWh of battery, 680 kW of motor power, and NMC (LFP option) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Denza N9 is Denza's SUV fully electric with 165 km of CLTC range, 46 kWh of battery, 680 kW of motor power, and NMC (LFP option) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "denza-n9"
 brand: "denza"
 type: "SUV"

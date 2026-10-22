@@ -1,6 +1,6 @@
 ---
 title: "MG6 PHEV"
-description: "The MG6 PHEV is a sedan plug-in hybrid electric from MG with 70 km of CLTC range, a 11 kWh battery, 100 kW peak output, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The MG6 PHEV is a sedan plug-in hybrid electric from MG with 70 km of CLTC range, a 11 kWh battery, 100 kW peak output, and a NMC pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "mg6-phev"
 brand: "mg"
 type: "Sedan"

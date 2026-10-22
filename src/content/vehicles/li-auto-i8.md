@@ -1,6 +1,6 @@
 ---
 title: "Li Auto I8"
-description: "The Li Auto I8 is an SUV fully electric from Li Auto with 720 km of CLTC range, a 97 kWh battery, 400 kW peak output, and a NMC (Qilin, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Li Auto I8 is an SUV fully electric from Li Auto with 720 km of CLTC range, a 97 kWh battery, 400 kW peak output, and a NMC (Qilin, CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "li-auto-i8"
 brand: "li-auto"
 type: "SUV"

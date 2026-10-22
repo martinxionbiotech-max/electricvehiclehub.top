@@ -1,6 +1,6 @@
 ---
 title: "Onvo L90"
-description: "The Onvo L90 is Onvo's SUV battery-electric, offering 605 km of CLTC range, 85 kWh of battery, 340 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Onvo L90 is Onvo's SUV battery-electric, offering 605 km of CLTC range, 85 kWh of battery, 340 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "onvo-l90"
 brand: "onvo"
 type: "SUV"

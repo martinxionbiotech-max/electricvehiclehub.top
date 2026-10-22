@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A9L"
-description: "The Chery Fulwin A9L, an SUV plug-in hybrid electric from Chery Fulwin, offering a CLTC-rated range of 200 km, a 33 kWh battery, 160 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Chery Fulwin A9L, an SUV plug-in hybrid electric from Chery Fulwin, offering a CLTC-rated range of 200 km, a 33 kWh battery, 160 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-fulwin-a9l"
 brand: "chery-fulwin"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q07"
-description: "The Changan Nevo Q07, an SUV plug-in hybrid from ChangAn NEVO with a CLTC-rated range of 215 km, 21 kWh of battery, 165 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo Q07, an SUV plug-in hybrid from ChangAn NEVO with a CLTC-rated range of 215 km, 21 kWh of battery, 165 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-q07"
 brand: "changan-nevo"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Im L7"
-description: "The Im L7 is an SUV fully electric from IM with a CLTC-rated range of 708 km, 90 kWh of battery, 250 kW of motor power, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Im L7 is an SUV fully electric from IM with a CLTC-rated range of 708 km, 90 kWh of battery, 250 kW of motor power, and NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "im-l7"
 brand: "im"
 type: "SUV"

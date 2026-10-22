@@ -1,6 +1,6 @@
 ---
 title: "Exeed RX C DM"
-description: "The Exeed RX C DM, an SUV plug-in hybrid electric from Exeed with a CLTC-rated range of 182 km, 19 kWh of battery, 150 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Exeed RX C DM, an SUV plug-in hybrid electric from Exeed with a CLTC-rated range of 182 km, 19 kWh of battery, 150 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "exeed-rx-c-dm"
 brand: "exeed"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Venucia D60 EV"
-description: "The Venucia D60 EV is a sedan battery-electric from Venucia, offering a CLTC-rated range of 450 km, a 58 kWh battery, 120 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Venucia D60 EV is a sedan battery-electric from Venucia, offering a CLTC-rated range of 450 km, a 58 kWh battery, 120 kW of motor power, and NMC (ternary) chemistry. Full product specification in the Chinese EV database."
 slug: "venucia-d60ev"
 brand: "venucia"
 type: "Sedan"

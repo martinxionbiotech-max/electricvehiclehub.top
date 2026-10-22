@@ -1,6 +1,6 @@
 ---
 title: "Geometry C"
-description: "The Geometry C is Geometry's SUV battery-electric, offering 400 km of CLTC range, 53 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geometry C is Geometry's SUV battery-electric, offering 400 km of CLTC range, 53 kWh of battery, 150 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "geometry-c"
 brand: "geometry"
 type: "SUV"

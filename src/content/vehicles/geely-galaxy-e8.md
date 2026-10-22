@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy E8"
-description: "Geely Galaxy's Geely Galaxy E8 is an SUV fully electric, offering a CLTC-rated range of 575 km, a 62 kWh battery, 250 kW of motor power, and LFP / NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Geely Galaxy's Geely Galaxy E8 is an SUV fully electric, offering a CLTC-rated range of 575 km, a 62 kWh battery, 250 kW of motor power, and LFP / NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-e8"
 brand: "geely-galaxy"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Aito M9 Ultimate"
-description: "The Aito M9 Ultimate is an SUV range-extended electric from AITO with 365 kW of motor power and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aito M9 Ultimate is an SUV range-extended electric from AITO with 365 kW of motor power and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aito-m9-ultimate"
 brand: "aito"
 type: "SUV"

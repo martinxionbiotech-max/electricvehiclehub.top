@@ -1,6 +1,6 @@
 ---
 title: "BYD Frigate 07"
-description: "The BYD Frigate 07 is BYD's SUV plug-in hybrid electric with a CLTC-rated range of 205 km, 36 kWh of battery, 145 kW of motor power, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Frigate 07 is BYD's SUV plug-in hybrid electric with a CLTC-rated range of 205 km, 36 kWh of battery, 145 kW of motor power, and a LFP (Blade) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-frigate-07"
 brand: "byd"
 type: "SUV"

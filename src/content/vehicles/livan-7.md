@@ -1,6 +1,6 @@
 ---
 title: "Livan 7"
-description: "The Livan 7 is Livan's SUV fully electric, offering a CLTC-rated range of 450 km, 50 kWh of battery, 120 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Livan 7 is Livan's SUV fully electric, offering a CLTC-rated range of 450 km, 50 kWh of battery, 120 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "livan-7"
 brand: "livan"
 type: "SUV"

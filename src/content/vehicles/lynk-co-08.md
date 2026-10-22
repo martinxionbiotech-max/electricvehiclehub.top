@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 08"
-description: "The Lynk Co 08, an SUV plug-in hybrid from Lynk & Co, offering 185 km of CLTC range, 28 kWh of battery, 180 kW peak output, and LFP (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Lynk Co 08, an SUV plug-in hybrid from Lynk & Co, offering 185 km of CLTC range, 28 kWh of battery, 180 kW peak output, and LFP (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "lynk-co-08"
 brand: "lynk-co"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Maxus G50"
-description: "Maxus's Maxus G50 is an MPV plug-in hybrid, offering a CLTC-rated range of 95 km, 18 kWh of battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Maxus's Maxus G50 is an MPV plug-in hybrid, offering a CLTC-rated range of 95 km, 18 kWh of battery, 160 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "maxus-g50"
 brand: "maxus"
 type: "MPV"

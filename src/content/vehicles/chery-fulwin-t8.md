@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T8"
-description: "Chery Fulwin's Chery Fulwin T8 is an SUV plug-in hybrid, offering a CLTC-rated range of 130 km, a 18 kWh battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery Fulwin's Chery Fulwin T8 is an SUV plug-in hybrid, offering a CLTC-rated range of 130 km, a 18 kWh battery, 150 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "chery-fulwin-t8"
 brand: "chery-fulwin"
 type: "SUV"

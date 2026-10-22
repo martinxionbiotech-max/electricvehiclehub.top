@@ -1,6 +1,6 @@
 ---
 title: "BYD Seagull"
-description: "The BYD Seagull is BYD's sedan battery-electric with a CLTC-rated range of 305 km, 30 kWh of battery, 55 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Seagull is BYD's sedan battery-electric with a CLTC-rated range of 305 km, 30 kWh of battery, 55 kW peak output, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-seagull"
 brand: "byd"
 type: "Sedan"

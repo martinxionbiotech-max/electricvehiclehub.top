@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 900"
-description: "The Lynk Co 900, an SUV plug-in hybrid from Lynk & Co, offering 280 km of CLTC range, 44 kWh of battery, 390 kW of motor power, and NMC (CALB / CATL Freevoy) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Lynk Co 900, an SUV plug-in hybrid from Lynk & Co, offering 280 km of CLTC range, 44 kWh of battery, 390 kW of motor power, and NMC (CALB / CATL Freevoy) chemistry. Full product specification in the Chinese EV database."
 slug: "lynk-co-900"
 brand: "lynk-co"
 type: "SUV"

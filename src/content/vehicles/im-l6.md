@@ -1,6 +1,6 @@
 ---
 title: "Im L6"
-description: "The Im L6, an SUV battery-electric from IM, offering a CLTC-rated range of 690 km, 74 kWh of battery, 245 kW of motor power, and a LFP / NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Im L6, an SUV battery-electric from IM, offering a CLTC-rated range of 690 km, 74 kWh of battery, 245 kW of motor power, and a LFP / NMC pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "im-l6"
 brand: "im"
 type: "SUV"

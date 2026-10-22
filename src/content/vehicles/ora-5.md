@@ -1,6 +1,6 @@
 ---
 title: "Ora 5"
-description: "Ora's Ora 5 is an SUV fully electric with a CLTC-rated range of 480 km and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Ora's Ora 5 is an SUV fully electric with a CLTC-rated range of 480 km and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "ora-5"
 brand: "ora"
 type: "SUV"

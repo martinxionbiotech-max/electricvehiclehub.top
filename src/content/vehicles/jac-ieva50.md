@@ -1,6 +1,6 @@
 ---
 title: "JAC iEVA50"
-description: "The JAC iEVA50 is a sedan fully electric from JAC with a 44 kWh battery, 92 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The JAC iEVA50 is a sedan fully electric from JAC with a 44 kWh battery, 92 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "jac-ieva50"
 brand: "jac"
 type: "Sedan"

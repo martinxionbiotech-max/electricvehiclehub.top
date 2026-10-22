@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy L7"
-description: "Geely Galaxy's Geely Galaxy L7 is an SUV plug-in hybrid with a CLTC-rated range of 115 km, a 18 kWh battery, 160 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Geely Galaxy's Geely Galaxy L7 is an SUV plug-in hybrid with a CLTC-rated range of 115 km, a 18 kWh battery, 160 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-l7"
 brand: "geely-galaxy"
 type: "SUV"

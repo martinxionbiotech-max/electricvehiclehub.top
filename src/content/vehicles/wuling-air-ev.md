@@ -1,6 +1,6 @@
 ---
 title: "Wuling Air EV"
-description: "Wuling's Wuling Air EV is a hatchback fully electric with a CLTC-rated range of 300 km, 26 kWh of battery, 30 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Wuling's Wuling Air EV is a hatchback fully electric with a CLTC-rated range of 300 km, 26 kWh of battery, 30 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "wuling-air-ev"
 brand: "wuling"
 type: "Hatchback"

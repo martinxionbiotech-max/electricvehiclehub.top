@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Max DM-i"
-description: "The BYD Qin Max DM-i is a sedan plug-in hybrid electric from BYD, offering 320 km of CLTC range and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Qin Max DM-i is a sedan plug-in hybrid electric from BYD, offering 320 km of CLTC range and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-qin-max-dm-i"
 brand: "byd"
 type: "Sedan"

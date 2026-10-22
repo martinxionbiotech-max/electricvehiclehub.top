@@ -1,6 +1,6 @@
 ---
 title: "NIO ES8"
-description: "The NIO ES8 is an SUV battery-electric from NIO with 635 km of CLTC range, a 102 kWh battery, 520 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The NIO ES8 is an SUV battery-electric from NIO with 635 km of CLTC range, a 102 kWh battery, 520 kW peak output, and NMC chemistry. Full product specification in the Chinese EV database."
 slug: "nio-es8"
 brand: "nio"
 type: "SUV"

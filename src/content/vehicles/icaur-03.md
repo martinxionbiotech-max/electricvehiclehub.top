@@ -1,6 +1,6 @@
 ---
 title: "Icaur 03"
-description: "iCAUR's Icaur 03 is an SUV fully electric with a CLTC-rated range of 401 km, 50 kWh of battery, 135 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "iCAUR's Icaur 03 is an SUV fully electric with a CLTC-rated range of 401 km, 50 kWh of battery, 135 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "icaur-03"
 brand: "icaur"
 type: "SUV"

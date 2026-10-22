@@ -1,6 +1,6 @@
 ---
 title: "Kaiyi Kunlun iHD"
-description: "The Kaiyi Kunlun iHD is Cowin's SUV plug-in hybrid electric, offering 150 kW peak output and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Kaiyi Kunlun iHD is Cowin's SUV plug-in hybrid electric, offering 150 kW peak output and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "cowin-kunlun-ihd"
 brand: "cowin"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Aito M7 EREV"
-description: "AITO's Aito M7 EREV is an SUV extended-range electric with 327 km of CLTC range, 37 kWh of battery, 227 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "AITO's Aito M7 EREV is an SUV extended-range electric with 327 km of CLTC range, 37 kWh of battery, 227 kW peak output, and NMC (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "aito-m7-erev"
 brand: "aito"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight"
-description: "The Wuling Starlight is a sedan fully electric from Wuling with 510 km of CLTC range, 54 kWh of battery, 150 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Wuling Starlight is a sedan fully electric from Wuling with 510 km of CLTC range, 54 kWh of battery, 150 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "wuling-starlight"
 brand: "wuling"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "GAC Xiangwang M8"
-description: "The GAC Xiangwang M8 is GAC Motor's MPV plug-in hybrid. Landed-cost analysis across 30 key export markets for importers."
+description: "The GAC Xiangwang M8 is GAC Motor's MPV plug-in hybrid. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "gac-motor-xiangwang-m8"
 brand: "gac-motor"
 type: "MPV"

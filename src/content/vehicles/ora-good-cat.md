@@ -1,6 +1,6 @@
 ---
 title: "Ora Good CAT"
-description: "The Ora Good CAT, a sedan battery-electric from Ora, offering a CLTC-rated range of 401 km, 45 kWh of battery, 105 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Ora Good CAT, a sedan battery-electric from Ora, offering a CLTC-rated range of 401 km, 45 kWh of battery, 105 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "ora-good-cat"
 brand: "ora"
 type: "Sedan"

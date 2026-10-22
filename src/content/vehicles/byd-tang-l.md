@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang L"
-description: "The BYD Tang L is an SUV battery-electric from BYD with 670 km of CLTC range, a 100 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Tang L is an SUV battery-electric from BYD with 670 km of CLTC range, a 100 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-tang-l"
 brand: "byd"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang L DM-i"
-description: "The BYD Tang L DM-i is an SUV plug-in hybrid electric from BYD, offering a CLTC-rated range of 215 km, 35 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Tang L DM-i is an SUV plug-in hybrid electric from BYD, offering a CLTC-rated range of 215 km, 35 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-tang-l-dm-i"
 brand: "byd"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 009"
-description: "Zeekr's Zeekr 009 is an SUV fully electric, offering a CLTC-rated range of 740 km, 108 kWh of battery, 310 kW of motor power, and NMC (Qilin) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Zeekr's Zeekr 009 is an SUV fully electric, offering a CLTC-rated range of 740 km, 108 kWh of battery, 310 kW of motor power, and NMC (Qilin) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "zeekr-009"
 brand: "zeekr"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06"
-description: "The Avatr 06 is Avatr's sedan battery-electric with a CLTC-rated range of 650 km, 72 kWh of battery, 231 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Avatr 06 is Avatr's sedan battery-electric with a CLTC-rated range of 650 km, 72 kWh of battery, 231 kW peak output, and NMC (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "avatr-06"
 brand: "avatr"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Roewe Imax8"
-description: "The Roewe Imax8 is an MPV fully electric from Roewe, offering a CLTC-rated range of 570 km, 90 kWh of battery, 176 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Roewe Imax8 is an MPV fully electric from Roewe, offering a CLTC-rated range of 570 km, 90 kWh of battery, 176 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "roewe-imax8"
 brand: "roewe"
 type: "MPV"

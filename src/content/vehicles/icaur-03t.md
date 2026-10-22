@@ -1,6 +1,6 @@
 ---
 title: "iCAR 03T"
-description: "The iCAR 03T, an SUV battery-electric from iCAUR with LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The iCAR 03T, an SUV battery-electric from iCAUR with LFP chemistry. Full product specification in the Chinese EV database."
 slug: "icaur-03t"
 brand: "icaur"
 type: "SUV"

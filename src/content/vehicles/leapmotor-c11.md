@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C11"
-description: "The Leapmotor C11 is Leapmotor's SUV fully electric with 580 km of CLTC range, a 78 kWh battery, 200 kW peak output, and LFP / NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Leapmotor C11 is Leapmotor's SUV fully electric with 580 km of CLTC range, a 78 kWh battery, 200 kW peak output, and LFP / NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-c11"
 brand: "leapmotor"
 type: "SUV"

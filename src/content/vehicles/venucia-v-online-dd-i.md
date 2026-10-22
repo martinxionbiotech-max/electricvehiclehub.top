@@ -1,6 +1,6 @@
 ---
 title: "Venucia V-Online DD-i"
-description: "The Venucia V-Online DD-i is an SUV plug-in hybrid from Venucia with a 18 kWh battery, 150 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Venucia V-Online DD-i is an SUV plug-in hybrid from Venucia with a 18 kWh battery, 150 kW of motor power, and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "venucia-v-online-dd-i"
 brand: "venucia"
 type: "SUV"

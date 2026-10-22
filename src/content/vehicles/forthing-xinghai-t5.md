@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai T5"
-description: "Forthing's Forthing Xinghai T5 is an SUV fully electric with a CLTC-rated range of 530 km, a 64 kWh battery, 120 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Forthing's Forthing Xinghai T5 is an SUV fully electric with a CLTC-rated range of 530 km, a 64 kWh battery, 120 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "forthing-xinghai-t5"
 brand: "forthing"
 type: "SUV"

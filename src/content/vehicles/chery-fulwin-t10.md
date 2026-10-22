@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T10"
-description: "The Chery Fulwin T10 is Chery Fulwin's SUV plug-in hybrid electric with 210 km of CLTC range, 34 kWh of battery, 165 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery Fulwin T10 is Chery Fulwin's SUV plug-in hybrid electric with 210 km of CLTC range, 34 kWh of battery, 165 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-fulwin-t10"
 brand: "chery-fulwin"
 type: "SUV"

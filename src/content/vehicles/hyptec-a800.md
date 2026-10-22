@@ -1,6 +1,6 @@
 ---
 title: "Hyptec A800"
-description: "Hyptec's Hyptec A800 is an SUV range-extended electric, offering a CLTC-rated range of 220 km, 35 kWh of battery, 200 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Hyptec's Hyptec A800 is an SUV range-extended electric, offering a CLTC-rated range of 220 km, 35 kWh of battery, 200 kW peak output, and NMC (ternary) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "hyptec-a800"
 brand: "hyptec"
 type: "SUV"

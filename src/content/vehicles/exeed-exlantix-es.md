@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ES"
-description: "The Exeed Exlantix ES is a sedan battery-electric from Exeed, offering a CLTC-rated range of 905 km, 97 kWh of battery, 195 kW peak output, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Exeed Exlantix ES is a sedan battery-electric from Exeed, offering a CLTC-rated range of 905 km, 97 kWh of battery, 195 kW peak output, and LFP / NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "exeed-exlantix-es"
 brand: "exeed"
 type: "Sedan"

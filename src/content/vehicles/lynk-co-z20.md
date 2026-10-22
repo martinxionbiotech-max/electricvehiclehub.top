@@ -1,6 +1,6 @@
 ---
 title: "Lynk & Co Z20"
-description: "The Lynk & Co Z20, an SUV battery-electric from Lynk & Co with 530 km of CLTC range, a 61 kWh battery, 250 kW of motor power, and a LFP (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Lynk & Co Z20, an SUV battery-electric from Lynk & Co with 530 km of CLTC range, a 61 kWh battery, 250 kW of motor power, and a LFP (CATL) pack. Full product specification in the Chinese EV database."
 slug: "lynk-co-z20"
 brand: "lynk-co"
 type: "SUV"

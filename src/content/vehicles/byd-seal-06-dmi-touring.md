@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 DM-i Touring"
-description: "The BYD Seal 06 DM-i Touring, a sedan plug-in hybrid from BYD, offering 150 km of CLTC range, a 18 kWh battery, 120 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Seal 06 DM-i Touring, a sedan plug-in hybrid from BYD, offering 150 km of CLTC range, a 18 kWh battery, 120 kW peak output, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-seal-06-dmi-touring"
 brand: "byd"
 type: "Sedan"

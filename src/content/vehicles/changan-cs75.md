@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs75 PHEV"
-description: "ChangAn's Changan Cs75 PHEV is an SUV plug-in hybrid electric, offering 150 kW of motor power and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "ChangAn's Changan Cs75 PHEV is an SUV plug-in hybrid electric, offering 150 kW of motor power and a NMC (ternary) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-cs75"
 brand: "changan"
 type: "SUV"

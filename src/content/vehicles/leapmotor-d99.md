@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor D99"
-description: "The Leapmotor D99 is an MPV extended-range electric from Leapmotor, offering 480 km of CLTC range, 80 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Leapmotor D99 is an MPV extended-range electric from Leapmotor, offering 480 km of CLTC range, 80 kWh of battery, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-d99"
 brand: "leapmotor"
 type: "MPV"

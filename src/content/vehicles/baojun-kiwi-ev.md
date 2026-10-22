@@ -1,6 +1,6 @@
 ---
 title: "Baojun Kiwi EV"
-description: "The Baojun Kiwi EV is a hatchback battery-electric from Baojun, offering 305 km of CLTC range, 31 kWh of battery, 40 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Baojun Kiwi EV is a hatchback battery-electric from Baojun, offering 305 km of CLTC range, 31 kWh of battery, 40 kW of motor power, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "baojun-kiwi-ev"
 brand: "baojun"
 type: "Hatchback"

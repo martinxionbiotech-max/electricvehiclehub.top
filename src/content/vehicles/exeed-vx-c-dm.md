@@ -1,6 +1,6 @@
 ---
 title: "Exeed VX C DM"
-description: "The Exeed VX C DM is Exeed's SUV plug-in hybrid, offering 180 km of CLTC range, 34 kWh of battery, 340 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Exeed VX C DM is Exeed's SUV plug-in hybrid, offering 180 km of CLTC range, 34 kWh of battery, 340 kW peak output, and a NMC (CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "exeed-vx-c-dm"
 brand: "exeed"
 type: "SUV"

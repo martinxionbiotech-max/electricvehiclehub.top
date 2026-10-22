@@ -1,6 +1,6 @@
 ---
 title: "Geely Emgrand L HIP"
-description: "The Geely Emgrand L HIP is Geely's SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, a 15 kWh battery, 100 kW of motor power, and a NMC (CTP) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Emgrand L HIP is Geely's SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, a 15 kWh battery, 100 kW of motor power, and a NMC (CTP) pack. Full product specification in the Chinese EV database."
 slug: "geely-emgrand-l-hip"
 brand: "geely"
 type: "SUV"

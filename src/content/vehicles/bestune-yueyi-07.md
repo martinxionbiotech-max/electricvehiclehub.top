@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 07"
-description: "The Bestune Yueyi 07 is Bestune's SUV plug-in hybrid with 150 km of CLTC range, a 21 kWh battery, 168 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Bestune Yueyi 07 is Bestune's SUV plug-in hybrid with 150 km of CLTC range, a 21 kWh battery, 168 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "bestune-yueyi-07"
 brand: "bestune"
 type: "SUV"

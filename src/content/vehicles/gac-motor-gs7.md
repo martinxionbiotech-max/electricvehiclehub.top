@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor GS7"
-description: "GAC Motor's GAC Motor GS7 is an SUV plug-in hybrid with 150 km of CLTC range, 36 kWh of battery, 170 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "GAC Motor's GAC Motor GS7 is an SUV plug-in hybrid with 150 km of CLTC range, 36 kWh of battery, 170 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "gac-motor-gs7"
 brand: "gac-motor"
 type: "SUV"

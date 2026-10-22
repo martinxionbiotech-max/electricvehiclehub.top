@@ -1,6 +1,6 @@
 ---
 title: "Livan 9"
-description: "The Livan 9 is an SUV fully electric from Livan, offering 380 km of CLTC range, a 52 kWh battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Livan 9 is an SUV fully electric from Livan, offering 380 km of CLTC range, a 52 kWh battery, 150 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "livan-9"
 brand: "livan"
 type: "SUV"

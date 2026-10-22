@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI-V HEV"
-description: "ChangAn's Changan UNI-V HEV is a sedan non-plug-in hybrid, offering 1 kWh of battery, 180 kW peak output, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "ChangAn's Changan UNI-V HEV is a sedan non-plug-in hybrid, offering 1 kWh of battery, 180 kW peak output, and NMC (ternary) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-uni-v-hev"
 brand: "changan"
 type: "Sedan"

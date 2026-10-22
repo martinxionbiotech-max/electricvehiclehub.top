@@ -1,6 +1,6 @@
 ---
 title: "Roewe I6 Max"
-description: "Roewe's Roewe I6 Max is a sedan fully electric, offering a CLTC-rated range of 605 km, a 69 kWh battery, 120 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Roewe's Roewe I6 Max is a sedan fully electric, offering a CLTC-rated range of 605 km, a 69 kWh battery, 120 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "roewe-i6-max"
 brand: "roewe"
 type: "Sedan"

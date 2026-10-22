@@ -1,6 +1,6 @@
 ---
 title: "Wuling Binguo S"
-description: "The Wuling Binguo S, an SUV fully electric from Wuling with 325 km of CLTC range, 31 kWh of battery, 75 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wuling Binguo S, an SUV fully electric from Wuling with 325 km of CLTC range, 31 kWh of battery, 75 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-binguo-s"
 brand: "wuling"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "JMC Yichi EV3"
-description: "The JMC Yichi EV3 is a hatchback fully electric from JMC, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The JMC Yichi EV3 is a hatchback fully electric from JMC, offering LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jmc-yichi-ev3"
 brand: "jmc"
 type: "Hatchback"

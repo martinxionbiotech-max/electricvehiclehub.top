@@ -1,6 +1,6 @@
 ---
 title: "Firefly Firefly"
-description: "The Firefly Firefly is a hatchback fully electric from firefly, offering 420 km of CLTC range, a 42 kWh battery, 105 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Firefly Firefly is a hatchback fully electric from firefly, offering 420 km of CLTC range, a 42 kWh battery, 105 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "firefly-firefly"
 brand: "firefly"
 type: "Hatchback"

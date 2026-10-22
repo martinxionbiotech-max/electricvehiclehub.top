@@ -1,6 +1,6 @@
 ---
 title: "Xpeng G9L"
-description: "The Xpeng G9L is XPeng's SUV battery-electric, offering 702 km of CLTC range and LFP / NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Xpeng G9L is XPeng's SUV battery-electric, offering 702 km of CLTC range and LFP / NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "xpeng-g9l"
 brand: "xpeng"
 type: "SUV"

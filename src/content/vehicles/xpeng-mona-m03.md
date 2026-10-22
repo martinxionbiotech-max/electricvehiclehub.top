@@ -1,6 +1,6 @@
 ---
 title: "XPENG Mona M03"
-description: "The XPENG Mona M03 is XPeng's SUV fully electric with 515 km of CLTC range, 51 kWh of battery, 140 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The XPENG Mona M03 is XPeng's SUV fully electric with 515 km of CLTC range, 51 kWh of battery, 140 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "xpeng-mona-m03"
 brand: "xpeng"
 type: "SUV"

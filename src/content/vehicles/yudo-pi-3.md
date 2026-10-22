@@ -1,6 +1,6 @@
 ---
 title: "Yudo Pi 3"
-description: "The Yudo Pi 3, an SUV fully electric from Yudo with a CLTC-rated range of 401 km, a 51 kWh battery, 90 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Yudo Pi 3, an SUV fully electric from Yudo with a CLTC-rated range of 401 km, a 51 kWh battery, 90 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "yudo-pi-3"
 brand: "yudo"
 type: "SUV"

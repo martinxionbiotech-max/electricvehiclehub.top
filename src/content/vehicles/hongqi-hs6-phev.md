@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS6 Phev"
-description: "The Hongqi HS6 Phev is an SUV plug-in hybrid from Hongqi, offering 148 km of CLTC range, 23 kWh of battery, 168 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Hongqi HS6 Phev is an SUV plug-in hybrid from Hongqi, offering 148 km of CLTC range, 23 kWh of battery, 168 kW of motor power, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "hongqi-hs6-phev"
 brand: "hongqi"
 type: "SUV"

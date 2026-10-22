@@ -1,6 +1,6 @@
 ---
 title: "Maextro S800"
-description: "The Maextro S800, a sedan fully electric from Maextro with 670 km of CLTC range, 65 kWh of battery, 390 kW peak output, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Maextro S800, a sedan fully electric from Maextro with 670 km of CLTC range, 65 kWh of battery, 390 kW peak output, and a NMC pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "maextro-s800"
 brand: "maextro"
 type: "Sedan"

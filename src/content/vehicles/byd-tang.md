@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang"
-description: "The BYD Tang, an SUV plug-in hybrid from BYD with a CLTC-rated range of 112 km, a 21 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Tang, an SUV plug-in hybrid from BYD with a CLTC-rated range of 112 km, a 21 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-tang"
 brand: "byd"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "MG 4X"
-description: "The MG 4X is an SUV battery-electric from MG, offering 510 km of CLTC range, 53 kWh of battery, 125 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The MG 4X is an SUV battery-electric from MG, offering 510 km of CLTC range, 53 kWh of battery, 125 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "mg-4x"
 brand: "mg"
 type: "SUV"

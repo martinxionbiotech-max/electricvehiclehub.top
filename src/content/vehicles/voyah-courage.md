@@ -1,6 +1,6 @@
 ---
 title: "Voyah Courage"
-description: "The Voyah Courage is an SUV battery-electric from Voyah with 650 km of CLTC range, a 81 kWh battery, 230 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Voyah Courage is an SUV battery-electric from Voyah with 650 km of CLTC range, a 81 kWh battery, 230 kW peak output, and NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "voyah-courage"
 brand: "voyah"
 type: "SUV"

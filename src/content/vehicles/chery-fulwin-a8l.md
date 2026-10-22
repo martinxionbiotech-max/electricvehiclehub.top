@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A8L"
-description: "The Chery Fulwin A8L, a sedan plug-in hybrid electric from Chery Fulwin with a CLTC-rated range of 145 km, 18 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery Fulwin A8L, a sedan plug-in hybrid electric from Chery Fulwin with a CLTC-rated range of 145 km, 18 kWh of battery, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-fulwin-a8l"
 brand: "chery-fulwin"
 type: "Sedan"

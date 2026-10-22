@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor A05"
-description: "The Leapmotor A05, a sedan fully electric from Leapmotor with 405 km of CLTC range, 39 kWh of battery, 70 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Leapmotor A05, a sedan fully electric from Leapmotor with 405 km of CLTC range, 39 kWh of battery, 70 kW of motor power, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-a05"
 brand: "leapmotor"
 type: "Sedan"

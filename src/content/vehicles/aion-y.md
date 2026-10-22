@@ -1,6 +1,6 @@
 ---
 title: "GAC Aion Y"
-description: "The GAC Aion Y is AION's SUV battery-electric with a CLTC-rated range of 430 km, a 49 kWh battery, 100 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The GAC Aion Y is AION's SUV battery-electric with a CLTC-rated range of 430 km, a 49 kWh battery, 100 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aion-y"
 brand: "aion"
 type: "SUV"

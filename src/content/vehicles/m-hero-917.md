@@ -1,6 +1,6 @@
 ---
 title: "M Hero 917"
-description: "The M Hero 917 is an SUV battery-electric from M-Hero, offering 505 km of CLTC range, 142 kWh of battery, 600 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The M Hero 917 is an SUV battery-electric from M-Hero, offering 505 km of CLTC range, 142 kWh of battery, 600 kW of motor power, and a NMC (ternary) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "m-hero-917"
 brand: "m-hero"
 type: "SUV"

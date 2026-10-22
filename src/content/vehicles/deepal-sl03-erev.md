@@ -1,6 +1,6 @@
 ---
 title: "Deepal SL03 EREV"
-description: "The Deepal SL03 EREV is a sedan extended-range electric from Deepal with a CLTC-rated range of 140 km, a 18 kWh battery, 160 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Deepal SL03 EREV is a sedan extended-range electric from Deepal with a CLTC-rated range of 140 km, a 18 kWh battery, 160 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "deepal-sl03-erev"
 brand: "deepal"
 type: "Sedan"

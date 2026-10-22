@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ES EREV"
-description: "Exeed's Exeed Exlantix ES EREV is a sedan extended-range electric, offering a CLTC-rated range of 255 km, a 32 kWh battery, 195 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Exeed's Exeed Exlantix ES EREV is a sedan extended-range electric, offering a CLTC-rated range of 255 km, a 32 kWh battery, 195 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "exeed-exlantix-es-erev"
 brand: "exeed"
 type: "Sedan"

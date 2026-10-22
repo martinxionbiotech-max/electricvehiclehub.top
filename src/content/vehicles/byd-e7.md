@@ -1,6 +1,6 @@
 ---
 title: "BYD E7"
-description: "The BYD E7, a sedan fully electric from BYD with a CLTC-rated range of 450 km, 48 kWh of battery, 100 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD E7, a sedan fully electric from BYD with a CLTC-rated range of 450 km, 48 kWh of battery, 100 kW of motor power, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-e7"
 brand: "byd"
 type: "Sedan"

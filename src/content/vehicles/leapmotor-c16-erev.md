@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C16 EREV"
-description: "Leapmotor's Leapmotor C16 EREV is an SUV extended-range electric with a CLTC-rated range of 200 km, 28 kWh of battery, 170 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Leapmotor's Leapmotor C16 EREV is an SUV extended-range electric with a CLTC-rated range of 200 km, 28 kWh of battery, 170 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-c16-erev"
 brand: "leapmotor"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "JMC Yi Chi 05S"
-description: "The JMC Yi Chi 05S is JMC's SUV fully electric, offering a CLTC-rated range of 500 km and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The JMC Yi Chi 05S is JMC's SUV fully electric, offering a CLTC-rated range of 500 km and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jmc-yi-chi-05s"
 brand: "jmc"
 type: "SUV"

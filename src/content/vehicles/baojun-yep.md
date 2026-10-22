@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yep"
-description: "The Baojun Yep is an SUV battery-electric from Baojun, offering a CLTC-rated range of 303 km, a 28 kWh battery, 50 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Baojun Yep is an SUV battery-electric from Baojun, offering a CLTC-rated range of 303 km, a 28 kWh battery, 50 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "baojun-yep"
 brand: "baojun"
 type: "SUV"

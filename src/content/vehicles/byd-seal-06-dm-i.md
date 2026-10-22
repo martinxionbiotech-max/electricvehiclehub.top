@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 DM I"
-description: "BYD's BYD Seal 06 DM I is a sedan plug-in hybrid electric with 120 km of CLTC range, 15 kWh of battery, 120 kW peak output, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "BYD's BYD Seal 06 DM I is a sedan plug-in hybrid electric with 120 km of CLTC range, 15 kWh of battery, 120 kW peak output, and a LFP (Blade) pack. Full product specification in the Chinese EV database."
 slug: "byd-seal-06-dm-i"
 brand: "byd"
 type: "Sedan"

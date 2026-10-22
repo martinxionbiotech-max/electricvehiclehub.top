@@ -1,6 +1,6 @@
 ---
 title: "Geometry G6"
-description: "Geometry's Geometry G6 is a sedan battery-electric, offering 410 km of CLTC range, a 46 kWh battery, 100 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Geometry's Geometry G6 is a sedan battery-electric, offering 410 km of CLTC range, a 46 kWh battery, 100 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "geometry-g6"
 brand: "geometry"
 type: "Sedan"

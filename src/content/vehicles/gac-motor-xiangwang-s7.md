@@ -1,6 +1,6 @@
 ---
 title: "GAC Xiangwang S7"
-description: "The GAC Xiangwang S7 is an SUV plug-in hybrid from GAC Motor, offering a CLTC-rated range of 205 km, a 36 kWh battery, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The GAC Xiangwang S7 is an SUV plug-in hybrid from GAC Motor, offering a CLTC-rated range of 205 km, a 36 kWh battery, and NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "gac-motor-xiangwang-s7"
 brand: "gac-motor"
 type: "SUV"

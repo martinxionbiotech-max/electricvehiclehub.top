@@ -1,6 +1,6 @@
 ---
 title: "BYD Song L EV"
-description: "The BYD Song L EV is BYD's SUV battery-electric with 550 km of CLTC range, a 71 kWh battery, 150 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Song L EV is BYD's SUV battery-electric with 550 km of CLTC range, a 71 kWh battery, 150 kW peak output, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-song-l-ev"
 brand: "byd"
 type: "SUV"

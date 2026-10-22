@@ -1,6 +1,6 @@
 ---
 title: "Landian E5"
-description: "Landian's Landian E5 is an SUV plug-in hybrid, offering 160 kW peak output and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Landian's Landian E5 is an SUV plug-in hybrid, offering 160 kW peak output and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "landian-e5"
 brand: "landian"
 type: "SUV"

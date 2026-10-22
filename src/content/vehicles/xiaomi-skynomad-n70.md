@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SkyNomad N70"
-description: "Xiaomi's Xiaomi SkyNomad N70 is an SUV range-extended electric with 351 km of CLTC range, 52 kWh of battery, 210 kW peak output, and NMC (Qilin, CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Xiaomi's Xiaomi SkyNomad N70 is an SUV range-extended electric with 351 km of CLTC range, 52 kWh of battery, 210 kW peak output, and NMC (Qilin, CATL) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "xiaomi-skynomad-n70"
 brand: "xiaomi"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "BYD Han L"
-description: "The BYD Han L, a sedan battery-electric from BYD with 701 km of CLTC range, 83 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Han L, a sedan battery-electric from BYD with 701 km of CLTC range, 83 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-han-l"
 brand: "byd"
 type: "Sedan"

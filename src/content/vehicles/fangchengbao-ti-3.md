@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao TI 3"
-description: "Fangchengbao's Fangchengbao TI 3 is an SUV battery-electric with 501 km of CLTC range, a 65 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Fangchengbao's Fangchengbao TI 3 is an SUV battery-electric with 501 km of CLTC range, a 65 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "fangchengbao-ti-3"
 brand: "fangchengbao"
 type: "SUV"

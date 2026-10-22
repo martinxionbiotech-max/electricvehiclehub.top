@@ -1,6 +1,6 @@
 ---
 title: "XPENG G6"
-description: "The XPENG G6 is XPeng's SUV fully electric, offering a CLTC-rated range of 625 km, a 68 kWh battery, 218 kW peak output, and a LFP / NMC (CALB) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The XPENG G6 is XPeng's SUV fully electric, offering a CLTC-rated range of 625 km, a 68 kWh battery, 218 kW peak output, and a LFP / NMC (CALB) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "xpeng-g6"
 brand: "xpeng"
 type: "SUV"

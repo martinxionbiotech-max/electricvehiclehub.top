@@ -1,6 +1,6 @@
 ---
 title: "XPENG G7"
-description: "XPeng's XPENG G7 is an SUV fully electric with a CLTC-rated range of 602 km, 68 kWh of battery, 218 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "XPeng's XPENG G7 is an SUV fully electric with a CLTC-rated range of 602 km, 68 kWh of battery, 218 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "xpeng-g7"
 brand: "xpeng"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Deepal G318"
-description: "The Deepal G318, an SUV range-extended electric from Deepal with 190 km of CLTC range, a 35 kWh battery, 185 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Deepal G318, an SUV range-extended electric from Deepal with 190 km of CLTC range, a 35 kWh battery, 185 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "deepal-g318"
 brand: "deepal"
 type: "SUV"

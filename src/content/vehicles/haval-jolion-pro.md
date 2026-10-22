@@ -1,6 +1,6 @@
 ---
 title: "Haval Jolion Pro"
-description: "Haval's Haval Jolion Pro is an SUV hybrid with 115 kW peak output and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Haval's Haval Jolion Pro is an SUV hybrid with 115 kW peak output and NMC chemistry. Full product specification in the Chinese EV database."
 slug: "haval-jolion-pro"
 brand: "haval"
 type: "SUV"

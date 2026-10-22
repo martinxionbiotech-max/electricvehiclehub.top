@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal"
-description: "The BYD Seal is BYD's sedan battery-electric, offering a CLTC-rated range of 450 km, 61 kWh of battery, 170 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Seal is BYD's sedan battery-electric, offering a CLTC-rated range of 450 km, 61 kWh of battery, 170 kW peak output, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-seal"
 brand: "byd"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Landian E5 Plus"
-description: "The Landian E5 Plus is an SUV plug-in hybrid electric from Landian with 165 km of CLTC range, a 25 kWh battery, 160 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Landian E5 Plus is an SUV plug-in hybrid electric from Landian with 165 km of CLTC range, a 25 kWh battery, 160 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "landian-e5-plus"
 brand: "landian"
 type: "SUV"

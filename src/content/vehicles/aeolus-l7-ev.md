@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L7 EV"
-description: "The Aeolus L7 EV, an SUV battery-electric from Aeolus, offering a CLTC-rated range of 430 km, 50 kWh of battery, 120 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aeolus L7 EV, an SUV battery-electric from Aeolus, offering a CLTC-rated range of 430 km, 50 kWh of battery, 120 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aeolus-l7-ev"
 brand: "aeolus"
 type: "SUV"

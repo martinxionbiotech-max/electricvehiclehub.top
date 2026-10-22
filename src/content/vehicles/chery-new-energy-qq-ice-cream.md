@@ -1,6 +1,6 @@
 ---
 title: "Chery New Energy QQ ICE Cream"
-description: "The Chery New Energy QQ ICE Cream is a hatchback battery-electric from Chery New Energy, offering 155 km of CLTC range, a 13 kWh battery, 20 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery New Energy QQ ICE Cream is a hatchback battery-electric from Chery New Energy, offering 155 km of CLTC range, a 13 kWh battery, 20 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-new-energy-qq-ice-cream"
 brand: "chery-new-energy"
 type: "Hatchback"

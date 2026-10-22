@@ -1,6 +1,6 @@
 ---
 title: "Jetour X90 C DM"
-description: "Jetour's Jetour X90 C DM is an SUV plug-in hybrid electric with 108 km of CLTC range, 19 kWh of battery, 199 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Jetour's Jetour X90 C DM is an SUV plug-in hybrid electric with 108 km of CLTC range, 19 kWh of battery, 199 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jetour-x90-c-dm"
 brand: "jetour"
 type: "SUV"

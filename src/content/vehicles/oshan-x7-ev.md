@@ -1,6 +1,6 @@
 ---
 title: "Oshan X7 EV"
-description: "The Oshan X7 EV is an SUV battery-electric from Oshan with 59 kWh of battery, 150 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Oshan X7 EV is an SUV battery-electric from Oshan with 59 kWh of battery, 150 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "oshan-x7-ev"
 brand: "oshan"
 type: "SUV"

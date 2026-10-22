@@ -1,6 +1,6 @@
 ---
 title: "Aion LX"
-description: "The Aion LX, an SUV battery-electric from AION, offering 650 km of CLTC range, a 93 kWh battery, 180 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aion LX, an SUV battery-electric from AION, offering 650 km of CLTC range, a 93 kWh battery, 180 kW of motor power, and NMC (ternary) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aion-lx"
 brand: "aion"
 type: "SUV"

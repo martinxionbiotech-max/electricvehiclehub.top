@@ -1,6 +1,6 @@
 ---
 title: "XPENG P7 Plus"
-description: "The XPENG P7 Plus is a sedan fully electric from XPeng, offering 725 km of CLTC range, a 76 kWh battery, 230 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The XPENG P7 Plus is a sedan fully electric from XPeng, offering 725 km of CLTC range, a 76 kWh battery, 230 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "xpeng-p7-plus"
 brand: "xpeng"
 type: "Sedan"

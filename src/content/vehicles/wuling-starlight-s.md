@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight S"
-description: "The Wuling Starlight S is an SUV battery-electric from Wuling, offering 510 km of CLTC range, 60 kWh of battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wuling Starlight S is an SUV battery-electric from Wuling, offering 510 km of CLTC range, 60 kWh of battery, 150 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-starlight-s"
 brand: "wuling"
 type: "SUV"

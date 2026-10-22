@@ -1,6 +1,6 @@
 ---
 title: "Haval Xiaolong"
-description: "The Haval Xiaolong is Haval's SUV plug-in hybrid electric, offering a CLTC-rated range of 110 km, a 19 kWh battery, 115 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Haval Xiaolong is Haval's SUV plug-in hybrid electric, offering a CLTC-rated range of 110 km, a 19 kWh battery, 115 kW peak output, and NMC chemistry. Full product specification in the Chinese EV database."
 slug: "haval-xiaolong"
 brand: "haval"
 type: "SUV"

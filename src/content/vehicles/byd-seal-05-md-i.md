@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 05 MD I"
-description: "The BYD Seal 05 MD I, a sedan plug-in hybrid electric from BYD, offering 120 km of CLTC range, 15 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Seal 05 MD I, a sedan plug-in hybrid electric from BYD, offering 120 km of CLTC range, 15 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-seal-05-md-i"
 brand: "byd"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Exeed LX C DM"
-description: "The Exeed LX C DM is Exeed's SUV plug-in hybrid, offering 80 km of CLTC range, a 19 kWh battery, 125 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Exeed LX C DM is Exeed's SUV plug-in hybrid, offering 80 km of CLTC range, a 19 kWh battery, 125 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "exeed-lx-c-dm"
 brand: "exeed"
 type: "SUV"

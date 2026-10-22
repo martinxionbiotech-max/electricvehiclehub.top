@@ -1,6 +1,6 @@
 ---
 title: "Chery New Energy EQ1"
-description: "The Chery New Energy EQ1 is Chery New Energy's hatchback battery-electric with a CLTC-rated range of 251 km, 25 kWh of battery, 36 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery New Energy EQ1 is Chery New Energy's hatchback battery-electric with a CLTC-rated range of 251 km, 25 kWh of battery, 36 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-new-energy-eq1"
 brand: "chery-new-energy"
 type: "Hatchback"

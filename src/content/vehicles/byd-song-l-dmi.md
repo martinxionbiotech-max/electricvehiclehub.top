@@ -1,6 +1,6 @@
 ---
 title: "BYD Song L DM-i"
-description: "The BYD Song L DM-i, an SUV plug-in hybrid from BYD, offering a CLTC-rated range of 160 km, 18 kWh of battery, 160 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Song L DM-i, an SUV plug-in hybrid from BYD, offering a CLTC-rated range of 160 km, 18 kWh of battery, 160 kW peak output, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-song-l-dmi"
 brand: "byd"
 type: "SUV"

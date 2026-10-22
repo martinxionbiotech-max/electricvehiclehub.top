@@ -1,6 +1,6 @@
 ---
 title: "Aion I60"
-description: "The Aion I60 is AION's SUV battery-electric, offering 530 km of CLTC range, 62 kWh of battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Aion I60 is AION's SUV battery-electric, offering 530 km of CLTC range, 62 kWh of battery, 150 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "aion-i60"
 brand: "aion"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Aito M8"
-description: "The Aito M8 is an SUV fully electric from AITO with 705 km of CLTC range, 100 kWh of battery, 392 kW of motor power, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aito M8 is an SUV fully electric from AITO with 705 km of CLTC range, 100 kWh of battery, 392 kW of motor power, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aito-m8"
 brand: "aito"
 type: "SUV"

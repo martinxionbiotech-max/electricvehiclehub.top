@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E QM5"
-description: "The Hongqi E QM5 is Hongqi's SUV fully electric with a CLTC-rated range of 500 km, 56 kWh of battery, 110 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Hongqi E QM5 is Hongqi's SUV fully electric with a CLTC-rated range of 500 km, 56 kWh of battery, 110 kW peak output, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "hongqi-e-qm5"
 brand: "hongqi"
 type: "SUV"

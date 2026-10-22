@@ -1,6 +1,6 @@
 ---
 title: "Denza N8L"
-description: "The Denza N8L, an SUV plug-in hybrid from Denza, offering a CLTC-rated range of 230 km, a 46 kWh battery, 560 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Denza N8L, an SUV plug-in hybrid from Denza, offering a CLTC-rated range of 230 km, a 46 kWh battery, 560 kW of motor power, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "denza-n8l"
 brand: "denza"
 type: "SUV"

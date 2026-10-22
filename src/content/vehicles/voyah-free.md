@@ -1,6 +1,6 @@
 ---
 title: "Voyah Free"
-description: "The Voyah Free, an SUV range-extended electric from Voyah, offering a CLTC-rated range of 318 km, 45 kWh of battery, 215 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Voyah Free, an SUV range-extended electric from Voyah, offering a CLTC-rated range of 318 km, 45 kWh of battery, 215 kW peak output, and NMC chemistry. Full product specification in the Chinese EV database."
 slug: "voyah-free"
 brand: "voyah"
 type: "SUV"

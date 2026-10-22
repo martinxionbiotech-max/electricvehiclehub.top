@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ET"
-description: "Exeed's Exeed Exlantix ET is an SUV battery-electric with 760 km of CLTC range, a 100 kWh battery, 195 kW peak output, and a LFP (Shenxing 2.0) / NMC (Qilin) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Exeed's Exeed Exlantix ET is an SUV battery-electric with 760 km of CLTC range, a 100 kWh battery, 195 kW peak output, and a LFP (Shenxing 2.0) / NMC (Qilin) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "exeed-exlantix-et"
 brand: "exeed"
 type: "SUV"

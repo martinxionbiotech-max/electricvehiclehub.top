@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 9"
-description: "The Chery Tiggo 9 is an SUV plug-in hybrid electric from Chery, offering 210 km of CLTC range, 34 kWh of battery, 165 kW peak output, and a LFP / NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery Tiggo 9 is an SUV plug-in hybrid electric from Chery, offering 210 km of CLTC range, 34 kWh of battery, 165 kW peak output, and a LFP / NMC pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-tiggo-9"
 brand: "chery"
 type: "SUV"

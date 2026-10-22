@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HQ9"
-description: "Hongqi's Hongqi HQ9 is an SUV plug-in hybrid electric, offering 220 km of CLTC range, 20 kWh of battery, 210 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Hongqi's Hongqi HQ9 is an SUV plug-in hybrid electric, offering 220 km of CLTC range, 20 kWh of battery, 210 kW of motor power, and NMC (ternary) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "hongqi-hq9"
 brand: "hongqi"
 type: "SUV"

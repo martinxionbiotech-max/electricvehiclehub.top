@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao TI 7"
-description: "The Fangchengbao TI 7 is Fangchengbao's SUV plug-in hybrid with a CLTC-rated range of 130 km, a 26 kWh battery, 200 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Fangchengbao TI 7 is Fangchengbao's SUV plug-in hybrid with a CLTC-rated range of 130 km, a 26 kWh battery, 200 kW peak output, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "fangchengbao-ti-7"
 brand: "fangchengbao"
 type: "SUV"

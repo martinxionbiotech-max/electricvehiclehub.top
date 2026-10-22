@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai S7"
-description: "Forthing's Forthing Xinghai S7 is an SUV battery-electric with 565 km of CLTC range, 59 kWh of battery, 160 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Forthing's Forthing Xinghai S7 is an SUV battery-electric with 565 km of CLTC range, 59 kWh of battery, 160 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "forthing-xinghai-s7"
 brand: "forthing"
 type: "SUV"

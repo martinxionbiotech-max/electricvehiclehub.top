@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor B01"
-description: "The Leapmotor B01, an SUV battery-electric from Leapmotor with a CLTC-rated range of 430 km, 43 kWh of battery, 100 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Leapmotor B01, an SUV battery-electric from Leapmotor with a CLTC-rated range of 430 km, 43 kWh of battery, 100 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-b01"
 brand: "leapmotor"
 type: "SUV"

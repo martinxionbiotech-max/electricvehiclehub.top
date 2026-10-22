@@ -1,6 +1,6 @@
 ---
 title: "JAC QX"
-description: "JAC's JAC QX is an SUV plug-in hybrid electric, offering a CLTC-rated range of 120 km, a 21 kWh battery, 150 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "JAC's JAC QX is an SUV plug-in hybrid electric, offering a CLTC-rated range of 120 km, a 21 kWh battery, 150 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-qx"
 brand: "jac"
 type: "SUV"

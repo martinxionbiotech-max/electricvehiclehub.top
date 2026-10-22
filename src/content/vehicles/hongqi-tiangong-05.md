@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Tiangong 05"
-description: "The Hongqi Tiangong 05, a sedan battery-electric from Hongqi, offering a CLTC-rated range of 550 km, 62 kWh of battery, 210 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hongqi Tiangong 05, a sedan battery-electric from Hongqi, offering a CLTC-rated range of 550 km, 62 kWh of battery, 210 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "hongqi-tiangong-05"
 brand: "hongqi"
 type: "Sedan"

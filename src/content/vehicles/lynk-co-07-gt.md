@@ -1,6 +1,6 @@
 ---
 title: "Lynk & Co 07 GT"
-description: "The Lynk & Co 07 GT is Lynk & Co's sedan plug-in hybrid electric, offering 200 km of CLTC range, 28 kWh of battery, 390 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Lynk & Co 07 GT is Lynk & Co's sedan plug-in hybrid electric, offering 200 km of CLTC range, 28 kWh of battery, 390 kW peak output, and a NMC (CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "lynk-co-07-gt"
 brand: "lynk-co"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L7"
-description: "Li Auto's Li Auto L7 is an SUV extended-range electric with 286 km of CLTC range, 42 kWh of battery, 330 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Li Auto's Li Auto L7 is an SUV extended-range electric with 286 km of CLTC range, 42 kWh of battery, 330 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "li-auto-l7"
 brand: "li-auto"
 type: "SUV"

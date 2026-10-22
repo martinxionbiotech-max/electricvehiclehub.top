@@ -1,6 +1,6 @@
 ---
 title: "Oshan Keshan EV"
-description: "Oshan's Oshan Keshan EV is an MPV fully electric with 57 kWh of battery, 90 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Oshan's Oshan Keshan EV is an MPV fully electric with 57 kWh of battery, 90 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "oshan-keshan-ev"
 brand: "oshan"
 type: "MPV"

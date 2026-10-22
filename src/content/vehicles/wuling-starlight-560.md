@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 560"
-description: "The Wuling Starlight 560 is an SUV plug-in hybrid from Wuling with a CLTC-rated range of 125 km, a 20 kWh battery, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Wuling Starlight 560 is an SUV plug-in hybrid from Wuling with a CLTC-rated range of 125 km, a 20 kWh battery, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "wuling-starlight-560"
 brand: "wuling"
 type: "SUV"

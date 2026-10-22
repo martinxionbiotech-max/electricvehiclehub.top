@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo E07"
-description: "ChangAn NEVO's Changan Nevo E07 is an SUV battery-electric with 651 km of CLTC range, 89 kWh of battery, 231 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "ChangAn NEVO's Changan Nevo E07 is an SUV battery-electric with 651 km of CLTC range, 89 kWh of battery, 231 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-e07"
 brand: "changan-nevo"
 type: "SUV"

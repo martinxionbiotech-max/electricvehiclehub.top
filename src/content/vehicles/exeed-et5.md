@@ -1,6 +1,6 @@
 ---
 title: "Exeed ET5"
-description: "The Exeed ET5 is Exeed's SUV range-extended electric, offering 210 km of CLTC range, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Exeed ET5 is Exeed's SUV range-extended electric, offering 210 km of CLTC range, 195 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "exeed-et5"
 brand: "exeed"
 type: "SUV"

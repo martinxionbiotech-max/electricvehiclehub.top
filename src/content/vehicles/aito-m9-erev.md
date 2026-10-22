@@ -1,6 +1,6 @@
 ---
 title: "Aito M9 EREV"
-description: "The Aito M9 EREV is AITO's SUV range-extended electric with a CLTC-rated range of 225 km, 42 kWh of battery, 365 kW peak output, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aito M9 EREV is AITO's SUV range-extended electric with a CLTC-rated range of 225 km, 42 kWh of battery, 365 kW peak output, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aito-m9-erev"
 brand: "aito"
 type: "SUV"

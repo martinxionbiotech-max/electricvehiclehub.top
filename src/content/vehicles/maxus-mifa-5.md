@@ -1,6 +1,6 @@
 ---
 title: "Maxus MIFA 5"
-description: "Maxus's Maxus MIFA 5 is an MPV battery-electric, offering 510 km of CLTC range, a 70 kWh battery, 118 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Maxus's Maxus MIFA 5 is an MPV battery-electric, offering 510 km of CLTC range, a 70 kWh battery, 118 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "maxus-mifa-5"
 brand: "maxus"
 type: "MPV"

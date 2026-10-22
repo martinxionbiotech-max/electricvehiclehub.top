@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L8"
-description: "The Li Auto L8 is Li Auto's SUV range-extended electric, offering a CLTC-rated range of 430 km, 42 kWh of battery, 330 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Li Auto L8 is Li Auto's SUV range-extended electric, offering a CLTC-rated range of 430 km, 42 kWh of battery, 330 kW of motor power, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "li-auto-l8"
 brand: "li-auto"
 type: "SUV"

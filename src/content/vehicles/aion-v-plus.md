@@ -1,6 +1,6 @@
 ---
 title: "Aion V Plus"
-description: "The Aion V Plus, an SUV fully electric from AION, offering 135 kW peak output and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Aion V Plus, an SUV fully electric from AION, offering 135 kW peak output and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aion-v-plus"
 brand: "aion"
 type: "SUV"

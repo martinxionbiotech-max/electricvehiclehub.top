@@ -1,6 +1,6 @@
 ---
 title: "Wuling Nebula"
-description: "Wuling's Wuling Nebula is an SUV non-plug-in hybrid, offering 130 kW of motor power and a NMC (Li-ion) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Wuling's Wuling Nebula is an SUV non-plug-in hybrid, offering 130 kW of motor power and a NMC (Li-ion) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-nebula"
 brand: "wuling"
 type: "SUV"

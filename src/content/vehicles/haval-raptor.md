@@ -1,6 +1,6 @@
 ---
 title: "Haval Raptor"
-description: "The Haval Raptor is Haval's SUV plug-in hybrid electric, offering 105 km of CLTC range, 18 kWh of battery, 220 kW peak output, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Haval Raptor is Haval's SUV plug-in hybrid electric, offering 105 km of CLTC range, 18 kWh of battery, 220 kW peak output, and NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "haval-raptor"
 brand: "haval"
 type: "SUV"

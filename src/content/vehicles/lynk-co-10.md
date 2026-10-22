@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 10"
-description: "The Lynk Co 10 is Lynk & Co's SUV plug-in hybrid with 240 km of CLTC range, 38 kWh of battery, 270 kW of motor power, and LFP (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Lynk Co 10 is Lynk & Co's SUV plug-in hybrid with 240 km of CLTC range, 38 kWh of battery, 270 kW of motor power, and LFP (CATL) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "lynk-co-10"
 brand: "lynk-co"
 type: "SUV"

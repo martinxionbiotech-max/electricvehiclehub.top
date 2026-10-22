@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor D19"
-description: "The Leapmotor D19 is Leapmotor's SUV range-extended electric with 400 km of CLTC range, a 80 kWh battery, 300 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Leapmotor D19 is Leapmotor's SUV range-extended electric with 400 km of CLTC range, a 80 kWh battery, 300 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-d19"
 brand: "leapmotor"
 type: "SUV"

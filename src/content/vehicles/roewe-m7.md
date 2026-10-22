@@ -1,6 +1,6 @@
 ---
 title: "Roewe M7"
-description: "The Roewe M7 is Roewe's sedan plug-in hybrid, offering a CLTC-rated range of 160 km, 19 kWh of battery, 137 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Roewe M7 is Roewe's sedan plug-in hybrid, offering a CLTC-rated range of 160 km, 19 kWh of battery, 137 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "roewe-m7"
 brand: "roewe"
 type: "Sedan"

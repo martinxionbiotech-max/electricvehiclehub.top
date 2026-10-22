@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06 EREV"
-description: "The Avatr 06 EREV, a sedan extended-range electric from Avatr with 230 km of CLTC range, a 31 kWh battery, 231 kW of motor power, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Avatr 06 EREV, a sedan extended-range electric from Avatr with 230 km of CLTC range, a 31 kWh battery, 231 kW of motor power, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "avatr-06-erev"
 brand: "avatr"
 type: "Sedan"

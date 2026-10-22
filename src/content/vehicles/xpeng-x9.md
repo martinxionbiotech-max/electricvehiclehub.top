@@ -1,6 +1,6 @@
 ---
 title: "XPENG X9"
-description: "The XPENG X9 is an SUV fully electric from XPeng with a CLTC-rated range of 702 km, 101 kWh of battery, 210 kW of motor power, and a LFP / NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The XPENG X9 is an SUV fully electric from XPeng with a CLTC-rated range of 702 km, 101 kWh of battery, 210 kW of motor power, and a LFP / NMC pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "xpeng-x9"
 brand: "xpeng"
 type: "SUV"

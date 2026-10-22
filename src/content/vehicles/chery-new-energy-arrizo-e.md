@@ -1,6 +1,6 @@
 ---
 title: "Chery Arrizo e"
-description: "Chery New Energy's Chery Arrizo e is a sedan battery-electric with a CLTC-rated range of 405 km, a 48 kWh battery, 100 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Chery New Energy's Chery Arrizo e is a sedan battery-electric with a CLTC-rated range of 405 km, a 48 kWh battery, 100 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-new-energy-arrizo-e"
 brand: "chery-new-energy"
 type: "Sedan"

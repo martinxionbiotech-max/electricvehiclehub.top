@@ -1,6 +1,6 @@
 ---
 title: "Changan Lamore"
-description: "The Changan Lamore is a sedan petrol from ChangAn. Per-market landed-cost modeling across 30 export destinations."
+description: "The Changan Lamore is a sedan petrol from ChangAn. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-lamore"
 brand: "changan"
 type: "Sedan"

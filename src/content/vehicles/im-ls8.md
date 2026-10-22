@@ -1,6 +1,6 @@
 ---
 title: "IM LS8"
-description: "The IM LS8 is IM's SUV extended-range electric with NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The IM LS8 is IM's SUV extended-range electric with NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "im-ls8"
 brand: "im"
 type: "SUV"

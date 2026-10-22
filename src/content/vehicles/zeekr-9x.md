@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 9X"
-description: "Zeekr's Zeekr 9X is an SUV plug-in hybrid electric with a CLTC-rated range of 380 km, a 55 kWh battery, 660 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Zeekr's Zeekr 9X is an SUV plug-in hybrid electric with a CLTC-rated range of 380 km, a 55 kWh battery, 660 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "zeekr-9x"
 brand: "zeekr"
 type: "SUV"

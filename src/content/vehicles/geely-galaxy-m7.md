@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy M7"
-description: "The Geely Galaxy M7 is Geely Galaxy's SUV plug-in hybrid, offering 225 km of CLTC range, a 29 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Geely Galaxy M7 is Geely Galaxy's SUV plug-in hybrid, offering 225 km of CLTC range, a 29 kWh battery, 160 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-m7"
 brand: "geely-galaxy"
 type: "SUV"

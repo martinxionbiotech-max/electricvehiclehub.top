@@ -1,6 +1,6 @@
 ---
 title: "JAC X8 E-Jia"
-description: "The JAC X8 E-Jia, an SUV plug-in hybrid electric from JAC, offering a CLTC-rated range of 110 km, a 17 kWh battery, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The JAC X8 E-Jia, an SUV plug-in hybrid electric from JAC, offering a CLTC-rated range of 110 km, a 17 kWh battery, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-x8-ejia"
 brand: "jac"
 type: "SUV"

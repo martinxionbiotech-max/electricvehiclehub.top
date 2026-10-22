@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A06"
-description: "The Changan Nevo A06 is a sedan battery-electric from ChangAn NEVO, offering a CLTC-rated range of 630 km, 63 kWh of battery, 120 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo A06 is a sedan battery-electric from ChangAn NEVO, offering a CLTC-rated range of 630 km, 63 kWh of battery, 120 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-a06"
 brand: "changan-nevo"
 type: "Sedan"

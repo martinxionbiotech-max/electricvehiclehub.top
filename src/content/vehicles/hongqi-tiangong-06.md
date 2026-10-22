@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Tiangong 06"
-description: "The Hongqi Tiangong 06 is Hongqi's SUV battery-electric, offering a CLTC-rated range of 520 km, 210 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Hongqi Tiangong 06 is Hongqi's SUV battery-electric, offering a CLTC-rated range of 520 km, 210 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "hongqi-tiangong-06"
 brand: "hongqi"
 type: "SUV"

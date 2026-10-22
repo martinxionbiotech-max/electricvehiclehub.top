@@ -1,6 +1,6 @@
 ---
 title: "BYD Atto 2"
-description: "BYD's BYD Atto 2 is an SUV battery-electric with a CLTC-rated range of 301 km, a 32 kWh battery, 70 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "BYD's BYD Atto 2 is an SUV battery-electric with a CLTC-rated range of 301 km, a 32 kWh battery, 70 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-atto-2"
 brand: "byd"
 type: "SUV"

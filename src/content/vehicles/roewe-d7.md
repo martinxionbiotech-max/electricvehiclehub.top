@@ -1,6 +1,6 @@
 ---
 title: "Roewe D7"
-description: "The Roewe D7 is Roewe's sedan battery-electric, offering a CLTC-rated range of 610 km, a 68 kWh battery, 137 kW of motor power, and a LFP (NMC option) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Roewe D7 is Roewe's sedan battery-electric, offering a CLTC-rated range of 610 km, a 68 kWh battery, 137 kW of motor power, and a LFP (NMC option) pack. Full product specification in the Chinese EV database."
 slug: "roewe-d7"
 brand: "roewe"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI V IDD"
-description: "The Changan UNI V IDD, an SUV plug-in hybrid electric from ChangAn with 136 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Changan UNI V IDD, an SUV plug-in hybrid electric from ChangAn with 136 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and a NMC (ternary) pack. Full product specification in the Chinese EV database."
 slug: "changan-uni-v-idd"
 brand: "changan"
 type: "SUV"

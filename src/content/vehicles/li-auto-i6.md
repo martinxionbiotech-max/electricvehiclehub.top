@@ -1,6 +1,6 @@
 ---
 title: "Li Auto I6"
-description: "The Li Auto I6 is an SUV fully electric from Li Auto, offering 720 km of CLTC range, a 87 kWh battery, 250 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Li Auto I6 is an SUV fully electric from Li Auto, offering 720 km of CLTC range, a 87 kWh battery, 250 kW peak output, and a NMC (CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "li-auto-i6"
 brand: "li-auto"
 type: "SUV"

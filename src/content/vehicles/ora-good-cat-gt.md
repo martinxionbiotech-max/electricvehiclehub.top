@@ -1,6 +1,6 @@
 ---
 title: "Ora Good Cat GT"
-description: "The Ora Good Cat GT, a hatchback battery-electric from Ora, offering 430 km of CLTC range, 45 kWh of battery, 126 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Ora Good Cat GT, a hatchback battery-electric from Ora, offering 430 km of CLTC range, 45 kWh of battery, 126 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "ora-good-cat-gt"
 brand: "ora"
 type: "Hatchback"

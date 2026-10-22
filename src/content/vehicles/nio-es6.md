@@ -1,6 +1,6 @@
 ---
 title: "NIO ES6"
-description: "NIO's NIO ES6 is an SUV battery-electric with 650 km of CLTC range, a 100 kWh battery, 360 kW of motor power, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "NIO's NIO ES6 is an SUV battery-electric with 650 km of CLTC range, a 100 kWh battery, 360 kW of motor power, and a NMC pack. Full product specification in the Chinese EV database."
 slug: "nio-es6"
 brand: "nio"
 type: "SUV"

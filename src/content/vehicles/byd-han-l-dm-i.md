@@ -1,6 +1,6 @@
 ---
 title: "BYD Han L DM-i"
-description: "The BYD Han L DM-i is BYD's sedan plug-in hybrid electric with 200 km of CLTC range, a 29 kWh battery, 200 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Han L DM-i is BYD's sedan plug-in hybrid electric with 200 km of CLTC range, a 29 kWh battery, 200 kW peak output, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-han-l-dm-i"
 brand: "byd"
 type: "Sedan"

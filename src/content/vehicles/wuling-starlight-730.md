@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 730"
-description: "Wuling's Wuling Starlight 730 is an MPV battery-electric with 500 km of CLTC range, 60 kWh of battery, 145 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Wuling's Wuling Starlight 730 is an MPV battery-electric with 500 km of CLTC range, 60 kWh of battery, 145 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-starlight-730"
 brand: "wuling"
 type: "MPV"

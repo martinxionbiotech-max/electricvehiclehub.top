@@ -1,6 +1,6 @@
 ---
 title: "Xpeng MONA L03"
-description: "XPeng's Xpeng MONA L03 is an SUV battery-electric, offering 550 km of CLTC range, 183 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "XPeng's Xpeng MONA L03 is an SUV battery-electric, offering 550 km of CLTC range, 183 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "xpeng-mona-l03"
 brand: "xpeng"
 type: "SUV"

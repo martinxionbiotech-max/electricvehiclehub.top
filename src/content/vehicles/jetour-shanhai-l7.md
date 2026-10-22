@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L7"
-description: "Jetour's Jetour Shanhai L7 is an SUV plug-in hybrid with a CLTC-rated range of 110 km, a 18 kWh battery, 199 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Jetour's Jetour Shanhai L7 is an SUV plug-in hybrid with a CLTC-rated range of 110 km, a 18 kWh battery, 199 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jetour-shanhai-l7"
 brand: "jetour"
 type: "SUV"

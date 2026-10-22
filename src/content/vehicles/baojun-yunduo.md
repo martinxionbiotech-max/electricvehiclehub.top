@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yunduo"
-description: "The Baojun Yunduo is Baojun's SUV battery-electric with a CLTC-rated range of 360 km, a 37 kWh battery, 100 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Baojun Yunduo is Baojun's SUV battery-electric with a CLTC-rated range of 360 km, a 37 kWh battery, 100 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "baojun-yunduo"
 brand: "baojun"
 type: "SUV"

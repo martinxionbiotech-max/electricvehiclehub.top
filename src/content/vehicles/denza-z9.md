@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9"
-description: "The Denza Z9 is a sedan fully electric from Denza, offering a CLTC-rated range of 630 km, 100 kWh of battery, 640 kW peak output, and NMC (LFP option) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Denza Z9 is a sedan fully electric from Denza, offering a CLTC-rated range of 630 km, 100 kWh of battery, 640 kW peak output, and NMC (LFP option) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "denza-z9"
 brand: "denza"
 type: "Sedan"

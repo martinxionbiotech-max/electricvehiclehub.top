@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A06 EREV"
-description: "The Changan Nevo A06 EREV, a sedan extended-range electric from ChangAn NEVO with a CLTC-rated range of 240 km, a 28 kWh battery, 120 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo A06 EREV, a sedan extended-range electric from ChangAn NEVO with a CLTC-rated range of 240 km, a 28 kWh battery, 120 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-a06-erev"
 brand: "changan-nevo"
 type: "Sedan"

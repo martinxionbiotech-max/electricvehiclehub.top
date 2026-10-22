@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 01"
-description: "The Lynk Co 01, an SUV plug-in hybrid from Lynk & Co with a CLTC-rated range of 70 km, 17 kWh of battery, 100 kW peak output, and a LFP (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Lynk Co 01, an SUV plug-in hybrid from Lynk & Co with a CLTC-rated range of 70 km, 17 kWh of battery, 100 kW peak output, and a LFP (CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "lynk-co-01"
 brand: "lynk-co"
 type: "SUV"

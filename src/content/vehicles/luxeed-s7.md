@@ -1,6 +1,6 @@
 ---
 title: "Luxeed S7"
-description: "The Luxeed S7, an SUV battery-electric from Luxeed, offering 705 km of CLTC range, a 82 kWh battery, 215 kW peak output, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Luxeed S7, an SUV battery-electric from Luxeed, offering 705 km of CLTC range, a 82 kWh battery, 215 kW peak output, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "luxeed-s7"
 brand: "luxeed"
 type: "SUV"

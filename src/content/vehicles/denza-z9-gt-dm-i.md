@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 GT DM-i"
-description: "The Denza Z9 GT DM-i is Denza's sedan plug-in hybrid electric, offering a CLTC-rated range of 201 km, a 38 kWh battery, 640 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Denza Z9 GT DM-i is Denza's sedan plug-in hybrid electric, offering a CLTC-rated range of 201 km, a 38 kWh battery, 640 kW peak output, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "denza-z9-gt-dm-i"
 brand: "denza"
 type: "Sedan"

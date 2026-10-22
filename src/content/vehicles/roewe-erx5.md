@@ -1,6 +1,6 @@
 ---
 title: "Roewe Erx5"
-description: "The Roewe Erx5, an SUV plug-in hybrid electric from Roewe with a CLTC-rated range of 61 km, a 12 kWh battery, 180 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Roewe Erx5, an SUV plug-in hybrid electric from Roewe with a CLTC-rated range of 61 km, a 12 kWh battery, 180 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "roewe-erx5"
 brand: "roewe"
 type: "SUV"

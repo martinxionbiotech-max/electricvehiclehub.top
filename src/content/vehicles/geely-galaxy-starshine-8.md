@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 8"
-description: "The Geely Galaxy Starshine 8 is an SUV plug-in hybrid from Geely Galaxy with a CLTC-rated range of 130 km, 18 kWh of battery, 175 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Geely Galaxy Starshine 8 is an SUV plug-in hybrid from Geely Galaxy with a CLTC-rated range of 130 km, 18 kWh of battery, 175 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-starshine-8"
 brand: "geely-galaxy"
 type: "SUV"

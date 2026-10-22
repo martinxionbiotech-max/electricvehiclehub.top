@@ -1,6 +1,6 @@
 ---
 title: "Exeed TXL"
-description: "Exeed's Exeed TXL is an SUV range-extended electric with a CLTC-rated range of 165 km, 32 kWh of battery, 195 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Exeed's Exeed TXL is an SUV range-extended electric with a CLTC-rated range of 165 km, 32 kWh of battery, 195 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "exeed-txl"
 brand: "exeed"
 type: "SUV"

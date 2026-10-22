@@ -1,6 +1,6 @@
 ---
 title: "Avatr 12 EREV"
-description: "Avatr's Avatr 12 EREV is a sedan extended-range electric, offering a CLTC-rated range of 356 km, a 52 kWh battery, 231 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Avatr's Avatr 12 EREV is a sedan extended-range electric, offering a CLTC-rated range of 356 km, a 52 kWh battery, 231 kW peak output, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "avatr-12-erev"
 brand: "avatr"
 type: "Sedan"

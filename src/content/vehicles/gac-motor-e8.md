@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor E8"
-description: "GAC Motor's GAC Motor E8 is an SUV plug-in hybrid electric with 136 km of CLTC range, a 25 kWh battery, 134 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "GAC Motor's GAC Motor E8 is an SUV plug-in hybrid electric with 136 km of CLTC range, a 25 kWh battery, 134 kW of motor power, and a NMC pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "gac-motor-e8"
 brand: "gac-motor"
 type: "SUV"

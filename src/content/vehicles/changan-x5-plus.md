@@ -1,6 +1,6 @@
 ---
 title: "Changan X5 Plus"
-description: "ChangAn's Changan X5 Plus is an SUV internal-combustion. Per-market landed-cost modeling across 30 export destinations."
+description: "ChangAn's Changan X5 Plus is an SUV internal-combustion. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-x5-plus"
 brand: "changan"
 type: "SUV"

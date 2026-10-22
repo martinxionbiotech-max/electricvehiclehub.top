@@ -1,6 +1,6 @@
 ---
 title: "Chery QQ3 EV"
-description: "The Chery QQ3 EV is Chery New Energy's hatchback fully electric, offering 310 km of CLTC range, 58 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery QQ3 EV is Chery New Energy's hatchback fully electric, offering 310 km of CLTC range, 58 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "chery-new-energy-qq3"
 brand: "chery-new-energy"
 type: "Hatchback"

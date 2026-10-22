@@ -1,6 +1,6 @@
 ---
 title: "Maxus MIFA 9 PHEV"
-description: "The Maxus MIFA 9 PHEV is an MPV plug-in hybrid from Maxus, offering a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Maxus MIFA 9 PHEV is an MPV plug-in hybrid from Maxus, offering a NMC (ternary) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "maxus-mifa-9-phev"
 brand: "maxus"
 type: "MPV"

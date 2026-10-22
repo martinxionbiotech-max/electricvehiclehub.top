@@ -1,6 +1,6 @@
 ---
 title: "Maxus Mifa 7"
-description: "The Maxus Mifa 7, an MPV fully electric from Maxus, offering a CLTC-rated range of 605 km, a 90 kWh battery, 176 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Maxus Mifa 7, an MPV fully electric from Maxus, offering a CLTC-rated range of 605 km, a 90 kWh battery, 176 kW of motor power, and a NMC pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "maxus-mifa-7"
 brand: "maxus"
 type: "MPV"

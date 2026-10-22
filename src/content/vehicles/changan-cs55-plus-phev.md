@@ -1,6 +1,6 @@
 ---
 title: "Changan CS55 PLUS PHEV"
-description: "The Changan CS55 PLUS PHEV, an SUV plug-in hybrid from ChangAn with a CLTC-rated range of 125 km, a 18 kWh battery, 158 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Changan CS55 PLUS PHEV, an SUV plug-in hybrid from ChangAn with a CLTC-rated range of 125 km, a 18 kWh battery, 158 kW peak output, and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-cs55-plus-phev"
 brand: "changan"
 type: "SUV"

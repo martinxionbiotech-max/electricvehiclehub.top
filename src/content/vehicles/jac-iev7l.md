@@ -1,6 +1,6 @@
 ---
 title: "JAC iEV7L"
-description: "The JAC iEV7L is a sedan fully electric from JAC with a CLTC-rated range of 320 km, a 33 kWh battery, 45 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The JAC iEV7L is a sedan fully electric from JAC with a CLTC-rated range of 320 km, a 33 kWh battery, 45 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-iev7l"
 brand: "jac"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 06 DM-i"
-description: "BYD's BYD Sealion 06 DM-i is an SUV plug-in hybrid electric with 150 km of CLTC range, a 18 kWh battery, 160 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "BYD's BYD Sealion 06 DM-i is an SUV plug-in hybrid electric with 150 km of CLTC range, a 18 kWh battery, 160 kW peak output, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-sealion-06-dmi"
 brand: "byd"
 type: "SUV"

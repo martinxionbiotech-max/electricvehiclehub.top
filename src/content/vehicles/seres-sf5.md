@@ -1,6 +1,6 @@
 ---
 title: "Seres SF5"
-description: "The Seres SF5 is Seres's SUV extended-range electric with a 40 kWh battery and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Seres SF5 is Seres's SUV extended-range electric with a 40 kWh battery and NMC (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "seres-sf5"
 brand: "seres"
 type: "SUV"

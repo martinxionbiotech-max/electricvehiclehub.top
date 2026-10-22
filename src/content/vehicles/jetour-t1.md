@@ -1,6 +1,6 @@
 ---
 title: "Jetour T1"
-description: "The Jetour T1 is an SUV plug-in hybrid from Jetour with 150 km of CLTC range, a 18 kWh battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Jetour T1 is an SUV plug-in hybrid from Jetour with 150 km of CLTC range, a 18 kWh battery, 150 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "jetour-t1"
 brand: "jetour"
 type: "SUV"

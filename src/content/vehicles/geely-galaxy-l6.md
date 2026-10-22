@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy L6"
-description: "The Geely Galaxy L6 is Geely Galaxy's SUV plug-in hybrid electric, offering a CLTC-rated range of 115 km, a 19 kWh battery, 160 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Galaxy L6 is Geely Galaxy's SUV plug-in hybrid electric, offering a CLTC-rated range of 115 km, a 19 kWh battery, 160 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "geely-galaxy-l6"
 brand: "geely-galaxy"
 type: "SUV"

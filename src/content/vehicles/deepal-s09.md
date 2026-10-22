@@ -1,6 +1,6 @@
 ---
 title: "Deepal S09"
-description: "The Deepal S09 is an SUV extended-range electric from Deepal with 210 km of CLTC range, a 40 kWh battery, 231 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Deepal S09 is an SUV extended-range electric from Deepal with 210 km of CLTC range, a 40 kWh battery, 231 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "deepal-s09"
 brand: "deepal"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Xingyuan"
-description: "The Geely Galaxy Xingyuan is Geely Galaxy's SUV fully electric with a CLTC-rated range of 310 km, 30 kWh of battery, 58 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Geely Galaxy Xingyuan is Geely Galaxy's SUV fully electric with a CLTC-rated range of 310 km, 30 kWh of battery, 58 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-xingyuan"
 brand: "geely-galaxy"
 type: "SUV"

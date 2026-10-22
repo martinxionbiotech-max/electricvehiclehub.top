@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Empow"
-description: "The GAC Motor Empow is an SUV non-plug-in hybrid from GAC Motor, offering 2 kWh of battery, 134 kW peak output, and a NMC (Li-ion) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The GAC Motor Empow is an SUV non-plug-in hybrid from GAC Motor, offering 2 kWh of battery, 134 kW peak output, and a NMC (Li-ion) pack. Full product specification in the Chinese EV database."
 slug: "gac-motor-empow"
 brand: "gac-motor"
 type: "SUV"

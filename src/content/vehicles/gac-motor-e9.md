@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor E9"
-description: "GAC Motor's GAC Motor E9 is an SUV plug-in hybrid with a CLTC-rated range of 106 km, 25 kWh of battery, and 134 kW of motor power. Landed-cost analysis across 30 key export markets for importers."
+description: "GAC Motor's GAC Motor E9 is an SUV plug-in hybrid with a CLTC-rated range of 106 km, 25 kWh of battery, and 134 kW of motor power. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "gac-motor-e9"
 brand: "gac-motor"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Deepal Sl03"
-description: "The Deepal Sl03 is Deepal's sedan battery-electric, offering 705 km of CLTC range, a 79 kWh battery, 175 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Deepal Sl03 is Deepal's sedan battery-electric, offering 705 km of CLTC range, a 79 kWh battery, 175 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "deepal-sl03"
 brand: "deepal"
 type: "Sedan"

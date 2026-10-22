@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 02"
-description: "The Lynk Co 02 is an SUV battery-electric from Lynk & Co, offering 530 km of CLTC range, 61 kWh of battery, 115 kW peak output, and LFP (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Lynk Co 02 is an SUV battery-electric from Lynk & Co, offering 530 km of CLTC range, 61 kWh of battery, 115 kW peak output, and LFP (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "lynk-co-02"
 brand: "lynk-co"
 type: "SUV"

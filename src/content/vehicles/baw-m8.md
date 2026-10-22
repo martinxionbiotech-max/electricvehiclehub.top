@@ -1,6 +1,6 @@
 ---
 title: "Baw M8"
-description: "The Baw M8 is an MPV battery-electric from BAW, offering 505 km of CLTC range, 81 kWh of battery, 170 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Baw M8 is an MPV battery-electric from BAW, offering 505 km of CLTC range, 81 kWh of battery, 170 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "baw-m8"
 brand: "baw"
 type: "MPV"

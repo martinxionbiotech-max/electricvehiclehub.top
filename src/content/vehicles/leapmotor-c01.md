@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C01"
-description: "The Leapmotor C01, a sedan battery-electric from Leapmotor, offering a CLTC-rated range of 717 km, a 90 kWh battery, 200 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Leapmotor C01, a sedan battery-electric from Leapmotor, offering a CLTC-rated range of 717 km, a 90 kWh battery, 200 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-c01"
 brand: "leapmotor"
 type: "Sedan"

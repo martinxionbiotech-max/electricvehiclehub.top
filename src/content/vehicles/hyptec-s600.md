@@ -1,6 +1,6 @@
 ---
 title: "Hyptec S600"
-description: "The Hyptec S600 is Hyptec's SUV fully electric, offering a CLTC-rated range of 660 km, 250 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Hyptec S600 is Hyptec's SUV fully electric, offering a CLTC-rated range of 660 km, 250 kW of motor power, and NMC (ternary) chemistry. Full product specification in the Chinese EV database."
 slug: "hyptec-s600"
 brand: "hyptec"
 type: "SUV"

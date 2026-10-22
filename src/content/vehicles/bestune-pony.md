@@ -1,6 +1,6 @@
 ---
 title: "Bestune Pony"
-description: "The Bestune Pony is Bestune's hatchback battery-electric with a CLTC-rated range of 122 km, a 9 kWh battery, 20 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Bestune Pony is Bestune's hatchback battery-electric with a CLTC-rated range of 122 km, a 9 kWh battery, 20 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "bestune-pony"
 brand: "bestune"
 type: "Hatchback"

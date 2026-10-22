@@ -1,6 +1,6 @@
 ---
 title: "Roewe D5X DMH"
-description: "The Roewe D5X DMH is Roewe's SUV plug-in hybrid electric with a CLTC-rated range of 135 km, 21 kWh of battery, 145 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Roewe D5X DMH is Roewe's SUV plug-in hybrid electric with a CLTC-rated range of 135 km, 21 kWh of battery, 145 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "roewe-d5x-dmh"
 brand: "roewe"
 type: "SUV"

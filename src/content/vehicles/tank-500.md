@@ -1,6 +1,6 @@
 ---
 title: "Tank 500"
-description: "The Tank 500 is an SUV plug-in hybrid from Tank, offering a CLTC-rated range of 120 km, a 37 kWh battery, 300 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Tank 500 is an SUV plug-in hybrid from Tank, offering a CLTC-rated range of 120 km, a 37 kWh battery, 300 kW of motor power, and NMC (ternary) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "tank-500"
 brand: "tank"
 type: "SUV"

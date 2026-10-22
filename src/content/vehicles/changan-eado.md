@@ -1,6 +1,6 @@
 ---
 title: "Changan Eado"
-description: "The Changan Eado is ChangAn's SUV plug-in hybrid with 145 km of CLTC range, a 18 kWh battery, 190 kW peak output, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Changan Eado is ChangAn's SUV plug-in hybrid with 145 km of CLTC range, a 18 kWh battery, 190 kW peak output, and NMC (ternary) chemistry. Full product specification in the Chinese EV database."
 slug: "changan-eado"
 brand: "changan"
 type: "SUV"

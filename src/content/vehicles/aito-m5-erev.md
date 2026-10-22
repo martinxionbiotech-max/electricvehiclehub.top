@@ -1,6 +1,6 @@
 ---
 title: "Aito M5 EREV"
-description: "The Aito M5 EREV, an SUV range-extended electric from AITO, offering 255 km of CLTC range, a 40 kWh battery, 200 kW of motor power, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Aito M5 EREV, an SUV range-extended electric from AITO, offering 255 km of CLTC range, a 40 kWh battery, 200 kW of motor power, and NMC (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "aito-m5-erev"
 brand: "aito"
 type: "SUV"

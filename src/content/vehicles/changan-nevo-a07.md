@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A07"
-description: "The Changan Nevo A07 is a sedan battery-electric from ChangAn NEVO, offering a CLTC-rated range of 710 km, a 79 kWh battery, 200 kW peak output, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Changan Nevo A07 is a sedan battery-electric from ChangAn NEVO, offering a CLTC-rated range of 710 km, a 79 kWh battery, 200 kW peak output, and LFP / NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-a07"
 brand: "changan-nevo"
 type: "Sedan"

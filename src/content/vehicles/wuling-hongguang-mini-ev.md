@@ -1,6 +1,6 @@
 ---
 title: "Wuling Hongguang MINI EV"
-description: "The Wuling Hongguang MINI EV is a hatchback battery-electric from Wuling, offering 120 km of CLTC range, 9 kWh of battery, 20 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wuling Hongguang MINI EV is a hatchback battery-electric from Wuling, offering 120 km of CLTC range, 9 kWh of battery, 20 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-hongguang-mini-ev"
 brand: "wuling"
 type: "Hatchback"

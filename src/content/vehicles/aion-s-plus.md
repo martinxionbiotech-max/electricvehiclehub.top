@@ -1,6 +1,6 @@
 ---
 title: "Aion S Plus"
-description: "AION's Aion S Plus is a sedan battery-electric with a CLTC-rated range of 602 km, 69 kWh of battery, 150 kW peak output, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "AION's Aion S Plus is a sedan battery-electric with a CLTC-rated range of 602 km, 69 kWh of battery, 150 kW peak output, and LFP / NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aion-s-plus"
 brand: "aion"
 type: "Sedan"

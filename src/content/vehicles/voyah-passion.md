@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion"
-description: "Voyah's Voyah Passion is a sedan fully electric with a CLTC-rated range of 730 km, a 108 kWh battery, 290 kW of motor power, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Voyah's Voyah Passion is a sedan fully electric with a CLTC-rated range of 730 km, a 108 kWh battery, 290 kW of motor power, and NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "voyah-passion"
 brand: "voyah"
 type: "Sedan"

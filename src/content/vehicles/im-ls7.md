@@ -1,6 +1,6 @@
 ---
 title: "Im LS7"
-description: "IM's Im LS7 is an SUV battery-electric, offering 700 km of CLTC range, a 100 kWh battery, 579 kW peak output, and a NMC / LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "IM's Im LS7 is an SUV battery-electric, offering 700 km of CLTC range, a 100 kWh battery, 579 kW peak output, and a NMC / LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "im-ls7"
 brand: "im"
 type: "SUV"

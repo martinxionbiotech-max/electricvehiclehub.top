@@ -1,6 +1,6 @@
 ---
 title: "Landian E3"
-description: "The Landian E3 is Landian's SUV battery-electric with a CLTC-rated range of 405 km, 50 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Landian E3 is Landian's SUV battery-electric with a CLTC-rated range of 405 km, 50 kWh of battery, 150 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "landian-e3"
 brand: "landian"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starship 7"
-description: "Geely Galaxy's Geely Galaxy Starship 7 is an SUV plug-in hybrid with a CLTC-rated range of 120 km, 19 kWh of battery, 160 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Geely Galaxy's Geely Galaxy Starship 7 is an SUV plug-in hybrid with a CLTC-rated range of 120 km, 19 kWh of battery, 160 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-starship-7"
 brand: "geely-galaxy"
 type: "SUV"

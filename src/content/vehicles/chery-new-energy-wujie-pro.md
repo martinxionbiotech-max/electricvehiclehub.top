@@ -1,6 +1,6 @@
 ---
 title: "Chery New Energy Wujie Pro"
-description: "The Chery New Energy Wujie Pro, a hatchback fully electric from Chery New Energy with 301 km of CLTC range, a 28 kWh battery, 55 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery New Energy Wujie Pro, a hatchback fully electric from Chery New Energy with 301 km of CLTC range, a 28 kWh battery, 55 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-new-energy-wujie-pro"
 brand: "chery-new-energy"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "Xpeng GX"
-description: "XPeng's Xpeng GX is an SUV extended-range electric with a CLTC-rated range of 430 km, a 63 kWh battery, 370 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "XPeng's Xpeng GX is an SUV extended-range electric with a CLTC-rated range of 430 km, a 63 kWh battery, 370 kW peak output, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "xpeng-gx"
 brand: "xpeng"
 type: "SUV"

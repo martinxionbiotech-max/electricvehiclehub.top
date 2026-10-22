@@ -1,6 +1,6 @@
 ---
 title: "NIO ES7"
-description: "NIO's NIO ES7 is an SUV fully electric, offering 620 km of CLTC range, a 100 kWh battery, 480 kW of motor power, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "NIO's NIO ES7 is an SUV fully electric, offering 620 km of CLTC range, a 100 kWh battery, 480 kW of motor power, and NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "nio-es7"
 brand: "nio"
 type: "SUV"

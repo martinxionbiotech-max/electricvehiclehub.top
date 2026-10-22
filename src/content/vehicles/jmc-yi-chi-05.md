@@ -1,6 +1,6 @@
 ---
 title: "JMC Yi Chi 05"
-description: "The JMC Yi Chi 05 is JMC's sedan fully electric, offering 500 km of CLTC range, a 63 kWh battery, 82 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The JMC Yi Chi 05 is JMC's sedan fully electric, offering 500 km of CLTC range, a 63 kWh battery, 82 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "jmc-yi-chi-05"
 brand: "jmc"
 type: "Sedan"

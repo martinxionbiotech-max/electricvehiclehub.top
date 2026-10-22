@@ -1,6 +1,6 @@
 ---
 title: "Maxus MIFA 7 PHEV"
-description: "The Maxus MIFA 7 PHEV, an MPV plug-in hybrid electric from Maxus, offering a 24 kWh battery, 176 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Maxus MIFA 7 PHEV, an MPV plug-in hybrid electric from Maxus, offering a 24 kWh battery, 176 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "maxus-mifa-7-phev"
 brand: "maxus"
 type: "MPV"

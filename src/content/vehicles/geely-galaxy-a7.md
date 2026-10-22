@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy A7"
-description: "The Geely Galaxy A7 is Geely Galaxy's SUV plug-in hybrid with 150 km of CLTC range, a 18 kWh battery, 175 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Galaxy A7 is Geely Galaxy's SUV plug-in hybrid with 150 km of CLTC range, a 18 kWh battery, 175 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "geely-galaxy-a7"
 brand: "geely-galaxy"
 type: "SUV"

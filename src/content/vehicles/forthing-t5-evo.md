@@ -1,6 +1,6 @@
 ---
 title: "Forthing T5 EVO"
-description: "The Forthing T5 EVO is an SUV battery-electric from Forthing, offering 410 km of CLTC range, 49 kWh of battery, 120 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Forthing T5 EVO is an SUV battery-electric from Forthing, offering 410 km of CLTC range, 49 kWh of battery, 120 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "forthing-t5-evo"
 brand: "forthing"
 type: "SUV"

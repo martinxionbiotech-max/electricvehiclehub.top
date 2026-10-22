@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ 007 Plus"
-description: "The Dongfeng eπ 007 Plus, a sedan extended-range electric from Dongfeng eπ with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Dongfeng eπ 007 Plus, a sedan extended-range electric from Dongfeng eπ with a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "dongfeng-epi-007-plus"
 brand: "dongfeng-e"
 type: "Sedan"

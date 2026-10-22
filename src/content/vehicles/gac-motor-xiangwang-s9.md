@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Xiangwang S9"
-description: "The GAC Motor Xiangwang S9 is an SUV plug-in hybrid from GAC Motor, offering 252 km of CLTC range, a 44 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The GAC Motor Xiangwang S9 is an SUV plug-in hybrid from GAC Motor, offering 252 km of CLTC range, a 44 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "gac-motor-xiangwang-s9"
 brand: "gac-motor"
 type: "SUV"

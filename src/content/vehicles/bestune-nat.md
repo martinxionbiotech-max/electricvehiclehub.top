@@ -1,6 +1,6 @@
 ---
 title: "Bestune NAT"
-description: "The Bestune NAT, an SUV battery-electric from Bestune with 425 km of CLTC range, a 54 kWh battery, 120 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Bestune NAT, an SUV battery-electric from Bestune with 425 km of CLTC range, a 54 kWh battery, 120 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "bestune-nat"
 brand: "bestune"
 type: "SUV"

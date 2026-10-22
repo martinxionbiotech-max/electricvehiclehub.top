@@ -1,6 +1,6 @@
 ---
 title: "BYD Dolphin"
-description: "The BYD Dolphin is BYD's hatchback fully electric, offering a CLTC-rated range of 418 km, 45 kWh of battery, 70 kW of motor power, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Dolphin is BYD's hatchback fully electric, offering a CLTC-rated range of 418 km, 45 kWh of battery, 70 kW of motor power, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-dolphin"
 brand: "byd"
 type: "Hatchback"

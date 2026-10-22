@@ -1,6 +1,6 @@
 ---
 title: "Avatr 12"
-description: "The Avatr 12, a sedan battery-electric from Avatr with a CLTC-rated range of 705 km, a 94 kWh battery, 231 kW peak output, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Avatr 12, a sedan battery-electric from Avatr with a CLTC-rated range of 705 km, a 94 kWh battery, 231 kW peak output, and NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "avatr-12"
 brand: "avatr"
 type: "Sedan"

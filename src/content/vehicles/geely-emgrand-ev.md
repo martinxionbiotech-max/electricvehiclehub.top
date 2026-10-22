@@ -1,6 +1,6 @@
 ---
 title: "Geely Emgrand EV"
-description: "The Geely Emgrand EV is an SUV fully electric from Geely with a CLTC-rated range of 430 km, a 51 kWh battery, 100 kW peak output, and NMC (CTP) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Emgrand EV is an SUV fully electric from Geely with a CLTC-rated range of 430 km, a 51 kWh battery, 100 kW peak output, and NMC (CTP) chemistry. Full product specification in the Chinese EV database."
 slug: "geely-emgrand-ev"
 brand: "geely"
 type: "SUV"

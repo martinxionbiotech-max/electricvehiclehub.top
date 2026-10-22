@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07 EREV"
-description: "The Avatr 07 EREV, an SUV extended-range electric from Avatr with a CLTC-rated range of 245 km, 39 kWh of battery, 231 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Avatr 07 EREV, an SUV extended-range electric from Avatr with a CLTC-rated range of 245 km, 39 kWh of battery, 231 kW peak output, and a NMC (CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "avatr-07-erev"
 brand: "avatr"
 type: "SUV"

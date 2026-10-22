@@ -1,6 +1,6 @@
 ---
 title: "BYD XIA"
-description: "BYD's BYD XIA is an SUV plug-in hybrid electric with 180 km of CLTC range, a 20 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "BYD's BYD XIA is an SUV plug-in hybrid electric with 180 km of CLTC range, a 20 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Full product specification in the Chinese EV database."
 slug: "byd-xia"
 brand: "byd"
 type: "SUV"

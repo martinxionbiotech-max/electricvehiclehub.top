@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao BAO 5"
-description: "The Fangchengbao BAO 5 is Fangchengbao's SUV plug-in hybrid, offering 125 km of CLTC range, a 31 kWh battery, 485 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Fangchengbao BAO 5 is Fangchengbao's SUV plug-in hybrid, offering 125 km of CLTC range, a 31 kWh battery, 485 kW peak output, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "fangchengbao-bao-5"
 brand: "fangchengbao"
 type: "SUV"

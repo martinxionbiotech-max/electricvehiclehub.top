@@ -1,6 +1,6 @@
 ---
 title: "SAIC H5 EREV"
-description: "The SAIC H5 EREV, an SUV range-extended electric from SAIC, offering 235 km of CLTC range, a 32 kWh battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The SAIC H5 EREV, an SUV range-extended electric from SAIC, offering 235 km of CLTC range, a 32 kWh battery, 150 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "saic-h5-erev"
 brand: "saic"
 type: "SUV"

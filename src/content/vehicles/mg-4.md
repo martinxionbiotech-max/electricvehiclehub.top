@@ -1,6 +1,6 @@
 ---
 title: "MG 4"
-description: "The MG 4 is a hatchback battery-electric from MG, offering 437 km of CLTC range, 42 kWh of battery, 120 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The MG 4 is a hatchback battery-electric from MG, offering 437 km of CLTC range, 42 kWh of battery, 120 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "mg-4"
 brand: "mg"
 type: "Hatchback"

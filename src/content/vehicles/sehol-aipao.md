@@ -1,6 +1,6 @@
 ---
 title: "Sehol Aipao"
-description: "Sehol's Sehol Aipao is a sedan battery-electric with 602 km of CLTC range, 64 kWh of battery, 142 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Sehol's Sehol Aipao is a sedan battery-electric with 602 km of CLTC range, 64 kWh of battery, 142 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "sehol-aipao"
 brand: "sehol"
 type: "Sedan"

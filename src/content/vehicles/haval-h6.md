@@ -1,6 +1,6 @@
 ---
 title: "Haval H6"
-description: "Haval's Haval H6 is an SUV plug-in hybrid with 106 km of CLTC range, a 19 kWh battery, 130 kW peak output, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Haval's Haval H6 is an SUV plug-in hybrid with 106 km of CLTC range, a 19 kWh battery, 130 kW peak output, and a LFP / NMC pack. Full product specification in the Chinese EV database."
 slug: "haval-h6"
 brand: "haval"
 type: "SUV"

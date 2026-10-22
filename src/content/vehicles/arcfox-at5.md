@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AT5"
-description: "The Arcfox AT5 is an SUV battery-electric from Arcfox, offering 660 km of CLTC range, a 79 kWh battery, 200 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Arcfox AT5 is an SUV battery-electric from Arcfox, offering 660 km of CLTC range, a 79 kWh battery, 200 kW of motor power, and a NMC (ternary) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "arcfox-at5"
 brand: "arcfox"
 type: "SUV"

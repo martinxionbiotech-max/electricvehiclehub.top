@@ -1,6 +1,6 @@
 ---
 title: "Aion V"
-description: "The Aion V is AION's SUV fully electric with 520 km of CLTC range, 62 kWh of battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Aion V is AION's SUV fully electric with 520 km of CLTC range, 62 kWh of battery, 150 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aion-v"
 brand: "aion"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9T"
-description: "The Stelato S9T is a sedan fully electric from Stelato, offering a CLTC-rated range of 816 km, 100 kWh of battery, 227 kW peak output, and a NMC (Whale, CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Stelato S9T is a sedan fully electric from Stelato, offering a CLTC-rated range of 816 km, 100 kWh of battery, 227 kW peak output, and a NMC (Whale, CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "stelato-s9t"
 brand: "stelato"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Roewe i6 MAX PHEV"
-description: "The Roewe i6 MAX PHEV is a sedan plug-in hybrid from Roewe, offering a CLTC-rated range of 51 km, a 9 kWh battery, 100 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Roewe i6 MAX PHEV is a sedan plug-in hybrid from Roewe, offering a CLTC-rated range of 51 km, a 9 kWh battery, 100 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "roewe-i6-max-phev"
 brand: "roewe"
 type: "Sedan"

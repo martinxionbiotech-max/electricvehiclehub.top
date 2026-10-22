@@ -1,6 +1,6 @@
 ---
 title: "Im LS6"
-description: "The Im LS6, an SUV fully electric from IM, offering 760 km of CLTC range, 100 kWh of battery, 230 kW of motor power, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Im LS6, an SUV fully electric from IM, offering 760 km of CLTC range, 100 kWh of battery, 230 kW of motor power, and LFP / NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "im-ls6"
 brand: "im"
 type: "SUV"

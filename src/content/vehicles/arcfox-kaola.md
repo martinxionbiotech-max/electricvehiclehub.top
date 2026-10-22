@@ -1,6 +1,6 @@
 ---
 title: "Arcfox Kaola"
-description: "The Arcfox Kaola is Arcfox's SUV battery-electric, offering a CLTC-rated range of 500 km, 58 kWh of battery, 120 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Arcfox Kaola is Arcfox's SUV battery-electric, offering a CLTC-rated range of 500 km, 58 kWh of battery, 120 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "arcfox-kaola"
 brand: "arcfox"
 type: "SUV"

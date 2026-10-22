@@ -1,6 +1,6 @@
 ---
 title: "BYD D1"
-description: "The BYD D1 is BYD's MPV fully electric, offering 418 km of CLTC range, a 53 kWh battery, 100 kW of motor power, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD D1 is BYD's MPV fully electric, offering 418 km of CLTC range, a 53 kWh battery, 100 kW of motor power, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-d1"
 brand: "byd"
 type: "MPV"

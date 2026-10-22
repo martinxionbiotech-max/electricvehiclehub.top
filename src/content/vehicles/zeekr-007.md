@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 007"
-description: "Zeekr's Zeekr 007 is an SUV fully electric, offering 688 km of CLTC range, 75 kWh of battery, 310 kW peak output, and a LFP (Golden) / NMC pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Zeekr's Zeekr 007 is an SUV fully electric, offering 688 km of CLTC range, 75 kWh of battery, 310 kW peak output, and a LFP (Golden) / NMC pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "zeekr-007"
 brand: "zeekr"
 type: "SUV"

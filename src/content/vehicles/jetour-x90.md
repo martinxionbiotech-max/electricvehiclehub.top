@@ -1,6 +1,6 @@
 ---
 title: "Jetour X90"
-description: "The Jetour X90, an SUV plug-in hybrid electric from Jetour, offering a CLTC-rated range of 108 km, 19 kWh of battery, 199 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Jetour X90, an SUV plug-in hybrid electric from Jetour, offering a CLTC-rated range of 108 km, 19 kWh of battery, 199 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jetour-x90"
 brand: "jetour"
 type: "SUV"

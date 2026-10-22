@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 05"
-description: "The Lynk Co 05 is Lynk & Co's SUV plug-in hybrid, offering 85 km of CLTC range, 17 kWh of battery, 100 kW of motor power, and LFP (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Lynk Co 05 is Lynk & Co's SUV plug-in hybrid, offering 85 km of CLTC range, 17 kWh of battery, 100 kW of motor power, and LFP (CATL) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "lynk-co-05"
 brand: "lynk-co"
 type: "SUV"

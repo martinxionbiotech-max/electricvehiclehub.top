@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Plus"
-description: "The BYD Song Plus, an SUV fully electric from BYD with a CLTC-rated range of 605 km, 87 kWh of battery, 160 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Song Plus, an SUV fully electric from BYD with a CLTC-rated range of 605 km, 87 kWh of battery, 160 kW peak output, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-song-plus"
 brand: "byd"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Wuling Jiachen"
-description: "The Wuling Jiachen is Wuling's MPV petrol, offering 130 kW peak output. Per-market landed-cost modeling across 30 export destinations."
+description: "The Wuling Jiachen is Wuling's MPV petrol, offering 130 kW peak output. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-jiachen"
 brand: "wuling"
 type: "MPV"

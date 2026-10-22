@@ -1,6 +1,6 @@
 ---
 title: "Wuling Nano EV"
-description: "Wuling's Wuling Nano EV is a hatchback fully electric, offering 305 km of CLTC range, 28 kWh of battery, 24 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Wuling's Wuling Nano EV is a hatchback fully electric, offering 305 km of CLTC range, 28 kWh of battery, 24 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-nano-ev"
 brand: "wuling"
 type: "Hatchback"

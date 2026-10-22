@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T6"
-description: "The Chery Fulwin T6, an SUV plug-in hybrid from Chery Fulwin with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery Fulwin T6, an SUV plug-in hybrid from Chery Fulwin with a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-fulwin-t6"
 brand: "chery-fulwin"
 type: "SUV"

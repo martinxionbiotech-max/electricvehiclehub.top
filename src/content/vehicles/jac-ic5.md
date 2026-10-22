@@ -1,6 +1,6 @@
 ---
 title: "JAC iC5"
-description: "JAC's JAC iC5 is a sedan fully electric, offering 530 km of CLTC range, a 64 kWh battery, 142 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "JAC's JAC iC5 is a sedan fully electric, offering 530 km of CLTC range, a 64 kWh battery, 142 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-ic5"
 brand: "jac"
 type: "Sedan"

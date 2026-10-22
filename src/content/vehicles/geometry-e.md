@@ -1,6 +1,6 @@
 ---
 title: "Geometry E"
-description: "The Geometry E, an SUV fully electric from Geometry, offering a 33 kWh battery, 60 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geometry E, an SUV fully electric from Geometry, offering a 33 kWh battery, 60 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "geometry-e"
 brand: "geometry"
 type: "SUV"

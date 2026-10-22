@@ -1,6 +1,6 @@
 ---
 title: "Neta Aya"
-description: "The Neta Aya, an SUV fully electric from Neta, offering a CLTC-rated range of 318 km, 35 kWh of battery, 40 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Neta Aya, an SUV fully electric from Neta, offering a CLTC-rated range of 318 km, 35 kWh of battery, 40 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "neta-aya"
 brand: "neta"
 type: "SUV"

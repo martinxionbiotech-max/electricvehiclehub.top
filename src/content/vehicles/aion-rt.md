@@ -1,6 +1,6 @@
 ---
 title: "Aion RT"
-description: "The Aion RT is AION's SUV battery-electric with a CLTC-rated range of 520 km, 55 kWh of battery, 150 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Aion RT is AION's SUV battery-electric with a CLTC-rated range of 520 km, 55 kWh of battery, 150 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aion-rt"
 brand: "aion"
 type: "SUV"

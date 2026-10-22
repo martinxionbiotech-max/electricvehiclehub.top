@@ -1,6 +1,6 @@
 ---
 title: "Aito M5"
-description: "AITO's Aito M5 is an SUV fully electric, offering a CLTC-rated range of 620 km, a 83 kWh battery, 200 kW peak output, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "AITO's Aito M5 is an SUV fully electric, offering a CLTC-rated range of 620 km, a 83 kWh battery, 200 kW peak output, and NMC (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "aito-m5"
 brand: "aito"
 type: "SUV"

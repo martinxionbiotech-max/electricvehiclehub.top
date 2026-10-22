@@ -1,6 +1,6 @@
 ---
 title: "JMC Yi Chi 06"
-description: "JMC's JMC Yi Chi 06 is an MPV fully electric, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "JMC's JMC Yi Chi 06 is an MPV fully electric, offering LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jmc-yi-chi-06"
 brand: "jmc"
 type: "MPV"

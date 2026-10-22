@@ -1,6 +1,6 @@
 ---
 title: "Chery New Energy QQ Duomi"
-description: "The Chery New Energy QQ Duomi, a hatchback fully electric from Chery New Energy, offering 305 km of CLTC range, 28 kWh of battery, 40 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery New Energy QQ Duomi, a hatchback fully electric from Chery New Energy, offering 305 km of CLTC range, 28 kWh of battery, 40 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-new-energy-qq-duomi"
 brand: "chery-new-energy"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "Aeolus E70"
-description: "Aeolus's Aeolus E70 is an SUV battery-electric with a CLTC-rated range of 347 km, 43 kWh of battery, 120 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Aeolus's Aeolus E70 is an SUV battery-electric with a CLTC-rated range of 347 km, 43 kWh of battery, 120 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "aeolus-e70"
 brand: "aeolus"
 type: "SUV"

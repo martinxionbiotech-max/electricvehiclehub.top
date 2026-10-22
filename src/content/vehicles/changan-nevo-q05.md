@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q05"
-description: "The Changan Nevo Q05 is an SUV plug-in hybrid electric from ChangAn NEVO with 125 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo Q05 is an SUV plug-in hybrid electric from ChangAn NEVO with 125 km of CLTC range, 18 kWh of battery, 158 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-q05"
 brand: "changan-nevo"
 type: "SUV"

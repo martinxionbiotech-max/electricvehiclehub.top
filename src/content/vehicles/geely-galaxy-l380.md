@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy LEVC L380"
-description: "The Geely Galaxy LEVC L380 is an MPV battery-electric from Geely Galaxy, offering 570 km of CLTC range, 100 kWh of battery, 200 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Geely Galaxy LEVC L380 is an MPV battery-electric from Geely Galaxy, offering 570 km of CLTC range, 100 kWh of battery, 200 kW of motor power, and NMC (CATL) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-l380"
 brand: "geely-galaxy"
 type: "MPV"

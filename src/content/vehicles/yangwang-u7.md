@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U7"
-description: "Yangwang's Yangwang U7 is an SUV fully electric with 720 km of CLTC range, a 135 kWh battery, 960 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Yangwang's Yangwang U7 is an SUV fully electric with 720 km of CLTC range, a 135 kWh battery, 960 kW of motor power, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "yangwang-u7"
 brand: "yangwang"
 type: "SUV"

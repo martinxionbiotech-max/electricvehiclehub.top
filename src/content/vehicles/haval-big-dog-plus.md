@@ -1,6 +1,6 @@
 ---
 title: "Haval BIG DOG Plus"
-description: "Haval's Haval BIG DOG Plus is an SUV plug-in hybrid electric with 150 km of CLTC range, 18 kWh of battery, 220 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Haval's Haval BIG DOG Plus is an SUV plug-in hybrid electric with 150 km of CLTC range, 18 kWh of battery, 220 kW peak output, and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "haval-big-dog-plus"
 brand: "haval"
 type: "SUV"

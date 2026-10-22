@@ -1,6 +1,6 @@
 ---
 title: "BYD Atto 3"
-description: "The BYD Atto 3 is an SUV battery-electric from BYD with a CLTC-rated range of 430 km, 49 kWh of battery, 150 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Atto 3 is an SUV battery-electric from BYD with a CLTC-rated range of 430 km, 49 kWh of battery, 150 kW peak output, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-atto-3"
 brand: "byd"
 type: "SUV"

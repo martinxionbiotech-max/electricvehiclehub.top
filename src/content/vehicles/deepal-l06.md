@@ -1,6 +1,6 @@
 ---
 title: "Deepal L06"
-description: "The Deepal L06 is Deepal's SUV fully electric, offering a CLTC-rated range of 560 km, 56 kWh of battery, 200 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Deepal L06 is Deepal's SUV fully electric, offering a CLTC-rated range of 560 km, 56 kWh of battery, 200 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "deepal-l06"
 brand: "deepal"
 type: "SUV"

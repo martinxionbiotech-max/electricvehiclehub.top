@@ -1,6 +1,6 @@
 ---
 title: "firefly Habitat"
-description: "The firefly Habitat is firefly's hatchback battery-electric, offering 420 km of CLTC range, 42 kWh of battery, 120 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The firefly Habitat is firefly's hatchback battery-electric, offering 420 km of CLTC range, 42 kWh of battery, 120 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "firefly-habitat"
 brand: "firefly"
 type: "Hatchback"

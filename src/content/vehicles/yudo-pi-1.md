@@ -1,6 +1,6 @@
 ---
 title: "Yudo Pi 1"
-description: "The Yudo Pi 1 is Yudo's SUV battery-electric, offering 351 km of CLTC range, 41 kWh of battery, 55 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Yudo Pi 1 is Yudo's SUV battery-electric, offering 351 km of CLTC range, 41 kWh of battery, 55 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "yudo-pi-1"
 brand: "yudo"
 type: "SUV"

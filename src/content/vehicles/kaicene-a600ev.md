@@ -1,6 +1,6 @@
 ---
 title: "Kaicene A600Ev"
-description: "The Kaicene A600Ev is Kaicene's MPV fully electric, offering 402 km of CLTC range, a 56 kWh battery, 90 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Kaicene A600Ev is Kaicene's MPV fully electric, offering 402 km of CLTC range, a 56 kWh battery, 90 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "kaicene-a600ev"
 brand: "kaicene"
 type: "MPV"

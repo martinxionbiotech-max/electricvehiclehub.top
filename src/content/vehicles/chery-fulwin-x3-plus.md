@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3 Plus"
-description: "The Chery Fulwin X3 Plus, an SUV fully electric from Chery Fulwin, offering 401 km of CLTC range and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Chery Fulwin X3 Plus, an SUV fully electric from Chery Fulwin, offering 401 km of CLTC range and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-fulwin-x3-plus"
 brand: "chery-fulwin"
 type: "SUV"

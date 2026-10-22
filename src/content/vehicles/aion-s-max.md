@@ -1,6 +1,6 @@
 ---
 title: "Aion S Max"
-description: "The Aion S Max is AION's sedan fully electric, offering 510 km of CLTC range, 59 kWh of battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Aion S Max is AION's sedan fully electric, offering 510 km of CLTC range, 59 kWh of battery, 150 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "aion-s-max"
 brand: "aion"
 type: "Sedan"

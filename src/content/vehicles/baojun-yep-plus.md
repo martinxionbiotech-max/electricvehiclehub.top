@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yep Plus"
-description: "The Baojun Yep Plus is Baojun's SUV fully electric, offering 301 km of CLTC range, a 31 kWh battery, 75 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Baojun Yep Plus is Baojun's SUV fully electric, offering 301 km of CLTC range, a 31 kWh battery, 75 kW of motor power, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "baojun-yep-plus"
 brand: "baojun"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Bestune E01"
-description: "Bestune's Bestune E01 is an SUV battery-electric with a 61 kWh battery, 140 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Bestune's Bestune E01 is an SUV battery-electric with a 61 kWh battery, 140 kW of motor power, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "bestune-e01"
 brand: "bestune"
 type: "SUV"

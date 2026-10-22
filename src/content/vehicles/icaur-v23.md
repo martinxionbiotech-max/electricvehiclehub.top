@@ -1,6 +1,6 @@
 ---
 title: "Icaur V23"
-description: "iCAUR's Icaur V23 is an SUV fully electric, offering a CLTC-rated range of 401 km, a 59 kWh battery, 185 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "iCAUR's Icaur V23 is an SUV fully electric, offering a CLTC-rated range of 401 km, a 59 kWh battery, 185 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "icaur-v23"
 brand: "icaur"
 type: "SUV"

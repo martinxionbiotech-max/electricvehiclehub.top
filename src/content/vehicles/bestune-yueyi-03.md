@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 03"
-description: "The Bestune Yueyi 03, an SUV fully electric from Bestune, offering 445 km of CLTC range, a 48 kWh battery, 122 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Bestune Yueyi 03, an SUV fully electric from Bestune, offering 445 km of CLTC range, a 48 kWh battery, 122 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "bestune-yueyi-03"
 brand: "bestune"
 type: "SUV"

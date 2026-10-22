@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Emkoo"
-description: "The GAC Motor Emkoo is GAC Motor's SUV non-plug-in hybrid, offering 134 kW of motor power and a NMC (Li-ion) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The GAC Motor Emkoo is GAC Motor's SUV non-plug-in hybrid, offering 134 kW of motor power and a NMC (Li-ion) pack. Full product specification in the Chinese EV database."
 slug: "gac-motor-emkoo"
 brand: "gac-motor"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Plus DM-i"
-description: "The BYD Qin Plus DM-i, a sedan plug-in hybrid electric from BYD, offering 55 km of CLTC range, 8 kWh of battery, 120 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Qin Plus DM-i, a sedan plug-in hybrid electric from BYD, offering 55 km of CLTC range, 8 kWh of battery, 120 kW of motor power, and a LFP (Blade) pack. Full product specification in the Chinese EV database."
 slug: "byd-qin-plus-dm-i"
 brand: "byd"
 type: "Sedan"

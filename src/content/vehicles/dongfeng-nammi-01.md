@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng Nammi 01"
-description: "The Dongfeng Nammi 01, an SUV battery-electric from Dongfeng Nammi, offering a CLTC-rated range of 330 km, a 31 kWh battery, 70 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Dongfeng Nammi 01, an SUV battery-electric from Dongfeng Nammi, offering a CLTC-rated range of 330 km, a 31 kWh battery, 70 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "dongfeng-nammi-01"
 brand: "dongfeng-nammi"
 type: "SUV"

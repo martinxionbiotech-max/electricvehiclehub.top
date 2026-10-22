@@ -1,6 +1,6 @@
 ---
 title: "Voyah Titan"
-description: "Voyah's Voyah Titan is an SUV plug-in hybrid electric, offering 370 km of CLTC range, a 65 kWh battery, 380 kW of motor power, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Voyah's Voyah Titan is an SUV plug-in hybrid electric, offering 370 km of CLTC range, a 65 kWh battery, 380 kW of motor power, and NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "voyah-titan"
 brand: "voyah"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Venucia VX6"
-description: "Venucia's Venucia VX6 is an SUV fully electric with a CLTC-rated range of 520 km, a 62 kWh battery, 160 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Venucia's Venucia VX6 is an SUV fully electric with a CLTC-rated range of 520 km, a 62 kWh battery, 160 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "venucia-vx6"
 brand: "venucia"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Kaiyi Shiyue Max"
-description: "Cowin's Kaiyi Shiyue Max is a hatchback fully electric with a CLTC-rated range of 310 km, 28 kWh of battery, 55 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Cowin's Kaiyi Shiyue Max is a hatchback fully electric with a CLTC-rated range of 310 km, 28 kWh of battery, 55 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "cowin-shiyue"
 brand: "cowin"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 7 Plus New Energy"
-description: "The Chery Tiggo 7 Plus New Energy is an SUV plug-in hybrid from Chery, offering a CLTC-rated range of 100 km, 16 kWh of battery, 125 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery Tiggo 7 Plus New Energy is an SUV plug-in hybrid from Chery, offering a CLTC-rated range of 100 km, 16 kWh of battery, 125 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-tiggo-7-plus-new-energy"
 brand: "chery"
 type: "SUV"

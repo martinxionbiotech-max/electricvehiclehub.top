@@ -1,6 +1,6 @@
 ---
 title: "Deepal L07"
-description: "The Deepal L07 is a sedan fully electric from Deepal with a CLTC-rated range of 530 km, 56 kWh of battery, 175 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Deepal L07 is a sedan fully electric from Deepal with a CLTC-rated range of 530 km, 56 kWh of battery, 175 kW of motor power, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "deepal-l07"
 brand: "deepal"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A8"
-description: "The Chery Fulwin A8 is Chery Fulwin's SUV plug-in hybrid with a CLTC-rated range of 106 km, a 18 kWh battery, 150 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Chery Fulwin A8 is Chery Fulwin's SUV plug-in hybrid with a CLTC-rated range of 106 km, a 18 kWh battery, 150 kW of motor power, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-fulwin-a8"
 brand: "chery-fulwin"
 type: "SUV"

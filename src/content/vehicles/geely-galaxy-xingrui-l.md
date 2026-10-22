@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Xingrui L"
-description: "The Geely Galaxy Xingrui L is an SUV hybrid from Geely Galaxy with 100 kW of motor power and a NMC (Li-ion) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Geely Galaxy Xingrui L is an SUV hybrid from Geely Galaxy with 100 kW of motor power and a NMC (Li-ion) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-xingrui-l"
 brand: "geely-galaxy"
 type: "SUV"

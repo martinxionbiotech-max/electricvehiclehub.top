@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin L"
-description: "The BYD Qin L is BYD's sedan battery-electric, offering 545 km of CLTC range, a 56 kWh battery, 120 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Qin L is BYD's sedan battery-electric, offering 545 km of CLTC range, a 56 kWh battery, 120 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-qin-l"
 brand: "byd"
 type: "Sedan"

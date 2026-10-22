@@ -1,6 +1,6 @@
 ---
 title: "Aeolus Mage"
-description: "The Aeolus Mage is Aeolus's SUV hybrid, offering 105 kW peak output and a NMC (Li-ion) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Aeolus Mage is Aeolus's SUV hybrid, offering 105 kW peak output and a NMC (Li-ion) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aeolus-mage"
 brand: "aeolus"
 type: "SUV"

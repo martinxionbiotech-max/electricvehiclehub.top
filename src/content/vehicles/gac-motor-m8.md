@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor M8"
-description: "The GAC Motor M8, an SUV plug-in hybrid electric from GAC Motor with 106 km of CLTC range, a 25 kWh battery, 134 kW peak output, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The GAC Motor M8, an SUV plug-in hybrid electric from GAC Motor with 106 km of CLTC range, a 25 kWh battery, 134 kW peak output, and a NMC pack. Full product specification in the Chinese EV database."
 slug: "gac-motor-m8"
 brand: "gac-motor"
 type: "SUV"

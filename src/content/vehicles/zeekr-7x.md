@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 7X"
-description: "The Zeekr 7X is an SUV fully electric from Zeekr with 620 km of CLTC range, 75 kWh of battery, 370 kW of motor power, and LFP / NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Zeekr 7X is an SUV fully electric from Zeekr with 620 km of CLTC range, 75 kWh of battery, 370 kW of motor power, and LFP / NMC chemistry. Full product specification in the Chinese EV database."
 slug: "zeekr-7x"
 brand: "zeekr"
 type: "SUV"

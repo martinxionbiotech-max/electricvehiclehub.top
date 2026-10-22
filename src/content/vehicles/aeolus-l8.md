@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L8"
-description: "The Aeolus L8 is an SUV plug-in hybrid electric from Aeolus with a CLTC-rated range of 185 km, 18 kWh of battery, 100 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Aeolus L8 is an SUV plug-in hybrid electric from Aeolus with a CLTC-rated range of 185 km, 18 kWh of battery, 100 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aeolus-l8"
 brand: "aeolus"
 type: "SUV"

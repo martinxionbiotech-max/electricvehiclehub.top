@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Pro"
-description: "The BYD Song Pro, an SUV plug-in hybrid from BYD, offering a CLTC-rated range of 115 km, 18 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Song Pro, an SUV plug-in hybrid from BYD, offering a CLTC-rated range of 115 km, 18 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-song-pro"
 brand: "byd"
 type: "SUV"

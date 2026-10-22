@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HT"
-description: "The Hyptec HT, an SUV fully electric from Hyptec, offering 672 km of CLTC range, a 83 kWh battery, 250 kW peak output, and a NMC / LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Hyptec HT, an SUV fully electric from Hyptec, offering 672 km of CLTC range, a 83 kWh battery, 250 kW peak output, and a NMC / LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "hyptec-ht"
 brand: "hyptec"
 type: "SUV"

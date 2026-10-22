@@ -1,6 +1,6 @@
 ---
 title: "Wey Lanshan"
-description: "The Wey Lanshan is WEY's SUV plug-in hybrid electric with 180 km of CLTC range, a 44 kWh battery, 300 kW peak output, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Wey Lanshan is WEY's SUV plug-in hybrid electric with 180 km of CLTC range, a 44 kWh battery, 300 kW peak output, and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "wey-lanshan"
 brand: "wey"
 type: "SUV"

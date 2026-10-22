@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 05 EV"
-description: "The BYD Sealion 05 EV is an SUV battery-electric from BYD with a CLTC-rated range of 430 km, a 50 kWh battery, 140 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Sealion 05 EV is an SUV battery-electric from BYD with a CLTC-rated range of 430 km, a 50 kWh battery, 140 kW peak output, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-sealion-05-ev"
 brand: "byd"
 type: "SUV"

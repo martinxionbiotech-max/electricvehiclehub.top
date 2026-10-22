@@ -1,6 +1,6 @@
 ---
 title: "Sehol E20X"
-description: "The Sehol E20X is an SUV fully electric from Sehol with a CLTC-rated range of 402 km, 49 kWh of battery, 92 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Sehol E20X is an SUV fully electric from Sehol with a CLTC-rated range of 402 km, 49 kWh of battery, 92 kW of motor power, and a NMC (ternary) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "sehol-e20x"
 brand: "sehol"
 type: "SUV"

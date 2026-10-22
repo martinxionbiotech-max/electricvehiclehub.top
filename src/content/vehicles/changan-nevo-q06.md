@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q06"
-description: "The Changan Nevo Q06, an SUV fully electric from ChangAn NEVO, offering 602 km of CLTC range, a 80 kWh battery, 330 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Changan Nevo Q06, an SUV fully electric from ChangAn NEVO, offering 602 km of CLTC range, a 80 kWh battery, 330 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-q06"
 brand: "changan-nevo"
 type: "SUV"

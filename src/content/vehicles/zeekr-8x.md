@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 8X"
-description: "Zeekr's Zeekr 8X is an SUV plug-in hybrid electric with 318 km of CLTC range, a 55 kWh battery, 660 kW peak output, and a NMC (Freevoy, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Zeekr's Zeekr 8X is an SUV plug-in hybrid electric with 318 km of CLTC range, a 55 kWh battery, 660 kW peak output, and a NMC (Freevoy, CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "zeekr-8x"
 brand: "zeekr"
 type: "SUV"

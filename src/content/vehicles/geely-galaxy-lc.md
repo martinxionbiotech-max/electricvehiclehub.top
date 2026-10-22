@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy LC"
-description: "The Geely Galaxy LC is a hatchback fully electric from Geely Galaxy, offering a CLTC-rated range of 210 km, a 17 kWh battery, 30 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Geely Galaxy LC is a hatchback fully electric from Geely Galaxy, offering a CLTC-rated range of 210 km, a 17 kWh battery, 30 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "geely-galaxy-lc"
 brand: "geely-galaxy"
 type: "Hatchback"

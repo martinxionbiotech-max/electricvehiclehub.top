@@ -1,6 +1,6 @@
 ---
 title: "Geely Monjaro"
-description: "The Geely Monjaro is an SUV plug-in hybrid from Geely with 245 km of CLTC range, 41 kWh of battery, 100 kW of motor power, and NMC (CTP) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Geely Monjaro is an SUV plug-in hybrid from Geely with 245 km of CLTC range, 41 kWh of battery, 100 kW of motor power, and NMC (CTP) chemistry. Full product specification in the Chinese EV database."
 slug: "geely-monjaro"
 brand: "geely"
 type: "SUV"

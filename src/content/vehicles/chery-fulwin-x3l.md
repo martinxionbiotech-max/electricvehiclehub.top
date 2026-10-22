@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3L"
-description: "Chery Fulwin's Chery Fulwin X3L is an SUV extended-range electric with 215 km of CLTC range, a 33 kWh battery, 185 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery Fulwin's Chery Fulwin X3L is an SUV extended-range electric with 215 km of CLTC range, a 33 kWh battery, 185 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-fulwin-x3l"
 brand: "chery-fulwin"
 type: "SUV"

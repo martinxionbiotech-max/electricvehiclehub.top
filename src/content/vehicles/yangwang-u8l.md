@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U8L"
-description: "Yangwang's Yangwang U8L is an SUV range-extended electric, offering 200 km of CLTC range, a 55 kWh battery, 880 kW of motor power, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Yangwang's Yangwang U8L is an SUV range-extended electric, offering 200 km of CLTC range, a 55 kWh battery, 880 kW of motor power, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "yangwang-u8l"
 brand: "yangwang"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS9"
-description: "Hongqi's Hongqi E HS9 is an SUV fully electric with 760 km of CLTC range, 120 kWh of battery, 320 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Hongqi's Hongqi E HS9 is an SUV fully electric with 760 km of CLTC range, 120 kWh of battery, 320 kW of motor power, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "hongqi-e-hs9"
 brand: "hongqi"
 type: "SUV"

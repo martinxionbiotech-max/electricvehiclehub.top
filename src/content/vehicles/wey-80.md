@@ -1,6 +1,6 @@
 ---
 title: "Wey 80"
-description: "WEY's Wey 80 is an SUV plug-in hybrid, offering a CLTC-rated range of 183 km, 44 kWh of battery, 215 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "WEY's Wey 80 is an SUV plug-in hybrid, offering a CLTC-rated range of 183 km, 44 kWh of battery, 215 kW of motor power, and a NMC (ternary) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wey-80"
 brand: "wey"
 type: "SUV"

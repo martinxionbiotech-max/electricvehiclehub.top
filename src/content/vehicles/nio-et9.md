@@ -1,6 +1,6 @@
 ---
 title: "NIO ET9"
-description: "NIO's NIO ET9 is an SUV battery-electric with 650 km of CLTC range, a 102 kWh battery, 520 kW peak output, and a NMC (900V) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "NIO's NIO ET9 is an SUV battery-electric with 650 km of CLTC range, a 102 kWh battery, 520 kW peak output, and a NMC (900V) pack. Full product specification in the Chinese EV database."
 slug: "nio-et9"
 brand: "nio"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HL"
-description: "The Hyptec HL is an SUV battery-electric from Hyptec, offering 750 km of CLTC range, a 108 kWh battery, 250 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hyptec HL is an SUV battery-electric from Hyptec, offering 750 km of CLTC range, a 108 kWh battery, 250 kW of motor power, and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "hyptec-hl"
 brand: "hyptec"
 type: "SUV"

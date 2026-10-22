@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight PHEV"
-description: "Wuling's Wuling Starlight PHEV is a sedan plug-in hybrid electric with a CLTC-rated range of 70 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Wuling's Wuling Starlight PHEV is a sedan plug-in hybrid electric with a CLTC-rated range of 70 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "wuling-starlight-phev"
 brand: "wuling"
 type: "Sedan"

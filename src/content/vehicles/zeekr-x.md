@@ -1,6 +1,6 @@
 ---
 title: "Zeekr X"
-description: "The Zeekr X, an SUV battery-electric from Zeekr, offering a CLTC-rated range of 530 km, a 61 kWh battery, 250 kW peak output, and a NMC / LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Zeekr X, an SUV battery-electric from Zeekr, offering a CLTC-rated range of 530 km, a 61 kWh battery, 250 kW peak output, and a NMC / LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "zeekr-x"
 brand: "zeekr"
 type: "SUV"

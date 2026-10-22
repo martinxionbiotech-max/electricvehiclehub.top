@@ -20,8 +20,6 @@ const { Content } = await render(vehicle);
 const sameBrandVehicles = vehicles
   .filter((v) => v.data.brand === data.brand && v.data.slug !== slug)
   .slice(0, 4);
-const lc = data.landed_cost || {};
-const multiLc = (data.landed_cost_markets || []).filter((m) => m && m.total_landed_usd);
 
 /** N/A fallback for string/optional spec fields (industrial tone, zero fabrication). */
 const na = (v: unknown, suffix = ''): string =>
@@ -44,8 +42,6 @@ const hasDims = !!(data.length_mm && data.width_mm && data.height_mm);
 const outerVolumeCbm = hasDims
   ? (data.length_mm * data.width_mm * data.height_mm) / 1e9
   : null;
-// 40HQ internal: ~12.03 × 2.35 × 2.69 m. Cars ship RoRo as standard; container
-// packing (rack/crate) is the basis for this length-graded estimate.
 const hqGrade = data.length_mm
   ? data.length_mm < 4000
     ? 'micro / city'
@@ -61,7 +57,7 @@ const hqUnits = data.length_mm
       : 1
   : null;
 
-// ── ④ Market Compliance & Export Profile ──
+// ── ⑤ Market Compliance & Export Profile (HS Code + certification facts only) ──
 const hsCode =
   data.hs_code ||
   (data.powertrain === 'BEV'
@@ -76,44 +72,7 @@ const hsNote =
       ? '870340 — plug-in hybrid / hybrid electric vehicles'
       : 'Not classified (powertrain outside BEV/PHEV/HEV scope)';
 
-// ── ⑤ Benchmarking Matrix (same-segment nearest-price pool competitors) ──
-const competitors = vehicles
-  .filter(
-    (v) =>
-      v.data.slug !== slug &&
-      v.data.type === data.type &&
-      v.data.brand !== data.brand &&
-      typeof v.data.price_usd === 'number'
-  )
-  .map((v) => ({
-    slug: v.data.slug,
-    title: v.data.title,
-    brand: v.data.brand,
-    price: v.data.price_usd,
-    battery: v.data.battery_kwh,
-    wheelbase: v.data.wheelbase_mm,
-    fast: v.data.fast_charge,
-    delta: Math.abs(v.data.price_usd - data.price_usd) / data.price_usd,
-  }))
-  .sort((a, b) => a.delta - b.delta)
-  .slice(0, 2);
-
-// 主市场（landed_cost）逐项成本，用于模板层标注「EV Hub estimate」
-const lcBreakdown = lc && lc.breakdown
-  ? [
-      { label: 'Base price', value: data.price_usd, est: false },
-      { label: 'Standard import duty', value: lc.breakdown.duty_cif_usd, est: false },
-      { label: 'Countervailing duty', value: lc.breakdown.countervailing_duty_usd, est: false },
-      { label: 'VAT', value: lc.breakdown.vat_usd, est: false },
-      { label: 'RoRo freight', value: lc.breakdown.freight_roro_usd, est: true },
-      { label: 'Customs clearance', value: lc.breakdown.customs_clearance_usd, est: true },
-      { label: 'Certification', value: lc.breakdown.certification_usd, est: true },
-      { label: 'Registration', value: lc.breakdown.registration_usd, est: true },
-      { label: 'Inland transport', value: lc.breakdown.inland_transport_usd, est: true },
-    ].filter((b) => typeof b.value === 'number')
-  : [];
-
-// 规格表数据项（保留完整参考表）
+// 规格表数据项（完整参考表）
 const specs = [
   { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
   { label: 'Powertrain', value: data.powertrain },
@@ -136,18 +95,11 @@ const specs = [
   { label: 'Fast charge', value: data.fast_charge ? data.fast_charge : null },
 ].filter((s) => s.value);
 
-// 多国落地成本的最低价（用于高亮最有优势的市场）
-const lowestTotal = multiLc.length ? Math.min(...multiLc.map((m) => m.total_landed_usd)) : 0;
-
-// 落地成本置信度（渲染层标注）
-const costConfidence = data.confidence || 'Medium';
-const costLastVerified = data.data_updated || '2026-09-15';
-
 // 结构化数据/社交分享用的绝对图片地址
 const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
 const vehicleImage = new URL(data.image || '/og-image.png', siteUrl).href;
 
-// JSON-LD Vehicle schema（保留原有）
+// JSON-LD Vehicle schema（产品信息定位）
 const fuelTypeByPowertrain = {
   BEV: 'Electric',
   PHEV: 'Plug-in hybrid',
@@ -178,9 +130,7 @@ const jsonLd = {
         priceCurrency: data.currency || 'USD',
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
-        description:
-          `${data.price_type || 'China ex-factory price (MSRP)'} — indicative starting price for ` +
-          `export buyers, before freight, duties and certification. Confirm with a supplier quote.`,
+        description: `${data.price_type || 'China ex-factory price (MSRP)'} — reference starting price. Confirm with a supplier quote.`,
       }
     : undefined,
 };
@@ -264,7 +214,7 @@ const jsonLd = {
     <p class="text-gray-700 mb-5 leading-relaxed">
       The {data.title} is a {data.type.toLowerCase()} {data.powertrain} from {data.brand.toUpperCase()}, listed from ${data.price_usd.toLocaleString()} ex-factory.
       {data.range_cltc_km ? ` CLTC range is ${data.range_cltc_km} km` : ''}{data.battery_kwh ? ` from a ${data.battery_kwh} kWh pack` : ''}{drivePower ? ` with ${drivePower} kW of drive power` : ''}.
-      Positioned for export buyers evaluating FOB cost, homologation and container logistics.
+      Catalogued as a structured product record: trim, battery, range, drive power, and reference price.
     </p>
     <div class="rounded-xl border border-gray-200 overflow-hidden">
       <table class="w-full text-sm">
@@ -274,15 +224,15 @@ const jsonLd = {
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Range (CLTC / WLTP)</td><td class="px-5 py-3.5 text-gray-900">{data.range_cltc_km ? `${data.range_cltc_km} km` : 'N/A'}{data.range_wltp_km ? ` / ${data.range_wltp_km} km` : ' / N/A'}</td></tr>
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Drive power</td><td class="px-5 py-3.5 text-gray-900">{drivePower ? `${drivePower} kW${data.total_power_kw ? ' (combined)' : ''}` : 'N/A'}</td></tr>
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Fast charge (30–80%)</td><td class="px-5 py-3.5 text-gray-900">{data.fast_charge || 'N/A'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">FOB reference price</td><td class="px-5 py-3.5 text-gray-900">{fobRange}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Reference price</td><td class="px-5 py-3.5 text-gray-900">{fobRange}</td></tr>
         </tbody>
       </table>
     </div>
   </section>
 
-  <!-- ② Powertrain & Architecture -->
+  <!-- ② Powertrain -->
   <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-3 text-gray-900">Powertrain &amp; Architecture</h2>
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Powertrain</h2>
     <div class="rounded-xl border border-gray-200 overflow-hidden">
       <table class="w-full text-sm">
         <tbody>
@@ -292,12 +242,7 @@ const jsonLd = {
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Motor power</td><td class="px-5 py-3.5 text-gray-900">{data.motor_power_kw ? `${data.motor_power_kw} kW` : 'N/A'}</td></tr>
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Torque</td><td class="px-5 py-3.5 text-gray-900">{data.torque_nm ? `${data.torque_nm} Nm` : 'N/A'}</td></tr>
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">0–100 km/h</td><td class="px-5 py-3.5 text-gray-900">{data.accel_0_100_s ? `${data.accel_0_100_s} s` : 'N/A'}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Battery thermal management</td><td class="px-5 py-3.5 text-gray-900">{na(data.battery_thermal)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Heat pump</td><td class="px-5 py-3.5 text-gray-900">{na(data.heat_pump)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Front suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_front)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Rear suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_rear)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Brakes</td><td class="px-5 py-3.5 text-gray-900">{na(data.brakes)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Drag coefficient (Cd)</td><td class="px-5 py-3.5 text-gray-900">{data.drag_coefficient != null ? data.drag_coefficient : 'N/A'}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Top speed</td><td class="px-5 py-3.5 text-gray-900">{data.top_speed_kmh ? `${data.top_speed_kmh} km/h` : 'N/A'}</td></tr>
         </tbody>
       </table>
     </div>
@@ -347,135 +292,48 @@ const jsonLd = {
     </div>
   </section>
 
-  <!-- ④ Market Compliance & Export Profile -->
+  <!-- ④ Technology -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Technology</h2>
+    <div class="rounded-xl border border-gray-200 overflow-hidden">
+      <table class="w-full text-sm">
+        <tbody>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Battery type</td><td class="px-5 py-3.5 text-gray-900">{na(data.battery_type)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Battery thermal management</td><td class="px-5 py-3.5 text-gray-900">{na(data.battery_thermal)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Heat pump</td><td class="px-5 py-3.5 text-gray-900">{na(data.heat_pump)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Charging interface</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_interface)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Charging adapter (export)</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_adapter)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Front suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_front)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Rear suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_rear)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Brakes</td><td class="px-5 py-3.5 text-gray-900">{na(data.brakes)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Drag coefficient (Cd)</td><td class="px-5 py-3.5 text-gray-900">{data.drag_coefficient != null ? data.drag_coefficient : 'N/A'}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Infotainment language</td><td class="px-5 py-3.5 text-gray-900">{na(data.infotainment_language)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Network bands</td><td class="px-5 py-3.5 text-gray-900">{na(data.network_bands)}</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="text-xs text-gray-400 mt-3">Technology fields are recorded verbatim from the vehicle record; N/A where the manufacturer has not published a value.</p>
+  </section>
+
+  <!-- ⑤ Market Compliance & Export Profile（降权：仅 HS Code + 认证事实，出口情报见 .net） -->
   <section class="mb-12">
     <h2 class="text-2xl font-bold mb-3 text-gray-900">Market Compliance &amp; Export Profile</h2>
     <div class="rounded-xl border border-gray-200 overflow-hidden">
       <table class="w-full text-sm">
         <tbody>
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">HS code</td><td class="px-5 py-3.5 text-gray-900">{hsCode} — {hsNote}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Charging interface</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_interface)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Charging adapter (export)</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_adapter)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Infotainment language</td><td class="px-5 py-3.5 text-gray-900">{na(data.infotainment_language)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Network bands</td><td class="px-5 py-3.5 text-gray-900">{na(data.network_bands)}</td></tr>
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Certification notes</td><td class="px-5 py-3.5 text-gray-900">{na(data.certification_notes)}</td></tr>
         </tbody>
       </table>
     </div>
-    <p class="text-xs text-gray-400 mt-3">
-      China-market vehicles use the GB/T charging standard; EU destinations require a CCS2 (DC) / Type 2 (AC)
-      adapter or an OEM EU-spec port. Infotainment language and cellular band support are N/A where the
-      manufacturer has not published export-spec details.
-    </p>
-
-    <!-- 多国落地成本（精确生成自 landed_cost_markets） -->
-    {multiLc.length > 0 && (
-      <div class="mt-8">
-        <h3 class="text-lg font-semibold mb-2 text-gray-900">Estimated Landed Cost by Market</h3>
-        <p class="text-sm text-gray-500 mb-3">Estimated total import cost to each destination — duty, countervailing duty, VAT/GST, freight and compliance.</p>
-        <p class="text-xs text-gray-400 mb-6">Confidence: <span class="font-semibold text-amber-600">{costConfidence}</span> · Last verified: {costLastVerified}</p>
-        <p class="text-xs text-gray-500 mb-6 leading-relaxed">
-          Landed-cost figures are indicative planning estimates (base price + duty, countervailing duty, VAT,
-          freight and compliance fees); final totals vary with shipping route, insurance and supplier quotation —
-          verify before purchase decisions.
-        </p>
-        <div class="space-y-3">
-          {multiLc.map((m) => {
-            const isLowest = m.total_landed_usd === lowestTotal;
-            const barWidth = Math.min(100, Math.round((m.total_landed_usd / (lowestTotal || 1)) * 100));
-            return (
-              <a href={`/landed-cost-calculator/`} class="block">
-                <div class="flex items-center gap-4 p-4 rounded-xl border border-gray-200 hover:border-green-300 hover:bg-green-50/50 transition">
-                  <div class="w-44 shrink-0">
-                    <div class="font-semibold text-gray-900 text-sm">{m.market}</div>
-                    <div class="text-xs text-gray-400">{m.region}</div>
-                  </div>
-                  <div class="flex-1 hidden sm:block">
-                    <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
-                      <div class={`h-full rounded-full ${isLowest ? 'bg-green-500' : 'bg-gray-300'}`} style={`width:${barWidth}%`}></div>
-                    </div>
-                  </div>
-                  <div class="text-right shrink-0">
-                    <div class={`text-xl font-bold ${isLowest ? 'text-green-600' : 'text-gray-900'}`}>${Math.round(m.total_landed_usd).toLocaleString()}</div>
-                    <div class="text-xs text-gray-500">+{m.premium_pct}% over base</div>
-                  </div>
-                </div>
-              </a>
-            );
-          })}
-        </div>
-      </div>
-    )}
-
-    {lcBreakdown.length > 0 && (
-      <div class="mt-8">
-        <h3 class="text-lg font-semibold mb-2 text-gray-900">Estimated Landed Cost Breakdown — {lc.market || 'Germany'}</h3>
-        <div class="rounded-xl border border-gray-200 overflow-hidden">
-          <table class="w-full text-sm">
-            <tbody>
-              {lcBreakdown.map((b, i) => (
-                <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
-                  <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">
-                    {b.label}
-                    {b.est && <span class="ml-2 inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-semibold">EV Hub estimate</span>}
-                  </td>
-                  <td class="px-5 py-3.5 text-gray-900">${Math.round(b.value).toLocaleString()}</td>
-                </tr>
-              ))}
-              <tr class="bg-green-50">
-                <td class="px-5 py-4 font-bold text-gray-900">Estimated landed cost (total)</td>
-                <td class="px-5 py-4 font-bold text-green-700">${lc.total_landed_usd ? Math.round(lc.total_landed_usd).toLocaleString() : '—'}</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    )}
-  </section>
-
-  <!-- ⑤ Benchmarking Matrix -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-3 text-gray-900">Benchmarking Matrix</h2>
-    <p class="text-sm text-gray-500 mb-4">
-      Same-segment, nearest-price competitors selected from the EV Hub catalog (517-vehicle pool).
-      FOB column uses the ex-factory reference price.
-    </p>
-    {competitors.length > 0 ? (
-      <div class="rounded-xl border border-gray-200 overflow-hidden">
-        <table class="w-full text-sm">
-          <thead>
-            <tr class="bg-gray-50 text-left text-gray-600">
-              <th class="px-5 py-3 font-semibold">Model</th>
-              <th class="px-5 py-3 font-semibold">Battery</th>
-              <th class="px-5 py-3 font-semibold">Wheelbase</th>
-              <th class="px-5 py-3 font-semibold">Fast charge</th>
-              <th class="px-5 py-3 font-semibold">FOB (ref.)</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr class="bg-green-50">
-              <td class="px-5 py-4 font-semibold text-gray-900">{data.title} (this model)</td>
-              <td class="px-5 py-4 text-gray-900">{data.battery_kwh ? `${data.battery_kwh} kWh` : 'N/A'}</td>
-              <td class="px-5 py-4 text-gray-900">{data.wheelbase_mm ? `${data.wheelbase_mm} mm` : 'N/A'}</td>
-              <td class="px-5 py-4 text-gray-900">{data.fast_charge || 'N/A'}</td>
-              <td class="px-5 py-4 text-gray-900">${data.price_usd.toLocaleString()}</td>
-            </tr>
-            {competitors.map((c) => (
-              <tr class="bg-white">
-                <td class="px-5 py-4 font-medium text-gray-900"><a href={`/vehicles/${c.slug}/`} class="text-green-700 hover:underline">{c.title}</a></td>
-                <td class="px-5 py-4 text-gray-900">{c.battery ? `${c.battery} kWh` : 'N/A'}</td>
-                <td class="px-5 py-4 text-gray-900">{c.wheelbase ? `${c.wheelbase} mm` : 'N/A'}</td>
-                <td class="px-5 py-4 text-gray-900">{c.fast || 'N/A'}</td>
-                <td class="px-5 py-4 text-gray-900">${c.price.toLocaleString()}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    ) : (
-      <p class="text-sm text-gray-500">No same-segment competitor available in the catalog pool.</p>
-    )}
-    <p class="text-xs text-gray-400 mt-3">Source: EV Hub catalog (manufacturer specifications). Figures are for reference comparison only.</p>
+    <div class="mt-4 rounded-xl border border-green-200 bg-green-50 px-5 py-4">
+      <p class="text-sm text-green-800 font-medium">Export notes</p>
+      <p class="text-xs text-green-700 mt-1 leading-relaxed">
+        Landed-cost, import-duty, and per-market pricing data for this model lives on{' '}
+        <a href={`https://electricvehiclehub.net/vehicles/${data.slug}/`} class="font-semibold underline" rel="noopener" target="_blank">electricvehiclehub.net</a>{' '}
+        — see the full export profile there.
+      </p>
+    </div>
   </section>
 
   <!-- 数据来源与验证分层 -->
@@ -488,25 +346,22 @@ const jsonLd = {
         </div>
         <ul class="text-sm text-gray-700 space-y-2">
           <li class="flex gap-2"><span class="text-green-600">✓</span> Manufacturer specifications (base price, range, battery, dimensions)</li>
-          <li class="flex gap-2"><span class="text-green-600">✓</span> EU Reg 2024/2754 tariff rates (standard &amp; countervailing duty)</li>
-          <li class="flex gap-2"><span class="text-green-600">✓</span> Market VAT / GST rates (official legislation)</li>
+          <li class="flex gap-2"><span class="text-green-600">✓</span> Battery chemistry, drive architecture &amp; charging interface</li>
+          <li class="flex gap-2"><span class="text-green-600">✓</span> Certification &amp; HS code classification</li>
         </ul>
       </div>
       <div class="p-5 bg-white border border-amber-200 rounded-xl">
         <div class="flex items-center gap-2 mb-3">
-          <span class="inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-bold uppercase tracking-wide">EV Hub calculation</span>
+          <span class="inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-bold uppercase tracking-wide">EV Hub estimate</span>
         </div>
         <ul class="text-sm text-gray-700 space-y-2">
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> RoRo freight</li>
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> Certification</li>
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> Registration</li>
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> Customs clearance</li>
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> Landed cost total · 40HQ packing</li>
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> 40HQ packing (length-graded estimate)</li>
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> Fields marked N/A where the manufacturer has not published a value</li>
         </ul>
       </div>
     </div>
     <p class="text-xs text-gray-400 mt-4">
-      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'} · Confidence: {costConfidence} · Status: {data.data_reviewed ? 'Reviewed' : 'Pending review'}{data.verification_status ? ` · Verification: ${data.verification_status}` : ''}
+      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'}{data.verification_status ? ` · Verification: ${data.verification_status}` : ''}
     </p>
   </section>
 

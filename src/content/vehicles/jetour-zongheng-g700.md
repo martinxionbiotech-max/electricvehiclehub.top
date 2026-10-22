@@ -1,6 +1,6 @@
 ---
 title: "Jetour Zongheng G700"
-description: "The Jetour Zongheng G700 is Jetour's SUV plug-in hybrid with a CLTC-rated range of 150 km, 34 kWh of battery, 510 kW peak output, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Jetour Zongheng G700 is Jetour's SUV plug-in hybrid with a CLTC-rated range of 150 km, 34 kWh of battery, 510 kW peak output, and NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "jetour-zongheng-g700"
 brand: "jetour"
 type: "SUV"

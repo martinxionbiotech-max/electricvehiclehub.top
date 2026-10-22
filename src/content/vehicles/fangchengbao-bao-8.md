@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao BAO 8"
-description: "The Fangchengbao BAO 8 is an SUV plug-in hybrid from Fangchengbao with a CLTC-rated range of 125 km, 36 kWh of battery, 500 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Fangchengbao BAO 8 is an SUV plug-in hybrid from Fangchengbao with a CLTC-rated range of 125 km, 36 kWh of battery, 500 kW peak output, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "fangchengbao-bao-8"
 brand: "fangchengbao"
 type: "SUV"

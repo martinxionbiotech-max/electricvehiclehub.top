@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V6 Plus"
-description: "Forthing's Forthing Xinghai V6 Plus is an SUV range-extended electric, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Forthing's Forthing Xinghai V6 Plus is an SUV range-extended electric, offering LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "forthing-xinghai-v6-plus"
 brand: "forthing"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Livan 8"
-description: "The Livan 8 is Livan's MPV battery-electric with 515 km of CLTC range, a 68 kWh battery, 100 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Livan 8 is Livan's MPV battery-electric with 515 km of CLTC range, a 68 kWh battery, 100 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "livan-8"
 brand: "livan"
 type: "MPV"

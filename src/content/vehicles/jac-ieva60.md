@@ -1,6 +1,6 @@
 ---
 title: "JAC iEVA60"
-description: "The JAC iEVA60 is JAC's sedan battery-electric, offering 405 km of CLTC range, a 68 kWh battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The JAC iEVA60 is JAC's sedan battery-electric, offering 405 km of CLTC range, a 68 kWh battery, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-ieva60"
 brand: "jac"
 type: "Sedan"

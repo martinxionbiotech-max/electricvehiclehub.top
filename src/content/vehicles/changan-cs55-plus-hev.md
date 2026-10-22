@@ -1,6 +1,6 @@
 ---
 title: "Changan CS55 PLUS HEV"
-description: "The Changan CS55 PLUS HEV is an SUV non-plug-in hybrid from ChangAn with 1 kWh of battery, 180 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Changan CS55 PLUS HEV is an SUV non-plug-in hybrid from ChangAn with 1 kWh of battery, 180 kW of motor power, and a NMC (ternary) pack. Full product specification in the Chinese EV database."
 slug: "changan-cs55-plus-hev"
 brand: "changan"
 type: "SUV"

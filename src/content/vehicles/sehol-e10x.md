@@ -1,6 +1,6 @@
 ---
 title: "Sehol E10X"
-description: "Sehol's Sehol E10X is a hatchback battery-electric, offering a CLTC-rated range of 302 km, 31 kWh of battery, 45 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Sehol's Sehol E10X is a hatchback battery-electric, offering a CLTC-rated range of 302 km, 31 kWh of battery, 45 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "sehol-e10x"
 brand: "sehol"
 type: "Hatchback"

@@ -1,6 +1,6 @@
 ---
 title: "JAC X8"
-description: "The JAC X8 is an SUV plug-in hybrid from JAC with a CLTC-rated range of 110 km, a 19 kWh battery, 150 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The JAC X8 is an SUV plug-in hybrid from JAC with a CLTC-rated range of 110 km, a 19 kWh battery, 150 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "jac-x8"
 brand: "jac"
 type: "SUV"

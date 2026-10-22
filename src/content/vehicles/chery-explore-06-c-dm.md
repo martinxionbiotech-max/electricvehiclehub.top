@@ -1,6 +1,6 @@
 ---
 title: "Chery Explore 06 C-DM"
-description: "Chery's Chery Explore 06 C-DM is an SUV plug-in hybrid electric with a CLTC-rated range of 120 km, 18 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery's Chery Explore 06 C-DM is an SUV plug-in hybrid electric with a CLTC-rated range of 120 km, 18 kWh of battery, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "chery-explore-06-c-dm"
 brand: "chery"
 type: "SUV"

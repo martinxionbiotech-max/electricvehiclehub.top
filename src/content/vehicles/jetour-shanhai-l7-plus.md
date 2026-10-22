@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L7 Plus"
-description: "The Jetour Shanhai L7 Plus is an SUV plug-in hybrid from Jetour with 220 km of CLTC range, 32 kWh of battery, 199 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Jetour Shanhai L7 Plus is an SUV plug-in hybrid from Jetour with 220 km of CLTC range, 32 kWh of battery, 199 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "jetour-shanhai-l7-plus"
 brand: "jetour"
 type: "SUV"

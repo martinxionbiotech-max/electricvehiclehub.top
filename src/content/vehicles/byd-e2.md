@@ -1,6 +1,6 @@
 ---
 title: "BYD E2"
-description: "The BYD E2, a sedan fully electric from BYD with 405 km of CLTC range, 43 kWh of battery, 70 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD E2, a sedan fully electric from BYD with 405 km of CLTC range, 43 kWh of battery, 70 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-e2"
 brand: "byd"
 type: "Sedan"

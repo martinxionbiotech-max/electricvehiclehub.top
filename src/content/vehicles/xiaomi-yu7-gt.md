@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi YU7 GT"
-description: "The Xiaomi YU7 GT is an SUV battery-electric from Xiaomi, offering 705 km of CLTC range, a 101 kWh battery, 738 kW peak output, and NMC (Qilin, CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Xiaomi YU7 GT is an SUV battery-electric from Xiaomi, offering 705 km of CLTC range, a 101 kWh battery, 738 kW peak output, and NMC (Qilin, CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "xiaomi-yu7-gt"
 brand: "xiaomi"
 type: "SUV"

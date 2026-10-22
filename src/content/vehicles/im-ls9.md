@@ -1,6 +1,6 @@
 ---
 title: "Im LS9"
-description: "IM's Im LS9 is an SUV range-extended electric with a CLTC-rated range of 402 km, 52 kWh of battery, and 380 kW of motor power. Per-market landed-cost modeling across 30 export destinations."
+description: "IM's Im LS9 is an SUV range-extended electric with a CLTC-rated range of 402 km, 52 kWh of battery, and 380 kW of motor power. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "im-ls9"
 brand: "im"
 type: "SUV"

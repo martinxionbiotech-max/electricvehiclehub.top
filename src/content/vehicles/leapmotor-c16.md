@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C16"
-description: "The Leapmotor C16 is Leapmotor's SUV battery-electric with 520 km of CLTC range, a 67 kWh battery, 170 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Leapmotor C16 is Leapmotor's SUV battery-electric with 520 km of CLTC range, a 67 kWh battery, 170 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "leapmotor-c16"
 brand: "leapmotor"
 type: "SUV"

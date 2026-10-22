@@ -1,6 +1,6 @@
 ---
 title: "Wuling Binguo"
-description: "Wuling's Wuling Binguo is an SUV battery-electric with a CLTC-rated range of 203 km, 17 kWh of battery, 30 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Wuling's Wuling Binguo is an SUV battery-electric with a CLTC-rated range of 203 km, 17 kWh of battery, 30 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "wuling-binguo"
 brand: "wuling"
 type: "SUV"

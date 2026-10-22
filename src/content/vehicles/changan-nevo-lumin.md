@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Lumin"
-description: "ChangAn NEVO's Changan Nevo Lumin is a hatchback battery-electric, offering 130 km of CLTC range, 13 kWh of battery, 30 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "ChangAn NEVO's Changan Nevo Lumin is a hatchback battery-electric, offering 130 km of CLTC range, 13 kWh of battery, 30 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-nevo-lumin"
 brand: "changan-nevo"
 type: "Hatchback"

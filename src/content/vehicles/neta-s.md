@@ -1,6 +1,6 @@
 ---
 title: "Neta S"
-description: "The Neta S, a sedan battery-electric from Neta, offering a CLTC-rated range of 520 km, a 64 kWh battery, 170 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Neta S, a sedan battery-electric from Neta, offering a CLTC-rated range of 520 km, a 64 kWh battery, 170 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "neta-s"
 brand: "neta"
 type: "Sedan"

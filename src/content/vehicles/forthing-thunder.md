@@ -1,6 +1,6 @@
 ---
 title: "Forthing Thunder"
-description: "The Forthing Thunder is an SUV range-extended electric from Forthing with a CLTC-rated range of 230 km, 120 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Forthing Thunder is an SUV range-extended electric from Forthing with a CLTC-rated range of 230 km, 120 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "forthing-thunder"
 brand: "forthing"
 type: "SUV"

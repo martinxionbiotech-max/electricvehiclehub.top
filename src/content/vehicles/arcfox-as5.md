@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AS5"
-description: "The Arcfox AS5 is Arcfox's SUV fully electric with a CLTC-rated range of 560 km, 65 kWh of battery, 185 kW peak output, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Arcfox AS5 is Arcfox's SUV fully electric with a CLTC-rated range of 560 km, 65 kWh of battery, 185 kW peak output, and a NMC (ternary) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "arcfox-as5"
 brand: "arcfox"
 type: "SUV"

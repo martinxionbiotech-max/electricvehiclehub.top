@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A9"
-description: "The Chery Fulwin A9 is Chery Fulwin's sedan fully electric with a CLTC-rated range of 655 km, a 70 kWh battery, 178 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery Fulwin A9 is Chery Fulwin's sedan fully electric with a CLTC-rated range of 655 km, a 70 kWh battery, 178 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-fulwin-a9"
 brand: "chery-fulwin"
 type: "Sedan"

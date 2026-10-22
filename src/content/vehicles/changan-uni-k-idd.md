@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI K IDD"
-description: "ChangAn's Changan UNI K IDD is an SUV plug-in hybrid electric, offering a CLTC-rated range of 135 km, a 28 kWh battery, 110 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "ChangAn's Changan UNI K IDD is an SUV plug-in hybrid electric, offering a CLTC-rated range of 135 km, a 28 kWh battery, 110 kW of motor power, and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-uni-k-idd"
 brand: "changan"
 type: "SUV"

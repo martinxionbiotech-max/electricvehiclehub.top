@@ -1,6 +1,6 @@
 ---
 title: "JAC Yiwei Aipao"
-description: "The JAC Yiwei Aipao is JAC Yiwei's sedan fully electric, offering a CLTC-rated range of 502 km, 54 kWh of battery, 130 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The JAC Yiwei Aipao is JAC Yiwei's sedan fully electric, offering a CLTC-rated range of 502 km, 54 kWh of battery, 130 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-yiwei-aipao"
 brand: "jac-yiwei"
 type: "Sedan"

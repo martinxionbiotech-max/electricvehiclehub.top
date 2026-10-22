@@ -1,6 +1,6 @@
 ---
 title: "BYD Destroyer 05"
-description: "The BYD Destroyer 05, a sedan plug-in hybrid from BYD with a CLTC-rated range of 120 km, 18 kWh of battery, 132 kW of motor power, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Destroyer 05, a sedan plug-in hybrid from BYD with a CLTC-rated range of 120 km, 18 kWh of battery, 132 kW of motor power, and a LFP (Blade) pack. Full product specification in the Chinese EV database."
 slug: "byd-destroyer-05"
 brand: "byd"
 type: "Sedan"

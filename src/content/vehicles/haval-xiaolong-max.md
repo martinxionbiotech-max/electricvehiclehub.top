@@ -1,6 +1,6 @@
 ---
 title: "Haval Xiaolong Max"
-description: "The Haval Xiaolong Max is an SUV plug-in hybrid from Haval with 126 km of CLTC range, 220 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Haval Xiaolong Max is an SUV plug-in hybrid from Haval with 126 km of CLTC range, 220 kW peak output, and NMC chemistry. Full product specification in the Chinese EV database."
 slug: "haval-xiaolong-max"
 brand: "haval"
 type: "SUV"

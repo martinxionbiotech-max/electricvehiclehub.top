@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Max EV"
-description: "The BYD Qin Max EV is a sedan fully electric from BYD, offering 240 kW peak output and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Qin Max EV is a sedan fully electric from BYD, offering 240 kW peak output and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-qin-max-ev"
 brand: "byd"
 type: "Sedan"

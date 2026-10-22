@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07"
-description: "Avatr's Avatr 07 is an SUV fully electric, offering a CLTC-rated range of 650 km, 82 kWh of battery, 231 kW peak output, and a LFP (Shenxing) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Avatr's Avatr 07 is an SUV fully electric, offering a CLTC-rated range of 650 km, 82 kWh of battery, 231 kW peak output, and a LFP (Shenxing) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "avatr-07"
 brand: "avatr"
 type: "SUV"

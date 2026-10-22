@@ -1,6 +1,6 @@
 ---
 title: "Neta V"
-description: "Neta's Neta V is an SUV fully electric with 301 km of CLTC range, a 35 kWh battery, 55 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Neta's Neta V is an SUV fully electric with 301 km of CLTC range, a 35 kWh battery, 55 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "neta-v"
 brand: "neta"
 type: "SUV"

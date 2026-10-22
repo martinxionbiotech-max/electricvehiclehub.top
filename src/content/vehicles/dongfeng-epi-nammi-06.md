@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng E PI Nammi 06"
-description: "The Dongfeng E PI Nammi 06 is Dongfeng eπ's SUV battery-electric, offering 401 km of CLTC range, 44 kWh of battery, 135 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Dongfeng E PI Nammi 06 is Dongfeng eπ's SUV battery-electric, offering 401 km of CLTC range, 44 kWh of battery, 135 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "dongfeng-epi-nammi-06"
 brand: "dongfeng-e"
 type: "SUV"

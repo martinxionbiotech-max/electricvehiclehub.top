@@ -1,6 +1,6 @@
 ---
 title: "JAC Yiwei Hua Xian Zi"
-description: "The JAC Yiwei Hua Xian Zi, a sedan battery-electric from JAC Yiwei with a CLTC-rated range of 301 km, 30 kWh of battery, 36 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The JAC Yiwei Hua Xian Zi, a sedan battery-electric from JAC Yiwei with a CLTC-rated range of 301 km, 30 kWh of battery, 36 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-yiwei-hua-xian-zi"
 brand: "jac-yiwei"
 type: "Sedan"

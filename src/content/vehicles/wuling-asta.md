@@ -1,6 +1,6 @@
 ---
 title: "Wuling Asta"
-description: "The Wuling Asta is an SUV non-plug-in hybrid from Wuling with 130 kW of motor power and a NMC (Li-ion) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Wuling Asta is an SUV non-plug-in hybrid from Wuling with 130 kW of motor power and a NMC (Li-ion) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-asta"
 brand: "wuling"
 type: "SUV"

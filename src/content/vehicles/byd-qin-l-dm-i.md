@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin L DM-i"
-description: "The BYD Qin L DM-i, a sedan plug-in hybrid electric from BYD with a CLTC-rated range of 80 km, 10 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Qin L DM-i, a sedan plug-in hybrid electric from BYD with a CLTC-rated range of 80 km, 10 kWh of battery, 120 kW peak output, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-qin-l-dm-i"
 brand: "byd"
 type: "Sedan"

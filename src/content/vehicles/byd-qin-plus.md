@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Plus"
-description: "The BYD Qin Plus is a sedan fully electric from BYD, offering 510 km of CLTC range, a 57 kWh battery, 120 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD Qin Plus is a sedan fully electric from BYD, offering 510 km of CLTC range, a 57 kWh battery, 120 kW peak output, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-qin-plus"
 brand: "byd"
 type: "Sedan"

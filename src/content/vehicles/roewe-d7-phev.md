@@ -1,6 +1,6 @@
 ---
 title: "Roewe D7 PHEV"
-description: "The Roewe D7 PHEV is Roewe's sedan plug-in hybrid with a CLTC-rated range of 125 km, 19 kWh of battery, 137 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Roewe D7 PHEV is Roewe's sedan plug-in hybrid with a CLTC-rated range of 125 km, 19 kWh of battery, 137 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "roewe-d7-phev"
 brand: "roewe"
 type: "Sedan"

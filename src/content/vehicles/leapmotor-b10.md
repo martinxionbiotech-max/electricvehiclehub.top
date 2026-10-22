@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor B10"
-description: "The Leapmotor B10, an SUV battery-electric from Leapmotor with 510 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Leapmotor B10, an SUV battery-electric from Leapmotor with 510 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "leapmotor-b10"
 brand: "leapmotor"
 type: "SUV"

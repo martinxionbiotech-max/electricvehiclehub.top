@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U8"
-description: "The Yangwang U8 is an SUV range-extended electric from Yangwang with 180 km of CLTC range, 49 kWh of battery, 880 kW peak output, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Yangwang U8 is an SUV range-extended electric from Yangwang with 180 km of CLTC range, 49 kWh of battery, 880 kW peak output, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "yangwang-u8"
 brand: "yangwang"
 type: "SUV"

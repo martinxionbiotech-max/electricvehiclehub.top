@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion L"
-description: "The Voyah Passion L is Voyah's sedan plug-in hybrid electric, offering 410 km of CLTC range, 63 kWh of battery, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Voyah Passion L is Voyah's sedan plug-in hybrid electric, offering 410 km of CLTC range, 63 kWh of battery, and a NMC (CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "voyah-passion-l"
 brand: "voyah"
 type: "Sedan"

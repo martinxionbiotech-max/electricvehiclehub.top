@@ -1,6 +1,6 @@
 ---
 title: "Aito M7"
-description: "AITO's Aito M7 is an SUV fully electric with 710 km of CLTC range, a 100 kWh battery, 392 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "AITO's Aito M7 is an SUV fully electric with 710 km of CLTC range, a 100 kWh battery, 392 kW peak output, and a NMC (CATL) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aito-m7"
 brand: "aito"
 type: "SUV"

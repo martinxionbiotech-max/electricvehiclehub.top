@@ -1,6 +1,6 @@
 ---
 title: "Maxus Eg10"
-description: "Maxus's Maxus Eg10 is an MPV battery-electric with a CLTC-rated range of 300 km, a 71 kWh battery, and 150 kW of motor power. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Maxus's Maxus Eg10 is an MPV battery-electric with a CLTC-rated range of 300 km, a 71 kWh battery, and 150 kW of motor power. Full product specification in the Chinese EV database."
 slug: "maxus-eg10"
 brand: "maxus"
 type: "MPV"

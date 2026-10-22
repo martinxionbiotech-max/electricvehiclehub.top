@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI Z"
-description: "The Changan UNI Z, an SUV plug-in hybrid electric from ChangAn, offering 125 km of CLTC range, 18 kWh of battery, 158 kW peak output, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Changan UNI Z, an SUV plug-in hybrid electric from ChangAn, offering 125 km of CLTC range, 18 kWh of battery, 158 kW peak output, and NMC (ternary) chemistry. Full product specification in the Chinese EV database."
 slug: "changan-uni-z"
 brand: "changan"
 type: "SUV"

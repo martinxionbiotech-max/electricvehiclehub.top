@@ -1,6 +1,6 @@
 ---
 title: "Aeolus Huge"
-description: "The Aeolus Huge, an SUV hybrid from Aeolus, offering a 1 kWh battery, 130 kW of motor power, and NMC (Li-ion) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Aeolus Huge, an SUV hybrid from Aeolus, offering a 1 kWh battery, 130 kW of motor power, and NMC (Li-ion) chemistry. Full product specification in the Chinese EV database."
 slug: "aeolus-huge"
 brand: "aeolus"
 type: "SUV"

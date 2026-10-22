@@ -1,6 +1,6 @@
 ---
 title: "Forthing Lingzhi M5 NEV"
-description: "The Forthing Lingzhi M5 NEV, an SUV battery-electric from Forthing, offering a CLTC-rated range of 410 km, 59 kWh of battery, 60 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Forthing Lingzhi M5 NEV, an SUV battery-electric from Forthing, offering a CLTC-rated range of 410 km, 59 kWh of battery, 60 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "forthing-lingzhi-m5-nev"
 brand: "forthing"
 type: "SUV"

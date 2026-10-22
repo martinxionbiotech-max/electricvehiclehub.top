@@ -1,6 +1,6 @@
 ---
 title: "Geometry A"
-description: "The Geometry A is a sedan fully electric from Geometry with a CLTC-rated range of 410 km, 46 kWh of battery, 100 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Geometry A is a sedan fully electric from Geometry with a CLTC-rated range of 410 km, 46 kWh of battery, 100 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "geometry-a"
 brand: "geometry"
 type: "Sedan"

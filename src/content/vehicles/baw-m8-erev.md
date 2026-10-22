@@ -1,6 +1,6 @@
 ---
 title: "BAW M8 EREV"
-description: "The BAW M8 EREV, an MPV extended-range electric from BAW with 230 km of CLTC range, 35 kWh of battery, 170 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BAW M8 EREV, an MPV extended-range electric from BAW with 230 km of CLTC range, 35 kWh of battery, 170 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "baw-m8-erev"
 brand: "baw"
 type: "MPV"

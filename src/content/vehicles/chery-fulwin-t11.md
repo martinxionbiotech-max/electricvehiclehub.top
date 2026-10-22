@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T11"
-description: "Chery Fulwin's Chery Fulwin T11 is an SUV range-extended electric, offering 220 km of CLTC range, 33 kWh of battery, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Chery Fulwin's Chery Fulwin T11 is an SUV range-extended electric, offering 220 km of CLTC range, 33 kWh of battery, 195 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "chery-fulwin-t11"
 brand: "chery-fulwin"
 type: "SUV"

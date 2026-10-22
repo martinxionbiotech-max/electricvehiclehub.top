@@ -1,6 +1,6 @@
 ---
 title: "Baojun Xiangjing"
-description: "Baojun's Baojun Xiangjing is a sedan fully electric with a CLTC-rated range of 600 km, 69 kWh of battery, 160 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "Baojun's Baojun Xiangjing is a sedan fully electric with a CLTC-rated range of 600 km, 69 kWh of battery, 160 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "baojun-xiangjing"
 brand: "baojun"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Voyah Dream"
-description: "The Voyah Dream is Voyah's MPV fully electric, offering a CLTC-rated range of 650 km, 108 kWh of battery, 370 kW of motor power, and a NMC pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Voyah Dream is Voyah's MPV fully electric, offering a CLTC-rated range of 650 km, 108 kWh of battery, 370 kW of motor power, and a NMC pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "voyah-dream"
 brand: "voyah"
 type: "MPV"

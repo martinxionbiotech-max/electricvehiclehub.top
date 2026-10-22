@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 GT"
-description: "Denza's Denza Z9 GT is a sedan battery-electric with a CLTC-rated range of 630 km, a 100 kWh battery, 640 kW peak output, and a LFP (Blade) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Denza's Denza Z9 GT is a sedan battery-electric with a CLTC-rated range of 630 km, a 100 kWh battery, 640 kW peak output, and a LFP (Blade) pack. Full product specification in the Chinese EV database."
 slug: "denza-z9-gt"
 brand: "denza"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Changan CS75 PLUS HEV"
-description: "The Changan CS75 PLUS HEV is ChangAn's SUV non-plug-in hybrid, offering 180 kW of motor power and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Changan CS75 PLUS HEV is ChangAn's SUV non-plug-in hybrid, offering 180 kW of motor power and NMC (ternary) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-cs75-plus-hev"
 brand: "changan"
 type: "SUV"

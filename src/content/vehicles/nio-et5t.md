@@ -1,6 +1,6 @@
 ---
 title: "NIO Et5T"
-description: "The NIO Et5T is an SUV fully electric from NIO, offering 710 km of CLTC range, 100 kWh of battery, 360 kW of motor power, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The NIO Et5T is an SUV fully electric from NIO, offering 710 km of CLTC range, 100 kWh of battery, 360 kW of motor power, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "nio-et5t"
 brand: "nio"
 type: "SUV"

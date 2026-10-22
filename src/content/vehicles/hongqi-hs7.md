@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS7"
-description: "The Hongqi HS7 is Hongqi's SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, 20 kWh of battery, and 168 kW of motor power. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hongqi HS7 is Hongqi's SUV plug-in hybrid electric, offering a CLTC-rated range of 100 km, 20 kWh of battery, and 168 kW of motor power. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "hongqi-hs7"
 brand: "hongqi"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Aion UT"
-description: "AION's Aion UT is an SUV fully electric with a CLTC-rated range of 330 km, a 34 kWh battery, 100 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "AION's Aion UT is an SUV fully electric with a CLTC-rated range of 330 km, a 34 kWh battery, 100 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "aion-ut"
 brand: "aion"
 type: "SUV"

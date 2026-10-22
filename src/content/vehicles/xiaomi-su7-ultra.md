@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SU7 Ultra"
-description: "The Xiaomi SU7 Ultra is a sedan fully electric from Xiaomi with a CLTC-rated range of 630 km, 93 kWh of battery, 1,138 kW peak output, and a NMC (Qilin 2.0, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Xiaomi SU7 Ultra is a sedan fully electric from Xiaomi with a CLTC-rated range of 630 km, 93 kWh of battery, 1,138 kW peak output, and a NMC (Qilin 2.0, CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "xiaomi-su7-ultra"
 brand: "xiaomi"
 type: "Sedan"

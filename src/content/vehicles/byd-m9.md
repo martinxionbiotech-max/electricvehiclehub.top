@@ -1,6 +1,6 @@
 ---
 title: "BYD M9"
-description: "The BYD M9 is BYD's MPV plug-in hybrid electric, offering a CLTC-rated range of 180 km, a 20 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD M9 is BYD's MPV plug-in hybrid electric, offering a CLTC-rated range of 180 km, a 20 kWh battery, 200 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-m9"
 brand: "byd"
 type: "MPV"

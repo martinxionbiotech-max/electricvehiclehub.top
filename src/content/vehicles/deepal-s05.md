@@ -1,6 +1,6 @@
 ---
 title: "Deepal S05"
-description: "The Deepal S05, an SUV fully electric from Deepal, offering 520 km of CLTC range, 56 kWh of battery, 200 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Deepal S05, an SUV fully electric from Deepal, offering 520 km of CLTC range, 56 kWh of battery, 200 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "deepal-s05"
 brand: "deepal"
 type: "SUV"

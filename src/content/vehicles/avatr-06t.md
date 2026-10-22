@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06T"
-description: "The Avatr 06T is Avatr's sedan fully electric with a CLTC-rated range of 652 km, a 75 kWh battery, 450 kW of motor power, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Avatr 06T is Avatr's sedan fully electric with a CLTC-rated range of 652 km, a 75 kWh battery, 450 kW of motor power, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "avatr-06t"
 brand: "avatr"
 type: "Sedan"

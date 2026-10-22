@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor Lafa5"
-description: "The Leapmotor Lafa5, an SUV fully electric from Leapmotor with 515 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Leapmotor Lafa5, an SUV fully electric from Leapmotor with 515 km of CLTC range, 56 kWh of battery, 132 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-lafa5"
 brand: "leapmotor"
 type: "SUV"

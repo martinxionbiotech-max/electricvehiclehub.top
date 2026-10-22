@@ -1,6 +1,6 @@
 ---
 title: "Avatr 11"
-description: "The Avatr 11 is Avatr's SUV battery-electric with 680 km of CLTC range, a 116 kWh battery, 231 kW peak output, and NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Avatr 11 is Avatr's SUV battery-electric with 680 km of CLTC range, a 116 kWh battery, 231 kW peak output, and NMC chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "avatr-11"
 brand: "avatr"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AS"
-description: "The Arcfox AS is an SUV battery-electric from Arcfox with a CLTC-rated range of 602 km, 74 kWh of battery, 252 kW of motor power, and a NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Arcfox AS is an SUV battery-electric from Arcfox with a CLTC-rated range of 602 km, 74 kWh of battery, 252 kW of motor power, and a NMC pack. Full product specification in the Chinese EV database."
 slug: "arcfox-as"
 brand: "arcfox"
 type: "SUV"

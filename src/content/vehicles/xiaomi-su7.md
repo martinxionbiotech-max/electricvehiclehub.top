@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SU7"
-description: "The Xiaomi SU7, a sedan battery-electric from Xiaomi, offering 700 km of CLTC range, 73 kWh of battery, 220 kW of motor power, and LFP (Blade) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Xiaomi SU7, a sedan battery-electric from Xiaomi, offering 700 km of CLTC range, 73 kWh of battery, 220 kW of motor power, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "xiaomi-su7"
 brand: "xiaomi"
 type: "Sedan"

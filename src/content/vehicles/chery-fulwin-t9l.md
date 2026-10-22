@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T9L"
-description: "The Chery Fulwin T9L is an SUV plug-in hybrid from Chery Fulwin with a CLTC-rated range of 135 km, 260 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery Fulwin T9L is an SUV plug-in hybrid from Chery Fulwin with a CLTC-rated range of 135 km, 260 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-fulwin-t9l"
 brand: "chery-fulwin"
 type: "SUV"

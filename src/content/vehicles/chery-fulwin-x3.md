@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3"
-description: "The Chery Fulwin X3 is Chery Fulwin's SUV fully electric, offering a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Chery Fulwin X3 is Chery Fulwin's SUV fully electric, offering a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "chery-fulwin-x3"
 brand: "chery-fulwin"
 type: "SUV"

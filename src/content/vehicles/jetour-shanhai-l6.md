@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L6"
-description: "Jetour's Jetour Shanhai L6 is an SUV plug-in hybrid electric, offering a CLTC-rated range of 125 km, a 19 kWh battery, 150 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Jetour's Jetour Shanhai L6 is an SUV plug-in hybrid electric, offering a CLTC-rated range of 125 km, a 19 kWh battery, 150 kW peak output, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "jetour-shanhai-l6"
 brand: "jetour"
 type: "SUV"

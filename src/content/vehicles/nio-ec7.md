@@ -1,6 +1,6 @@
 ---
 title: "NIO EC7"
-description: "NIO's NIO EC7 is an SUV battery-electric with 635 km of CLTC range, a 100 kWh battery, 480 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "NIO's NIO EC7 is an SUV battery-electric with 635 km of CLTC range, a 100 kWh battery, 480 kW of motor power, and NMC (CATL) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "nio-ec7"
 brand: "nio"
 type: "SUV"

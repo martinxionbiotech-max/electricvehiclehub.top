@@ -1,6 +1,6 @@
 ---
 title: "BYD Yuan Up"
-description: "The BYD Yuan Up is BYD's SUV fully electric, offering a CLTC-rated range of 401 km, a 45 kWh battery, 130 kW of motor power, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The BYD Yuan Up is BYD's SUV fully electric, offering a CLTC-rated range of 401 km, a 45 kWh battery, 130 kW of motor power, and LFP (Blade) chemistry. Full product specification in the Chinese EV database."
 slug: "byd-yuan-up"
 brand: "byd"
 type: "SUV"

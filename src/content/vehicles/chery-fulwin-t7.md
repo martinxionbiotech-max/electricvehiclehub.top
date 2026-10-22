@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T7"
-description: "The Chery Fulwin T7, an SUV battery-electric from Chery Fulwin with a CLTC-rated range of 600 km, a 65 kWh battery, 178 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Chery Fulwin T7, an SUV battery-electric from Chery Fulwin with a CLTC-rated range of 600 km, a 65 kWh battery, 178 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "chery-fulwin-t7"
 brand: "chery-fulwin"
 type: "SUV"

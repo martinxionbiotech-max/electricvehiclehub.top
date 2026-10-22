@@ -1,6 +1,6 @@
 ---
 title: "Hongqi H5 Phev"
-description: "The Hongqi H5 Phev is an SUV plug-in hybrid electric from Hongqi with 130 km of CLTC range, a 18 kWh battery, 168 kW of motor power, and NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The Hongqi H5 Phev is an SUV plug-in hybrid electric from Hongqi with 130 km of CLTC range, a 18 kWh battery, 168 kW of motor power, and NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "hongqi-h5-phev"
 brand: "hongqi"
 type: "SUV"

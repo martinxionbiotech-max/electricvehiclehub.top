@@ -1,6 +1,6 @@
 ---
 title: "SAIC H5"
-description: "SAIC's SAIC H5 is an SUV battery-electric with 655 km of CLTC range, a 80 kWh battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "SAIC's SAIC H5 is an SUV battery-electric with 655 km of CLTC range, a 80 kWh battery, 150 kW of motor power, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "saic-h5"
 brand: "saic"
 type: "SUV"

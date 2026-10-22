@@ -1,6 +1,6 @@
 ---
 title: "Geometry M6"
-description: "Geometry's Geometry M6 is an SUV battery-electric, offering 450 km of CLTC range, 53 kWh of battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Geometry's Geometry M6 is an SUV battery-electric, offering 450 km of CLTC range, 53 kWh of battery, 150 kW of motor power, and LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "geometry-m6"
 brand: "geometry"
 type: "SUV"

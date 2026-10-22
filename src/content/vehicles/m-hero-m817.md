@@ -1,6 +1,6 @@
 ---
 title: "M Hero M817"
-description: "The M Hero M817 is an SUV plug-in hybrid electric from M-Hero with 215 km of CLTC range, 31 kWh of battery, 405 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The M Hero M817 is an SUV plug-in hybrid electric from M-Hero with 215 km of CLTC range, 31 kWh of battery, 405 kW of motor power, and NMC (ternary) chemistry. Full product specification in the Chinese EV database."
 slug: "m-hero-m817"
 brand: "m-hero"
 type: "SUV"

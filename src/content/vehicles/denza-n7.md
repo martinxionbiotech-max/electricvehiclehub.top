@@ -1,6 +1,6 @@
 ---
 title: "Denza N7"
-description: "The Denza N7 is an SUV fully electric from Denza, offering 702 km of CLTC range, 91 kWh of battery, 230 kW peak output, and a LFP (Blade) pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Denza N7 is an SUV fully electric from Denza, offering 702 km of CLTC range, 91 kWh of battery, 230 kW peak output, and a LFP (Blade) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "denza-n7"
 brand: "denza"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HL EREV"
-description: "The Hyptec HL EREV, an SUV range-extended electric from Hyptec with a CLTC-rated range of 350 km, a 60 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Hyptec HL EREV, an SUV range-extended electric from Hyptec with a CLTC-rated range of 350 km, a 60 kWh battery, 250 kW of motor power, and a NMC (ternary) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "hyptec-hl-erev"
 brand: "hyptec"
 type: "SUV"

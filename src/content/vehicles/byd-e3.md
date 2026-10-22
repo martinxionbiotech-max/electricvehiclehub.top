@@ -1,6 +1,6 @@
 ---
 title: "BYD E3"
-description: "The BYD E3 is BYD's sedan battery-electric with a CLTC-rated range of 401 km, 43 kWh of battery, 100 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The BYD E3 is BYD's sedan battery-electric with a CLTC-rated range of 401 km, 43 kWh of battery, 100 kW of motor power, and a LFP (Blade) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-e3"
 brand: "byd"
 type: "Sedan"

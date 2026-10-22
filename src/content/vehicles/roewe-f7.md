@@ -1,6 +1,6 @@
 ---
 title: "Roewe F7"
-description: "The Roewe F7 is a sedan fully electric from Roewe with a CLTC-rated range of 576 km, 77 kWh of battery, 250 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Roewe F7 is a sedan fully electric from Roewe with a CLTC-rated range of 576 km, 77 kWh of battery, 250 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "roewe-f7"
 brand: "roewe"
 type: "Sedan"

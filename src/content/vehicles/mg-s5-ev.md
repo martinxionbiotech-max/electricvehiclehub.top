@@ -1,6 +1,6 @@
 ---
 title: "MG S5 EV"
-description: "The MG S5 EV is MG's SUV fully electric with a CLTC-rated range of 425 km, a 49 kWh battery, 125 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The MG S5 EV is MG's SUV fully electric with a CLTC-rated range of 425 km, a 49 kWh battery, 125 kW of motor power, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "mg-s5-ev"
 brand: "mg"
 type: "SUV"

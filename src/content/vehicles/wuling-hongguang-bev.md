@@ -1,6 +1,6 @@
 ---
 title: "Wuling Hongguang BEV"
-description: "Wuling's Wuling Hongguang BEV is an MPV battery-electric with 300 km of CLTC range, a 32 kWh battery, 75 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Wuling's Wuling Hongguang BEV is an MPV battery-electric with 300 km of CLTC range, a 32 kWh battery, 75 kW peak output, and a LFP pack. Full product specification in the Chinese EV database."
 slug: "wuling-hongguang-bev"
 brand: "wuling"
 type: "MPV"

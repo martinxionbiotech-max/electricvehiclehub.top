@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine RF8"
-description: "The JAC Refine RF8 is an MPV plug-in hybrid electric from JAC Refine with 252 km of CLTC range, a 44 kWh battery, 160 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The JAC Refine RF8 is an MPV plug-in hybrid electric from JAC Refine with 252 km of CLTC range, a 44 kWh battery, 160 kW peak output, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "jac-refine-rf8"
 brand: "jac-refine"
 type: "MPV"

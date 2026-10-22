@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs55"
-description: "ChangAn's Changan Cs55 is an SUV battery-electric, offering 605 km of CLTC range, 84 kWh of battery, 160 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "ChangAn's Changan Cs55 is an SUV battery-electric, offering 605 km of CLTC range, 84 kWh of battery, 160 kW of motor power, and NMC (ternary) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "changan-cs55"
 brand: "changan"
 type: "SUV"

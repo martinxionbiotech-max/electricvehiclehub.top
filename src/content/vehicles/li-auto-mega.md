@@ -1,6 +1,6 @@
 ---
 title: "Li Auto Mega"
-description: "The Li Auto Mega is an SUV battery-electric from Li Auto with a CLTC-rated range of 710 km, 102 kWh of battery, 400 kW peak output, and a NMC (Qilin) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Li Auto Mega is an SUV battery-electric from Li Auto with a CLTC-rated range of 710 km, 102 kWh of battery, 400 kW peak output, and a NMC (Qilin) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "li-auto-mega"
 brand: "li-auto"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Zeekr MIX"
-description: "The Zeekr MIX is Zeekr's SUV battery-electric, offering a CLTC-rated range of 550 km, 76 kWh of battery, 310 kW of motor power, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The Zeekr MIX is Zeekr's SUV battery-electric, offering a CLTC-rated range of 550 km, 76 kWh of battery, 310 kW of motor power, and LFP / NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "zeekr-mix"
 brand: "zeekr"
 type: "SUV"

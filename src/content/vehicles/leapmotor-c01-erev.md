@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C01 EREV"
-description: "The Leapmotor C01 EREV is a sedan extended-range electric from Leapmotor with a CLTC-rated range of 216 km, 30 kWh of battery, 200 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "The Leapmotor C01 EREV is a sedan extended-range electric from Leapmotor with a CLTC-rated range of 216 km, 30 kWh of battery, 200 kW peak output, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "leapmotor-c01-erev"
 brand: "leapmotor"
 type: "Sedan"

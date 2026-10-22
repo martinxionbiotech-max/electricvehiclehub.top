@@ -1,6 +1,6 @@
 ---
 title: "MG Pilot PHEV"
-description: "MG's MG Pilot PHEV is an SUV plug-in hybrid with 75 km of CLTC range, 16 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "MG's MG Pilot PHEV is an SUV plug-in hybrid with 75 km of CLTC range, 16 kWh of battery, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "mg-pilot-phev"
 brand: "mg"
 type: "SUV"

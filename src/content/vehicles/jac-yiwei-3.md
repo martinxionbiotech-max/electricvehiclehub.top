@@ -1,6 +1,6 @@
 ---
 title: "JAC Yiwei 3"
-description: "The JAC Yiwei 3 is a sedan fully electric from JAC Yiwei with a CLTC-rated range of 330 km, a 34 kWh battery, 60 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "The JAC Yiwei 3 is a sedan fully electric from JAC Yiwei with a CLTC-rated range of 330 km, a 34 kWh battery, 60 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "jac-yiwei-3"
 brand: "jac-yiwei"
 type: "Sedan"

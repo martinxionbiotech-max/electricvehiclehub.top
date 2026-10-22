@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight S PHEV"
-description: "Wuling's Wuling Starlight S PHEV is an SUV plug-in hybrid with a CLTC-rated range of 60 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
+description: "Wuling's Wuling Starlight S PHEV is an SUV plug-in hybrid with a CLTC-rated range of 60 km, 9 kWh of battery, 150 kW of motor power, and a LFP pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "wuling-starlight-s-phev"
 brand: "wuling"
 type: "SUV"

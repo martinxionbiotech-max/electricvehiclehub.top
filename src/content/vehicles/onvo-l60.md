@@ -1,6 +1,6 @@
 ---
 title: "Onvo L60"
-description: "The Onvo L60 is an SUV battery-electric from Onvo, offering a CLTC-rated range of 560 km, a 60 kWh battery, 240 kW peak output, and LFP / NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Onvo L60 is an SUV battery-electric from Onvo, offering a CLTC-rated range of 560 km, a 60 kWh battery, 240 kW peak output, and LFP / NMC chemistry. Full product specification in the Chinese EV database."
 slug: "onvo-l60"
 brand: "onvo"
 type: "SUV"

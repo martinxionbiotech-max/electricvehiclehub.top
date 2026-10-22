@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 EV"
-description: "The BYD Seal 06 EV is a sedan fully electric from BYD with a CLTC-rated range of 470 km, a 46 kWh battery, 110 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "The BYD Seal 06 EV is a sedan fully electric from BYD with a CLTC-rated range of 470 km, a 46 kWh battery, 110 kW peak output, and LFP (Blade) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-seal-06-ev"
 brand: "byd"
 type: "Sedan"

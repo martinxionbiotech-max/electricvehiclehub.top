@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS7"
-description: "The Hongqi E HS7, an SUV battery-electric from Hongqi with a CLTC-rated range of 605 km, 85 kWh of battery, 253 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Hongqi E HS7, an SUV battery-electric from Hongqi with a CLTC-rated range of 605 km, 85 kWh of battery, 253 kW peak output, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "hongqi-e-hs7"
 brand: "hongqi"
 type: "SUV"

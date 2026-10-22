@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS5"
-description: "The Hongqi E HS5 is an SUV battery-electric from Hongqi with a CLTC-rated range of 520 km, a 62 kWh battery, 210 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Hongqi E HS5 is an SUV battery-electric from Hongqi with a CLTC-rated range of 520 km, a 62 kWh battery, 210 kW peak output, and a NMC (CATL) pack. Full product specification in the Chinese EV database."
 slug: "hongqi-e-hs5"
 brand: "hongqi"
 type: "SUV"

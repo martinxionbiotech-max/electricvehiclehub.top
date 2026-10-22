@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L7"
-description: "The Aeolus L7 is an SUV plug-in hybrid from Aeolus, offering a CLTC-rated range of 205 km, a 30 kWh battery, 120 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Aeolus L7 is an SUV plug-in hybrid from Aeolus, offering a CLTC-rated range of 205 km, a 30 kWh battery, 120 kW peak output, and a LFP pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "aeolus-l7"
 brand: "aeolus"
 type: "SUV"

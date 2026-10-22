@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07L"
-description: "The Avatr 07L is an SUV fully electric from Avatr with 725 km of CLTC range, a 89 kWh battery, 305 kW of motor power, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "The Avatr 07L is an SUV fully electric from Avatr with 725 km of CLTC range, a 89 kWh battery, 305 kW of motor power, and NMC (CATL) chemistry. Full product specification in the Chinese EV database."
 slug: "avatr-07l"
 brand: "avatr"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Tank 700"
-description: "The Tank 700 is an SUV plug-in hybrid electric from Tank, offering a CLTC-rated range of 90 km, 37 kWh of battery, 385 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
+description: "The Tank 700 is an SUV plug-in hybrid electric from Tank, offering a CLTC-rated range of 90 km, 37 kWh of battery, 385 kW of motor power, and a NMC (ternary) pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "tank-700"
 brand: "tank"
 type: "SUV"

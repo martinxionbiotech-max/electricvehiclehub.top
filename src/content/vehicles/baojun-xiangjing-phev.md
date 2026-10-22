@@ -1,6 +1,6 @@
 ---
 title: "Baojun Xiangjing PHEV"
-description: "Baojun's Baojun Xiangjing PHEV is a sedan plug-in hybrid, offering 140 km of CLTC range, a 20 kWh battery, 160 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
+description: "Baojun's Baojun Xiangjing PHEV is a sedan plug-in hybrid, offering 140 km of CLTC range, a 20 kWh battery, 160 kW peak output, and LFP chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "baojun-xiangjing-phev"
 brand: "baojun"
 type: "Sedan"

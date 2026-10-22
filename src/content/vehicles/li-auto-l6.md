@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L6"
-description: "Li Auto's Li Auto L6 is an SUV range-extended electric, offering a CLTC-rated range of 300 km, 36 kWh of battery, 300 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
+description: "Li Auto's Li Auto L6 is an SUV range-extended electric, offering a CLTC-rated range of 300 km, 36 kWh of battery, 300 kW of motor power, and LFP chemistry. Full product specification in the Chinese EV database."
 slug: "li-auto-l6"
 brand: "li-auto"
 type: "SUV"

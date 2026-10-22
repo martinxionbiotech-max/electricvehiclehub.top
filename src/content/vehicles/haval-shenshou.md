@@ -1,6 +1,6 @@
 ---
 title: "Haval Shenshou"
-description: "Haval's Haval Shenshou is an SUV hybrid with a 1 kWh battery, 130 kW peak output, and NMC (Li-ion) chemistry. Landed-cost analysis across 30 key export markets for importers."
+description: "Haval's Haval Shenshou is an SUV hybrid with a 1 kWh battery, 130 kW peak output, and NMC (Li-ion) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "haval-shenshou"
 brand: "haval"
 type: "SUV"
