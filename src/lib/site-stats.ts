@@ -13,6 +13,8 @@ export interface SiteStats {
   bevCount: number;
   phevCount: number;
   erevCount: number;
+  hevCount: number;
+  iceCount: number;
   otherPowertrainCount: number;
   markets: number;
   publishedArticles: number;
@@ -31,6 +33,8 @@ export async function getSiteStats(): Promise<SiteStats> {
   let bevCount = 0;
   let phevCount = 0;
   let erevCount = 0;
+  let hevCount = 0;
+  let iceCount = 0;
   let otherPowertrainCount = 0;
   const marketSet = new Set<string>();
   for (const v of vehicles) {
@@ -38,6 +42,8 @@ export async function getSiteStats(): Promise<SiteStats> {
     if (p === 'BEV') bevCount++;
     else if (p === 'PHEV') phevCount++;
     else if (p === 'EREV' || p === 'REEV') erevCount++;
+    else if (p === 'HEV') hevCount++;
+    else if (p === 'ICE') iceCount++;
     else otherPowertrainCount++;
     for (const m of v.data.landed_cost_markets ?? []) {
       if (m?.market_key) marketSet.add(m.market_key);
@@ -50,6 +56,8 @@ export async function getSiteStats(): Promise<SiteStats> {
     bevCount,
     phevCount,
     erevCount,
+    hevCount,
+    iceCount,
     otherPowertrainCount,
     markets: marketSet.size,
     publishedArticles: blog.filter((b) => !b.data.draft).length,
