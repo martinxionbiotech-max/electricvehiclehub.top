@@ -40,7 +40,7 @@ export async function GET() {
       {
         name: 'Chinese EV Export Database — Vehicles',
         description:
-          'Normalized Chinese EV vehicle records with China ex-factory price and estimated landed cost per export market (indicative B2B estimates, not retail quotes).',
+          'Normalized Chinese EV vehicle records with China ex-factory reference price and estimated landed cost per export market (indicative B2B estimates, not retail quotes).',
         license: 'CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)',
         generated_at: new Date().toISOString(),
         records: rows.length,

@@ -47,7 +47,7 @@ export const GET: APIRoute = async ({ params }) => {
     { label: 'Body type', value: data.type },
     { label: 'Powertrain', value: data.powertrain },
     { label: 'Price (ex-factory China)', value: `$${data.price_usd.toLocaleString('en-US')} ${data.currency || 'USD'}` },
-    { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
+    { label: 'Price basis', value: data.price_type || 'China ex-factory reference price' },
     { label: 'Range (CLTC)', value: data.range_cltc_km ? `${data.range_cltc_km} km` : null },
     { label: 'Battery', value: data.battery_kwh ? `${data.battery_kwh} kWh` : null },
     { label: 'Motor power', value: data.motor_power_kw ? `${data.motor_power_kw} kW` : null },

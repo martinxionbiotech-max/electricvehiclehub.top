@@ -80,12 +80,14 @@ const specs = [
   { label: 'Trim / version', value: data.trim || null },
   { label: 'Family / nameplate', value: data.family || null },
   { label: 'Currency', value: data.currency || 'USD' },
-  { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
+  { label: 'Price basis', value: data.price_type || 'China ex-factory reference price' },
   { label: 'Price (ex-factory)', value: data.price_usd ? `$${data.price_usd.toLocaleString()}` : null },
   { label: 'FOB price range', value: data.fob_price_usd_min != null && data.fob_price_usd_max != null ? `$${data.fob_price_usd_min.toLocaleString()} – $${data.fob_price_usd_max.toLocaleString()}` : null },
   { label: 'Range (CLTC)', value: data.range_cltc_km ? `${data.range_cltc_km} km` : null },
   { label: 'Range (long, CLTC)', value: data.range_long_km ? `${data.range_long_km} km` : null },
   { label: 'Range (WLTP)', value: data.range_wltp_km ? `${data.range_wltp_km} km` : null },
+  { label: 'Range (EPA)', value: data.range_epa_km ? `${data.range_epa_km} km` : null },
+  { label: 'Range (NEDC)', value: data.range_nedc_km ? `${data.range_nedc_km} km` : null },
   { label: 'Battery', value: data.battery_kwh ? `${data.battery_kwh} kWh` : null },
   { label: 'Battery type', value: data.battery_type || null },
   { label: 'Battery thermal management', value: data.battery_thermal || null },
@@ -163,7 +165,7 @@ const jsonLd = {
         priceCurrency: data.currency || 'USD',
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
-        description: `${data.price_type || 'China ex-factory price (MSRP)'} — reference starting price. Confirm with a supplier quote.`,
+        description: `${data.price_type || 'China ex-factory reference price'} — reference starting price. Confirm with a supplier quote.`,
       }
     : undefined,
 };
@@ -440,7 +442,7 @@ const jsonLd = {
         {sameBrandVehicles.map((v) => (
           <li>
             <a href={`/vehicles/${v.data.slug}/`} class="text-green-700 hover:underline font-medium">{v.data.title || v.data.model}</a>
-            <span class="text-gray-500 text-sm"> — {v.data.range_standard ? `${v.data.range_standard} km` : 'range TBA'}{v.data.price_usd ? ` · $${Number(v.data.price_usd).toLocaleString()}` : ''}</span>
+            <span class="text-gray-500 text-sm"> — {v.data.range_cltc_km ? `${v.data.range_cltc_km} km CLTC` : 'range TBA'}{v.data.price_usd ? ` · $${Number(v.data.price_usd).toLocaleString()}` : ''}</span>
           </li>
         ))}
       </ul>
