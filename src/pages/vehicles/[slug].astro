@@ -1,8 +1,9 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { url as siteUrl } from '@/config/site';
 import { brandLabelMap, vehicleAlt } from '@/lib/brand-label';
+import { powertrainLabel } from '@/lib/powertrain';
 
 export async function getStaticPaths() {
   const vehicles = await getCollection('vehicles');
@@ -16,48 +17,26 @@ const vehicles = await getCollection('vehicles');
 const brandMap = await brandLabelMap();
 const vehicle = vehicles.find((v) => v.data.slug === slug);
 const { data } = vehicle;
-const { Content } = await render(vehicle);
-const sameBrandVehicles = vehicles
-  .filter((v) => v.data.brand === data.brand && v.data.slug !== slug)
-  .slice(0, 4);
 
-/** N/A fallback for string/optional spec fields (industrial tone, zero fabrication). */
+/** N/A fallback for string/optional fields (zero fabrication). */
 const na = (v: unknown, suffix = ''): string =>
   v == null || v === '' ? 'N/A' : `${v}${suffix}`;
 
-// ── ① Entity Snapshot ──
+/** Price basis derived from the record's price_type (never estimated). */
+const priceBasis = data.price_type || 'China ex-factory reference price';
+const isChinaExFactory = /ex-factory/i.test(priceBasis);
+// Market is derived from the price basis, not asserted independently.
+const priceMarket = isChinaExFactory ? 'China (domestic)' : 'Not stated';
+
 const batterySpec = data.battery_type
   ? `${data.battery_type}${data.battery_kwh ? ` · ${data.battery_kwh} kWh` : ''}`
   : data.battery_kwh
     ? `${data.battery_kwh} kWh`
-    : 'N/A';
+    : null;
+
 const drivePower = data.total_power_kw ?? data.motor_power_kw;
-const fobRange =
-  data.fob_price_usd_min != null && data.fob_price_usd_max != null
-    ? `$${data.fob_price_usd_min.toLocaleString()} – $${data.fob_price_usd_max.toLocaleString()}`
-    : `≈ $${data.price_usd.toLocaleString()} (ex-factory reference)`;
 
-// ── ③ Dimensions & Logistics (length-graded 40HQ packing estimate) ──
-const hasDims = !!(data.length_mm && data.width_mm && data.height_mm);
-const outerVolumeCbm = hasDims
-  ? (data.length_mm * data.width_mm * data.height_mm) / 1e9
-  : null;
-const hqGrade = data.length_mm
-  ? data.length_mm < 4000
-    ? 'micro / city'
-    : data.length_mm <= 5000
-      ? 'compact–midsize'
-      : 'large'
-  : null;
-const hqUnits = data.length_mm
-  ? data.length_mm < 4000
-    ? 3
-    : data.length_mm <= 5000
-      ? 2
-      : 1
-  : null;
-
-// ── ⑤ Market Compliance & Export Profile (HS Code + certification facts only) ──
+// ── ⑤ HS code + certification facts only (export intel lives on .net) ──
 const hsCode =
   data.hs_code ||
   (data.powertrain === 'BEV'
@@ -72,69 +51,109 @@ const hsNote =
       ? '870340 — plug-in hybrid / hybrid electric vehicles'
       : 'Not classified (powertrain outside BEV/PHEV/HEV scope)';
 
-// 规格表数据项（完整 63 字段参考表，补全渲染层缺失字段）
-const specs = [
-  { label: 'Brand', value: data.brand.toUpperCase() },
-  { label: 'Body type', value: data.type },
-  { label: 'Powertrain', value: data.powertrain },
-  { label: 'Trim / version', value: data.trim || null },
-  { label: 'Family / nameplate', value: data.family || null },
-  { label: 'Currency', value: data.currency || 'USD' },
-  { label: 'Price basis', value: data.price_type || 'China ex-factory reference price' },
-  { label: 'Price (ex-factory)', value: data.price_usd ? `$${data.price_usd.toLocaleString()}` : null },
-  { label: 'FOB price range', value: data.fob_price_usd_min != null && data.fob_price_usd_max != null ? `$${data.fob_price_usd_min.toLocaleString()} – $${data.fob_price_usd_max.toLocaleString()}` : null },
-  { label: 'Range (CLTC)', value: data.range_cltc_km ? `${data.range_cltc_km} km` : null },
-  { label: 'Range (long, CLTC)', value: data.range_long_km ? `${data.range_long_km} km` : null },
-  { label: 'Range (WLTP)', value: data.range_wltp_km ? `${data.range_wltp_km} km` : null },
-  { label: 'Range (EPA)', value: data.range_epa_km ? `${data.range_epa_km} km` : null },
-  { label: 'Range (NEDC)', value: data.range_nedc_km ? `${data.range_nedc_km} km` : null },
-  { label: 'Battery', value: data.battery_kwh ? `${data.battery_kwh} kWh` : null },
-  { label: 'Battery type', value: data.battery_type || null },
-  { label: 'Battery thermal management', value: data.battery_thermal || null },
-  { label: 'Heat pump', value: data.heat_pump || null },
-  { label: 'Drive layout', value: data.drive_type || null },
-  { label: 'Motor type', value: data.motor_type || null },
-  { label: 'Motor model', value: data.motor_model || null },
-  { label: 'Motor power', value: data.motor_power_kw ? `${data.motor_power_kw} kW` : null },
-  { label: 'Total power (combined)', value: data.total_power_kw ? `${data.total_power_kw} kW` : null },
-  { label: 'Torque', value: data.torque_nm ? `${data.torque_nm} Nm` : null },
-  { label: '0-100 km/h', value: data.accel_0_100_s ? `${data.accel_0_100_s} s` : null },
-  { label: 'Top speed', value: data.top_speed_kmh ? `${data.top_speed_kmh} km/h` : null },
-  { label: 'Efficiency', value: data.efficiency_kwh_100km ? `${data.efficiency_kwh_100km} kWh/100km` : null },
-  { label: 'Fast charge', value: data.fast_charge || null },
-  { label: 'Length', value: data.length_mm ? `${data.length_mm} mm` : null },
-  { label: 'Width', value: data.width_mm ? `${data.width_mm} mm` : null },
-  { label: 'Height', value: data.height_mm ? `${data.height_mm} mm` : null },
-  { label: 'Wheelbase', value: data.wheelbase_mm ? `${data.wheelbase_mm} mm` : null },
-  { label: 'Curb weight', value: data.weight_kg ? `${data.weight_kg} kg` : null },
-  { label: 'Gross weight', value: data.gross_weight_kg ? `${data.gross_weight_kg} kg` : null },
-  { label: 'Ground clearance', value: data.ground_clearance_mm ? `${data.ground_clearance_mm} mm` : null },
-  { label: 'Trunk capacity', value: data.trunk_l ? `${data.trunk_l} L` : null },
-  { label: 'Front suspension', value: data.suspension_front || null },
-  { label: 'Rear suspension', value: data.suspension_rear || null },
-  { label: 'Brakes', value: data.brakes || null },
-  { label: 'Drag coefficient (Cd)', value: data.drag_coefficient != null ? String(data.drag_coefficient) : null },
-  { label: 'Charging interface', value: data.charging_interface || null },
-  { label: 'Charging adapter (export)', value: data.charging_adapter || null },
-  { label: 'Infotainment language', value: data.infotainment_language || null },
-  { label: 'Network bands', value: data.network_bands || null },
-  { label: 'Certification notes', value: data.certification_notes || null },
-  { label: 'HS code', value: data.hs_code || hsCode },
-  { label: 'Data tier', value: data.data_tier != null ? `Tier ${data.data_tier}` : null },
-  { label: 'Verification status', value: data.verification_status || null },
-].filter((s) => s.value);
-
-// 版本/trim 拆分（有 trim 数据的车型渲染版本列表；"/" 分隔）
+// ── ⑥ trim list (recorded verbatim; no per-trim spec breakdown is fabricated) ──
 const trimParts = data.trim
   ? data.trim.split('/').map((s) => s.trim()).filter(Boolean)
   : [];
 const hasTrimVariants = trimParts.length > 1;
 
-// 结构化数据/社交分享用的绝对图片地址
+// ── ⑦ competitor comparison: same body type + same powertrain, closest price ──
+const competitors = vehicles
+  .filter(
+    (v) =>
+      v.data.slug !== slug &&
+      v.data.type === data.type &&
+      v.data.powertrain === data.powertrain,
+  )
+  .map((v) => ({ ...v, priceDelta: Math.abs(v.data.price_usd - data.price_usd) }))
+  .sort((a, b) => a.priceDelta - b.priceDelta)
+  .slice(0, 4);
+const hasCompetitors = competitors.length >= 2;
+
+// ── ⑩ internal links: same brand + same family ──
+const sameBrandVehicles = vehicles
+  .filter((v) => v.data.brand === data.brand && v.data.slug !== slug)
+  .slice(0, 4);
+const sameFamilyVehicles = vehicles.filter(
+  (v) =>
+    v.data.slug !== slug &&
+    v.data.brand === data.brand &&
+    v.data.family &&
+    v.data.family === data.family,
+);
+
+// ── grouped specification groups (render only present values) ──
+type SpecRow = { label: string; value: string };
+const specs = {
+  dimensions: [
+    { label: 'Length', value: data.length_mm ? `${data.length_mm} mm` : null },
+    { label: 'Width', value: data.width_mm ? `${data.width_mm} mm` : null },
+    { label: 'Height', value: data.height_mm ? `${data.height_mm} mm` : null },
+    { label: 'Wheelbase', value: data.wheelbase_mm ? `${data.wheelbase_mm} mm` : null },
+    { label: 'Curb weight', value: data.weight_kg ? `${data.weight_kg} kg` : null },
+    { label: 'Gross weight', value: data.gross_weight_kg ? `${data.gross_weight_kg} kg` : null },
+    { label: 'Ground clearance', value: data.ground_clearance_mm ? `${data.ground_clearance_mm} mm` : null },
+    { label: 'Trunk capacity', value: data.trunk_l ? `${data.trunk_l} L` : null },
+    { label: 'Drag coefficient (Cd)', value: data.drag_coefficient != null ? String(data.drag_coefficient) : null },
+  ].filter((s) => s.value) as SpecRow[],
+  performance: [
+    { label: 'Drive layout', value: data.drive_type || null },
+    { label: 'Motor type', value: data.motor_type || null },
+    { label: 'Motor power', value: data.motor_power_kw ? `${data.motor_power_kw} kW` : null },
+    { label: 'Total power (combined)', value: data.total_power_kw ? `${data.total_power_kw} kW` : null },
+    { label: 'Torque', value: data.torque_nm ? `${data.torque_nm} Nm` : null },
+    { label: '0–100 km/h', value: data.accel_0_100_s ? `${data.accel_0_100_s} s` : null },
+    { label: 'Top speed', value: data.top_speed_kmh ? `${data.top_speed_kmh} km/h` : null },
+    { label: 'Efficiency', value: data.efficiency_kwh_100km ? `${data.efficiency_kwh_100km} kWh/100km` : null },
+    { label: 'Front suspension', value: data.suspension_front || null },
+    { label: 'Rear suspension', value: data.suspension_rear || null },
+    { label: 'Brakes', value: data.brakes || null },
+  ].filter((s) => s.value) as SpecRow[],
+  battery: [
+    { label: 'Capacity', value: data.battery_kwh ? `${data.battery_kwh} kWh` : null },
+    { label: 'Chemistry / type', value: data.battery_type || null },
+    { label: 'Thermal management', value: data.battery_thermal || null },
+    { label: 'Heat pump', value: data.heat_pump || null },
+  ].filter((s) => s.value) as SpecRow[],
+  charging: [
+    { label: 'Fast charge', value: data.fast_charge || null },
+    { label: 'Charging interface', value: data.charging_interface || null },
+    { label: 'Charging adapter (export)', value: data.charging_adapter || null },
+  ].filter((s) => s.value) as SpecRow[],
+};
+
+// ── ④ range standards, each labelled + trim applicability ──
+const rangeStandards = [
+  { label: 'CLTC', value: data.range_cltc_km ? `${data.range_cltc_km} km` : null },
+  { label: 'CLTC (long-range)', value: data.range_long_km ? `${data.range_long_km} km` : null },
+  { label: 'WLTP', value: data.range_wltp_km ? `${data.range_wltp_km} km` : null },
+  { label: 'EPA', value: data.range_epa_km ? `${data.range_epa_km} km` : null },
+  { label: 'NEDC', value: data.range_nedc_km ? `${data.range_nedc_km} km` : null },
+].filter((s) => s.value);
+
+// ── ⑨ unresolved (key fields absent from the record) ──
+const keyFields: [string, unknown][] = [
+  ['range (CLTC)', data.range_cltc_km],
+  ['battery capacity', data.battery_kwh],
+  ['motor power', data.motor_power_kw],
+  ['torque', data.torque_nm],
+  ['0–100 km/h', data.accel_0_100_s],
+  ['top speed', data.top_speed_kmh],
+  ['curb weight', data.weight_kg],
+  ['model year', data.model_year],
+  ['trim', data.trim],
+  ['range (WLTP)', data.range_wltp_km],
+];
+const unresolved = keyFields.filter(([, v]) => v == null).map(([k]) => k);
+
+// ── tier ──
+const tier = data.quality_tier || 'B';
+const isCompact = tier === 'C';
+
+// structured-data / share image
 const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
 const vehicleImage = new URL(data.image || '/og-image.png', siteUrl).href;
 
-// JSON-LD Vehicle schema（产品信息定位）
 const fuelTypeByPowertrain = {
   BEV: 'Electric',
   PHEV: 'Plug-in hybrid',
@@ -151,24 +170,30 @@ const jsonLd = {
   image: [vehicleImage],
   name: data.title,
   description: data.description,
-  brand: { '@type': 'Brand', name: data.brand.toUpperCase() },
-  vehicleModelDate: '2026',
+  brand: { '@type': 'Brand', name: (brandMap.get(data.brand) || data.brand).toUpperCase() },
   bodyType: data.type,
   fuelType: fuelTypeByPowertrain[data.powertrain],
-  numberOfDoors: 4,
-  vehicleEngine: data.motor_power_kw ? { '@type': 'EngineSpecification', enginePower: { '@type': 'QuantitativeValue', value: data.motor_power_kw, unitCode: 'KWT' } } : undefined,
-  offers: data.price_usd
+  ...(data.motor_power_kw
     ? {
-        '@type': 'Offer',
-        url: pageUrl,
-        price: data.price_usd,
-        priceCurrency: data.currency || 'USD',
-        availability: 'https://schema.org/InStock',
-        itemCondition: 'https://schema.org/NewCondition',
-        description: `${data.price_type || 'China ex-factory reference price'} — reference starting price. Confirm with a supplier quote.`,
+        vehicleEngine: {
+          '@type': 'EngineSpecification',
+          enginePower: { '@type': 'QuantitativeValue', value: data.motor_power_kw, unitCode: 'KWT' },
+        },
       }
-    : undefined,
+    : {}),
+  ...(data.price_usd
+    ? {
+        offers: {
+          '@type': 'Offer',
+          url: pageUrl,
+          price: data.price_usd,
+          priceCurrency: data.currency || 'USD',
+          description: `${priceBasis} — reference starting price. Confirm with a supplier quote.`,
+        },
+      }
+    : {}),
 };
+
 ---
 
 <MarketingLayout
@@ -178,281 +203,319 @@ const jsonLd = {
   breadcrumb={[
     { name: 'Home', item: siteUrl },
     { name: 'Vehicles', item: `${siteUrl}/vehicles/` },
-    { name: data.brand.toUpperCase(), item: `${siteUrl}/brands/${data.brand}/` },
+    { name: (brandMap.get(data.brand) || data.brand).toUpperCase(), item: `${siteUrl}/brands/${data.brand}/` },
     { name: data.title },
   ]}
-  type="article"
-  publishedDate={data.publishedDate}
+  type="website"
   author={data.author}
-  tags={data.tags}
 >
-<article class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-  <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
-    <a href="/" class="hover:text-green-600">Home</a> / <a href="/vehicles/" class="hover:text-green-600">Vehicles</a> / <a href={`/brands/${data.brand}/`} class="hover:text-green-600">{data.brand.toUpperCase()}</a> / <span class="text-gray-700">{data.title}</span>
-  </nav>
+  <article class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-green-600">Home</a> / <a href="/vehicles/" class="hover:text-green-600">Vehicles</a> / <a href={`/brands/${data.brand}/`} class="hover:text-green-600">{(brandMap.get(data.brand) || data.brand).toUpperCase()}</a> / <span class="text-gray-700">{data.title}</span>
+    </nav>
 
-  <!-- 标题 + 标签 -->
-  <div class="mb-8">
-    <div class="flex flex-wrap items-center gap-2 mb-4">
-      <span class="inline-block px-3 py-1 bg-green-600/10 text-green-700 rounded-full text-xs font-semibold">{data.type}</span>
-      <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-semibold">{data.powertrain}</span>
-      <a href={`/brands/${data.brand}/`} class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-semibold hover:bg-green-600/10 hover:text-green-700">{data.brand.toUpperCase()} brand</a>
-    </div>
-    <h1 class="text-4xl md:text-5xl font-bold mb-3 text-gray-900">{data.title}</h1>
-    <p class="text-2xl text-green-700 font-bold">${data.price_usd.toLocaleString()} <span class="text-sm font-normal text-gray-500">starting price (ex-factory China)</span></p>
-  </div>
-
-  <!-- C 层质量标注（数据待补，诚实声明，不删除不隐藏） -->
-  {data.quality_tier === 'C' && (
-    <div class="mb-8 rounded-xl border border-amber-300 bg-amber-50 px-5 py-4">
-      <p class="text-sm font-semibold text-amber-800">Data status: partial — verify before purchase decisions</p>
-      <p class="text-xs text-amber-700 mt-1 leading-relaxed">
-        Key specifications (range, battery, power, or performance) are not fully confirmed for this model.
-        Figures shown are indicative and should be verified against the manufacturer or a supplier quote before ordering.
+    <!-- ① identity -->
+    <div class="mb-8">
+      <div class="flex flex-wrap items-center gap-2 mb-4">
+        <span class="inline-block px-3 py-1 bg-green-600/10 text-green-700 rounded-full text-xs font-semibold">{data.type}</span>
+        <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-semibold" title={powertrainLabel(data.powertrain)}>{data.powertrain}</span>
+        <a href={`/brands/${data.brand}/`} class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-semibold hover:bg-green-600/10 hover:text-green-700">{(brandMap.get(data.brand) || data.brand).toUpperCase()} brand</a>
+      </div>
+      <h1 class="text-3xl md:text-4xl font-bold mb-3 text-gray-900">{data.title}</h1>
+      <p class="text-xl text-green-700 font-bold">
+        ${data.price_usd.toLocaleString()}{' '}
+        <span class="text-sm font-normal text-gray-500">({priceBasis})</span>
+      </p>
+      <p class="text-sm text-gray-500 mt-2">
+        {data.powertrain} · {powertrainLabel(data.powertrain)} · {data.type}
+        {data.trim ? <> · Trims: {data.trim}</> : ''}
+        {data.family ? <> · Family: {data.family}</> : ''}
       </p>
     </div>
-  )}
 
-  <!-- 全宽 hero 图片 -->
-  {data.image && (
-    <div class="mb-10 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
-      <img
-        src={data.image}
-        alt={vehicleAlt(data, brandMap)}
-        class="w-full h-auto object-cover"
-        loading="eager"
-        width="1200"
-        height="675"
-      />
-      {data.image_credit && (
-        <p class="px-4 py-2 text-xs text-gray-500 bg-gray-50 border-t border-gray-200">
-          {/China EV Mart original/i.test(data.image_credit) ? 'Illustration' : 'Photo'}: {data.image_credit}
-          {data.image_source && (<> · <a href={data.image_source} rel="nofollow noopener" target="_blank" class="underline hover:text-green-700">source</a></>)}
+    {isCompact && (
+      <div class="mb-8 rounded-xl border border-amber-300 bg-amber-50 px-5 py-4">
+        <p class="text-sm font-semibold text-amber-800">Data status: partial — compact record</p>
+        <p class="text-xs text-amber-700 mt-1 leading-relaxed">
+          Key specifications (range, battery, power, or performance) are not fully confirmed for this model.
+          Figures shown are indicative and should be verified against the manufacturer or a supplier quote before ordering.
         </p>
-      )}
-    </div>
-  )}
-
-  <!-- 关键指标卡片 -->
-  <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
-    {data.range_cltc_km && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.range_cltc_km} km</div><div class="text-xs text-gray-500 mt-1">Range (CLTC)</div></div>}
-    {data.battery_kwh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.battery_kwh} kWh</div><div class="text-xs text-gray-500 mt-1">Battery capacity</div></div>}
-    {drivePower && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{drivePower} kW</div><div class="text-xs text-gray-500 mt-1">Drive power</div></div>}
-    {data.accel_0_100_s && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.accel_0_100_s}s</div><div class="text-xs text-gray-500 mt-1">0-100 km/h</div></div>}
-    {data.top_speed_kmh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.top_speed_kmh} km/h</div><div class="text-xs text-gray-500 mt-1">Top speed</div></div>}
-    {data.fast_charge && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.fast_charge}</div><div class="text-xs text-gray-500 mt-1">Fast charge</div></div>}
-  </div>
-
-  <!-- ① Entity Snapshot -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-3 text-gray-900">Entity Snapshot</h2>
-    <p class="text-gray-700 mb-5 leading-relaxed">
-      The {data.title} is a {data.type.toLowerCase()} {data.powertrain} from {data.brand.toUpperCase()}, listed from ${data.price_usd.toLocaleString()} ex-factory.
-      {data.range_cltc_km ? ` CLTC range is ${data.range_cltc_km} km` : ''}{data.battery_kwh ? ` from a ${data.battery_kwh} kWh pack` : ''}{drivePower ? ` with ${drivePower} kW of drive power` : ''}.
-      Catalogued as a structured product record: trim, battery, range, drive power, and reference price.
-    </p>
-    <div class="rounded-xl border border-gray-200 overflow-hidden">
-      <table class="w-full text-sm">
-        <tbody>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Trim / version</td><td class="px-5 py-3.5 text-gray-900">{data.trim || 'Standard (base)'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Battery</td><td class="px-5 py-3.5 text-gray-900">{batterySpec}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Range (CLTC / WLTP)</td><td class="px-5 py-3.5 text-gray-900">{data.range_cltc_km ? `${data.range_cltc_km} km` : 'N/A'}{data.range_wltp_km ? ` / ${data.range_wltp_km} km` : ' / N/A'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Drive power</td><td class="px-5 py-3.5 text-gray-900">{drivePower ? `${drivePower} kW${data.total_power_kw ? ' (combined)' : ''}` : 'N/A'}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Fast charge (30–80%)</td><td class="px-5 py-3.5 text-gray-900">{data.fast_charge || 'N/A'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Reference price</td><td class="px-5 py-3.5 text-gray-900">{fobRange}</td></tr>
-        </tbody>
-      </table>
-    </div>
-    {hasTrimVariants && (
-      <div class="mt-5 rounded-xl border border-gray-200 overflow-hidden">
-        <h3 class="px-5 py-3 bg-gray-50 text-sm font-semibold text-gray-700">Versions / trims</h3>
-        <ul class="divide-y divide-gray-100">
-          {trimParts.map((t) => (
-            <li class="px-5 py-3 text-sm text-gray-900">{t}</li>
-          ))}
-        </ul>
-        <p class="px-5 py-3 text-xs text-gray-400 border-t border-gray-100">Version variants as published by the manufacturer; recorded verbatim from the vehicle record.</p>
       </div>
     )}
-  </section>
 
-  <!-- ② Powertrain -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-3 text-gray-900">Powertrain</h2>
-    <div class="rounded-xl border border-gray-200 overflow-hidden">
-      <table class="w-full text-sm">
-        <tbody>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Drive layout</td><td class="px-5 py-3.5 text-gray-900">{na(data.drive_type)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Motor type</td><td class="px-5 py-3.5 text-gray-900">{na(data.motor_type)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Motor model</td><td class="px-5 py-3.5 text-gray-900">{na(data.motor_model)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Motor power</td><td class="px-5 py-3.5 text-gray-900">{data.motor_power_kw ? `${data.motor_power_kw} kW` : 'N/A'}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Torque</td><td class="px-5 py-3.5 text-gray-900">{data.torque_nm ? `${data.torque_nm} Nm` : 'N/A'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">0–100 km/h</td><td class="px-5 py-3.5 text-gray-900">{data.accel_0_100_s ? `${data.accel_0_100_s} s` : 'N/A'}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Top speed</td><td class="px-5 py-3.5 text-gray-900">{data.top_speed_kmh ? `${data.top_speed_kmh} km/h` : 'N/A'}</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="text-xs text-gray-400 mt-3">Fields map directly to the vehicle record; N/A where the manufacturer specification was not confirmed. Values without a cited source are left unstated rather than estimated.</p>
-  </section>
+    {data.image && (
+      <div class="mb-8 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
+        <img
+          src={data.image}
+          alt={vehicleAlt(data, brandMap)}
+          class="w-full h-auto object-cover"
+          loading="eager"
+          width="1200"
+          height="675"
+        />
+        {data.image_credit && (
+          <p class="px-4 py-2 text-xs text-gray-500 bg-gray-50 border-t border-gray-200">
+            {/China EV Mart original/i.test(data.image_credit) ? 'Illustration' : 'Photo'}: {data.image_credit}
+            {data.image_source && (<> · <a href={data.image_source} rel="nofollow noopener" target="_blank" class="underline hover:text-green-700">source</a></>)}
+          </p>
+        )}
+      </div>
+    )}
 
-  <!-- ③ Dimensions & Logistics -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-3 text-gray-900">Dimensions &amp; Logistics</h2>
-    <div class="grid md:grid-cols-2 gap-6">
+    {/* ② concise factual summary (zero fabrication) */}
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold mb-3 text-gray-900">Summary</h2>
+      <p class="text-gray-700 leading-relaxed">
+        The <strong>{data.title}</strong> is a {data.type.toLowerCase()} {powertrainLabel(data.powertrain).toLowerCase()} from{' '}
+        {(brandMap.get(data.brand) || data.brand).toUpperCase()}, listed at ${data.price_usd.toLocaleString()} {priceBasis.toLowerCase()}.
+        {data.range_cltc_km ? <> Its CLTC-rated range is {data.range_cltc_km} km</> : <> CLTC range is not recorded</>}
+        {data.battery_kwh ? <> from a {data.battery_kwh} kWh pack</> : ''}
+        {drivePower ? <> with {drivePower} kW of drive power</> : ''}. This page records the published specifications;
+        figures not confirmed by the manufacturer are shown as N/A rather than estimated.
+      </p>
+    </section>
+
+    {/* ③ grouped specifications */}
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Specifications</h2>
+      <div class="space-y-6">
+        {specs.dimensions.length > 0 && (
+          <div>
+            <h3 class="text-lg font-semibold text-gray-800 mb-2">Dimensions &amp; weight</h3>
+            <div class="rounded-xl border border-gray-200 overflow-hidden">
+              <table class="w-full text-sm"><tbody>{specs.dimensions.map((s, i) => (
+                <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}><td class="px-5 py-3 font-medium text-gray-700 w-2/5">{s.label}</td><td class="px-5 py-3 text-gray-900">{s.value}</td></tr>
+              ))}</tbody></table>
+            </div>
+          </div>
+        )}
+        {specs.performance.length > 0 && (
+          <div>
+            <h3 class="text-lg font-semibold text-gray-800 mb-2">Performance</h3>
+            <div class="rounded-xl border border-gray-200 overflow-hidden">
+              <table class="w-full text-sm"><tbody>{specs.performance.map((s, i) => (
+                <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}><td class="px-5 py-3 font-medium text-gray-700 w-2/5">{s.label}</td><td class="px-5 py-3 text-gray-900">{s.value}</td></tr>
+              ))}</tbody></table>
+            </div>
+          </div>
+        )}
+        {specs.battery.length > 0 && (
+          <div>
+            <h3 class="text-lg font-semibold text-gray-800 mb-2">Battery</h3>
+            <div class="rounded-xl border border-gray-200 overflow-hidden">
+              <table class="w-full text-sm"><tbody>{specs.battery.map((s, i) => (
+                <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}><td class="px-5 py-3 font-medium text-gray-700 w-2/5">{s.label}</td><td class="px-5 py-3 text-gray-900">{s.value}</td></tr>
+              ))}</tbody></table>
+            </div>
+          </div>
+        )}
+        {specs.charging.length > 0 && (
+          <div>
+            <h3 class="text-lg font-semibold text-gray-800 mb-2">Charging</h3>
+            <div class="rounded-xl border border-gray-200 overflow-hidden">
+              <table class="w-full text-sm"><tbody>{specs.charging.map((s, i) => (
+                <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}><td class="px-5 py-3 font-medium text-gray-700 w-2/5">{s.label}</td><td class="px-5 py-3 text-gray-900">{s.value}</td></tr>
+              ))}</tbody></table>
+            </div>
+          </div>
+        )}
+      </div>
+    </section>
+
+    {/* ④ range standards + trim applicability */}
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Range by test standard</h2>
+      {rangeStandards.length > 0 ? (
+        <div class="rounded-xl border border-gray-200 overflow-hidden">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="bg-gray-50 text-left">
+                <th class="px-5 py-3 font-semibold text-gray-700 w-2/5">Test standard</th>
+                <th class="px-5 py-3 font-semibold text-gray-700">Range</th>
+              </tr>
+            </thead>
+            <tbody>
+              {rangeStandards.map((r, i) => (
+                <tr class={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                  <td class="px-5 py-3 text-gray-700">{r.label}</td>
+                  <td class="px-5 py-3 text-gray-900">{r.value}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      ) : (
+        <p class="text-gray-500">No range figure is recorded for this model.</p>
+      )}
+      <p class="text-xs text-gray-400 mt-3 leading-relaxed">
+        Range is labelled by test standard and is never combined across standards. CLTC figures run higher than WLTP/EPA
+        for the same vehicle. {hasTrimVariants
+          ? 'Range may differ by trim; the dataset records one figure per standard (base/representative configuration).'
+          : 'Where a single figure is shown, it applies to the base/representative configuration.'}
+      </p>
+    </section>
+
+    {/* ⑤ price block */}
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Price</h2>
       <div class="rounded-xl border border-gray-200 overflow-hidden">
         <table class="w-full text-sm">
           <tbody>
-            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/2">Length</td><td class="px-5 py-3.5 text-gray-900">{data.length_mm ? `${data.length_mm} mm` : 'N/A'}</td></tr>
-            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Width</td><td class="px-5 py-3.5 text-gray-900">{data.width_mm ? `${data.width_mm} mm` : 'N/A'}</td></tr>
-            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Height</td><td class="px-5 py-3.5 text-gray-900">{data.height_mm ? `${data.height_mm} mm` : 'N/A'}</td></tr>
-            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Wheelbase</td><td class="px-5 py-3.5 text-gray-900">{data.wheelbase_mm ? `${data.wheelbase_mm} mm` : 'N/A'}</td></tr>
-            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Curb weight</td><td class="px-5 py-3.5 text-gray-900">{data.weight_kg ? `${data.weight_kg} kg` : 'N/A'}</td></tr>
-            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Gross weight</td><td class="px-5 py-3.5 text-gray-900">{data.gross_weight_kg ? `${data.gross_weight_kg} kg` : 'N/A'}</td></tr>
-            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Ground clearance</td><td class="px-5 py-3.5 text-gray-900">{data.ground_clearance_mm ? `${data.ground_clearance_mm} mm` : 'N/A'}</td></tr>
-            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Trunk capacity</td><td class="px-5 py-3.5 text-gray-900">{data.trunk_l ? `${data.trunk_l} L` : 'N/A'}</td></tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700 w-2/5">Price type</td><td class="px-5 py-3 text-gray-900">{priceBasis}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Amount</td><td class="px-5 py-3 text-gray-900">${data.price_usd.toLocaleString()}</td></tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700">Currency</td><td class="px-5 py-3 text-gray-900">{data.currency || 'USD'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Market</td><td class="px-5 py-3 text-gray-900">{priceMarket}</td></tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700">Data as of</td><td class="px-5 py-3 text-gray-900">{data.data_updated || 'Not recorded'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Source</td><td class="px-5 py-3 text-gray-900">{data.data_source || 'China EV Mart catalog'}</td></tr>
           </tbody>
         </table>
       </div>
-      <div class="p-6 bg-white border border-gray-200 rounded-xl">
-        <h3 class="font-semibold text-gray-900 mb-4">Outer envelope &amp; 40HQ packing (estimate)</h3>
-        <dl class="space-y-4 text-sm">
-          <div>
-            <dt class="text-gray-500">Outer volume (L×W×H)</dt>
-            <dd class="text-2xl font-bold text-gray-900 mt-1">{outerVolumeCbm != null ? `${outerVolumeCbm.toFixed(2)} m³` : 'N/A'}</dd>
-          </div>
-          <div>
-            <dt class="text-gray-500">Length grade</dt>
-            <dd class="text-gray-900 mt-1">{hqGrade || 'N/A'}</dd>
-          </div>
-          <div>
-            <dt class="text-gray-500">40HQ units (rack/crate)</dt>
-            <dd class="text-2xl font-bold text-green-700 mt-1">{hqUnits != null ? `${hqUnits} unit${hqUnits > 1 ? 's' : ''}` : 'N/A'} <span class="ml-1 text-xs font-normal text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full">estimate</span></dd>
-          </div>
-        </dl>
-        <p class="text-xs text-gray-400 mt-5 leading-relaxed">
-          Basis: RoRo is the standard method; the 40HQ figure is a length-graded estimate for racked/crated
-          container shipment — ≤4.0 m ≈ 3 units, 4.0–5.0 m ≈ 2 units, &gt;5.0 m ≈ 1 unit per 40HQ
-          (internal ≈12.03 × 2.35 × 2.69 m). Confirm packing density with the freight forwarder.
+      <p class="text-xs text-gray-400 mt-3">
+        Prices are {priceBasis.toLowerCase()}, not retail, FOB, or landed cost. The figure is a reference starting price —
+        confirm an actual quote with a supplier.
+      </p>
+    </section>
+
+    {/* ⑥ trim differences (only when trim data exists) */}
+    {hasTrimVariants && (
+      <section class="mb-10">
+        <h2 class="text-2xl font-bold mb-4 text-gray-900">Versions / trims</h2>
+        <ul class="space-y-2">
+          {trimParts.map((t) => (
+            <li class="px-4 py-2.5 bg-white border border-gray-200 rounded-lg text-sm text-gray-800">{t}</li>
+          ))}
+        </ul>
+        <p class="text-xs text-gray-400 mt-3">
+          Version names are recorded verbatim from the vehicle record. A per-trim specification breakdown is not
+          available in the dataset, so differences between versions are not stated here.
+        </p>
+      </section>
+    )}
+
+    {/* ⑦ competitor comparison (compatible: same body type + powertrain) */}
+    {!isCompact && hasCompetitors && (
+      <section class="mb-10">
+        <h2 class="text-2xl font-bold mb-4 text-gray-900">Comparable {data.type} {data.powertrain}s</h2>
+        <p class="text-sm text-gray-500 mb-4">
+          Same body type ({data.type}) and powertrain ({data.powertrain}), closest in ex-factory reference price.
+        </p>
+        <div class="rounded-xl border border-gray-200 overflow-hidden">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="bg-gray-50 text-left">
+                <th class="px-4 py-3 font-semibold text-gray-700">Model</th>
+                <th class="px-4 py-3 font-semibold text-gray-700">Price (ex-factory)</th>
+                <th class="px-4 py-3 font-semibold text-gray-700">Range (CLTC)</th>
+                <th class="px-4 py-3 font-semibold text-gray-700">Battery</th>
+              </tr>
+            </thead>
+            <tbody>
+              {competitors.map((c, i) => (
+                <tr class={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                  <td class="px-4 py-3 text-gray-900">
+                    <a href={`/vehicles/${c.data.slug}/`} class="text-green-700 hover:underline font-medium">{c.data.title}</a>
+                  </td>
+                  <td class="px-4 py-3 text-gray-900">${c.data.price_usd.toLocaleString()}</td>
+                  <td class="px-4 py-3 text-gray-900">{c.data.range_cltc_km ? `${c.data.range_cltc_km} km` : 'N/A'}</td>
+                  <td class="px-4 py-3 text-gray-900">{c.data.battery_kwh ? `${c.data.battery_kwh} kWh` : 'N/A'}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )}
+
+    {/* ⑧ export considerations (verified only) */}
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Export considerations</h2>
+      <div class="rounded-xl border border-gray-200 overflow-hidden">
+        <table class="w-full text-sm">
+          <tbody>
+            <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700 w-2/5">HS code</td><td class="px-5 py-3 text-gray-900">{hsCode} — {hsNote}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Certification notes</td><td class="px-5 py-3 text-gray-900">{na(data.certification_notes)}</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="mt-4 rounded-xl border border-green-200 bg-green-50 px-5 py-4">
+        <p class="text-sm text-green-800 font-medium">Landed-cost &amp; per-market export data</p>
+        <p class="text-xs text-green-700 mt-1 leading-relaxed">
+          Landed-cost, import-duty, and per-market pricing for this model is published on{' '}
+          <a href={`https://electricvehiclehub.net/vehicles/${data.slug}/`} class="font-semibold underline" rel="noopener" target="_blank">electricvehiclehub.net</a>{' '}
+          — see the full export profile there.
         </p>
       </div>
-    </div>
-  </section>
-
-  <!-- ④ Technology -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-3 text-gray-900">Technology</h2>
-    <div class="rounded-xl border border-gray-200 overflow-hidden">
-      <table class="w-full text-sm">
-        <tbody>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Battery type</td><td class="px-5 py-3.5 text-gray-900">{data.battery_type ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.battery_type}</a> : 'N/A'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Battery thermal management</td><td class="px-5 py-3.5 text-gray-900">{na(data.battery_thermal)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Heat pump</td><td class="px-5 py-3.5 text-gray-900">{na(data.heat_pump)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Charging interface</td><td class="px-5 py-3.5 text-gray-900">{data.charging_interface ? <a href="/blog/ccs2-vs-gbt-charging/" class="text-green-700 hover:underline">{data.charging_interface}</a> : 'N/A'}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Charging adapter (export)</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_adapter)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Front suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_front)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Rear suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_rear)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Brakes</td><td class="px-5 py-3.5 text-gray-900">{na(data.brakes)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Drag coefficient (Cd)</td><td class="px-5 py-3.5 text-gray-900">{data.drag_coefficient != null ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.drag_coefficient}</a> : 'N/A'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Drive architecture</td><td class="px-5 py-3.5 text-gray-900">{data.drive_type ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.drive_type}</a> : 'N/A'}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Motor type</td><td class="px-5 py-3.5 text-gray-900">{data.motor_type ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.motor_type}</a> : 'N/A'}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Infotainment language</td><td class="px-5 py-3.5 text-gray-900">{na(data.infotainment_language)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Network bands</td><td class="px-5 py-3.5 text-gray-900">{na(data.network_bands)}</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="text-xs text-gray-400 mt-3">Technology fields are recorded verbatim from the vehicle record; N/A where the manufacturer has not published a value. Linked terms open the glossary or the relevant explainer.</p>
-  </section>
-
-  <!-- ⑤ Market Compliance & Export Profile（降权：仅 HS Code + 认证事实，出口情报见 .net） -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-3 text-gray-900">Market Compliance &amp; Export Profile</h2>
-    <div class="rounded-xl border border-gray-200 overflow-hidden">
-      <table class="w-full text-sm">
-        <tbody>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">HS code</td><td class="px-5 py-3.5 text-gray-900">{hsCode} — {hsNote}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Certification notes</td><td class="px-5 py-3.5 text-gray-900">{na(data.certification_notes)}</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="mt-4 rounded-xl border border-green-200 bg-green-50 px-5 py-4">
-      <p class="text-sm text-green-800 font-medium">Export notes</p>
-      <p class="text-xs text-green-700 mt-1 leading-relaxed">
-        Landed-cost, import-duty, and per-market pricing data for this model lives on{' '}
-        <a href={`https://electricvehiclehub.net/vehicles/${data.slug}/`} class="font-semibold underline" rel="noopener" target="_blank">electricvehiclehub.net</a>{' '}
-        — see the full export profile there.
-      </p>
-    </div>
-  </section>
-
-  <!-- 数据来源与验证分层 -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-4 text-gray-900">Data Sources &amp; Verification</h2>
-    <div class="grid md:grid-cols-2 gap-4">
-      <div class="p-5 bg-white border border-gray-200 rounded-xl">
-        <div class="flex items-center gap-2 mb-3">
-          <span class="inline-block px-2 py-0.5 bg-green-100 text-green-700 rounded-full text-xs font-bold uppercase tracking-wide">Source data</span>
-        </div>
-        <ul class="text-sm text-gray-700 space-y-2">
-          <li class="flex gap-2"><span class="text-green-600">✓</span> Manufacturer specifications (base price, range, battery, dimensions)</li>
-          <li class="flex gap-2"><span class="text-green-600">✓</span> Battery chemistry, drive architecture &amp; charging interface</li>
-          <li class="flex gap-2"><span class="text-green-600">✓</span> Certification &amp; HS code classification</li>
-        </ul>
-      </div>
-      <div class="p-5 bg-white border border-amber-200 rounded-xl">
-        <div class="flex items-center gap-2 mb-3">
-          <span class="inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-bold uppercase tracking-wide">China EV Mart estimate</span>
-        </div>
-        <ul class="text-sm text-gray-700 space-y-2">
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> 40HQ packing (length-graded estimate)</li>
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> Fields marked N/A where the manufacturer has not published a value</li>
-        </ul>
-      </div>
-    </div>
-    <p class="text-xs text-gray-400 mt-4">
-      Data source: {data.data_source || 'China EV Mart catalog'} · Last updated: {data.data_updated || 'n/a'}{data.verification_status ? ` · Verification: ${data.verification_status}` : ''}
-    </p>
-  </section>
-
-  <!-- 完整规格表 -->
-  <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-4 text-gray-900">Specifications</h2>
-    <div class="rounded-xl border border-gray-200 overflow-hidden">
-      <table class="w-full text-sm">
-        <tbody>
-          {specs.map((s, i) => (
-            <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
-              <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">{s.label}</td>
-              <td class="px-5 py-3.5 text-gray-900">{s.value}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-  </section>
-
-  <!-- markdown 正文 -->
-  <div class="prose prose-lg max-w-none mb-12">
-    <Content />
-  </div>
-
-  {sameBrandVehicles.length > 0 && (
-    <section class="mb-12">
-      <h2 class="text-2xl font-bold mb-4 text-gray-900">Related models from {data.brand.toUpperCase()}</h2>
-      <ul class="space-y-2">
-        {sameBrandVehicles.map((v) => (
-          <li>
-            <a href={`/vehicles/${v.data.slug}/`} class="text-green-700 hover:underline font-medium">{v.data.title || v.data.model}</a>
-            <span class="text-gray-500 text-sm"> — {v.data.range_cltc_km ? `${v.data.range_cltc_km} km CLTC` : 'range TBA'}{v.data.price_usd ? ` · $${Number(v.data.price_usd).toLocaleString()}` : ''}</span>
-          </li>
-        ))}
-      </ul>
     </section>
-  )}
 
-  <div class="border-t pt-6 text-sm text-gray-500">
-    Author: {data.author} (EV &amp; Battery Industry Analyst) · Chengguang Energy · Updated {data.publishedDate ? data.publishedDate.toISOString().split('T')[0] : '2026-09-05'} · <a href="/contact/" class="text-green-700 hover:underline">Contact</a>
-  </div>
-</article>
+    {/* ⑨ sources / last-checked / unresolved */}
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Data provenance &amp; verification</h2>
+      <div class="rounded-xl border border-gray-200 overflow-hidden">
+        <table class="w-full text-sm">
+          <tbody>
+            <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700 w-2/5">Source</td><td class="px-5 py-3 text-gray-900">{data.data_source || 'China EV Mart catalog'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Last checked</td><td class="px-5 py-3 text-gray-900">{data.data_updated || 'Not recorded'}</td></tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700">Verification status</td><td class="px-5 py-3 text-gray-900">{data.verification_status || 'Pending review'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Completeness tier</td><td class="px-5 py-3 text-gray-900">Tier {tier}{data.data_tier != null ? ` (data tier ${data.data_tier})` : ''}</td></tr>
+          </tbody>
+        </table>
+      </div>
+      {unresolved.length > 0 && (
+        <p class="text-xs text-amber-700 mt-3">
+          Not yet recorded: {unresolved.join(', ')}. These fields are shown as N/A rather than estimated.
+        </p>
+      )}
+    </section>
 
-<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    {/* ⑩ internal links */}
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Explore further</h2>
+      <div class="grid sm:grid-cols-2 gap-3">
+        <a href={`/brands/${data.brand}/`} class="px-4 py-3 bg-white border border-gray-200 rounded-xl hover:border-green-500/60 hover:shadow-sm transition">
+          <span class="block text-sm font-semibold text-gray-900">{(brandMap.get(data.brand) || data.brand).toUpperCase()} brand</span>
+          <span class="block text-xs text-gray-500 mt-0.5">All {data.brand.toUpperCase()} models and brand data</span>
+        </a>
+        <a href="/vehicles/" class="px-4 py-3 bg-white border border-gray-200 rounded-xl hover:border-green-500/60 hover:shadow-sm transition">
+          <span class="block text-sm font-semibold text-gray-900">Vehicle directory</span>
+          <span class="block text-xs text-gray-500 mt-0.5">Browse the full {data.powertrain} / {data.type} database</span>
+        </a>
+        <a href="/blog/tag/comparison/" class="px-4 py-3 bg-white border border-gray-200 rounded-xl hover:border-green-500/60 hover:shadow-sm transition">
+          <span class="block text-sm font-semibold text-gray-900">Comparison articles</span>
+          <span class="block text-xs text-gray-500 mt-0.5">Editorial comparisons across models and brands</span>
+        </a>
+        <a href="/docs/glossary/" class="px-4 py-3 bg-white border border-gray-200 rounded-xl hover:border-green-500/60 hover:shadow-sm transition">
+          <span class="block text-sm font-semibold text-gray-900">Technology glossary</span>
+          <span class="block text-xs text-gray-500 mt-0.5">Powertrain, battery, and charging terms</span>
+        </a>
+      </div>
+      {sameBrandVehicles.length > 0 && (
+        <div class="mt-6">
+          <h3 class="text-sm font-semibold text-gray-700 mb-3">Other {(brandMap.get(data.brand) || data.brand).toUpperCase()} models</h3>
+          <ul class="space-y-2">
+            {sameBrandVehicles.map((v) => (
+              <li>
+                <a href={`/vehicles/${v.data.slug}/`} class="text-green-700 hover:underline font-medium">{v.data.title}</a>
+                <span class="text-gray-500 text-sm"> — {v.data.range_cltc_km ? `${v.data.range_cltc_km} km CLTC` : 'range N/A'}{v.data.price_usd ? ` · $${Number(v.data.price_usd).toLocaleString()}` : ''}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {sameFamilyVehicles.length > 0 && (
+        <div class="mt-6">
+          <h3 class="text-sm font-semibold text-gray-700 mb-3">{data.family} family ({data.brand.toUpperCase()})</h3>
+          <ul class="space-y-2">
+            {sameFamilyVehicles.map((v) => (
+              <li>
+                <a href={`/vehicles/${v.data.slug}/`} class="text-green-700 hover:underline font-medium">{v.data.title}</a>
+                <span class="text-gray-500 text-sm"> — {v.data.powertrain}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </section>
+  </article>
+
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 </MarketingLayout>
