@@ -28,6 +28,9 @@ const {
   robots,
   breadcrumb,
 } = Astro.props;
+
+// 预览部署默认 noindex（方案 C：.pages.dev 过渡期不入索引）；正式 .top 域名上线时在 CF Pages 设 PUBLIC_INDEXABLE=1 即放开
+const indexable = import.meta.env.PUBLIC_INDEXABLE === '1';
 ---
 
 <!doctype html>
@@ -48,7 +51,7 @@ const {
       modifiedDate={modifiedDate}
       author={author}
       tags={tags}
-      robots={robots}
+      robots={indexable ? robots : 'noindex, nofollow'}
       breadcrumb={breadcrumb}
     />
     <!-- Theme and announcement initialization - runs before page render to prevent flash -->
