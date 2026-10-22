@@ -5,11 +5,18 @@ import VehicleSearch from '@/components/VehicleSearch.astro';
 import { siteConfig } from '@/config';
 import { getSiteStats } from '@/lib/site-stats';
 import { brandLabelMap } from '@/lib/brand-label';
+import { POWERTRAIN_ORDER, powertrainLabel } from '@/lib/powertrain';
 
 const siteStats = await getSiteStats();
 const vehicles = await getCollection('vehicles');
+const brands = await getCollection('brands');
 const brandMap = await brandLabelMap();
 vehicles.sort((a, b) => a.data.price_usd - b.data.price_usd);
+
+// 公开计数从规范化数据集实时推导（P3 单一数据源），不硬编码
+const vehicleCount = vehicles.length; // 517
+const brandCount = brands.length; // 72
+const tierACount = vehicles.filter((v) => v.data.quality_tier === 'A').length; // 433
 
 // Dataset JSON-LD — product database (规格/版本/技术)，非 landed-cost
 const updatedDates = vehicles
@@ -22,9 +29,8 @@ const temporalCoverage = updatedDates.length
 const datasetJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
-  name: 'Chinese EV Product Database',
-  description:
-    'Machine-readable product database of Chinese electric vehicles — deep specifications, trim/version data, powertrain and technology details across 72 brands.',
+  name: 'Chinese New-Energy Vehicle Product Database',
+  description: `Machine-readable product database of Chinese new-energy vehicles — specifications, powertrain, dimensions, and technology data across ${brandCount} brands. Prices are China ex-factory reference prices; range figures are labelled by test standard.`,
   url: `${siteConfig.url}/`,
   creator: {
     '@type': 'Organization',
@@ -47,22 +53,18 @@ const datasetJsonLd = {
   ],
 };
 
-// 深度档案精选：有丰富深度字段的旗舰车型（电池化学 + 驱动 + 电机 + 充电四字段齐全），按价格降序取 6
-const deepProfiles = vehicles
-  .filter(
-    (v) =>
-      v.data.battery_type &&
-      v.data.drive_type &&
-      v.data.motor_type &&
-      v.data.charging_interface
-  )
+// 精选车型：仅数据完整度达标（quality_tier = A），无达标项不硬凑
+const featuredVehicles = vehicles
+  .filter((v) => v.data.quality_tier === 'A')
   .sort((a, b) => b.data.price_usd - a.data.price_usd)
   .slice(0, 6);
 
-// 58 品牌墙
-const brands = ['Aeolus', 'AION', 'AITO', 'Arcfox', 'Avatr', 'Baojun', 'BAW', 'Bestune', 'BYD', 'ChangAn NEVO', 'ChangAn', 'Chery Fulwin', 'Chery New Energy', 'Chery', 'Deepal', 'Denza', 'Dongfeng eπ', 'Dongfeng Nammi', 'Exeed', 'Fangchengbao', 'firefly', 'Forthing', 'GAC Motor', 'Geely Galaxy', 'Geely', 'Haval', 'Hongqi', 'Hyptec', 'iCAUR', 'IM', 'JAC Refine', 'JAC Yiwei', 'JAC', 'Jaecoo', 'Jetour', 'Kaicene', 'Leapmotor', 'Li Auto', 'Luxeed', 'Lynk & Co', 'M-Hero', 'Maextro', 'Maxus', 'MG', 'NIO', 'Onvo', 'Ora', 'Roewe', 'SAIC', 'Stelato', 'Tank', 'Voyah', 'WEY', 'Wuling', 'Xiaomi', 'XPeng', 'Yangwang', 'Zeekr', 'JMC', 'Neta', 'Venucia', 'Cowin', 'Livan', 'Skywell', 'Dayun Yuanhang', 'Hycan', 'Geometry', 'Seres', 'Landian', 'Sehol', 'Yudo', 'Oshan'];
+// 品牌浏览：从品牌集合实时推导（替代硬编码数组，P2-4）
+const brandNames = brands
+  .map((b) => b.data.brand_name)
+  .sort((a, b) => a.localeCompare(b));
 
-// 车型发现数据（客户端过滤用）：品牌/类型/动力/价格带
+// 车型发现数据（客户端过滤用）：品牌/车身类型/动力/价格带
 const discoveryItems = vehicles.map((v) => ({
   slug: v.data.slug,
   title: v.data.title,
@@ -75,50 +77,51 @@ const discoveryItems = vehicles.map((v) => ({
 }));
 const discoveryJson = JSON.stringify(discoveryItems).replace(/</g, '\\u003c');
 
-// 唯一动力形式 + 类型（用于筛选 chips）
-const powertrains = [...new Set(vehicles.map((v) => v.data.powertrain))].sort();
+// 动力形式：按规范枚举顺序（BEV/PHEV/EREV/HEV/ICE），仅呈现数据中存在的
+const powertrains = POWERTRAIN_ORDER.filter((p) => vehicles.some((v) => v.data.powertrain === p));
+// 车身类型：仅呈现数据中存在的（13 类枚举，当前 4 类有值）
 const bodyTypes = [...new Set(vehicles.map((v) => v.data.type))].sort();
 ---
 
 <MarketingLayout
-  title={`${siteConfig.name} — Chinese EV Product Database`}
-  description="Deep specifications, versions, and technology data for 500+ Chinese EVs — battery chemistry, powertrain, dimensions, and compliance. The complete Chinese EV product database."
+  title={`${siteConfig.name} — Chinese New-Energy Vehicle Database`}
+  description={`${siteConfig.description} ${vehicleCount} vehicles across ${brandCount} brands, with ex-factory reference prices and range figures labelled by test standard.`}
 >
-  <!-- HERO -->
+  <!-- HERO：定位句（P2 规范）+ 车型发现主入口 -->
   <section class="relative overflow-hidden px-6 py-24 md:py-28 text-center">
     <div class="absolute inset-0 bg-gradient-to-b from-green-100/60 via-transparent to-transparent pointer-events-none"></div>
     <div class="relative mx-auto max-w-4xl">
       <span class="inline-block px-4 py-1.5 bg-green-600/10 text-green-600 rounded-full text-sm font-medium mb-6">
-        Chinese EV Product Database
+        Independent information platform
       </span>
       <h1 class="text-4xl md:text-6xl font-bold tracking-tight mb-6">
-        The <span class="text-green-600">complete product database</span> for Chinese EVs
+        Discover Chinese <span class="text-green-600">new-energy vehicles</span> by the data
       </h1>
       <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
-        Deep specifications, trim versions, battery chemistry, powertrain architecture, and technology
-        details — every model catalogued with a structured, source-verified product record.
+        {siteConfig.description}
       </p>
       <div class="mb-8">
         <VehicleSearch />
       </div>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a href="/vehicles/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg bg-green-600 hover:bg-green-500 text-white font-semibold transition">
-          Browse the vehicle database →
+          Browse {vehicleCount} vehicles →
         </a>
         <a href="/brands/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg border border-gray-300 hover:border-gray-500 text-gray-800 font-semibold transition">
-          Explore {siteStats.brands} brands
+          Explore {brandCount} brands
         </a>
       </div>
     </div>
   </section>
 
-  <!-- 车型发现：品牌-类型-动力-价格带 筛选 -->
+  <!-- 车型发现：品牌-动力-车身-价格带 筛选（客户端过滤，无索引 URL） -->
   <section class="px-6 py-14">
     <div class="mx-auto max-w-6xl">
       <div class="text-center mb-10">
         <h2 class="text-3xl md:text-4xl font-bold mb-3">Find a vehicle</h2>
         <p class="text-gray-600 max-w-2xl mx-auto">
-          Filter the catalog by brand, body type, powertrain, and price band.
+          Filter the catalog by powertrain, body type, brand, and price band. Filtering runs
+          in your browser — it does not create new pages or URLs.
         </p>
       </div>
 
@@ -129,7 +132,7 @@ const bodyTypes = [...new Set(vehicles.map((v) => v.data.type))].sort();
             <span class="text-sm font-semibold text-gray-500 uppercase tracking-wide mr-1">Powertrain</span>
             <button data-filter="powertrain" data-value="all" class="chip active">All</button>
             {powertrains.map((p) => (
-              <button data-filter="powertrain" data-value={p} class="chip">{p}</button>
+              <button data-filter="powertrain" data-value={p} class="chip" title={powertrainLabel(p)}>{p}</button>
             ))}
           </div>
           <div class="flex flex-wrap items-center gap-2 justify-center">
@@ -156,40 +159,45 @@ const bodyTypes = [...new Set(vehicles.map((v) => v.data.type))].sort();
               ))}
             </select>
           </div>
+          <p class="text-xs text-gray-400 text-center pt-1">
+            Powertrain key: BEV = battery electric · PHEV = plug-in hybrid · EREV = extended-range electric ·
+            HEV = non-plug-in hybrid · ICE = internal combustion. Prices are China ex-factory reference
+            prices (USD), not retail or landed prices.
+          </p>
         </div>
 
         <!-- 结果 -->
         <div id="discovery-results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5"></div>
         <div class="text-center">
           <a href="/vehicles/" class="inline-flex items-center px-6 py-3 rounded-lg border border-gray-300 hover:border-gray-500 text-gray-800 font-medium transition">
-            View all {vehicles.length} vehicles →
+            View all {vehicleCount} vehicles →
           </a>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- 深度档案精选 -->
+  <!-- 精选车型：仅 quality_tier = A（数据完整度达标） -->
   <section class="px-6 py-16 bg-gray-50">
     <div class="mx-auto max-w-6xl">
       <div class="text-center mb-12">
-        <h2 class="text-3xl md:text-4xl font-bold mb-3">Deep profiles, beyond the spec sheet</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-3">Featured vehicles</h2>
         <p class="text-gray-600 max-w-2xl mx-auto">
-          Flag models with the richest product records — battery chemistry, drive architecture, motor
-          type, and charging interface — catalogued end to end.
+          A selection from the {tierACount} records that meet our A-tier data-completeness bar —
+          battery chemistry, drive architecture, motor type, and charging interface all catalogued.
         </p>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {deepProfiles.map((v) => (
+        {featuredVehicles.map((v) => (
           <a href={`/vehicles/${v.data.slug}/`} class="block p-6 rounded-xl border border-gray-200 bg-white hover:border-green-600/50 transition group">
             <div class="flex items-center justify-between mb-4">
               <span class="px-2.5 py-1 bg-green-600/10 text-green-600 rounded text-xs font-medium">{brandMap.get(v.data.brand) || v.data.brand.toUpperCase()}</span>
-              <span class="text-xs text-gray-600">{v.data.type}</span>
+              <span class="text-xs text-gray-600">{v.data.type} · {v.data.powertrain}</span>
             </div>
             <h3 class="text-xl font-bold mb-1 group-hover:text-green-600 transition">{v.data.title}</h3>
             <div class="flex items-baseline gap-2 mb-3">
               <span class="text-2xl font-bold">${v.data.price_usd.toLocaleString()}</span>
-              <span class="text-xs text-gray-600">ex-factory</span>
+              <span class="text-xs text-gray-600">ex-factory reference</span>
             </div>
             <div class="text-sm text-gray-600 mb-4 space-y-1">
               {v.data.range_cltc_km && <div><span class="text-gray-500">Range:</span> {v.data.range_cltc_km} km CLTC</div>}
@@ -201,11 +209,45 @@ const bodyTypes = [...new Set(vehicles.map((v) => v.data.type))].sort();
           </a>
         ))}
       </div>
+      {featuredVehicles.length === 0 && (
+        <p class="text-center text-gray-500 text-sm">No vehicles currently meet the A-tier completeness bar.</p>
+      )}
     </div>
   </section>
 
-  <!-- 产品信息价值（What's inside each record） -->
+  <!-- 入口：品牌浏览 / 对比 / 技术专题 / 出口指南 -->
   <section class="px-6 py-16">
+    <div class="mx-auto max-w-6xl">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-3">Explore further</h2>
+        <p class="text-gray-600 max-w-2xl mx-auto">
+          Browse by brand, compare models, dig into the technology, or evaluate export-market
+          requirements.
+        </p>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        <a href="/brands/" class="block p-6 rounded-xl border border-gray-200 hover:border-green-600/50 transition group">
+          <h3 class="text-lg font-bold mb-2 group-hover:text-green-600 transition">Browse brands</h3>
+          <p class="text-sm text-gray-600">All {brandCount} brands with parent manufacturers and model lineups.</p>
+        </a>
+        <a href="/blog/tag/comparison/" class="block p-6 rounded-xl border border-gray-200 hover:border-green-600/50 transition group">
+          <h3 class="text-lg font-bold mb-2 group-hover:text-green-600 transition">Compare models</h3>
+          <p class="text-sm text-gray-600">Head-to-head comparisons across specifications, trims, and price classes.</p>
+        </a>
+        <a href="/docs/glossary/" class="block p-6 rounded-xl border border-gray-200 hover:border-green-600/50 transition group">
+          <h3 class="text-lg font-bold mb-2 group-hover:text-green-600 transition">Technology explained</h3>
+          <p class="text-sm text-gray-600">Battery chemistry, motor types, drive architecture, and charging standards.</p>
+        </a>
+        <a href="https://electricvehiclehub.net/" rel="noopener" target="_blank" class="block p-6 rounded-xl border border-gray-200 hover:border-green-600/50 transition group">
+          <h3 class="text-lg font-bold mb-2 group-hover:text-green-600 transition">Export-market guides ↗</h3>
+          <p class="text-sm text-gray-600">Landed-cost, import-duty, and per-market pricing data on electricvehiclehub.net.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 产品信息价值（每条记录含什么） -->
+  <section class="px-6 py-16 bg-gray-50">
     <div class="mx-auto max-w-6xl">
       <div class="text-center mb-12">
         <h2 class="text-3xl md:text-4xl font-bold mb-3">What's inside every product record</h2>
@@ -214,17 +256,17 @@ const bodyTypes = [...new Set(vehicles.map((v) => v.data.type))].sort();
         </p>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <div class="p-6 rounded-xl border border-gray-200">
+        <div class="p-6 rounded-xl border border-gray-200 bg-white">
           <div class="text-green-600 text-2xl mb-3">01</div>
-          <h3 class="text-lg font-bold mb-2">Deep specifications</h3>
-          <p class="text-gray-600 text-sm">Battery capacity and chemistry, motor power and torque, acceleration, range (CLTC/WLTP), and efficiency — all in one normalized table.</p>
+          <h3 class="text-lg font-bold mb-2">Specifications</h3>
+          <p class="text-gray-600 text-sm">Battery capacity and chemistry, motor power and torque, acceleration, range (CLTC/WLTP), and efficiency — in one normalized table.</p>
         </div>
-        <div class="p-6 rounded-xl border border-gray-200">
+        <div class="p-6 rounded-xl border border-gray-200 bg-white">
           <div class="text-green-600 text-2xl mb-3">02</div>
           <h3 class="text-lg font-bold mb-2">Versions &amp; trims</h3>
           <p class="text-gray-600 text-sm">Trim and version variants documented where the manufacturer publishes them, so you can compare the lineup, not just a single configuration.</p>
         </div>
-        <div class="p-6 rounded-xl border border-gray-200">
+        <div class="p-6 rounded-xl border border-gray-200 bg-white">
           <div class="text-green-600 text-2xl mb-3">03</div>
           <h3 class="text-lg font-bold mb-2">Technology &amp; compliance</h3>
           <p class="text-gray-600 text-sm">Battery thermal management, heat pump, charging interface, drive architecture, suspension — plus HS code and certification facts.</p>
@@ -233,17 +275,17 @@ const bodyTypes = [...new Set(vehicles.map((v) => v.data.type))].sort();
     </div>
   </section>
 
-  <!-- 品牌墙 -->
+  <!-- 品牌浏览（动态推导，含计数） -->
   <section class="px-6 py-16">
     <div class="mx-auto max-w-6xl">
       <div class="text-center mb-10">
-        <h2 class="text-3xl md:text-4xl font-bold mb-3">{siteStats.brands} Chinese EV brands, one database</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-3">{brandCount} Chinese EV brands, one database</h2>
         <p class="text-gray-600 max-w-2xl mx-auto">
-          From BYD to Xiaomi, Yangwang to Leapmotor — every brand that matters, with product records for each model.
+          From BYD to Xiaomi, Yangwang to Leapmotor — every brand, with product records for each model.
         </p>
       </div>
       <div class="flex flex-wrap justify-center gap-2">
-        {brands.map((b) => (
+        {brandNames.map((b) => (
           <span class="px-4 py-2 rounded-lg border border-gray-200 text-gray-600 hover:text-green-600 hover:border-green-600/40 transition cursor-default text-sm">
             {b}
           </span>
@@ -255,12 +297,14 @@ const bodyTypes = [...new Set(vehicles.map((v) => v.data.type))].sort();
     </div>
   </section>
 
-  <!-- CTA -->
+  <!-- B2B 联系路径：如实呈现现有联系方式 -->
   <section class="px-6 py-20 text-center">
     <div class="mx-auto max-w-3xl">
-      <h2 class="text-3xl md:text-5xl font-bold mb-4">Every model, one structured record</h2>
+      <h2 class="text-3xl md:text-5xl font-bold mb-4">Researching at scale? Talk to us</h2>
       <p class="text-gray-600 text-lg mb-8">
-        Stop piecing together spec sheets. Get the full product profile for any Chinese EV in one place.
+        For B2B product-data and specification enquiries, contact Chengguang Energy
+        (Jinzhou Chengguang Power Source Co., Ltd.) — an independent information platform, not a
+        vehicle seller.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a href="/vehicles/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg bg-green-600 hover:bg-green-500 text-white font-semibold transition">
