@@ -8,3 +8,6 @@ https://www.electricvehiclehub.top/*  https://electricvehiclehub.top/:splat  301
 /index.htm  /  301
 # 分页第 1 页与 /blog/ 重复（noindex + canonical 已指 /blog）→ 301 消除重复
 /blog/page/1/  /blog/  301
+# 计算器已迁移到 .net（出口情报定位），跨域一对一 301
+/landed-cost-calculator/  https://electricvehiclehub.net/landed-cost-calculator/  301
+/landed-cost-calculator  https://electricvehiclehub.net/landed-cost-calculator/  301
