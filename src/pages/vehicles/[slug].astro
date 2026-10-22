@@ -72,28 +72,61 @@ const hsNote =
       ? '870340 — plug-in hybrid / hybrid electric vehicles'
       : 'Not classified (powertrain outside BEV/PHEV/HEV scope)';
 
-// 规格表数据项（完整参考表）
+// 规格表数据项（完整 63 字段参考表，补全渲染层缺失字段）
 const specs = [
-  { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
-  { label: 'Powertrain', value: data.powertrain },
+  { label: 'Brand', value: data.brand.toUpperCase() },
   { label: 'Body type', value: data.type },
+  { label: 'Powertrain', value: data.powertrain },
+  { label: 'Trim / version', value: data.trim || null },
+  { label: 'Family / nameplate', value: data.family || null },
+  { label: 'Currency', value: data.currency || 'USD' },
+  { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
+  { label: 'Price (ex-factory)', value: data.price_usd ? `$${data.price_usd.toLocaleString()}` : null },
+  { label: 'FOB price range', value: data.fob_price_usd_min != null && data.fob_price_usd_max != null ? `$${data.fob_price_usd_min.toLocaleString()} – $${data.fob_price_usd_max.toLocaleString()}` : null },
   { label: 'Range (CLTC)', value: data.range_cltc_km ? `${data.range_cltc_km} km` : null },
+  { label: 'Range (long, CLTC)', value: data.range_long_km ? `${data.range_long_km} km` : null },
   { label: 'Range (WLTP)', value: data.range_wltp_km ? `${data.range_wltp_km} km` : null },
   { label: 'Battery', value: data.battery_kwh ? `${data.battery_kwh} kWh` : null },
   { label: 'Battery type', value: data.battery_type || null },
+  { label: 'Battery thermal management', value: data.battery_thermal || null },
+  { label: 'Heat pump', value: data.heat_pump || null },
+  { label: 'Drive layout', value: data.drive_type || null },
+  { label: 'Motor type', value: data.motor_type || null },
+  { label: 'Motor model', value: data.motor_model || null },
   { label: 'Motor power', value: data.motor_power_kw ? `${data.motor_power_kw} kW` : null },
+  { label: 'Total power (combined)', value: data.total_power_kw ? `${data.total_power_kw} kW` : null },
   { label: 'Torque', value: data.torque_nm ? `${data.torque_nm} Nm` : null },
   { label: '0-100 km/h', value: data.accel_0_100_s ? `${data.accel_0_100_s} s` : null },
   { label: 'Top speed', value: data.top_speed_kmh ? `${data.top_speed_kmh} km/h` : null },
+  { label: 'Efficiency', value: data.efficiency_kwh_100km ? `${data.efficiency_kwh_100km} kWh/100km` : null },
+  { label: 'Fast charge', value: data.fast_charge || null },
   { label: 'Length', value: data.length_mm ? `${data.length_mm} mm` : null },
   { label: 'Width', value: data.width_mm ? `${data.width_mm} mm` : null },
   { label: 'Height', value: data.height_mm ? `${data.height_mm} mm` : null },
   { label: 'Wheelbase', value: data.wheelbase_mm ? `${data.wheelbase_mm} mm` : null },
   { label: 'Curb weight', value: data.weight_kg ? `${data.weight_kg} kg` : null },
   { label: 'Gross weight', value: data.gross_weight_kg ? `${data.gross_weight_kg} kg` : null },
-  { label: 'Efficiency', value: data.efficiency_kwh_100km ? `${data.efficiency_kwh_100km} kWh/100km` : null },
-  { label: 'Fast charge', value: data.fast_charge ? data.fast_charge : null },
+  { label: 'Ground clearance', value: data.ground_clearance_mm ? `${data.ground_clearance_mm} mm` : null },
+  { label: 'Trunk capacity', value: data.trunk_l ? `${data.trunk_l} L` : null },
+  { label: 'Front suspension', value: data.suspension_front || null },
+  { label: 'Rear suspension', value: data.suspension_rear || null },
+  { label: 'Brakes', value: data.brakes || null },
+  { label: 'Drag coefficient (Cd)', value: data.drag_coefficient != null ? String(data.drag_coefficient) : null },
+  { label: 'Charging interface', value: data.charging_interface || null },
+  { label: 'Charging adapter (export)', value: data.charging_adapter || null },
+  { label: 'Infotainment language', value: data.infotainment_language || null },
+  { label: 'Network bands', value: data.network_bands || null },
+  { label: 'Certification notes', value: data.certification_notes || null },
+  { label: 'HS code', value: data.hs_code || hsCode },
+  { label: 'Data tier', value: data.data_tier != null ? `Tier ${data.data_tier}` : null },
+  { label: 'Verification status', value: data.verification_status || null },
 ].filter((s) => s.value);
+
+// 版本/trim 拆分（有 trim 数据的车型渲染版本列表；"/" 分隔）
+const trimParts = data.trim
+  ? data.trim.split('/').map((s) => s.trim()).filter(Boolean)
+  : [];
+const hasTrimVariants = trimParts.length > 1;
 
 // 结构化数据/社交分享用的绝对图片地址
 const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
@@ -228,6 +261,17 @@ const jsonLd = {
         </tbody>
       </table>
     </div>
+    {hasTrimVariants && (
+      <div class="mt-5 rounded-xl border border-gray-200 overflow-hidden">
+        <h3 class="px-5 py-3 bg-gray-50 text-sm font-semibold text-gray-700">Versions / trims</h3>
+        <ul class="divide-y divide-gray-100">
+          {trimParts.map((t) => (
+            <li class="px-5 py-3 text-sm text-gray-900">{t}</li>
+          ))}
+        </ul>
+        <p class="px-5 py-3 text-xs text-gray-400 border-t border-gray-100">Version variants as published by the manufacturer; recorded verbatim from the vehicle record.</p>
+      </div>
+    )}
   </section>
 
   <!-- ② Powertrain -->
@@ -298,21 +342,23 @@ const jsonLd = {
     <div class="rounded-xl border border-gray-200 overflow-hidden">
       <table class="w-full text-sm">
         <tbody>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Battery type</td><td class="px-5 py-3.5 text-gray-900">{na(data.battery_type)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Battery type</td><td class="px-5 py-3.5 text-gray-900">{data.battery_type ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.battery_type}</a> : 'N/A'}</td></tr>
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Battery thermal management</td><td class="px-5 py-3.5 text-gray-900">{na(data.battery_thermal)}</td></tr>
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Heat pump</td><td class="px-5 py-3.5 text-gray-900">{na(data.heat_pump)}</td></tr>
-          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Charging interface</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_interface)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Charging interface</td><td class="px-5 py-3.5 text-gray-900">{data.charging_interface ? <a href="/blog/ccs2-vs-gbt-charging/" class="text-green-700 hover:underline">{data.charging_interface}</a> : 'N/A'}</td></tr>
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Charging adapter (export)</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_adapter)}</td></tr>
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Front suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_front)}</td></tr>
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Rear suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_rear)}</td></tr>
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Brakes</td><td class="px-5 py-3.5 text-gray-900">{na(data.brakes)}</td></tr>
-          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Drag coefficient (Cd)</td><td class="px-5 py-3.5 text-gray-900">{data.drag_coefficient != null ? data.drag_coefficient : 'N/A'}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Drag coefficient (Cd)</td><td class="px-5 py-3.5 text-gray-900">{data.drag_coefficient != null ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.drag_coefficient}</a> : 'N/A'}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Drive architecture</td><td class="px-5 py-3.5 text-gray-900">{data.drive_type ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.drive_type}</a> : 'N/A'}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Motor type</td><td class="px-5 py-3.5 text-gray-900">{data.motor_type ? <a href="/docs/glossary/#technology-terms" class="text-green-700 hover:underline">{data.motor_type}</a> : 'N/A'}</td></tr>
           <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Infotainment language</td><td class="px-5 py-3.5 text-gray-900">{na(data.infotainment_language)}</td></tr>
           <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Network bands</td><td class="px-5 py-3.5 text-gray-900">{na(data.network_bands)}</td></tr>
         </tbody>
       </table>
     </div>
-    <p class="text-xs text-gray-400 mt-3">Technology fields are recorded verbatim from the vehicle record; N/A where the manufacturer has not published a value.</p>
+    <p class="text-xs text-gray-400 mt-3">Technology fields are recorded verbatim from the vehicle record; N/A where the manufacturer has not published a value. Linked terms open the glossary or the relevant explainer.</p>
   </section>
 
   <!-- ⑤ Market Compliance & Export Profile（降权：仅 HS Code + 认证事实，出口情报见 .net） -->

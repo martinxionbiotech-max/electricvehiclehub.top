@@ -13,39 +13,19 @@ const faqCategories = [
         question: 'What is ' + siteConfig.name + '?',
         answer:
           siteConfig.name +
-          ' is an independent information platform that helps you understand the real cost of importing a Chinese electric vehicle (EV). We provide model and brand data, transparent landed-cost breakdowns, and educational guides on duties, VAT, freight, and certification.',
+          ' is an independent information platform that catalogs Chinese electric vehicle (EV) specifications. We provide structured model and brand data — battery chemistry, powertrain, dimensions, versions, and technology — each with its source and update date.',
       },
       {
         question: 'Do you sell vehicles?',
         answer:
           'No. ' +
           siteConfig.name +
-          ' is not a dealer, importer, or broker. We do not sell vehicles or act on behalf of any manufacturer. We provide independent reference information and landed-cost intelligence only.',
+          ' is not a dealer, importer, or broker. We do not sell vehicles or act on behalf of any manufacturer. We provide independent product data only.',
       },
       {
         question: 'Is ' + siteConfig.name + ' affiliated with any manufacturer?',
         answer:
           'No. We are an independent platform. Vehicle names, brand names, and logos belong to their respective owners and are shown for identification and reference purposes only. Their inclusion does not imply endorsement or affiliation.',
-      },
-    ],
-  },
-  {
-    name: 'Landed Cost',
-    faqs: [
-      {
-        question: 'What is "landed cost"?',
-        answer:
-          'Landed cost is the total cost of getting a vehicle from the factory to your destination, including the vehicle price, freight and insurance, import duties and countervailing tariffs, VAT/taxes, and certification or compliance costs.',
-      },
-      {
-        question: 'How accurate are your landed-cost estimates?',
-        answer:
-          'Our estimates are approximate and illustrative. Actual costs depend on many factors we cannot know, including current duties, exchange rates, your exact configuration, and freight conditions. Always verify figures with a customs broker or qualified professional before committing to an import.',
-      },
-      {
-        question: 'Do your estimates include all taxes and duties?',
-        answer:
-          'We include the common components — duties, countervailing tariffs where applicable, and VAT — based on publicly available information at the time of writing. However, specific customs classifications and rulings for your exact vehicle can change the result. Treat every figure as a starting point, not a guarantee.',
       },
     ],
   },
@@ -82,7 +62,7 @@ const faqCategories = [
       {
         question: 'Can you help me source a specific vehicle?',
         answer:
-          'We can provide landed-cost guidance for a specific model and destination country. Send us the model and destination, and we will provide a transparent breakdown. We do not, however, act as a purchasing agent or broker.',
+          'We can provide specification guidance for a specific model. Send us the model, and we will clarify the product record. We do not, however, act as a purchasing agent or broker.',
       },
       {
         question: 'How do I contact you?',
@@ -128,7 +108,7 @@ const faqLd = {
 
 <MarketingLayout
   title={`FAQ - ${siteConfig.name}`}
-  description={`Frequently asked questions about ${siteConfig.name} — importing Chinese EVs, landed cost, data coverage, and using the platform.`}
+  description={`Frequently asked questions about ${siteConfig.name} — Chinese EV product data, specifications, data coverage, and using the platform.`}
 >
   <PageHeader
     title="Frequently Asked Questions"

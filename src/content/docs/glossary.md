@@ -78,6 +78,22 @@ The language of vehicle importing is dense with acronyms and terms of art. This 
 
 **NEDC (New European Driving Cycle)** — An older EU test standard, now largely superseded by WLTP.
 
+## Technology terms
+
+**Battery chemistry** — The cathode/electrolyte cell composition of the traction pack. The two dominant chemistries in Chinese EVs are **LFP (lithium iron phosphate)** — cheaper, more cycle-stable, cobalt-free — and **NMC (nickel-manganese-cobalt)** — higher energy density, longer range per kg. A single model may offer both across trims.
+
+**Motor type** — The electric traction machine architecture. **PMSM (permanent-magnet synchronous motor)** dominates for efficiency and power density; **induction (asynchronous) motors** are common on a front axle for dual-motor all-wheel-drive layouts.
+
+**Drive architecture** — The powered-wheel layout: **RWD** (rear-wheel drive), **FWD** (front-wheel drive), or **AWD** (dual-motor all-wheel drive).
+
+**Charging interface** — The physical inlet and protocol on the vehicle. China-market cars use the **GB/T** standard (AC + DC); export destinations such as the EU use **CCS2 (DC) / Type 2 (AC)**. See also [CCS2 vs GB/T](/blog/ccs2-vs-gbt-charging/).
+
+**Battery thermal management** — How the pack is kept in its optimal temperature window: air-cooled, liquid-cooled, or refrigerant-cooled. Liquid cooling is standard on modern Chinese EVs.
+
+**Heat pump** — An efficiency feature that scavenges heat from the ambient air and drivetrain to warm the cabin, reducing winter range loss versus a resistive heater.
+
+**Drag coefficient (Cd)** — A dimensionless measure of aerodynamic resistance. Lower is better for high-speed efficiency; the BYD Seal's Cd of 0.219 is among the lowest for a production sedan.
+
 ---
 
 Need a term defined that isn't here? See the [FAQ](/docs/faq/) or [contact us](/contact/).
