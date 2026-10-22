@@ -46,7 +46,7 @@ Read the table top to bottom and the structure is familiar from every EU market:
 
 ## Landed cost by model (Belgium)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 21% VAT, and the fixed import block (freight, clearance, compliance, registration, inland — $6,250 for Belgium).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 21% VAT, and the fixed import block (freight, clearance, compliance, registration, inland — $6,250 for Belgium).
 
 | Model | Base (China) | Belgium landed | Premium |
 |---|---|---|---|
@@ -76,7 +76,7 @@ Second, **cheap cars wear the fixed block worst.** A $5,000 Wuling pays the same
 | Freight, clearance, certification, registration, inland | $6,250 |
 | **Total landed** | **$44,699** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from EV Hub's tariff and landed-cost records dated 15 September 2026.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from China EV Mart's tariff and landed-cost records dated 15 September 2026.
 
 One caution on the registration line: the model folds it into a flat $150 for comparability, but Belgium's real cost is region-dependent. Flanders charges a BEV no registration tax and no annual circulation tax; register the same car in Wallonia or Brussels and a small charge applies (a minimum circulation tax of €100.98, plus Wallonia's formula-based BIV where applicable) [Source: European Commission / EAFO]. Treat $44,699 as a floor, not a showroom estimate. The federal registration paperwork specifics could not be verified from primary sources at the time of writing — treat those details as UNKNOWN and confirm with a broker.
 
@@ -91,7 +91,7 @@ This is the comparison the Belgian number is built to make. Belgium, Germany, Fr
 | Belgium | 21% | $150 | $44,699 | — |
 | Netherlands | 21% | $400 | $44,949 | +$250 |
 
-Read it as a lesson in what matters. Germany's advantage is purely VAT — two points, worth about $636 on this car — but its registration line is $350 higher, so the net gap is $286. Belgium ties the Netherlands on the 21% headline rate and beats it by $250 on the registration line alone. France sits $68 below Belgium on the mixed effect of one VAT point and a $250 fee difference. No market in the group lands more than 0.7% apart, because **the customs bill — the heavy layer — is set at EU level for all four.** [Source: EU Implementing Regulation 2024/2754; EV Hub records]
+Read it as a lesson in what matters. Germany's advantage is purely VAT — two points, worth about $636 on this car — but its registration line is $350 higher, so the net gap is $286. Belgium ties the Netherlands on the 21% headline rate and beats it by $250 on the registration line alone. France sits $68 below Belgium on the mixed effect of one VAT point and a $250 fee difference. No market in the group lands more than 0.7% apart, because **the customs bill — the heavy layer — is set at EU level for all four.** [Source: EU Implementing Regulation 2024/2754; China EV Mart records]
 
 For scale, the VAT lever is the one that does move money inside the EU: Sweden's 25% rate puts the same Seal at $45,890. None of it changes at the port, though — the [LHD vs RHD market map](/blog/lhd-vs-rhd-markets/) matters more than the harbour when you are choosing where a car can ultimately be sold.
 
@@ -122,7 +122,7 @@ The CVD schedule in this article is the regime in force since late 2024 — and 
 
 **Reasoning.** First, the numbers are not close and not temporary: the duty and CVD multiply a BYD's ex-factory price by 1.287 and a SAIC car's by 1.488 before VAT, and the CVD regulation runs five years from late 2024 — this is the decade's baseline, not a quarter's anomaly. Second, Belgium's policy levers don't offset the customs bill; they redirect it. There is no purchase subsidy left for private buyers (the Flemish scheme collapsed on budget in late 2024), so electrification runs through company-car deductibility, VAT recovery and tax relief — structures that benefit fleets and businesses far more than individuals. Third, the gateway logic is self-reinforcing: 1.7 million vehicles through Antwerp-Zeebrugge in half a year, Chinese volumes growing 25.5%, and deep terminal and broker expertise make Belgium the most operationally practical EU entry point for a China-origin car — even though it gives away almost nothing on price. The one thing I would watch is the minimum-price mechanism; if it spreads beyond first movers, the brand-by-brand math could change faster than the five-year regulation suggests.
 
-**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from EV Hub's dataset, not transaction prices. Parts of the Belgian registration and customs process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Belgian authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from China EV Mart's dataset, not transaction prices. Parts of the Belgian registration and customs process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Belgian authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -149,4 +149,4 @@ The CVD schedule in this article is the regime in force since late 2024 — and 
 8. electrive — "Good-bye tariffs: EU publishes guidance on minimum price mechanism with China" — https://www.electrive.com/2026/01/12/good-bye-tariffs-eu-publishes-guidance-on-minimum-price-mechanism-with-china/ — published 12 January 2026; accessed 16 September 2026
 9. electrive — "Farewell tariffs: Cupra Tavascan becomes first China import to fall under minimum price rule" — https://www.electrive.com/2026/02/11/farewell-tariffs-cupra-tavascan-becomes-first-china-import-to-fall-under-minimum-price-rule/ — published 11 February 2026; accessed 16 September 2026
 10. electrive — "EU plans additional tariffs on Chinese PHEVs" — https://www.electrive.com/2026/06/19/eu-plans-additional-tariffs-on-chinese-phevs/ — published 19 June 2026; accessed 16 September 2026
-11. EV Hub — tariff, market and vehicle landed-cost records (Belgium: duty 10%, VAT 21%, registration ~$150; brand CVD schedule; fixed import block $6,250; 517-model catalogue with per-model Belgium landing) — internal dataset, last verified 15 September 2026
+11. China EV Mart — tariff, market and vehicle landed-cost records (Belgium: duty 10%, VAT 21%, registration ~$150; brand CVD schedule; fixed import block $6,250; 517-model catalogue with per-model Belgium landing) — internal dataset, last verified 15 September 2026

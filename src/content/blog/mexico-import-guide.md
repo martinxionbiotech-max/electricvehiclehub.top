@@ -1,6 +1,6 @@
 ---
 title: "Importing a Chinese EV to Mexico: The 50% Duty That Ended the North American Jump-Pad"
-description: "Importing a Chinese EV to Mexico now carries a 50% import duty plus 16% VAT. A BYD Seal lands at $50,011 — the highest landed cost in EV Hub's 30-market dataset. Here is the math, the worked example, and why local assembly is now the only serious route."
+description: "Importing a Chinese EV to Mexico now carries a 50% import duty plus 16% VAT. A BYD Seal lands at $50,011 — the highest landed cost in China EV Mart's 30-market dataset. Here is the math, the worked example, and why local assembly is now the only serious route."
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
@@ -10,7 +10,7 @@ tags: [mexico, ev-import, landed-cost, market-comparison, nearshoring, customs-d
 
 ## TL;DR
 
-Since 1 January 2026, Chinese vehicles entering Mexico face a **50% import duty plus 16% IVA**. A BYD Seal priced at $24,690 ex-factory China lands at about **$50,011 (+102.6%)** — the highest landed cost for that car across all 30 markets EV Hub tracks, above Denmark and well above Germany. The threshold is no longer price; it is **assembly location**. CBU imports pay the wall, locally built cars do not.
+Since 1 January 2026, Chinese vehicles entering Mexico face a **50% import duty plus 16% IVA**. A BYD Seal priced at $24,690 ex-factory China lands at about **$50,011 (+102.6%)** — the highest landed cost for that car across all 30 markets China EV Mart tracks, above Denmark and well above Germany. The threshold is no longer price; it is **assembly location**. CBU imports pay the wall, locally built cars do not.
 
 ## Key statistics
 
@@ -56,7 +56,7 @@ Mexico is the harshest of the five high-tariff markets in this cluster on absolu
 | Freight, clearance, certification, registration, inland | $7,050 |
 | **Total landed** | **$50,011** |
 
-Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs come from EV Hub's tariff records and the corresponding model's landed-cost file, both dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs come from China EV Mart's tariff records and the corresponding model's landed-cost file, both dated 2026-09-15.
 
 One honest caveat: the fixed-cost block is the residual between the published formula and the published total, so it bundles RoRo freight, clearance, certification, registration and inland transport rather than itemizing them per market. The tax lines are exact; the logistics block is aggregated.
 
@@ -105,5 +105,5 @@ For a distributor weighing a first order, the honest question is no longer "what
 2. Automotive Logistics — "Mexico introduces new tariffs on cars and auto parts for countries without a trade agreement" — https://www.automotivelogistics.media/supply-chain/mexico-introduces-new-tariffs-on-cars-and-auto-parts-for-countries-without-a-trade-agreement/2585186 — 2026
 3. The Rio Times — "Chinese Cars in Mexico Hit 17% Despite 50% Tariff" — https://www.riotimesonline.com/chinese-cars-in-mexico-hit-17-of-sales-despite-a-50-tariff — 2026; accessed 2026-09-15
 4. Yahoo Finance — "Mexico's 50% Tariff Isn't Stopping Chinese Cars — But It Is Quietly Killing Some Of Them" (DOF decree of 29 December 2025; 1,463 tariff fractions) — https://finance.yahoo.com/economy/policy/articles/mexicos-50-tariff-isnt-stopping-161200069.html — 2026
-5. EV Hub — tariffs.json and market-master.json (duty 0.50, IVA 0.16, no CVD; verified 2026-09-15)
-6. EV Hub — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15
+5. China EV Mart — tariffs.json and market-master.json (duty 0.50, IVA 0.16, no CVD; verified 2026-09-15)
+6. China EV Mart — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15

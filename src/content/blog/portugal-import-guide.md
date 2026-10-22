@@ -49,7 +49,7 @@ For the mechanics of why 10 + 17 + 23 does not sum to 50 on the invoice, see the
 
 ## Landed cost by model (Portugal)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus 10% duty, the brand CVD, 23% VAT, and the fixed import block (freight, clearance, compliance, registration, inland transport — $6,300 in our Portuguese records).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus 10% duty, the brand CVD, 23% VAT, and the fixed import block (freight, clearance, compliance, registration, inland transport — $6,300 in our Portuguese records).
 
 | Model | Base (China) | Portugal landed | Premium | CVD rate |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ Third, **do not rank models by sticker.** The Xiaomi SU7 (+84.1%) lands proporti
 | Freight, clearance, certification, registration, inland | $6,300 |
 | **Total landed** | **$45,385** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
 One caution on the registration line: $200 is the smallest item in the fixed block and the least certain — the ISV position for BEVs could not be confirmed beyond EAFO's April 2025 snapshot (flagged UNKNOWN above). Treat $45,385 as the modeled floor for the tax stack, not a showroom estimate, and verify the registration-tax position with a Portuguese broker before wiring money.
 
@@ -136,7 +136,7 @@ So read the "Iberian gateway" label precisely. If it means tariff arbitrage, Por
 
 **Reasoning.** First, the arithmetic is structural, not seasonal: VAT is now the single biggest tax line after the car itself, the Iberian gap of $726 versus Spain is entirely a VAT-and-registration story, and no domestic incentive is sized to neutralise it — the €4,000 rebate is ownership policy, not import policy. Second, the demand is real and accelerating: three consecutive 10,000-plus months through July, a 30.9% monthly BEV share in a market where BEVs now outsell petrol and diesel combined year-to-date, and an active used-import channel that proves buyers here are already comfortable with foreign-sourced cars. Third, the gateway logic only works in one direction: for a brand already distributing in Iberia, Portugal is a registration-office extension of Spain; for an importer choosing where to land a single container, the tax codes point to Spain, and the honest answer is that Portugal's case rests on the market itself — its demand, its charging and parking privileges, its import habit — not on tariff arbitrage. The one unresolved item is the registration-tax detail: EAFO's April 2025 snapshot and our September 2026 records describe the BEV treatment differently in the fine print, and for a mid-four-figure tax once possible, that is worth one broker's email.
 
-**Disclosure.** This is my analysis of published records, tariff data and market reporting — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from EV Hub's dataset, not transaction prices. The exact 2026 ISV schedule for imported BEVs, and the current intake status of the Portuguese purchase rebate, could not be verified from primary sources at the time of writing (flagged UNKNOWN); confirm rates, thresholds and procedures with Portuguese authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published records, tariff data and market reporting — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from China EV Mart's dataset, not transaction prices. The exact 2026 ISV schedule for imported BEVs, and the current intake status of the Portuguese purchase rebate, could not be verified from primary sources at the time of writing (flagged UNKNOWN); confirm rates, thresholds and procedures with Portuguese authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -158,4 +158,4 @@ So read the "Iberian gateway" label precisely. If it means tariff arbitrage, Por
 2. UVE (Associação de Utilizadores de Veículos Elétricos) — "Novo recorde mensal para os veículos 100% elétricos em Portugal" (June 2026: 12,045 BEVs registered, 8,907 new + 3,138 used imports, +75% year on year; 28.74% June share of new passenger cars; 25.32% half-year; brand ranking led by Tesla, BMW, BYD) — https://www.uve.pt/page/vendas-ve-06-2026/ — published July 2026; accessed 16 September 2026
 3. UVE — "Julho confirma a aceleração da mobilidade elétrica em Portugal" (July 2026: 10,229 BEVs, third consecutive month above 10,000; 30.9% new passenger-car share vs 20.7% a year earlier; 26% January–July with BEVs above combined petrol and diesel; 41% including PHEVs; electric light commercials +138% year to date) — https://www.uve.pt/page/vendas-ve-07-2026/ — published August 2026; accessed 16 September 2026
 4. European Commission — Commission Implementing Regulation (EU) 2024/2754 imposing definitive countervailing duties on imports of battery electric vehicles from China (brand-specific rates: BYD 17.0%, Geely 18.8%, SAIC 35.3%, Tesla Shanghai 7.8%, other cooperating producers 20.7%; five-year term from late October 2024) — https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402754 — October 2024; accessed 16 September 2026
-5. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Portugal: duty 10%, VAT 23%, registration ~$200, reduced ISV for BEV; 517-model catalogue with per-model Portugal landing; brand CVD as set by EU Reg 2024/2754) — internal dataset, last verified 15 September 2026
+5. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Portugal: duty 10%, VAT 23%, registration ~$200, reduced ISV for BEV; 517-model catalogue with per-model Portugal landing; brand CVD as set by EU Reg 2024/2754) — internal dataset, last verified 15 September 2026

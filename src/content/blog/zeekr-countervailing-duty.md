@@ -92,7 +92,7 @@ A **$19,300 difference on a $38,000 car** between Germany and the UAE — almost
 
 **Reasoning:** First, the rate is group attribution, not a Zeekr finding, so treating it as evidence that Zeekr is "more competitive" than Changan or NIO is a category error — it is just Geely's sampled rate traveling with the group. Second, the dollar impact of the 1.9-point edge is modest: about $790 on a Zeekr 001, which is noise compared to the $6,600 fixed stack and the car's own base price. Third, the real Zeekr story is the inverse relationship between price and premium percentage — the $61,830 Zeekr 009 absorbs the 18.8% into a +66% markup and generates the group's largest dollar duty bill, so the premium end is where the tariff actually does the most absolute work.
 
-**Disclosure:** This is my interpretation of published EU tariff law and the EV Hub landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** This is my interpretation of published EU tariff law and the China EV Mart landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -105,5 +105,5 @@ A **$19,300 difference on a $38,000 car** between Germany and the UAE — almost
 
 1. European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
 2. European Commission press release on definitive anti-subsidy duties on BEVs from China — 29 October 2024
-3. EV Hub — tariffs.json brand_cvd (zeekr → 0.188, Geely group) and market-master.json (EU duty/VAT), verified 2026-09-15
-4. EV Hub — vehicle landed-cost records for 7 Zeekr BEV models, 2026-09-15
+3. China EV Mart — tariffs.json brand_cvd (zeekr → 0.188, Geely group) and market-master.json (EU duty/VAT), verified 2026-09-15
+4. China EV Mart — vehicle landed-cost records for 7 Zeekr BEV models, 2026-09-15

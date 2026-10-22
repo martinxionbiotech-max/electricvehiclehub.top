@@ -47,7 +47,7 @@ Read the table top to bottom and the pattern is obvious: the customs layers are 
 
 ## Landed cost by model (Denmark)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 25% VAT, and the fixed import block (freight, clearance, compliance, registration, inland).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 25% VAT, and the fixed import block (freight, clearance, compliance, registration, inland).
 
 | Model | Base (China) | Denmark landed | Premium |
 |---|---|---|---|
@@ -77,7 +77,7 @@ Second, **cheap cars wear the flat block worst.** A $5,000 Wuling pays the same 
 | Freight, clearance, certification, registration, inland | $9,600 |
 | **Total landed** | **$49,320** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
 One caution on the registration line: our model folds registration into a flat $3,500 for comparability, but Denmark's actual registreringsafgift is calculated per vehicle on taxable value with the BEV share and fixed deduction, so a specific car's true bill can land above or below our block — and for imports the taxable value itself is set at the border. Treat $49,320 as a model estimate, not a showroom quote, and confirm the registration computation for your exact car before committing.
 
@@ -93,7 +93,7 @@ This is the comparison the Danish number is built for. Sweden and Denmark charge
 | BYD Seal | $49,320 | $45,890 | +$3,430 | $38,112 |
 | Zeekr 009 | $110,599 | $107,169 | +$3,430 | $84,538 |
 
-The Denmark–Sweden gap is **exactly $3,430 on every model** — the difference between the two registration blocks, nothing else. Against Germany the gap is bigger: for the Seal, $4,907, of which $3,000 is the extra registration and $1,907 is the extra VAT charged at 25% instead of 19% on the same duty-paid base. And against Norway it mixes both stories: Norway sits outside the EU customs union and levies no duty and no CVD, so the Seal lands at $38,112 — $11,208 below Denmark, of which $7,778 is the customs stack and $3,430 is registration [Source: EU Implementing Regulation 2024/2754; EV Hub records]. Our [Norway import guide](/blog/norway-import-guide/) covers the Norwegian mechanics in detail, and the [Sweden guide](/blog/sweden-import-guide/) is the closest like-for-like comparison in Europe.
+The Denmark–Sweden gap is **exactly $3,430 on every model** — the difference between the two registration blocks, nothing else. Against Germany the gap is bigger: for the Seal, $4,907, of which $3,000 is the extra registration and $1,907 is the extra VAT charged at 25% instead of 19% on the same duty-paid base. And against Norway it mixes both stories: Norway sits outside the EU customs union and levies no duty and no CVD, so the Seal lands at $38,112 — $11,208 below Denmark, of which $7,778 is the customs stack and $3,430 is registration [Source: EU Implementing Regulation 2024/2754; China EV Mart records]. Our [Norway import guide](/blog/norway-import-guide/) covers the Norwegian mechanics in detail, and the [Sweden guide](/blog/sweden-import-guide/) is the closest like-for-like comparison in Europe.
 
 ## Why Denmark still matters: real demand under the steepest stack
 
@@ -125,7 +125,7 @@ For an importer the reading is two-sided: demand is real and electric-leaning, b
 
 **Reasoning.** First, the pattern is consistent: in our records, Denmark carries the steepest landing premium of all 12 EU markets for every model we checked — the Seal at +99.8%, the MG 4 at +185.1%, the Wuling at +278.0%. Second, the mechanism is simple and durable: identical duty, identical CVD and the identical 25% VAT that Sweden charges, plus a registration block fifty times Sweden's ($3,500 against $70) — a difference that lands in every line-item calculation. Third, Denmark's own policy trajectory supports the premium rather than offsetting it: the full tax exemption ended in 2016, the 40% BEV share is a freeze rather than a rollback, and the legislated path reaches 100% by 2035; the only counterweight is the DKK 161,300 deduction, which has itself been shrinking (from DKK 170,000 in 2021). Fourth, demand suggests the market absorbs it: with about 86% of August registrations electric or plug-in and Chinese brands multiplying their volumes, the cost stack filters product choices rather than killing the segment. The buyers most exposed are private ones — fleet buyers in Sweden recover the VAT, but their Danish counterparts generally cannot.
 
-**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from EV Hub's dataset, not transaction prices. Parts of the Danish registration and customs process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Danish authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from China EV Mart's dataset, not transaction prices. Parts of the Danish registration and customs process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Danish authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -145,5 +145,5 @@ For an importer the reading is two-sided: demand is real and electric-leaning, b
 2. Mobility Denmark — "Statistik over nyregistreringer" (131,759 new passenger cars, 1 January–31 August 2026, vs 116,351 in 2025; brand-level registrations incl. Xpeng 3,698, MG 3,065, BYD 2,048, Zeekr 1,944) — https://mobility.dk/nyregistreringer/ — accessed 16 September 2026
 3. Mobility Denmark — "Elektrificerede biler i Danmark" (about 86% of August 2026 new registrations were electric or plug-in hybrid; 821,184 chargeable passenger cars in the total fleet as of 31 August 2026) — https://mobility.dk/elbiler/ — accessed 16 September 2026
 4. European Commission — Commission Implementing Regulation (EU) 2024/2754 imposing definitive countervailing duties on imports of battery electric vehicles from China (brand-specific rates: BYD 17.0%, Geely 18.8%, SAIC 35.3%, Tesla Shanghai 7.8%, other cooperating producers 20.7%; effective 31 October 2024, five years) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — October 2024; accessed 16 September 2026
-5. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars) — https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via EV Hub's source registry, last verified 15 September 2026
-6. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Denmark: duty 10%, VAT 25%, registration block $3,500, brand CVD rates; 517-model catalogue with per-model Denmark landing) — internal dataset, last verified 15 September 2026
+5. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars) — https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via China EV Mart's source registry, last verified 15 September 2026
+6. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Denmark: duty 10%, VAT 25%, registration block $3,500, brand CVD rates; 517-model catalogue with per-model Denmark landing) — internal dataset, last verified 15 September 2026

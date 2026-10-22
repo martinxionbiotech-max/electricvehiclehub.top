@@ -96,7 +96,7 @@ Beyond the arithmetic, three things buyers should carry into a G6 decision, beca
 
 **Reasoning.** First, the number that decides Germany is regulatory, not engineering: a $5,653.79 countervailing-duty line attaches to every G6 while the competing product is manufactured inside the customs zone it sells into. No amount of product quality out-runs a six-figure-per-container cost difference. Second, the flip is too clean to be chance — same car, same freight, and the advantage swings from −$1,120 to +$17,111 purely by leaving the EU's customs zone, which tells an importer exactly which markets to prioritize. Third, the spec gap is real: more battery (68.5 kWh against an unpublished-but-smaller Standard pack), a longer quoted range, a faster charging claim, in a package whose wheelbase matches the Model Y's exactly — the reason I would not ignore the EU entirely is that product stories sell above price in the premium trims this car competes in.
 
-**Disclosure.** This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are EV Hub model estimates from vehicle records updated 7 September 2026; Tesla prices come from the tier-2 sources below, checked 17 September 2026 — the official configurator was not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 17 September 2026 rates cited in Sources.
+**Disclosure.** This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are China EV Mart model estimates from vehicle records updated 7 September 2026; Tesla prices come from the tier-2 sources below, checked 17 September 2026 — the official configurator was not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 17 September 2026 rates cited in Sources.
 
 ## Sources
 
@@ -107,8 +107,8 @@ Beyond the arithmetic, three things buyers should carry into a G6 decision, beca
 5. European Commission (Access2Markets) — "EU Commission imposes countervailing duties on imports of battery electric vehicles (BEVs) from China" — https://trade.ec.europa.eu/access-to-markets/en/news/eu-commission-imposes-countervailing-duties-imports-battery-electric-vehicles-bevs-china — accessed 17 Sep 2026
 6. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 (producer-specific rates, including the other-cooperating rate and Tesla's 7.8%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 17 Sep 2026
 7. Reuters — "EU tariffs on imports of China-made EVs" (tariff factbox) — https://www.reuters.com/world/china/eu-tariffs-imports-china-made-evs-2026-02-11 — accessed 17 Sep 2026
-8. EV Hub — XPeng G6 vehicle record and landed-cost markets (data updated 7 Sep 2026)
-9. EV Hub — `tariffs.json` and `market-master.json` (CVD and market rate inputs; verified 15 Sep 2026)
+8. China EV Mart — XPeng G6 vehicle record and landed-cost markets (data updated 7 Sep 2026)
+9. China EV Mart — `tariffs.json` and `market-master.json` (CVD and market rate inputs; verified 15 Sep 2026)
 
 ## Related reading
 

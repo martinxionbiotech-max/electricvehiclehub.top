@@ -25,7 +25,7 @@ This is the rare BYD–Tesla comparison that needs no segment apology: the [BYD 
 
 ## The basis: ex-factory versus landed cost
 
-Same discipline as every EV Hub comparison. **Ex-factory** is the China gate price — $26,730 for the [Sealion 7](/vehicles/byd-sealion-07/) (sold as the Sealion 07 in China). **Landed cost** is what an importer pays to put that car through customs in the destination market: duty, countervailing duty where the EU applies it, and VAT or GST compounding in that order, plus a fixed block for RoRo freight, clearance, certification, registration and inland transport. It is the cash needed at the border — not a retail price, and not inclusive of importer margin or warranty provisioning.
+Same discipline as every China EV Mart comparison. **Ex-factory** is the China gate price — $26,730 for the [Sealion 7](/vehicles/byd-sealion-07/) (sold as the Sealion 07 in China). **Landed cost** is what an importer pays to put that car through customs in the destination market: duty, countervailing duty where the EU applies it, and VAT or GST compounding in that order, plus a fixed block for RoRo freight, clearance, certification, registration and inland transport. It is the cash needed at the border — not a retail price, and not inclusive of importer margin or warranty provisioning.
 
 The arithmetic compounds:
 
@@ -68,7 +68,7 @@ The EU's countervailing duty under Implementing Regulation (EU) 2024/2754 applie
 
 ## The landed-cost matrix: seven markets, both cars
 
-Seven markets, two SUVs, and the full gap. Model Y figures are local list or entry prices from the sources below, converted at 20 September 2026 rates; Sealion 7 figures are the EV Hub landed estimates:
+Seven markets, two SUVs, and the full gap. Model Y figures are local list or entry prices from the sources below, converted at 20 September 2026 rates; Sealion 7 figures are the China EV Mart landed estimates:
 
 | Market | Sealion 7 landed (model) | Model Y local price | Converted | Gap |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ First, the numbers leave no ambiguity about where the German loss lives: $5,948 
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. The Sealion 7 figures are EV Hub model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla prices come from the tier-2 sources listed below, checked 20 September 2026; the official configurators were not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 20 September 2026 rates cited in Sources. All range and charging figures are quoted specifications, not measured results.
+This is my analysis and opinion, not verified fact, and not financial advice. The Sealion 7 figures are China EV Mart model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla prices come from the tier-2 sources listed below, checked 20 September 2026; the official configurators were not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 20 September 2026 rates cited in Sources. All range and charging figures are quoted specifications, not measured results.
 
 ## Sources
 
@@ -143,10 +143,10 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 6. tbreak.com — "Tesla's Six-Seat Model Y L Premium Hits UAE Order Books at AED 224,990" (five-seat Model Y Premium RWD AED 174,990) — https://tbreak.com/tesla-six-seat-model-y-l-premium-uae/ — 3 Jul 2026
 7. paultan.org — "Tesla Model Y Juniper facelift announced in Thailand — RWD and Long Range AWD, from RM224k" (RWD from 1.719 million baht) — https://paultan.org/2025/04/03/tesla-model-y-juniper-facelift-announced-in-thailand-rwd-and-long-range-awd-from-rm224k-q3-delivery/ — 3 Apr 2025
 8. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (BYD 17.0%; Tesla Shanghai 7.8%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 20 Sep 2026
-9. EV Hub — Germany import guide (Giga Berlin Model Y outside the countervailing measure) — https://electricvehiclehub.top/blog/germany-import-guide/ — accessed 20 Sep 2026
-10. EV Hub — BYD Sealion 07 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/byd-sealion-07/ — accessed 20 Sep 2026
+9. China EV Mart — Germany import guide (Giga Berlin Model Y outside the countervailing measure) — https://chinaevmart.com/blog/germany-import-guide/ — accessed 20 Sep 2026
+10. China EV Mart — BYD Sealion 07 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://chinaevmart.com/vehicles/byd-sealion-07/ — accessed 20 Sep 2026
 11. ExchangeRate-API — USD reference rates, 20 Sep 2026: EUR/USD 1.1477 · GBP/USD 1.3370 · NOK/USD 0.1062 · AUD/USD 0.7118 · AED/USD 0.2723 · THB/USD 0.0300 — https://open.er-api.com/v6/latest/USD — accessed 20 Sep 2026
-12. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+12. China EV Mart — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 20 Sep 2026
 
 ## Related reading
 

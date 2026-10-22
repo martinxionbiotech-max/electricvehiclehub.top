@@ -69,7 +69,7 @@ None of it touches the German duel, because the car on the other side never cros
 
 ## The landed-cost matrix: eight markets, both cars
 
-Eight markets, two SUVs, the full gap. Model Y figures are local list or entry prices from the sources below, converted at 22 September 2026 rates; 7X figures are the EV Hub landed estimates from the [vehicle record](/vehicles/zeekr-7x/):
+Eight markets, two SUVs, the full gap. Model Y figures are local list or entry prices from the sources below, converted at 22 September 2026 rates; 7X figures are the China EV Mart landed estimates from the [vehicle record](/vehicles/zeekr-7x/):
 
 | Market | 7X landed (model) | Model Y local price | Converted | Gap |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ Fourth, Norway is the tell for how thin a non-EU edge can get: zero duty, but 25
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. The 7X figures are EV Hub model estimates from the vehicle record updated 7 September 2026 — costs, not quotes; the Tesla column is retail pricing from the tier-2 sources below, verified 22 September 2026, so confirm current pricing before acting. Currency conversions use the 22 September 2026 ExchangeRate-API rates cited in Sources. Range, efficiency and charging figures are quoted specifications, not measured results.
+This is my analysis and opinion, not verified fact, and not financial advice. The 7X figures are China EV Mart model estimates from the vehicle record updated 7 September 2026 — costs, not quotes; the Tesla column is retail pricing from the tier-2 sources below, verified 22 September 2026, so confirm current pricing before acting. Currency conversions use the 22 September 2026 ExchangeRate-API rates cited in Sources. Range, efficiency and charging figures are quoted specifications, not measured results.
 
 ## Sources
 
@@ -167,8 +167,8 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 8. paultan.org — "Tesla Model Y Juniper facelift announced in Thailand" (RWD from 1.719 million baht; 3 April 2025) — https://paultan.org/2025/04/03/tesla-model-y-juniper-facelift-announced-in-thailand-rwd-and-long-range-awd-from-rm224k-q3-delivery/ — accessed 22 Sep 2026
 9. ExchangeRate-API — USD reference rates, 22 Sep 2026 (per USD: EUR 0.87176 · GBP 0.747749 · AUD 1.404334 · AED 3.6725 · NOK 9.435161 · THB 33.257692) — https://open.er-api.com/v6/latest/USD — accessed 22 Sep 2026
 10. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (Geely group 18.8%; Tesla Shanghai 7.8%; other cooperating 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 22 Sep 2026
-11. EV Hub — Zeekr 7X vehicle record and 30-market landed-cost data (base $32,370; Germany landed $56,938.33; data updated 7 Sep 2026)
-12. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
+11. China EV Mart — Zeekr 7X vehicle record and 30-market landed-cost data (base $32,370; Germany landed $56,938.33; data updated 7 Sep 2026)
+12. China EV Mart — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
 
 ## Related reading
 

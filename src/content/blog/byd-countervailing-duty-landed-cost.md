@@ -153,7 +153,7 @@ The definitive duties run for five years from 31 October 2024, but they are subj
 
 **Reasoning:** First, on the cars BYD sells in volume, the rate is the smaller problem: the same $6,600 fixed-cost stack that lifts a $32,370 Tang L by +74% turns an $8,940 Seagull into a +127% premium, because freight, certification and registration do not scale down. Second, BYD's most valuable tariff asset is not the 17% but the BEV-only scope of the measure — PHEVs pay only the standard 10%, which is how BYD became Germany's best-selling PHEV brand, and the Commission is preparing to close that window. Third, treat BYD landed-cost figures as provisional: the measures are reviewable, model-level undertakings exist, and a PHEV ruling would re-price much of the range.
 
-**Disclosure:** This is the EV Hub analysis team's judgment based on public data — not a quotation or legal advice. Countervailing-duty rates follow Commission Implementing Regulation (EU) 2024/2754 and official EU updates, and can change; verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** This is the China EV Mart analysis team's judgment based on public data — not a quotation or legal advice. Countervailing-duty rates follow Commission Implementing Regulation (EU) 2024/2754 and official EU updates, and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -167,4 +167,4 @@ The definitive duties run for five years from 31 October 2024, but they are subj
 - 新华网 (Xinhua) — 欧盟对华电动车反补贴税终裁：比亚迪 17%、吉利 18.8%、上汽 35.3% (2024-10-30)
 - Reuters factbox on EU tariffs on China-made EVs (February 2026)
 - CnEVPost / electrive — reporting on EU preparations to extend tariffs to Chinese PHEVs (June 2026)
-- EV Hub landed-cost records: 37 BYD models × 7 markets, itemized duty/CVD/VAT/freight/certification
+- China EV Mart landed-cost records: 37 BYD models × 7 markets, itemized duty/CVD/VAT/freight/certification

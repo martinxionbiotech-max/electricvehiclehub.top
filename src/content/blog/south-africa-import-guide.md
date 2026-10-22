@@ -37,7 +37,7 @@ South Africa also levies an ad valorem customs excise duty on vehicles, on a sli
 - Industry advocacy material from CHARGE describes imported EVs as subject to 25% duty **plus** ad valorem tax reaching up to 30% depending on value, and campaigns for the ad valorem charge to be scrapped for EVs.
 - A 2026 consumer guide states that EVs above roughly R1.1 million pay no ad valorem tax, framing it as an EV advantage relative to luxury combustion vehicles.
 
-Both cannot be complete. The likely explanation is that the bands, thresholds and exemptions have changed across budget cycles, and that some material describes a proposed or prior regime. EV Hub's landed-cost model does not include ad valorem at all, so treat the figures below as **excluding** it. If ad valorem applies to your model, the real number is higher. We are marking the current EV treatment **UNKNOWN** rather than picking the source that suits a headline.
+Both cannot be complete. The likely explanation is that the bands, thresholds and exemptions have changed across budget cycles, and that some material describes a proposed or prior regime. China EV Mart's landed-cost model does not include ad valorem at all, so treat the figures below as **excluding** it. If ad valorem applies to your model, the real number is higher. We are marking the current EV treatment **UNKNOWN** rather than picking the source that suits a headline.
 
 ## Landed cost by model (South Africa)
 
@@ -65,7 +65,7 @@ South Africa is the cheapest of the five high-tariff markets in this cluster on 
 | Freight, clearance, certification, registration, inland | $6,230 |
 | **Total landed** | **$41,722** |
 
-Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs from EV Hub tariff and vehicle records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs from China EV Mart tariff and vehicle records dated 2026-09-15.
 
 ## What a South African business buyer should actually weigh
 
@@ -96,5 +96,5 @@ For a corporate fleet, that combination can move the effective cost materially. 
 3. naamsa (National Association of Automobile Manufacturers of South Africa) — "Tax Revenue" (25% on light vehicles; 18% preferential for EU origin) — https://naamsa.net/tax-revenue — undated; accessed 2026-09-15
 4. ChargePoint SA — "Electric Vehicles in South Africa: The Complete 2026 Guide" (incentive table; business depreciation and fuel-levy treatment) — https://chargepointsa.co.za/electric-vehicles-south-africa-complete-guide-2026 — 2026; accessed 2026-09-15
 5. Forbes Africa — "Interpreting South Africa's EV Import Duties" (25% EV vs 18% ICE; EU FTA preference) — https://www.forbesafrica.com/current-affairs/2024/01/26/interpreting-south-africas-ev-import-duties — 2024-01-26
-6. EV Hub — tariffs.json and market-master.json (duty 0.25, VAT 0.15, no CVD; verified 2026-09-15)
-7. EV Hub — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15
+6. China EV Mart — tariffs.json and market-master.json (duty 0.25, VAT 0.15, no CVD; verified 2026-09-15)
+7. China EV Mart — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15

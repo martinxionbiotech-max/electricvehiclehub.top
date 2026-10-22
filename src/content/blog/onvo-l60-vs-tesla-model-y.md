@@ -41,7 +41,7 @@ Two warnings before those numbers travel. First, the range row is not a subtract
 
 ## The landed-cost matrix: seven markets
 
-L60 figures are EV Hub landed-cost estimates (ex-factory base, duty, countervailing duty where the EU applies it, VAT/GST, freight and fixed costs). Model Y figures are local retail entry prices from the sources below, converted at 22 September 2026 rates.
+L60 figures are China EV Mart landed-cost estimates (ex-factory base, duty, countervailing duty where the EU applies it, VAT/GST, freight and fixed costs). Model Y figures are local retail entry prices from the sources below, converted at 22 September 2026 rates.
 
 | Market | L60 landed (model) | Model Y local price | Converted | Gap |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ First, the arithmetic is unanswerable: 58% of the base in three tax lines plus a
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. L60 landed figures are EV Hub model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla reference prices come from the tier-2 sources below, checked 22 September 2026; the official Tesla configurator was not machine-accessible at the time of writing, and the Thai Model Y price could not be verified at all, so verify current local pricing before acting. Currency conversions use the 22 September 2026 reference rates cited in Sources. Range, efficiency and charging figures are quoted specifications, not measured results, and the BaaS monthly fee is unverified.
+This is my analysis and opinion, not verified fact, and not financial advice. L60 landed figures are China EV Mart model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla reference prices come from the tier-2 sources below, checked 22 September 2026; the official Tesla configurator was not machine-accessible at the time of writing, and the Thai Model Y price could not be verified at all, so verify current local pricing before acting. Currency conversions use the 22 September 2026 reference rates cited in Sources. Range, efficiency and charging figures are quoted specifications, not measured results, and the BaaS monthly fee is unverified.
 
 ## Sources
 
@@ -123,8 +123,8 @@ This is my analysis and opinion, not verified fact, and not financial advice. L6
 9. ONVO official site (onvo.cn) — L60 China listing: ¥192,800 outright; ¥135,800 with battery rental (BaaS) — https://www.onvo.cn/ — accessed 22 Sep 2026
 10. Trading Economics — reference rates, 22 Sep 2026: EUR/USD 1.1439 · GBP/USD 1.3332 · AUD/USD 0.7104 · USD/AED 3.6731 · USD/THB 33.1480 · USD/CNH ≈6.6987 — accessed 22 Sep 2026
 11. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 (producer-specific countervailing duties: Tesla Shanghai 7.8%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 22 Sep 2026
-12. EV Hub — Onvo L60 vehicle record and 30-market landed-cost data (data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/onvo-l60/
-13. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
+12. China EV Mart — Onvo L60 vehicle record and 30-market landed-cost data (data updated 7 Sep 2026) — https://chinaevmart.com/vehicles/onvo-l60/
+13. China EV Mart — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
 14. Automobile Propre — "Le Tesla Model Y d'entrée de gamme augmente son prix" (French Propulsion entry rose €1,000 to €40,990 on 22 April 2026; LFP ~62 kWh; 534 km WLTP) — https://www.automobile-propre.com/articles/tesla-augmentation-prix-model-y-propulsion-standard/ — accessed 22 Sep 2026
 
 ## Related reading

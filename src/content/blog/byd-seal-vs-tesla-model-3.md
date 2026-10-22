@@ -108,7 +108,7 @@ There is one legitimate nuance on the other side. For a **B2B importer who is VA
 
 **Reasoning:** The Seal's $24,690 FOB becomes $44,413 landed in Germany, which is already above the Model 3's €36,990 retail. That means a third-party importer has no price headroom to compete on sticker, while Tesla sells a duty-paid, margin-inclusive car below the Seal's pre-margin landed cost. The difference is a single regulatory line item — the producer-specific CVD — and it is not an accident; it is the outcome of Tesla cooperating in the EU's anti-subsidy investigation and demonstrating lower subsidy exposure than BYD. The Seal remains a strong car on spec, but its value proposition in Europe today is not "cheaper than a Model 3." It is "comparable car, different cost structure, win on service and positioning rather than price."
 
-**Disclosure:** This is my editorial judgment as the author, based on the documented tariff rates and the EV Hub landed-cost methodology — not a price quote, not a legal opinion, and not a claim that either car is "better." Verify current German list prices and your own VAT recovery position before acting; the EU has also begun approving tariff-exemption deals for individual models under minimum-price/quota terms, which can change these numbers on short notice.
+**Disclosure:** This is my editorial judgment as the author, based on the documented tariff rates and the China EV Mart landed-cost methodology — not a price quote, not a legal opinion, and not a claim that either car is "better." Verify current German list prices and your own VAT recovery position before acting; the EU has also begun approving tariff-exemption deals for individual models under minimum-price/quota terms, which can change these numbers on short notice.
 
 ## Key takeaways
 
@@ -126,7 +126,7 @@ There is one legitimate nuance on the other side. For a **B2B importer who is VA
 4. EV Database — "Tesla Model 3 RWD (Highland)" specifications and Germany price (€37,970) — https://ev-database.org/car/3403/Tesla-Model-3-RWD — accessed September 2026
 5. eletric-vehicles.com — "Tesla Giga Shanghai exports" (Model 3 for European markets imported from Shanghai; Tesla 7.8% rate) — https://eletric-vehicles.com/tesla/tesla-gigashanghai-exports-surpass-2025-total-in-just-seven-months — 2026
 6. Trading Economics — EUR/USD exchange rate (1.1546 on 15 September 2026) — https://tradingeconomics.com/euro-area/currency — 15 September 2026
-7. EV Hub — BYD Seal vehicle record and landed-cost breakdown (base $24,690 → $44,413 Germany) — internal data file, updated 7 September 2026
+7. China EV Mart — BYD Seal vehicle record and landed-cost breakdown (base $24,690 → $44,413 Germany) — internal data file, updated 7 September 2026
 
 ## Related reading
 

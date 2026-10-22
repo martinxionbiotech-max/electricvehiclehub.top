@@ -27,7 +27,7 @@ The headline gap is not really a tariff story. It is a **base-price story**: the
 
 Before the numbers, a definition block, because the single biggest mistake in this comparison is comparing two different kinds of price.
 
-- **Landed cost** (EV Hub's term) is the importer-side cost to bring a China-market car to a destination port, registered and compliant: base price → import duty → countervailing duty → VAT → freight → clearance → certification → registration → inland transport. Full formula in our [landed-cost methodology](/docs/landed-cost-methodology/).
+- **Landed cost** (China EV Mart's term) is the importer-side cost to bring a China-market car to a destination port, registered and compliant: base price → import duty → countervailing duty → VAT → freight → clearance → certification → registration → inland transport. Full formula in our [landed-cost methodology](/docs/landed-cost-methodology/).
 - **The Han's $42,897 figure is a landed cost.** It is what an importer pays *before* adding their own retail margin. It also includes $3,250 of certification, because a China-market Han is not built to EU type-approval and needs homologation.
 - **The Model S's €109,990 is a retail price.** Tesla sells it directly in Germany, already type-approved for the EU, so the number already bundles the import duty, VAT, delivery, and Tesla's margin. It is not the same kind of number as the Han's $42,897.
 
@@ -124,7 +124,7 @@ The 17% BYD countervailing duty. Both cars pay 10% duty and 19% VAT; only the Ha
 
 **Reasoning:** The Model S's German price is almost entirely base price plus duty plus VAT; the car itself carries no China-origin penalty, so the "tariff" narrative that often gets attached to this matchup is mostly wrong. The Han, by contrast, is genuinely punished by its 17% countervailing duty — yet the punishment lands on a $23,700 car, so it cannot close a 3.6× base-price gap. For an importer, the Han is the lower-risk, higher-margin play; the Model S is a performance purchase, not a landed-cost win.
 
-**Disclosure:** This is my editorial judgment, not verified fact. The tariff rates come from EU Regulation 2024/2754 and the EV Hub methodology; the Model S price and specs come from the cited public sources below, and Tesla's actual customs valuation is not public — I have flagged that proxy wherever it is used.
+**Disclosure:** This is my editorial judgment, not verified fact. The tariff rates come from EU Regulation 2024/2754 and the China EV Mart methodology; the Model S price and specs come from the cited public sources below, and Tesla's actual customs valuation is not public — I have flagged that proxy wherever it is used.
 
 ## Related reading
 
@@ -137,7 +137,7 @@ The 17% BYD countervailing duty. Both cars pay 10% duty and 19% VAT; only the Ha
 
 ## Sources
 
-1. **EV Hub vehicle record** — BYD Han ($23,700, 605 km CLTC, 72 kWh, 200 kW; 30-market landed-cost records). EV Hub, 2026-09-07.
+1. **China EV Mart vehicle record** — BYD Han ($23,700, 605 km CLTC, 72 kWh, 200 kW; 30-market landed-cost records). China EV Mart, 2026-09-07.
 2. **Motor1** — "Tesla Model S suddenly €17,000 more expensive in Germany" (€109,990 AWD / €119,990 Plaid; specs). https://www.motor1.com/features/750090/tesla-model-s-price-increase-germany/ — February 2026.
 3. **Kelley Blue Book** — "2026 Tesla Model S Price, Reviews" ($86,630 base AWD / $101,630 Plaid). https://www.kbb.com/tesla/model-s — 2026.
 4. **CNBC** — "Elon Musk says Tesla ending Models S and X production" (discontinuation announcement). https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html — January 28, 2026.

@@ -114,7 +114,7 @@ An **$11,600 difference on a $19,700 car** between Germany and the UAE — almos
 
 **Reasoning:** First, the rate is not a Changan-specific subsidy finding; it is the blanket "other cooperating" default, so treating it as a signal about Changan's pricing is a category error. Second, the group's internal spread is the real story — the same 20.7% plus a $6,600 fixed stack turns a $5,300 Lumin into a +183% premium while an Avatr 11 absorbs the identical rate into a +74% markup, which means the value models Changan would naturally export are exactly the ones the tariff math disqualifies. Third, the premium Avatr line, despite its Huawei and CATL pedigree, still lands in the EU carrying the full 20.7% because it is a Chinese-built BEV — premium engineering does not buy a lower tariff.
 
-**Disclosure:** This is my interpretation of published EU tariff law and the EV Hub landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** This is my interpretation of published EU tariff law and the China EV Mart landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -127,5 +127,5 @@ An **$11,600 difference on a $19,700 car** between Germany and the UAE — almos
 
 1. European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
 2. European Commission press release on definitive anti-subsidy duties on BEVs from China — 29 October 2024
-3. EV Hub — tariffs.json brand_cvd (Changan group → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
-4. EV Hub — vehicle landed-cost records for 21 Changan-group BEV models (Nevo, Deepal, Avatr, Oshan, Changan, Kaicene), 2026-09-15
+3. China EV Mart — tariffs.json brand_cvd (Changan group → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
+4. China EV Mart — vehicle landed-cost records for 21 Changan-group BEV models (Nevo, Deepal, Avatr, Oshan, Changan, Kaicene), 2026-09-15

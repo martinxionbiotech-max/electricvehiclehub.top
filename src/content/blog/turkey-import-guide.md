@@ -34,7 +34,7 @@ The USD 8,500 floor matters more than people expect. On a Wuling Hongguang MINI 
 
 ## Landed cost by model (Turkey)
 
-Figures from EV Hub landed-cost records: base price ex-factory China, plus 40% duty, 20% VAT, RoRo freight, customs clearance, certification, registration and inland transport.
+Figures from China EV Mart landed-cost records: base price ex-factory China, plus 40% duty, 20% VAT, RoRo freight, customs clearance, certification, registration and inland transport.
 
 | Model | Base (China) | Turkey landed | Premium |
 |---|---|---|---|
@@ -58,9 +58,9 @@ The pattern is inverted from what most buyers assume: the *cheaper* the car, the
 | Freight, clearance, certification, registration, inland | $4,250 |
 | **Total landed** | **$45,729** |
 
-Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Every input is from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Every input is from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
-**Where this model stops:** ÖTV is **not** in that $45,729. EV Hub's tariff model captures the statutory duty and the consumption-tax-equivalent VAT/GST layer, but not Türkiye's ÖTV. If ÖTV applies at 25% on the duty-paid value of $34,566, that adds about $8,642 before VAT; at the 75% band it adds about $25,924. Add VAT on top and the real showroom number is far above $45,729. Treat the table as a floor, not a forecast.
+**Where this model stops:** ÖTV is **not** in that $45,729. China EV Mart's tariff model captures the statutory duty and the consumption-tax-equivalent VAT/GST layer, but not Türkiye's ÖTV. If ÖTV applies at 25% on the duty-paid value of $34,566, that adds about $8,642 before VAT; at the 75% band it adds about $25,924. Add VAT on top and the real showroom number is far above $45,729. Treat the table as a floor, not a forecast.
 
 ## The real threshold
 
@@ -99,5 +99,5 @@ Three things gate a Turkish import, in order of severity:
 2. VOA News — "Turkey imposes 40% tariff on vehicle imports from China" — https://www.voanews.com/a/turkey-imposes-40-tariff-on-vehicle-imports-from-china/7648198.html — 2024-06-08
 3. Ember — "Türkiye ranks fourth in Europe in electric car sales" (ÖTV bands and total tax burden) — https://ember-energy.org/latest-insights/turkiye-ranks-fourth-in-europe-in-electric-car-sales — undated; accessed 2026-09-15
 4. European Alternative Fuels Observatory — "Incentives and Legislation: Turkey" (ÖTV band table for BEVs) — https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/turkey/incentives-legislations — undated; accessed 2026-09-15
-5. EV Hub — tariffs.json and market-master.json (duty 0.40, VAT 0.20, no CVD; verified 2026-09-15)
-6. EV Hub — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15
+5. China EV Mart — tariffs.json and market-master.json (duty 0.40, VAT 0.20, no CVD; verified 2026-09-15)
+6. China EV Mart — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15

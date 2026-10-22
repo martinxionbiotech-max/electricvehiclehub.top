@@ -10,7 +10,7 @@ tags: [italy, ev-import, landed-cost, eu-tariffs, countervailing-duty, vat, stel
 
 ## TL;DR
 
-Importing a Chinese EV to Italy means paying the full EU tariff stack — **10% standard duty, a brand-specific countervailing duty (BYD 17%, Geely 18.8%, SAIC/MG 35.3%, most other exporters 20.7%), then 22% VAT on the duty-paid value** — which lands a BYD Seal at about **$45,117 (+82.7%)** in EV Hub's records, the most expensive of the EU's four largest car markets for that car. Italy's twist is that it is Stellantis's home market: the cheapest Chinese EV selling in volume there, the Leapmotor T03, is distributed by Stellantis itself, and BYD has been in talks to take over underused Italian plants — so the "import" story and the domestic industry story keep crossing wires.
+Importing a Chinese EV to Italy means paying the full EU tariff stack — **10% standard duty, a brand-specific countervailing duty (BYD 17%, Geely 18.8%, SAIC/MG 35.3%, most other exporters 20.7%), then 22% VAT on the duty-paid value** — which lands a BYD Seal at about **$45,117 (+82.7%)** in China EV Mart's records, the most expensive of the EU's four largest car markets for that car. Italy's twist is that it is Stellantis's home market: the cheapest Chinese EV selling in volume there, the Leapmotor T03, is distributed by Stellantis itself, and BYD has been in talks to take over underused Italian plants — so the "import" story and the domestic industry story keep crossing wires.
 
 ## Key numbers
 
@@ -34,7 +34,7 @@ Importing a Chinese EV to Italy means paying the full EU tariff stack — **10% 
 
 ## What a Chinese EV actually pays at the Italian border
 
-| Layer | Rate for a China-origin BEV | Levied on | In EV Hub's landed model |
+| Layer | Rate for a China-origin BEV | Levied on | In China EV Mart's landed model |
 |---|---|---|---|
 | Import duty | **10%** (EU MFN) | customs value | Yes |
 | Countervailing duty | **17% / 18.8% / 35.3% / 20.7%** by brand | duty-paid value | Yes |
@@ -46,7 +46,7 @@ That is the whole story of why Italy is not a cheap landing. Most markets we tra
 
 ## Landed cost by model (Italy)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus 10% duty, plus the brand CVD, plus 22% VAT, plus the fixed import block (freight, clearance, compliance, registration, inland transport). Premium is the total uplift over the China price.
+Figures from China EV Mart's vehicle records: ex-factory China price, plus 10% duty, plus the brand CVD, plus 22% VAT, plus the fixed import block (freight, clearance, compliance, registration, inland transport). Premium is the total uplift over the China price.
 
 | Model | Powertrain | Brand CVD | Base (China) | Italy landed | Premium |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@ Third, the PHEV row sits in the middle of a BEV sandwich. The BYD Seal 06 DM-i c
 | Freight, clearance, certification, registration, inland | $6,350 |
 | **Total landed** | **$45,117** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input is from EV Hub's tariff and vehicle records dated 15 September 2026. The compounding is the part most price comparisons miss: the CVD is charged on the duty-paid value, and VAT is charged on both. Ten percent plus seventeen plus twenty-two is not forty-nine — the layers compound to roughly a 57% uplift on the base price before the fixed block, which is why the Seal lands at +82.7% all-in. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input is from China EV Mart's tariff and vehicle records dated 15 September 2026. The compounding is the part most price comparisons miss: the CVD is charged on the duty-paid value, and VAT is charged on both. Ten percent plus seventeen plus twenty-two is not forty-nine — the layers compound to roughly a 57% uplift on the base price before the fixed block, which is why the Seal lands at +82.7% all-in. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
 
 For contrast, run the same math for an MG: the duty stays 10%, but the SAIC CVD of 35.3% pushes a $9,690 MG 4 to $23,944 — a +147.1% premium. Hold the car constant and change only the rate, and the same base lands at about $21,565 with BYD's 17% CVD (+122.5%): roughly 25 points of premium and about $2,380 of cost, purely from the brand-level rate.
 
@@ -145,7 +145,7 @@ The window may be closing. In June 2026, Handelsblatt reported — and Brussels-
 
 **Reasoning.** First, the numbers cut both ways here in an unusually visible manner: a BYD Seal lands at $45,117 (+82.7%) and the cheapest credible BEVs land at +102% to +147%, yet Italy's biggest EV sales push in years was driven by Chinese-developed models — roughly a quarter of all BEVs registered in the first seven months of 2026 were Leapmotor T03s sold through Stellantis, and Il Sole 24 ORE reports the eco-bonus itself "mainly favoured models produced by Chinese manufacturers." Second, the industrial politics point the same way: Stellantis' Italian output hit a 70-year low in 2025, and rather than close plants the group is assigning them "affordable EV" roles and deepening its Leapmotor joint venture in Spain, while BYD negotiates for underused Italian factories. Third, the one remaining cheap door into this market for Chinese brands — the PHEV exemption at 10% — is exactly the door Brussels was preparing to close in June 2026, and Italy is where that decision would bite hardest, because charging gaps make plug-in hybrids the pragmatic choice for many buyers. If I were underwriting an import position into Italy through 2027, I would price in CVD risk on PHEVs rather than assume the current arithmetic survives.
 
-**Disclosure.** This is my interpretation of published rules, tariff data and press reporting — not legal, tax or customs advice, and not a prediction of the pending PHEV decision. The landed figures come from EV Hub's own model, which excludes incentives and is not a quote; eligibility details for the ecobonus on parallel imports remain partially unverified (flagged above). Confirm rates, origin treatment and registration with an Italian customs broker before committing capital.
+**Disclosure.** This is my interpretation of published rules, tariff data and press reporting — not legal, tax or customs advice, and not a prediction of the pending PHEV decision. The landed figures come from China EV Mart's own model, which excludes incentives and is not a quote; eligibility details for the ecobonus on parallel imports remain partially unverified (flagged above). Confirm rates, origin treatment and registration with an Italian customs broker before committing capital.
 
 ## Related reading
 
@@ -175,4 +175,4 @@ The window may be closing. In June 2026, Handelsblatt reported — and Brussels-
 12. newmobility.news — "Europe on final straight-line for tariffs on PHEVs made in China" — https://newmobility.news/en/2026/06/22/europe-on-final-straight-line-for-tariffs-on-phevs-made-in-china/ — 22 Jun 2026
 13. electrive — "Italy launches electric vehicle bonus" — https://www.electrive.com/2025/10/23/italy-launches-electric-vehicle-bonus/ — 23 Oct 2025
 14. CnEVPost — "Xpeng announces entry into Italy as it continues European expansion" — https://cnevpost.com/2025/05/13/xpeng-enters-italy/ — 13 May 2025
-15. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Italy: duty 10%, VAT 22%, registration ~$250; 517-model catalogue) — internal dataset, last verified 15 Sep 2026
+15. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Italy: duty 10%, VAT 22%, registration ~$250; 517-model catalogue) — internal dataset, last verified 15 Sep 2026

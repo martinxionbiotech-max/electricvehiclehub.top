@@ -33,7 +33,7 @@ A China-built electric car enters Israel on a **7% customs duty, no countervaili
 
 ## What a Chinese EV actually pays at the Israeli border
 
-| Layer | Rate for a China-origin BEV | Levied on | In EV Hub's landed model |
+| Layer | Rate for a China-origin BEV | Levied on | In China EV Mart's landed model |
 |---|---|---|---|
 | Import duty | **7%** | CIF value | Yes |
 | Countervailing duty | **None** — outside the EU regime | — | Yes (zero) |
@@ -45,7 +45,7 @@ The headline looks moderate — a single-digit duty, no anti-subsidy tariff — 
 
 ## Landed cost by model (Israel)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus the 7% duty, 18% VAT and the fixed import block ($4,850 for Israel, covering freight, clearance, certification, registration and inland transport).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus the 7% duty, 18% VAT and the fixed import block ($4,850 for Israel, covering freight, clearance, certification, registration and inland transport).
 
 | Model | Base (China) | Israel landed | Premium |
 |---|---|---|---|
@@ -77,7 +77,7 @@ For the Seal specifically, +45.9% is well below every EU market we model for thi
 | Freight, clearance, certification, registration, inland | $4,850 |
 | **Total landed** | **$36,023** |
 
-Formula: `base × (1 + duty) × (1 + VAT) + fixed costs` — with no CVD term, because there is none to apply. Every input is from EV Hub's tariff and landed-cost records dated 2026-09-15. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
+Formula: `base × (1 + duty) × (1 + VAT) + fixed costs` — with no CVD term, because there is none to apply. Every input is from China EV Mart's tariff and landed-cost records dated 2026-09-15. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
 
 ## Where this model stops: the purchase-tax layer
 
@@ -141,7 +141,7 @@ Two structural facts keep the demand story intact even as taxes rise. Israel's E
 
 **Reasoning.** First, the border structure is genuinely favourable and structural: because Israel sits outside the EU's countervailing-duty perimeter, a BYD Seal lands at +45.9% versus +79.9% in Germany, and no policy fight in Brussels can change that for an Israeli importer. Second, the domestic lever is being pulled steadily in one direction — 20% to 35% to 45% to 48% across four budget cycles, with the shekel benefit cut from NIS 50,000 to NIS 22,000, and a 2027 rewrite already signalled. Third, the tax design increasingly rewards exactly what Chinese exporters do best: affordable volume models, where the fixed carve-out still bites, rather than flagships where it is negligible. The 2024–25 demand slump (25% to 14% EV share) is real, but it is a price-point problem, not a product one — BYD and its peers still hold the top of the market.
 
-**Disclosure.** This is my interpretation of published tax records, press reporting and EV Hub's landed-cost data — not tax, customs or investment advice. Several purchase-tax mechanics for imported cars remain unverified in our sources (flagged UNKNOWN above), and the January 2027 formula is not yet public in any form we could retrieve. Confirm rates, bases and timing with a licensed Israeli importer or customs broker before committing capital.
+**Disclosure.** This is my interpretation of published tax records, press reporting and China EV Mart's landed-cost data — not tax, customs or investment advice. Several purchase-tax mechanics for imported cars remain unverified in our sources (flagged UNKNOWN above), and the January 2027 formula is not yet public in any form we could retrieve. Confirm rates, bases and timing with a licensed Israeli importer or customs broker before committing capital.
 
 ## Related reading
 
@@ -163,4 +163,4 @@ Two structural facts keep the demand story intact even as taxes rise. Israel's E
 5. Xinhua — "Chinese brands make up 62 pct of Israel's EV sales in Q1-Q3" — https://english.news.cn/20231003/72fc819db83748ffba161811d1adab06/c.html — 2 October 2023; accessed 16 September 2026
 6. CarNewsChina — "BYD continues to be Israel's best-selling EV brand in April, delivering 1,377 EVs" — https://carnewschina.com/2023/05/06/byd-continues-to-be-israels-best-selling-ev-brand-in-april-delivering-1377-evs/ — 6 May 2023; accessed 16 September 2026
 7. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duty on battery electric vehicles from China (EU customs territory scope) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — effective 30 October 2024; accessed 16 September 2026
-8. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Israel: duty 7%, VAT 18%, registration benchmark ~$700; 517-model catalogue; Israel EV purchase-tax band recorded as 45–52%) — internal dataset, last verified 15 September 2026
+8. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Israel: duty 7%, VAT 18%, registration benchmark ~$700; 517-model catalogue; Israel EV purchase-tax band recorded as 45–52%) — internal dataset, last verified 15 September 2026

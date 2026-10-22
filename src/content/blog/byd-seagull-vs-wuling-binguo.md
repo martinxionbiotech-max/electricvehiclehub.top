@@ -25,7 +25,7 @@ Two of the cheapest new EVs China exports, two tariff fates: the $8,940 **[BYD S
 
 ## Ex-factory vs landed cost: the two numbers that define this matchup
 
-**Ex-factory** is the price at the China factory gate — $8,940 and $7,980 here, both China ex-factory MSRPs from EV Hub's vehicle records. **Landed cost** is what the same car costs delivered and cleared in an import market. The tax terms compound rather than add: standard duty (10% in the EU) on the car, countervailing duty on the duty-paid value, then VAT on everything — duty → CVD → VAT. A fixed block of freight, clearance, homologation, registration and inland transport sits on top (**$6,600 for Germany**: $2,000 RoRo freight + $350 clearance + $3,250 certification + $500 registration + $500 inland). The [landed-cost methodology](/docs/landed-cost-methodology/) documents every input; the compounding order is the part most import spreadsheets get wrong.
+**Ex-factory** is the price at the China factory gate — $8,940 and $7,980 here, both China ex-factory MSRPs from China EV Mart's vehicle records. **Landed cost** is what the same car costs delivered and cleared in an import market. The tax terms compound rather than add: standard duty (10% in the EU) on the car, countervailing duty on the duty-paid value, then VAT on everything — duty → CVD → VAT. A fixed block of freight, clearance, homologation, registration and inland transport sits on top (**$6,600 for Germany**: $2,000 RoRo freight + $350 clearance + $3,250 certification + $500 registration + $500 inland). The [landed-cost methodology](/docs/landed-cost-methodology/) documents every input; the compounding order is the part most import spreadsheets get wrong.
 
 ## The two cars, spec for spec
 
@@ -98,7 +98,7 @@ Two consequences to carry into any negotiation:
 
 ## Seven markets: destination decides the winner
 
-Landed costs from EV Hub's 30-market records; premium versus base in parentheses. Countervailing duty applies only in the German row.
+Landed costs from China EV Mart's 30-market records; premium versus base in parentheses. Countervailing duty applies only in the German row.
 
 | Market | Tariff regime | Seagull | Bingo | Cheaper | Margin |
 |---|---|---|---|---|---|
@@ -146,14 +146,14 @@ First, the inversion is arithmetic: an 18.3-point rate gap is worth $1,497.31 in
 
 ### Disclosure
 
-This is my analysis of EU regulation and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Rates follow Commission Implementing Regulation (EU) 2024/2754, which SAIC disputes; any change is uncertain and not retroactive. Confirm the current rate, homologation path, and fixed costs for your exact model and destination with a licensed customs broker before committing.
+This is my analysis of EU regulation and China EV Mart's landed-cost records — opinion, not a quotation or legal advice. Rates follow Commission Implementing Regulation (EU) 2024/2754, which SAIC disputes; any change is uncertain and not retroactive. Confirm the current rate, homologation path, and fixed costs for your exact model and destination with a licensed customs broker before committing.
 
 ## Sources
 
 1. European Commission — Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (BYD 17.0%; SAIC group incl. Wuling 35.3%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force since 31 October 2024.
 2. ExchangeRate-API — USD reference rates (0.873207 USD→EUR used for the euro conversions) — https://open.er-api.com/v6/latest/USD — last updated 23 September 2026 00:02 UTC; retrieved 23 September 2026.
-3. EV Hub — Landed Cost Methodology: compounding order and the fixed-cost block — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 September 2026.
-4. EV Hub — vehicle records: BYD Seagull and Wuling Bingo, 30-market landed-cost matrices with Germany itemization, plus tariff datasets (tariffs.json / market-master.json) — https://electricvehiclehub.top/vehicles/byd-seagull/ and https://electricvehiclehub.top/vehicles/wuling-binguo/ — data updated 7–15 September 2026.
+3. China EV Mart — Landed Cost Methodology: compounding order and the fixed-cost block — https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 23 September 2026.
+4. China EV Mart — vehicle records: BYD Seagull and Wuling Bingo, 30-market landed-cost matrices with Germany itemization, plus tariff datasets (tariffs.json / market-master.json) — https://chinaevmart.com/vehicles/byd-seagull/ and https://chinaevmart.com/vehicles/wuling-binguo/ — data updated 7–15 September 2026.
 
 ## Related reading
 

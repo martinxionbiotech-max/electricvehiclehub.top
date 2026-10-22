@@ -16,7 +16,7 @@ The SU7 ex-factory price is $30,320, but it lands in Germany at **$54,504 (+79.8
 
 ## Definitions
 
-**Landed cost** — the total cost to get a vehicle from the factory gate in China to a registered, road-legal state in the destination market: base price + import duty + countervailing duty + VAT/GST + ocean freight + customs clearance + certification + registration + inland transport. EV Hub's single formula for this is documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
+**Landed cost** — the total cost to get a vehicle from the factory gate in China to a registered, road-legal state in the destination market: base price + import duty + countervailing duty + VAT/GST + ocean freight + customs clearance + certification + registration + inland transport. China EV Mart's single formula for this is documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
 
 **Countervailing duty (CVD)** — the EU's anti-subsidy tariff on Chinese-built battery-electric vehicles, layered *on top of* the standard 10% import duty. It is producer-specific, not a flat rate: BYD 17.0%, Geely 18.8%, SAIC 35.3%, Tesla (Shanghai) 7.8%, and every other cooperating exporter — including Xiaomi — at **20.7%** under Implementing Regulation (EU) 2024/2754.
 
@@ -36,7 +36,7 @@ The SU7 ex-factory price is $30,320, but it lands in Germany at **$54,504 (+79.8
 | EU countervailing duty | 20.7% | 7.8% |
 | Germany landed (SU7) / retail (Model 3) | $54,504 | €36,990 |
 
-Sources: EV Hub catalog for the SU7 ([/vehicles/xiaomi-su7](/vehicles/xiaomi-su7)); Tesla Model 3 Standard specs from EV-Database and go-electra (sourced from tesla.com, March 2026). Note the range figures are not the same test cycle — 700 km CLTC versus 534 km WLTP — and should not be compared one-to-one; see the [CLTC vs WLTP explainer](/blog/cltc-vs-wltp-range/).
+Sources: China EV Mart catalog for the SU7 ([/vehicles/xiaomi-su7](/vehicles/xiaomi-su7)); Tesla Model 3 Standard specs from EV-Database and go-electra (sourced from tesla.com, March 2026). Note the range figures are not the same test cycle — 700 km CLTC versus 534 km WLTP — and should not be compared one-to-one; see the [CLTC vs WLTP explainer](/blog/cltc-vs-wltp-range/).
 
 ## The sourcing nuance most comparisons miss
 
@@ -77,7 +77,7 @@ The cleanest way to isolate what the CVD spread actually costs is to run the ide
 | Fixed stack | $6,600 | $6,600 |
 | **Total landed** | **$54,504** | **$49,385** |
 
-The 12.9-point CVD difference is worth **$5,119** on this car ($4,303 in duty, plus $817 of VAT charged on top of that duty). That is derived math from EV Hub's own tariff records, not an estimate: hold every other input constant and swap 20.7% for 7.8%, and the landing price drops by roughly nine points of premium (+79.8% → +62.9%).
+The 12.9-point CVD difference is worth **$5,119** on this car ($4,303 in duty, plus $817 of VAT charged on top of that duty). That is derived math from China EV Mart's own tariff records, not an estimate: hold every other input constant and swap 20.7% for 7.8%, and the landing price drops by roughly nine points of premium (+79.8% → +62.9%).
 
 Put another way: the SU7 does not lose this comparison on engineering or even on its China price. It loses a large slice of it *before the car is off the boat*, purely on the duty rate attached to the brand.
 
@@ -103,7 +103,7 @@ The conclusion is structural, not incidental: at today's duty rates, a Xiaomi SU
 
 **Reasoning:** First, both cars are Shanghai/China-built, so the comparison is decided almost entirely by the ~12.9-point CVD spread, which costs $5,119 on a $30,320 car before a single margin is added. Second, the Model 3's German retail price (€36,990) already sits below the SU7's landed cost ($54,504), which means a price-arbitrage import thesis is dead on arrival in the EU. Third, the SU7's realistic path is outside the EU — the UK, the Gulf, and Australia, where the countervailing duty disappears and its $30,320 base price plus strong CLTC spec can actually win on value.
 
-**Disclosure:** This is my analysis of published EU tariff law, EV Hub's landed-cost records, and public Tesla pricing — not legal or tax advice, and not a claim that the SU7 is objectively "better" or "worse" as a car. Countervailing-duty rates and covered exporters are set by EU regulation and can change; Tesla's European sourcing and pricing also move. Verify the current duty schedule and your actual destination's landed cost with a customs broker before pricing anything.
+**Disclosure:** This is my analysis of published EU tariff law, China EV Mart's landed-cost records, and public Tesla pricing — not legal or tax advice, and not a claim that the SU7 is objectively "better" or "worse" as a car. Countervailing-duty rates and covered exporters are set by EU regulation and can change; Tesla's European sourcing and pricing also move. Verify the current duty schedule and your actual destination's landed cost with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -117,7 +117,7 @@ The conclusion is structural, not incidental: at today's duty rates, a Xiaomi SU
 ## Sources
 
 1. European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs (Tesla 7.8%, "other cooperating" 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
-2. EV Hub catalog — Xiaomi SU7 spec and Germany landed-cost record ($30,320 base, $54,504 landed, 20.7% CVD) — verified 2026-09-15
+2. China EV Mart catalog — Xiaomi SU7 spec and Germany landed-cost record ($30,320 base, $54,504 landed, 20.7% CVD) — verified 2026-09-15
 3. electrive — "Tesla Model 3 standard starts at €36,990" (German configurator) — https://www.electrive.com/2025/12/05/tesla-model-3-standard-starts-at-e36990 — 5 December 2025
 4. go-electra — "Tesla Model 3 Standard: price, range, specs" (~64 kWh LFP, 534 km WLTP, 286 hp; sourced from tesla.com/fr) — https://www.go-electra.com/en/newsroom/tesla-model-3-standard-price-range-specs-and-reviews-2026 — March 2026
 5. EV-Database — Tesla Model 3 RWD (Highland): 60 kWh usable / 64 kWh nominal LFP — https://ev-database.org/car/3403/Tesla-Model-3-RWD — accessed 2026-09-15

@@ -27,7 +27,7 @@ In Germany the S07 lands at **$39,953.02** and the Sealion 06 at **$37,613.48** 
 
 ## The basis: ex-factory versus landed cost
 
-Same discipline as every EV Hub landed-cost record. **Ex-factory** is the China gate price — $21,110 for the [Deepal S07](/vehicles/deepal-s07/), $20,250 for the [BYD Sealion 06](/vehicles/byd-sealion-06/). **Landed cost** is the cash an importer needs at the border: standard import duty, countervailing duty where the EU applies it, and VAT/GST, charged in that order on an increasing base, plus a fixed block for RoRo freight, customs clearance, certification, registration and inland transport.
+Same discipline as every China EV Mart landed-cost record. **Ex-factory** is the China gate price — $21,110 for the [Deepal S07](/vehicles/deepal-s07/), $20,250 for the [BYD Sealion 06](/vehicles/byd-sealion-06/). **Landed cost** is the cash an importer needs at the border: standard import duty, countervailing duty where the EU applies it, and VAT/GST, charged in that order on an increasing base, plus a fixed block for RoRo freight, customs clearance, certification, registration and inland transport.
 
 The arithmetic compounds:
 
@@ -152,17 +152,17 @@ First, the sticker gap is the least useful number in the file: $860 in China bec
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not legal, tax or financial advice. All figures are EV Hub model estimates from the vehicle records for the Deepal S07 and the BYD Sealion 06 (updated 7 September 2026) and the rate and cost data in the catalog's tariff and market files (last verified 15 September 2026) — import costs, not quotes or retail prices. No currency conversion was applied: every figure is USD as recorded in the data files; where EV Hub shows converted figures elsewhere, rates come from ExchangeRate-API with the conversion date stated (the most recent published batch used 20 September 2026 rates). Countervailing-duty rates are set by EU regulation and can change; verify current rates and your own cost assumptions before pricing a deal. All specifications are quoted, not measured.
+This is my analysis and opinion, not verified fact, and not legal, tax or financial advice. All figures are China EV Mart model estimates from the vehicle records for the Deepal S07 and the BYD Sealion 06 (updated 7 September 2026) and the rate and cost data in the catalog's tariff and market files (last verified 15 September 2026) — import costs, not quotes or retail prices. No currency conversion was applied: every figure is USD as recorded in the data files; where China EV Mart shows converted figures elsewhere, rates come from ExchangeRate-API with the conversion date stated (the most recent published batch used 20 September 2026 rates). Countervailing-duty rates are set by EU regulation and can change; verify current rates and your own cost assumptions before pricing a deal. All specifications are quoted, not measured.
 
 ## Sources
 
 1. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (BYD sampled at 17.0%; "other cooperating companies" 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force 30 October 2024
-2. EV Hub — Deepal S07 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://electricvehiclehub.top/vehicles/deepal-s07/ — accessed 23 September 2026
-3. EV Hub — BYD Sealion 06 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://electricvehiclehub.top/vehicles/byd-sealion-06/ — accessed 23 September 2026
-4. EV Hub — tariffs.json and market-master.json: duty, countervailing-duty, VAT/GST and fixed-cost inputs (last verified 15 September 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 September 2026
-5. EV Hub — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://electricvehiclehub.top/blog/changan-countervailing-duty/ — 15 September 2026
-6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" — https://electricvehiclehub.top/blog/china-ev-brand-cvd-master-table/ — 19 September 2026
-7. ExchangeRate-API — USD reference rates used by EV Hub for local-currency conversions (no conversion applied to this article's figures) — https://open.er-api.com/v6/latest/USD — most recent published batch: 20 September 2026
+2. China EV Mart — Deepal S07 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://chinaevmart.com/vehicles/deepal-s07/ — accessed 23 September 2026
+3. China EV Mart — BYD Sealion 06 vehicle record: base price, specifications and 30-market landed-cost table (updated 7 September 2026) — https://chinaevmart.com/vehicles/byd-sealion-06/ — accessed 23 September 2026
+4. China EV Mart — tariffs.json and market-master.json: duty, countervailing-duty, VAT/GST and fixed-cost inputs (last verified 15 September 2026) — inputs documented at https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 23 September 2026
+5. China EV Mart — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://chinaevmart.com/blog/changan-countervailing-duty/ — 15 September 2026
+6. China EV Mart — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" — https://chinaevmart.com/blog/china-ev-brand-cvd-master-table/ — 19 September 2026
+7. ExchangeRate-API — USD reference rates used by China EV Mart for local-currency conversions (no conversion applied to this article's figures) — https://open.er-api.com/v6/latest/USD — most recent published batch: 20 September 2026
 
 ## Related reading
 

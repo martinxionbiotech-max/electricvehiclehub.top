@@ -54,7 +54,7 @@ One more definition, because it decides how to read the tables: the P7+ column i
 | Fast charge, as quoted | 20 min (10–80%) | ~24 min (45→360 km window) |
 | EU countervailing duty | 20.7% | 7.8% |
 
-P7+ figures: EV Hub vehicle record, updated 7 Sep 2026. Model 3 figures: as listed in EV Hub's published Model 3 comparisons (see Sources); entry Standard RWD trim.
+P7+ figures: China EV Mart vehicle record, updated 7 Sep 2026. Model 3 figures: as listed in China EV Mart's published Model 3 comparisons (see Sources); entry Standard RWD trim.
 
 The P7+ is the larger car by every dimension recorded — 336 mm more length, 87 mm more width, 72 mm more height, a 125 mm longer wheelbase — and quotes a 76.3 kWh pack against the Model 3 entry's 60.0 kWh usable capacity. Two qualifiers before those numbers travel: the range figures sit on different test cycles (725 km CLTC is not comparable to 534 km WLTP, and the Chinese cycle flatters — see the [CLTC vs WLTP explainer](/blog/cltc-vs-wltp-range/)), and quoted specs are claims, not measurements.
 
@@ -144,7 +144,7 @@ First, the arithmetic is transparent and checkable to the cent: $28,000 compound
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. P7+ figures are EV Hub model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla Model 3 prices are carried from the sources verified for our September comparisons, last checked 20 September 2026; the official configurators were not machine-accessible at those checks, so verify current pricing before acting. Currency conversions use the 22 September 2026 ExchangeRate-API snapshot cited in Sources. Countervailing-duty rates are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
+This is my analysis and opinion, not verified fact, and not financial advice. P7+ figures are China EV Mart model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla Model 3 prices are carried from the sources verified for our September comparisons, last checked 20 September 2026; the official configurators were not machine-accessible at those checks, so verify current pricing before acting. Currency conversions use the 22 September 2026 ExchangeRate-API snapshot cited in Sources. Countervailing-duty rates are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Sources
 
@@ -157,9 +157,9 @@ This is my analysis and opinion, not verified fact, and not financial advice. P7
 7. paultan.org — "2026 Tesla Model 3 Standard launched in Thailand" (1.149 million baht) — https://paultan.org/2026/01/09/2026-tesla-model-3-standard-launched-in-thailand-decontented-base-variant-534-km-range-rm149k/ — 9 January 2026
 8. TESMAG — Tesla Model 3 EU volume tied to Giga Shanghai; individual countervailing rate context — https://www.teslaacessories.com/blogs/news/how-new-tariffs-are-reshaping-tesla-market-strategy-in-europe — accessed 20 Sep 2026
 9. ExchangeRate-API — USD reference rates, 22 Sep 2026 snapshot (updated 23 Sep 2026 00:02 UTC): EUR 1.1452 · GBP 1.3345 · NOK 0.1059 · AUD 0.7110 · AED 0.2723 · THB 0.0302 — https://open.er-api.com/v6/latest/USD — accessed 23 Sep 2026
-10. EV Hub — XPeng P7+ vehicle record and landed-cost markets (base $28,000; Germany breakdown; 30-market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/xpeng-p7-plus/ — accessed 23 Sep 2026
-11. EV Hub — `tariffs.json` and `market-master.json` (duty, VAT and countervailing-duty inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
-12. EV Hub — "NIO ET5 vs Tesla Model 3: Landed-Cost Comparison for Premium Sedan Buyers" (Model 3 reference prices carried; series comparison basis) — https://electricvehiclehub.top/blog/nio-et5-vs-tesla-model-3/ — accessed 23 Sep 2026
+10. China EV Mart — XPeng P7+ vehicle record and landed-cost markets (base $28,000; Germany breakdown; 30-market rows; updated 7 Sep 2026) — https://chinaevmart.com/vehicles/xpeng-p7-plus/ — accessed 23 Sep 2026
+11. China EV Mart — `tariffs.json` and `market-master.json` (duty, VAT and countervailing-duty inputs; verified 15 Sep 2026) — inputs documented at https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+12. China EV Mart — "NIO ET5 vs Tesla Model 3: Landed-Cost Comparison for Premium Sedan Buyers" (Model 3 reference prices carried; series comparison basis) — https://chinaevmart.com/blog/nio-et5-vs-tesla-model-3/ — accessed 23 Sep 2026
 
 ## Related reading
 

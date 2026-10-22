@@ -50,7 +50,7 @@ Read the table top to bottom and the structure is clear: Spain adds no car-speci
 
 ## Landed cost by model (Spain)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus 10% duty, plus the brand CVD, plus 21% VAT, plus the fixed import block (freight, clearance, compliance, registration, inland).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus 10% duty, plus the brand CVD, plus 21% VAT, plus the fixed import block (freight, clearance, compliance, registration, inland).
 
 | Model | Brand CVD | Base (China) | Spain landed | Premium |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Second, **cheap cars wear the premium worst.** A $5,000 Wuling pays the same fix
 | Freight, clearance, certification, registration, inland | $6,210 |
 | **Total landed** | **$44,659** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
 ## Spain vs its neighbours: the VAT ladder inside the EU
 
@@ -139,7 +139,7 @@ For an importer the reading is straightforward: Spain is simultaneously the most
 
 **Reasoning.** First, the demand numbers are unambiguous: a record 27.7% electrified share in August and BEV registrations up 31.6% year on year, in what ANFAC calls the strongest August since 2019 — this is a market converting to electric quickly, and Chinese brands are capturing that growth rather than waiting for it. Second, the counter-move is already visible: MG — the brand paying the harshest 35.3% rate — is the one building the 120,000-unit plant in Galicia, and BYD is scouting a third European site with Spain favoured. When the most tariff-penalised players choose your country to localise, the tariff is shaping investment rather than stopping it. Third, the policy tilt cuts both ways for importers: Auto+ subsidises cars under €35,000 with EU content in mind, so a China-built import competes against subsidised domestic production — the customs bill above the border and the content rules below it squeeze the same deal. My read is that the sustainable import play in Spain is the mid-price BEV segment where Chinese cost structures are strongest, priced with the full stack and VAT recovery modelled in from day one — not the sub-€20k end where subsidy-ineligible imports meet the fixed-cost block that hurts cheap cars most.
 
-**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from EV Hub's dataset, not transaction prices. Parts of the Spanish registration process and the Auto+ eligibility rules for imported vehicles could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Spanish authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from China EV Mart's dataset, not transaction prices. Parts of the Spanish registration process and the Auto+ eligibility rules for imported vehicles could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Spanish authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -166,4 +166,4 @@ For an importer the reading is straightforward: Spain is simultaneously the most
 9. electrive.com, "Chinese car manufacturer Chery kicks off production in Barcelona" (Chery–Ebro-EV Motors partnership in Catalonia) — https://www.electrive.com/2024/04/22/chinese-car-manufacturer-chery-produces-in-barcelona/ — published 22 April 2024; accessed 16 September 2026
 10. electrive.com, "CATL and Stellantis start battery plant construction in Spain" (€4.1 billion joint LFP cell project) — https://www.electrive.com/2025/11/26/catl-and-stellantis-start-battery-plant-construction-in-spain/ — published 26 November 2025; accessed 16 September 2026
 11. European Commission — Commission Implementing Regulation (EU) 2024/2754 imposing definitive countervailing duties on imports of battery electric vehicles from China (brand-specific rates; effective 31 October 2024 for five years) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — October 2024; accessed 16 September 2026
-12. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Spain: duty 10%, VAT 21%, registration ~$110; per-model Spain landing incl. BYD Seal $44,659, MG 4 $23,660, Wuling Hongguang MINI EV $15,214) — internal dataset, last verified 15 September 2026
+12. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Spain: duty 10%, VAT 21%, registration ~$110; per-model Spain landing incl. BYD Seal $44,659, MG 4 $23,660, Wuling Hongguang MINI EV $15,214) — internal dataset, last verified 15 September 2026

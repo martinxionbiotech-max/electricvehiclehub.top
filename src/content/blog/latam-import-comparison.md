@@ -10,7 +10,7 @@ tags: [mexico, brazil, latam, import, comparison, tariffs, landed-cost]
 
 ## TL;DR
 
-Latin America's two biggest auto markets finished building their tariff walls within six months of each other — and built them differently. Mexico charges a flat **50% import duty plus 16% IVA** on Chinese cars since 1 January 2026, with no EV carve-out and no countervailing duty; Brazil reached **35% import tax (II) plus a 17% ICMS-equivalent layer** on 1 July 2026 at the end of a three-year ramp. On EV Hub's records a [BYD Seal](/vehicles/byd-seal/) lands at **$50,011 in Mexico (+102.6%)** and **$45,568 in Brazil (+84.6%)** — above the same car's EU-stack landing in Germany ($44,413). The gap is exact: **Mexico − Brazil = 16.05% of the China base plus $480**. Brazil's column is a floor, not a ceiling.
+Latin America's two biggest auto markets finished building their tariff walls within six months of each other — and built them differently. Mexico charges a flat **50% import duty plus 16% IVA** on Chinese cars since 1 January 2026, with no EV carve-out and no countervailing duty; Brazil reached **35% import tax (II) plus a 17% ICMS-equivalent layer** on 1 July 2026 at the end of a three-year ramp. On China EV Mart's records a [BYD Seal](/vehicles/byd-seal/) lands at **$50,011 in Mexico (+102.6%)** and **$45,568 in Brazil (+84.6%)** — above the same car's EU-stack landing in Germany ($44,413). The gap is exact: **Mexico − Brazil = 16.05% of the China base plus $480**. Brazil's column is a floor, not a ceiling.
 
 ## Key statistics
 
@@ -64,7 +64,7 @@ On the Seal that is $3,962.75 + $480 = $4,442.75; the same coefficients reproduc
 | Fixed import block | $7,050 | $6,570 |
 | **Total landed** | **$50,011** | **$45,568** |
 
-Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs from EV Hub's tariff and vehicle records dated 15 September 2026.
+Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs from China EV Mart's tariff and vehicle records dated 15 September 2026.
 
 One caveat that reverses part of the comparison: the Mexico column is the complete bill by construction — nothing sits between the duty and the IVA. The Brazil column stops before IPI, PIS-Import, COFINS-Import and AFRMM, which sit between the II and the ICMS in a real entry. The effective gap is narrower than $4,443 on the Seal — possibly much narrower on premium models — and only Mexico's number can be quoted without a range.
 
@@ -91,7 +91,7 @@ First, the arithmetic is exact: the Mexico−Brazil gap is 16.05% of base plus $
 
 ### Disclosure
 
-This is my analysis of published rules, press reporting and EV Hub's landed-cost records — opinion, not legal, tax or customs advice, and not a quotation. The Mexico column is the complete bill by construction; the Brazil column is a floor that excludes federal layers (IPI, PIS, COFINS, AFRMM) and state-level ICMS variation. Exchange rates are reference rates for 22 September 2026, not transaction rates. Confirm current rates and procedures with a Mexican or Brazilian broker before committing capital.
+This is my analysis of published rules, press reporting and China EV Mart's landed-cost records — opinion, not legal, tax or customs advice, and not a quotation. The Mexico column is the complete bill by construction; the Brazil column is a floor that excludes federal layers (IPI, PIS, COFINS, AFRMM) and state-level ICMS variation. Exchange rates are reference rates for 22 September 2026, not transaction rates. Confirm current rates and procedures with a Mexican or Brazilian broker before committing capital.
 
 ## Related reading
 
@@ -110,8 +110,8 @@ This is my analysis of published rules, press reporting and EV Hub's landed-cost
 1. BBC News — "Mexico approves up to 50% tariffs on China and other countries" (Senate approval; effective 1 January 2026; up to 50% on 1,400+ products; applies to non-FTA countries; BYD and MG establishing Mexican operations) — https://www.bbc.com/news/articles/c36z43ll06zo — published 11 December 2025; accessed 22 September 2026
 2. The Rio Times — "Chinese Cars in Mexico Hit 17% of Sales Despite a 50% Tariff" (17% share in H1 2026) — https://www.riotimesonline.com/chinese-cars-in-mexico-hit-17-of-sales-despite-a-50-tariff — 2026; accessed 22 September 2026
 3. DatamarNews — "Brazil raises import tax on solar panels and electric vehicles to up to 35% by 2026" (BEV ramp 10% → 18% → 25% → 35% by July 2026; declining quotas through 2027; revenue funds the Mover Program) — https://datamarnews.com/noticias/brazil-raises-import-tax-on-solar-panels-and-electric-vehicles-to-up-to-35-by-2026 — published 30 December 2025; accessed 22 September 2026
-4. electrive.com — "Brazil ends preferential tariffs for EV assembly kits" (CKD/SKD parity by 1 January 2027; zero-tariff kit quota ~USD 463 million for H2 2026) — https://www.electrive.com/2026/02/10/brazil-ends-preferential-tariffs-for-ev-assembly-kits — 10 February 2026; cited via EV Hub's Brazil guide records (direct fetch blocked by Cloudflare on 22 September 2026)
-5. Yahoo Finance — "Mexico's 50% Tariff Isn't Stopping Chinese Cars — But It Is Quietly Killing Some Of Them" (DOF decree of 29 December 2025; 1,463 tariff fractions; Chinese light-vehicle imports down ~43% by value, January–May 2026) — https://finance.yahoo.com/economy/policy/articles/mexicos-50-tariff-isnt-stopping-161200069.html — 2026; cited via EV Hub's Mexico guide records
+4. electrive.com — "Brazil ends preferential tariffs for EV assembly kits" (CKD/SKD parity by 1 January 2027; zero-tariff kit quota ~USD 463 million for H2 2026) — https://www.electrive.com/2026/02/10/brazil-ends-preferential-tariffs-for-ev-assembly-kits — 10 February 2026; cited via China EV Mart's Brazil guide records (direct fetch blocked by Cloudflare on 22 September 2026)
+5. Yahoo Finance — "Mexico's 50% Tariff Isn't Stopping Chinese Cars — But It Is Quietly Killing Some Of Them" (DOF decree of 29 December 2025; 1,463 tariff fractions; Chinese light-vehicle imports down ~43% by value, January–May 2026) — https://finance.yahoo.com/economy/policy/articles/mexicos-50-tariff-isnt-stopping-161200069.html — 2026; cited via China EV Mart's Mexico guide records
 6. Frankfurter (ECB reference rates) — USD/MXN 17.2491 · USD/BRL 5.1231 for 22 September 2026 — https://api.frankfurter.app/latest?from=USD&to=MXN,BRL — accessed 22 September 2026
-7. EV Hub — tariff and market records (`src/data/tariffs.json`, `src/data/market-master.json`: Mexico duty 0.50 / VAT 0.16, Brazil duty 0.35 / VAT 0.17, no CVD; fixed costs freight $2,000, clearance $350, certification $3,250, inland $500; registration $50 Mexico / $70 Brazil) — internal dataset, verified 15 September 2026
-8. EV Hub — vehicle landed-cost records (`src/content/vehicles/byd-atto-3.md`, `byd-seal.md`, `xiaomi-yu7.md`; Mexico and Brazil rows) — internal dataset, 7 September 2026
+7. China EV Mart — tariff and market records (`src/data/tariffs.json`, `src/data/market-master.json`: Mexico duty 0.50 / VAT 0.16, Brazil duty 0.35 / VAT 0.17, no CVD; fixed costs freight $2,000, clearance $350, certification $3,250, inland $500; registration $50 Mexico / $70 Brazil) — internal dataset, verified 15 September 2026
+8. China EV Mart — vehicle landed-cost records (`src/content/vehicles/byd-atto-3.md`, `byd-seal.md`, `xiaomi-yu7.md`; Mexico and Brazil rows) — internal dataset, 7 September 2026

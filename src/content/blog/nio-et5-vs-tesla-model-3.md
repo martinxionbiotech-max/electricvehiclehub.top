@@ -129,7 +129,7 @@ First, the structural fact is unanswerable arithmetic: $41,850 at the Chinese ga
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. The ET5 figures are EV Hub model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla prices come from the tier-2 sources below, checked 20 September 2026; the official configurators were not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 20 September 2026 rates cited in Sources. Range and charging figures are quoted specifications, not measured results.
+This is my analysis and opinion, not verified fact, and not financial advice. The ET5 figures are China EV Mart model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla prices come from the tier-2 sources below, checked 20 September 2026; the official configurators were not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 20 September 2026 rates cited in Sources. Range and charging figures are quoted specifications, not measured results.
 
 ## Sources
 
@@ -140,10 +140,10 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 5. tbreak.com — "Best Electric Cars in the UAE for 2026" (Model 3 Standard introduced at AED 144,990, January 2026) — https://tbreak.com/best-electric-cars-uae-2026/ — 21 Mar 2026
 6. paultan.org — "2026 Tesla Model 3 Standard launched in Thailand" (1.149 million baht) — https://paultan.org/2026/01/09/2026-tesla-model-3-standard-launched-in-thailand-decontented-base-variant-534-km-range-rm149k/ — 9 Jan 2026
 7. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (Tesla Shanghai 7.8%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 20 Sep 2026
-8. EV Hub — NIO ET5 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/nio-et5/ — accessed 20 Sep 2026
-9. EV Hub — "BYD Seal vs Tesla Model 3: Landed-Cost Reality Check in the EU" (Shanghai-sourced Model 3 for Europe; 7.8% rate embedded in retail) — https://electricvehiclehub.top/blog/byd-seal-vs-tesla-model-3/ — accessed 20 Sep 2026
+8. China EV Mart — NIO ET5 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://chinaevmart.com/vehicles/nio-et5/ — accessed 20 Sep 2026
+9. China EV Mart — "BYD Seal vs Tesla Model 3: Landed-Cost Reality Check in the EU" (Shanghai-sourced Model 3 for Europe; 7.8% rate embedded in retail) — https://chinaevmart.com/blog/byd-seal-vs-tesla-model-3/ — accessed 20 Sep 2026
 10. ExchangeRate-API — USD reference rates, 20 Sep 2026: EUR/USD 1.1477 · GBP/USD 1.3370 · NOK/USD 0.1062 · AUD/USD 0.7118 · AED/USD 0.2723 · THB/USD 0.0300 — https://open.er-api.com/v6/latest/USD — accessed 20 Sep 2026
-11. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+11. China EV Mart — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 20 Sep 2026
 
 ## Related reading
 

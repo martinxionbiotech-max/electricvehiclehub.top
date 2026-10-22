@@ -32,7 +32,7 @@ For a Switzerland-specific walk-through of the private-import paperwork, the For
 
 ## What a Chinese EV actually lands at in Switzerland
 
-The table uses the EV Hub landed-cost model: ex-factory China price, plus duty, plus countervailing duty (zero here), plus VAT and fixed freight, clearance, certification, inland transport and registration.
+The table uses the China EV Mart landed-cost model: ex-factory China price, plus duty, plus countervailing duty (zero here), plus VAT and fixed freight, clearance, certification, inland transport and registration.
 
 | Model | Base (China) | Switzerland (4% + 8.1%) | Premium | United Kingdom (10% + 20%) | Germany (10% + CVD + 19%) |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@ No. The CO₂ levy targets vehicles with emissions; a battery-electric car has n
 
 **Reasoning.** First, the arithmetic is not close: the Seal gap to Germany is $10,606, and on SAIC-built cars the gap is wider still because the EU's 35.3% countervailing duty simply does not exist in Switzerland. Second, the tax is not the constraint — approval is — so an importer who already has an EU-type-approved model faces a comparatively light administrative path. Third, I would treat the market's small size as its real ceiling: under nine million people, non-EU, so you are trading scale and service depth for tax advantage. For a private importer or a small dealer, that trade is worth making; for a fleet operator needing a national service network, it probably is not.
 
-**Disclosure.** This is my opinion and analysis, not verified fact. Tax rates are taken from the Swiss federal customs authority and cantonal guidance cited below; landed-cost figures are EV Hub model estimates, not quotations. The origin-rule question is explicitly marked UNKNOWN and must be resolved with Swiss customs.
+**Disclosure.** This is my opinion and analysis, not verified fact. Tax rates are taken from the Swiss federal customs authority and cantonal guidance cited below; landed-cost figures are China EV Mart model estimates, not quotations. The origin-rule question is explicitly marked UNKNOWN and must be resolved with Swiss customs.
 
 ## Sources
 
@@ -100,4 +100,4 @@ No. The CO₂ levy targets vehicles with emissions; a battery-electric car has n
 2. Canton of Zurich — "Direct car import: how to import your car into Switzerland": worked example with 4% car tax and 8.1% VAT, plus weight-based customs duty of CHF 12–15 per 100 kg for non-preferential origin. https://www.zurich.ch/en/services/knowledge/vehicles-and-travel/car-import-switzerland — accessed 15 Sep 2026
 3. SwissCarInfo — "Import a Car to Switzerland – Complete Expat Guide 2026": confirms the automobile tax (4%) and VAT (8.1%) still apply to EVs, and lists Form 13.20A and MFK requirements. https://swisscarinfo.ch/en/import-guide — published 2026
 4. autoleya.ch — "Importing a car to Switzerland — costs, paperwork, pitfalls": notes import VAT rose to 8.1% on 1 January 2024 and gives a customs-value/VAT calculation example. https://autoleya.ch/en/ratgeber/importing-a-car-switzerland — accessed 15 Sep 2026
-5. EV Hub tariff and landed-cost records — `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`. Internal dataset, last verified 15 Sep 2026.
+5. China EV Mart tariff and landed-cost records — `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`. Internal dataset, last verified 15 Sep 2026.

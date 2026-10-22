@@ -29,7 +29,7 @@ Both remain true. What changed is VAT. A BEV still avoids the emissions-based re
 
 ## What a Chinese EV actually lands at in Norway
 
-The table below uses the EV Hub landed-cost model: ex-factory China price, plus duty, plus countervailing duty (zero here), plus VAT/GST and fixed freight, clearance, certification, inland transport and registration costs.
+The table below uses the China EV Mart landed-cost model: ex-factory China price, plus duty, plus countervailing duty (zero here), plus VAT/GST and fixed freight, clearance, certification, inland transport and registration costs.
 
 | Model | Base (China) | Norway (0% duty + 25% VAT model) | Premium | Switzerland (4% + 8.1%) | Germany (10% + CVD + 19%) |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@ No. Norway levies 0% import duty on electric passenger cars and applies no count
 **Is Norway still a VAT-free EV market?**
 Partly. Since 1 January 2026 the 25% VAT exemption covers only the first NOK 300,000 of the price. A car below that line pays no VAT; a car above it pays 25% on the excess. Full VAT is announced from 1 January 2027.
 
-**Why does EV Hub's Norway figure look higher than the headline rules suggest?**
+**Why does China EV Mart's Norway figure look higher than the headline rules suggest?**
 Because our model applies the headline 25% VAT to the full import value as a uniform, conservative assumption across 30 markets. It deliberately does not encode country-specific threshold relief. For sub-threshold Chinese EVs in Norway, the true landed cost is below the modelled number.
 
 **Is Norway cheaper than Switzerland for a Chinese EV?**
@@ -93,7 +93,7 @@ Not on our catalog. Switzerland's 4% automobile tax plus 8.1% VAT produces a low
 
 **Reasoning.** First, the tax stack is genuinely the cleanest in Europe on the customs side; there is no anti-subsidy tariff to litigate and no 10% EU duty to absorb, which is worth more than the VAT threshold costs on a mid-priced car. Second, the threshold relief is real while it lasts: a China-origin EV priced under NOK 300,000 is effectively consumption-tax-free today, and that is a materially better position than anything the EU offers. Third, the announced trajectory — NOK 500,000, then 300,000, then 150,000, then full VAT — tells you the direction of travel is one-way, so the question for an importer is not "is Norway attractive" but "for how many more model years".
 
-**Disclosure.** This is my analysis and opinion, not verified fact. The tax treatment described here is drawn from the Norwegian Tax Administration, Norwegian Customs and the European Commission's incentives observatory, cited below; the landed-cost figures come from EV Hub's own model and are estimates, not quotes. Anyone committing capital should confirm current rates and thresholds with Norwegian customs and a tax adviser before ordering.
+**Disclosure.** This is my analysis and opinion, not verified fact. The tax treatment described here is drawn from the Norwegian Tax Administration, Norwegian Customs and the European Commission's incentives observatory, cited below; the landed-cost figures come from China EV Mart's own model and are estimates, not quotes. Anyone committing capital should confirm current rates and thresholds with Norwegian customs and a tax adviser before ordering.
 
 ## Sources
 
@@ -102,4 +102,4 @@ Not on our catalog. Switzerland's 4% automobile tax plus 8.1% VAT produces a low
 3. European Commission, Alternative Fuels Observatory — "Norway – Incentives and Legislation": 2026 VAT threshold of NOK 300,000, weight-based tax of NOK 12.71/kg above 500 kg. https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/norway/incentives-legislations — accessed 15 Sep 2026
 4. Ayvens Norway — "New car year 2026 – here are the new rules": VAT exemption now applies only to the first NOK 300,000; full VAT announced from 1 January 2027. https://www.ayvens.com/en-no/about-us/blog/leasing/new-car-year-2026 — published Dec 2025
 5. Global VAT Compliance — "Norway: gradual phase-out of VAT exemption for electric cars": threshold reduction from NOK 500,000 to NOK 300,000 in 2026, removal in 2027. https://www.globalvatcompliance.com/globalvatnews/norway-electric-car-vat-exemption — accessed 15 Sep 2026
-6. EV Hub tariff and landed-cost records — `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets). Internal dataset, last verified 15 Sep 2026.
+6. China EV Mart tariff and landed-cost records — `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets). Internal dataset, last verified 15 Sep 2026.

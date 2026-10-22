@@ -23,13 +23,13 @@ Germany runs the EU's full trade-defence stack — 10% standard duty, a brand-sp
 - **Germany premium range (nine models):** +66.2% (Zeekr 009) to +145.2% (MG 4) over ex-factory
 - **Berlin-built Teslas sit outside the duty** — the countervailing duty attaches to China-origin BEVs; Giga Berlin Model Ys are EU-produced
 
-Price basis, stated once and meant everywhere below: every base price is a China ex-factory MSRP; every landed figure is EV Hub's cost-model output from records dated 7 September 2026, decomposed so you can rerun it with your own numbers.
+Price basis, stated once and meant everywhere below: every base price is a China ex-factory MSRP; every landed figure is China EV Mart's cost-model output from records dated 7 September 2026, decomposed so you can rerun it with your own numbers.
 
 ## The German stack, layer by layer
 
 Germany is the EU's largest automotive market — and for most Chinese EV importers, the natural first destination. What surprises first-timers is how little of what they pay at a German border is actually German. The duties are set in Brussels and collected at every EU entry point; Berlin's fingerprints are on exactly two numbers in the stack: the 19% VAT rate and the $500 registration line.
 
-| Layer | Rate | Applied to (EV Hub model) | In the landed figure |
+| Layer | Rate | Applied to (China EV Mart model) | In the landed figure |
 |---|---|---|---|
 | Standard import duty | **10%** | vehicle value — the ex-factory price, held as a simplified CIF | Yes |
 | Countervailing duty | **17%–35.3%**, by producer group | value plus standard duty | Yes |
@@ -56,7 +56,7 @@ Take the BYD Seal, at a $24,690 China ex-factory price:
 | Inland transport (port → buyer) | $500.00 |
 | **Total landed** | **$44,413.48 (+79.9%)** |
 
-Formula: `24,690 × 1.10 × 1.17 × 1.19 + 6,600 = 44,413.48`. Every input above is from EV Hub's tariff and landed-cost records; the workings are in the [landed-cost methodology](/docs/landed-cost-methodology/).
+Formula: `24,690 × 1.10 × 1.17 × 1.19 + 6,600 = 44,413.48`. Every input above is from China EV Mart's tariff and landed-cost records; the workings are in the [landed-cost methodology](/docs/landed-cost-methodology/).
 
 Treat $44,413 as a floor, not a showroom estimate. It excludes dealer margin and currency moves between order and arrival, and it is built on one simplification: the model applies duty to the ex-factory price as a simplified CIF, while a customs assessor may value the car differently once freight and insurance join the declared value. Where the model's number is a floor, the assessor's can be a ceiling.
 
@@ -100,7 +100,7 @@ Within Germany, three practical items matter for a small-volume importer:
 
 1. **Approval route.** An EU whole-vehicle type approval with a Certificate of Conformity is the fast lane. Without one, Germany's §21 StVZO single-vehicle approval (via TÜV, DEKRA or GTÜ) is the well-trodden path — budget 2–6 weeks and $1,500–$5,000 for certification, more if the car needs adaptations like lighting or speedometer conformity. The model holds $3,250. See [WVTA vs single-vehicle approval](/blog/wvta-vs-single-vehicle-approval/).
 2. **Charging interface.** EU-spec cars use Type 2 / CCS2; China-market builds use GB/T. If the inlet is wrong for Germany's network, [the adapter path has a cost of its own](/blog/ccs2-vs-gbt-charging/).
-3. **Running costs after registration.** Registration is in the landed figure; annual road tax and insurance are not. EVs currently benefit from reduced or zero annual road tax for the first years, per [EV Hub's Germany reference](/docs/germany-import/) — confirm the current terms for your model.
+3. **Running costs after registration.** Registration is in the landed figure; annual road tax and insurance are not. EVs currently benefit from reduced or zero annual road tax for the first years, per [China EV Mart's Germany reference](/docs/germany-import/) — confirm the current terms for your model.
 
 ## The Tesla Berlin question
 
@@ -128,7 +128,7 @@ For a Chinese-brand importer the lesson isn't loophole-spotting; it's that the d
 
 **Reasoning.** First, almost nothing in the stack is German: the 10% duty and the brand rate are EU-set, and the four-market margins are a rounding exercise — $10.88 to $707.99 across the nine model runs — which is why Belgium can take the two cheapest cars on a $350 fee difference and lose everything above them. Second, the producer variable is a different scale of decision: $750 of sticker turns into $3,469.86 of landed cost between two small hatchbacks, mostly because of the rate sheet. If you are a dealer choosing which brands to carry, the duty schedule — not the showroom price list — ranks your portfolio. Third, scope is where strategy lives: the BEV-only edge means plug-ins walk around the tariff, and origin is why Berlin-built Teslas sit outside it entirely; when Brussels revisits these lines, every number in this article moves at once. Fourth, cheap cars pay the tariff most painfully in percentage terms — a +145.2% MG 4 against a +66.2% Zeekr 009 — so anyone planning an entry-level channel should stress-test its duty exposure before its margins.
 
-**Disclosure.** This is my analysis of EU regulation, published tax references and EV Hub's cost records — opinion, not customs, tax or legal advice. Rates come from EV Hub's tariff registry last verified 15 September 2026; landed figures are model outputs from records dated 7 September 2026. Confirm the treatment of your exact model, producer and corporate structure with a German customs broker and a tax adviser before committing capital.
+**Disclosure.** This is my analysis of EU regulation, published tax references and China EV Mart's cost records — opinion, not customs, tax or legal advice. Rates come from China EV Mart's tariff registry last verified 15 September 2026; landed figures are model outputs from records dated 7 September 2026. Confirm the treatment of your exact model, producer and corporate structure with a German customs broker and a tax adviser before committing capital.
 
 ## Related reading
 
@@ -143,10 +143,10 @@ For a Chinese-brand importer the lesson isn't loophole-spotting; it's that the d
 
 ## Sources
 
-1. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery electric vehicles originating in China (BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating producers 20.7%, non-cooperating producers 35.3%, Tesla Shanghai 7.8%; five-year measure in force from 30 October 2024) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — from EV Hub's source registry, last verified 15 September 2026.
-2. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars) — https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via EV Hub's source registry, last verified 15 September 2026.
+1. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery electric vehicles originating in China (BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating producers 20.7%, non-cooperating producers 35.3%, Tesla Shanghai 7.8%; five-year measure in force from 30 October 2024) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — from China EV Mart's source registry, last verified 15 September 2026.
+2. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars) — https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via China EV Mart's source registry, last verified 15 September 2026.
 3. PwC — "Germany — Corporate — Other taxes" (standard VAT rate of 19%; general input-VAT deduction principle) — https://taxsummaries.pwc.com/germany/corporate/other-taxes — accessed 17 September 2026.
 4. European Commission (Access2Markets) — "EU Commission imposes countervailing duties on imports of battery electric vehicles (BEVs) from China" — https://trade.ec.europa.eu/access-to-markets/en/news/eu-commission-imposes-countervailing-duties-imports-battery-electric-vehicles-bevs-china — accessed 17 September 2026.
-5. EV Hub — tariff, market and cost records: `src/data/tariffs.json`, `src/data/market-master.json` (Germany: 10% duty, 19% VAT, $500 registration; France, Netherlands and Belgium rows; fixed-cost inputs; brand CVD schedule; last verified 15 September 2026). Internal dataset.
-6. EV Hub — vehicle landed-cost records: Germany, France, Netherlands and Belgium rows for the nine models in this article (data updated 7 September 2026). Internal dataset.
-7. EV Hub — "Germany Import" reference page (§21 StVZO single-vehicle approval via TÜV / DEKRA / GTÜ; 2–6 week certification budget of $1,500–$5,000; road-tax note) — /docs/germany-import/ — reviewed 17 September 2026.
+5. China EV Mart — tariff, market and cost records: `src/data/tariffs.json`, `src/data/market-master.json` (Germany: 10% duty, 19% VAT, $500 registration; France, Netherlands and Belgium rows; fixed-cost inputs; brand CVD schedule; last verified 15 September 2026). Internal dataset.
+6. China EV Mart — vehicle landed-cost records: Germany, France, Netherlands and Belgium rows for the nine models in this article (data updated 7 September 2026). Internal dataset.
+7. China EV Mart — "Germany Import" reference page (§21 StVZO single-vehicle approval via TÜV / DEKRA / GTÜ; 2–6 week certification budget of $1,500–$5,000; road-tax note) — /docs/germany-import/ — reviewed 17 September 2026.

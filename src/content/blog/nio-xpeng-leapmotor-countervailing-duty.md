@@ -122,7 +122,7 @@ The EU premium is substantial at every band — roughly $9,800 on the Mona M03 b
 
 **Reasoning:** First, the 20.7% is the "other cooperating companies" default, so it carries zero signal about any one brand's subsidy margin; comparing NIO to XPeng by tariff is meaningless because they are identical on paper. Second, the binding constraint differs by band — Leapmotor's value EVs die on the $6,600 fixed stack long before the tariff matters, while NIO's premium cars absorb the same fixed cost and turn the 20.7% into the largest single dollar line, so the "right" import is a positioning decision, not a tariff-arbitrage decision. Third, the EREV loophole is the quiet wildcard: Leapmotor and XPeng both sell range-extended variants that currently avoid the CVD entirely, and any buyer ignoring powertrain when pricing the tariff is leaving money on the table.
 
-**Disclosure:** This is my interpretation of published EU tariff law and the EV Hub landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** This is my interpretation of published EU tariff law and the China EV Mart landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -135,5 +135,5 @@ The EU premium is substantial at every band — roughly $9,800 on the Mona M03 b
 
 1. European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
 2. European Commission press release on definitive anti-subsidy duties on BEVs from China — 29 October 2024
-3. EV Hub — tariffs.json brand_cvd (NIO/XPeng/Leapmotor → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
-4. EV Hub — vehicle landed-cost records for 29 NIO/XPeng/Leapmotor BEV models, 2026-09-15
+3. China EV Mart — tariffs.json brand_cvd (NIO/XPeng/Leapmotor → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
+4. China EV Mart — vehicle landed-cost records for 29 NIO/XPeng/Leapmotor BEV models, 2026-09-15

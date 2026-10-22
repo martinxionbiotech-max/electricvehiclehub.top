@@ -109,7 +109,7 @@ A **$9,800 difference on a $16,100 car** between Germany and the UAE — almost 
 
 **Reasoning:** First, the rate is the EU's default "other cooperating" line, so it is not a judgment on Chery specifically — it is the same 20.7% that Changan, NIO, XPeng, Leapmotor, Xiaomi, and Hongqi all pay, and the real gap to BYD is only 3.7 points. Second, the genuine Chery-brand risk is confusion: six Chery-badged catalog models are PHEVs that skip the CVD entirely, while the BEV duty lands on Fulwin, Chery New Energy, Exeed, and Cowin — a buyer who quotes "Chery = 20.7%" without checking the badge gets it wrong in both directions. Third, the budget micro-EVs in the group are economically dead on arrival in the EU regardless of the rate, because a $6,600 fixed stack overwhelms a $5,200 car; the tariff is not the binding constraint there, the fixed costs are.
 
-**Disclosure:** This is my interpretation of published EU tariff law and the EV Hub landed-cost records, not legal or tax advice. Countervailing-duty rates and the list of covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** This is my interpretation of published EU tariff law and the China EV Mart landed-cost records, not legal or tax advice. Countervailing-duty rates and the list of covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -122,5 +122,5 @@ A **$9,800 difference on a $16,100 car** between Germany and the UAE — almost 
 
 1. European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
 2. European Commission press release on definitive anti-subsidy duties on BEVs from China — 29 October 2024
-3. EV Hub — tariffs.json brand_cvd (Chery group → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
-4. EV Hub — vehicle landed-cost records for 16 Chery-group BEV models (Fulwin, Chery New Energy, Exeed, Cowin), 2026-09-15
+3. China EV Mart — tariffs.json brand_cvd (Chery group → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
+4. China EV Mart — vehicle landed-cost records for 16 Chery-group BEV models (Fulwin, Chery New Energy, Exeed, Cowin), 2026-09-15

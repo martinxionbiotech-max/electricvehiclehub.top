@@ -111,7 +111,7 @@ Three things drive my view. First, the two sides are already trading instruments
 
 ### Disclosure
 
-This is the EV Hub analysis team's judgment based on public reporting and our own catalog data — not legal advice, and not a forecast of official action. No PHEV duty rates, scope, or dates have been published; the numeric stacking here uses BEV rates explicitly as an illustration, and everything marked UNKNOWN should be confirmed against official notices before it is used for pricing.
+This is the China EV Mart analysis team's judgment based on public reporting and our own catalog data — not legal advice, and not a forecast of official action. No PHEV duty rates, scope, or dates have been published; the numeric stacking here uses BEV rates explicitly as an illustration, and everything marked UNKNOWN should be confirmed against official notices before it is used for pricing.
 
 ## Related reading
 
@@ -136,4 +136,4 @@ This is the EV Hub analysis team's judgment based on public reporting and our ow
 12. CnEVPost — "EU denies plans to impose tariffs on Chinese hybrid cars" — https://cnevpost.com/2026/01/20/eu-denies-plans-tariffs-chinese-hybrid-cars/ — 20 January 2026 — accessed 19 Sep 2026.
 13. CnEVPost — "China, EU reach consensus on price undertakings for Chinese EV exports" — https://cnevpost.com/2026/01/12/china-eu-reach-consensus-price-undertakings-ev-exports/ — 12 January 2026 — accessed 19 Sep 2026.
 14. CnEVPost — "EU pushes ahead with additional tariffs on Chinese EVs" — https://cnevpost.com/2024/10/30/eu-pushes-ahead-with-additional-tariffs-on-chinese-evs/ — 30 October 2024 — accessed 19 Sep 2026.
-15. CNEVhub internal datasets — vehicle catalog (src/data/vehicle-master.json: 517 models; 154 PHEV, 58 EREV; brand parent mapping from src/data/brand-master.json) and EU tariff dataset (src/data/tariffs.json, updated 15 September 2026) — accessed 19 Sep 2026.
+15. China EV Mart internal datasets — vehicle catalog (src/data/vehicle-master.json: 517 models; 154 PHEV, 58 EREV; brand parent mapping from src/data/brand-master.json) and EU tariff dataset (src/data/tariffs.json, updated 15 September 2026) — accessed 19 Sep 2026.

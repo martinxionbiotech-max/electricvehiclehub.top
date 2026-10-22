@@ -15,15 +15,15 @@ Saudi Arabia is the Gulf's largest market and its most taxed import lane: **a 5%
 ## Key statistics
 
 - **Duty (Saudi Arabia): 5%** — the GCC common external tariff on cars, in force across the customs union since 2003; no countervailing duty applies in the region
-- **VAT: 15%** — the highest of the three Gulf markets in EV Hub's set (Qatar 0%, UAE 5%); raised from 5% effective 1 July 2020
-- **Registration: $300** in EV Hub's model — ten times Qatar's $30
+- **VAT: 15%** — the highest of the three Gulf markets in China EV Mart's set (Qatar 0%, UAE 5%); raised from 5% effective 1 July 2020
+- **Registration: $300** in China EV Mart's model — ten times Qatar's $30
 - **Worked example:** BYD Seal $24,690 → **$34,263.18 landed (+38.8%)**
 - **Saudi vs Qatar:** +$1,057.50 to +$10,008.23 across the nine models below — all of it VAT and registration
 - **Saudi vs UAE:** +$525.00 to +$6,492.15 across the same nine
 - **Premium range inside Saudi:** +27.9% (Zeekr 009) to +109.8% (Wuling Hongguang MINI EV)
 - **For contrast:** the same Seal lands at $44,413.48 in Germany — Saudi Arabia is still $10,150.30 cheaper than the EU
 
-One convention for the whole article: base prices are **China ex-factory MSRPs** — not retail prices, not CIF quotes — and landed figures are EV Hub's model output, decomposed below so you can rerun them with your own numbers.
+One convention for the whole article: base prices are **China ex-factory MSRPs** — not retail prices, not CIF quotes — and landed figures are China EV Mart's model output, decomposed below so you can rerun them with your own numbers.
 
 ## The Gulf's three-lane tax stack
 
@@ -37,7 +37,7 @@ The Gulf runs on one tariff and three different tax bills. The duty does not mov
 | Registration (model input) | $30 | $300 | $300 |
 | Fixed block before registration — freight, clearance, certification, inland | $4,150 | $4,150 | $4,150 |
 
-Rates from EV Hub's market records (verified 15 September 2026), cross-checked against the PwC country summaries and the GCC customs-union material listed in Sources.
+Rates from China EV Mart's market records (verified 15 September 2026), cross-checked against the PwC country summaries and the GCC customs-union material listed in Sources.
 
 Read the ladder: zero, five, fifteen. Qatar charges no VAT at all — a GCC-framework VAT is expected there eventually, but it is not current law. The UAE sits at 5%. Saudi Arabia sits at 15%, raised from 5% in July 2020, and that single line is what separates the region's cheapest lane from its most expensive. Only two lines in the table move between destinations, and both are on the tax side: the VAT rate and a $270 registration delta between Qatar and its neighbours. The duty itself has been 5% since the customs union took effect — nobody in the Gulf is litigating the tariff. For the two comparison lanes in depth, see the [Qatar import guide](/blog/qatar-import-guide/) and the [UAE vs Saudi head-to-head](/blog/uae-saudi-arabia-import-comparison/).
 
@@ -57,7 +57,7 @@ One modelling note before anyone budgets off this: the model applies duty to the
 | Inland transport | $500.00 |
 | **Total landed** | **$34,263.18** |
 
-Formula: `24,690 × 1.05 × 1.15 + 4,450 = 34,263.18` (rounded to the nearest cent). The $4,450 fixed block — $2,000 freight, $350 clearance, $1,300 certification, $300 registration, $500 inland — is the input set EV Hub holds constant across the catalog, so the comparison between Gulf markets isolates tax treatment, not logistics.
+Formula: `24,690 × 1.05 × 1.15 + 4,450 = 34,263.18` (rounded to the nearest cent). The $4,450 fixed block — $2,000 freight, $350 clearance, $1,300 certification, $300 registration, $500 inland — is the input set China EV Mart holds constant across the catalog, so the comparison between Gulf markets isolates tax treatment, not logistics.
 
 Now read the shape. On a mid-size sedan, the Saudi border adds **38.8% over the factory gate**, and the two tax lines alone ($5,123.18) exceed the entire fixed logistics block. For scale: the same car is +21.9% into Qatar, +28.3% into the UAE, and +79.9% into Germany. Only one of those numbers is the one a buyer in Riyadh will actually pay — which is the point of the exercise.
 
@@ -114,7 +114,7 @@ One property of the regime is worth internalizing early: consumption tax is a de
 
 **Reasoning.** First, the premium is fully auditable: duty and the absence of countervailing duty are shared across the Gulf, so the gap versus the UAE is exactly ten points of VAT on the duty-paid value, and versus Qatar fifteen points plus a $270 registration difference — nine models, no exceptions. Second, the dollars scale with the car: the VAT wedge costs $525.00 on a Wuling and $6,492.15 on a Zeekr 009 against the UAE, which means a Saudi channel's model mix moves the bottom line more than its logistics does. Third, the structure is stable in a way importers rarely get to enjoy: a customs-union duty in place since 2003 and a VAT rate set in law since July 2020. The execution risk in this lane sits in valuation and compliance, not in rate surprises — budget accordingly.
 
-**Disclosure.** This is my analysis and opinion, not tax, customs or legal advice. Landed figures are EV Hub model estimates: vehicle records updated 7 September 2026, market records verified 15 September 2026; Gulf tax treatments cross-checked on 17 September 2026 against the sources below. Confirm the customs valuation basis, VAT treatment and registration schedule for your exact vehicle, buyer structure and incentive eligibility with a Saudi customs broker and the tax authority before committing capital.
+**Disclosure.** This is my analysis and opinion, not tax, customs or legal advice. Landed figures are China EV Mart model estimates: vehicle records updated 7 September 2026, market records verified 15 September 2026; Gulf tax treatments cross-checked on 17 September 2026 against the sources below. Confirm the customs valuation basis, VAT treatment and registration schedule for your exact vehicle, buyer structure and incentive eligibility with a Saudi customs broker and the tax authority before committing capital.
 
 ## Sources
 
@@ -123,8 +123,8 @@ One property of the regime is worth internalizing early: consumption tax is a de
 3. PwC — "United Arab Emirates — Corporate — Other taxes" (general VAT rate 5%) — https://taxsummaries.pwc.com/united-arab-emirates/corporate/other-taxes — accessed 17 Sep 2026
 4. UAE ICP — "Customs Union for GCC States" (unified 5% tariff on goods imported from outside the union; customs union effective 1 January 2003) — https://icp.gov.ae/en/customs-union-for-gcc — accessed 17 Sep 2026
 5. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 (countervailing duties on China-origin BEVs — the measure the Gulf does not apply) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 17 Sep 2026
-6. EV Hub — `tariffs.json` and `market-master.json`: Saudi Arabia 5% duty / 15% VAT / $300 registration; Qatar 5% / 0% / $30; UAE 5% / 5% / $300; fixed-cost inputs (market records last verified 15 Sep 2026)
-7. EV Hub — vehicle landed-cost records for the nine models in this guide: Saudi, Qatar and UAE rows (data updated 7 Sep 2026)
+6. China EV Mart — `tariffs.json` and `market-master.json`: Saudi Arabia 5% duty / 15% VAT / $300 registration; Qatar 5% / 0% / $30; UAE 5% / 5% / $300; fixed-cost inputs (market records last verified 15 Sep 2026)
+7. China EV Mart — vehicle landed-cost records for the nine models in this guide: Saudi, Qatar and UAE rows (data updated 7 Sep 2026)
 
 ## Related reading
 

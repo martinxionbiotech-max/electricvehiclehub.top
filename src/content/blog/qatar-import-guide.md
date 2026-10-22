@@ -10,20 +10,20 @@ tags: [qatar, gulf, import-duty, vat, landed-cost, ev-import, market-guide]
 
 ## TL;DR
 
-Qatar is the cheapest lane in the Gulf for a Chinese EV, and the whole mechanism is two numbers: **a 5% GCC import duty on the ex-factory price, and 0% VAT.** A [BYD Seal](/vehicles/byd-seal/) priced at $24,690 ex-factory China lands at **$30,104.50 (+21.9%)** on EV Hub's model — $1,566 less than the same car into the UAE, $4,159 less than Saudi Arabia, and $14,309 less than Germany. Across the eight models in this guide, Qatar lands cheaper than both neighbours on every single one.
+Qatar is the cheapest lane in the Gulf for a Chinese EV, and the whole mechanism is two numbers: **a 5% GCC import duty on the ex-factory price, and 0% VAT.** A [BYD Seal](/vehicles/byd-seal/) priced at $24,690 ex-factory China lands at **$30,104.50 (+21.9%)** on China EV Mart's model — $1,566 less than the same car into the UAE, $4,159 less than Saudi Arabia, and $14,309 less than Germany. Across the eight models in this guide, Qatar lands cheaper than both neighbours on every single one.
 
 ## Key statistics
 
 - **Import duty (Qatar): 5%** — the GCC common external tariff on cars; no countervailing duty (that is an [EU-only measure](/blog/byd-countervailing-duty-landed-cost/))
 - **VAT (Qatar): 0%** — Qatar currently levies no VAT or sales tax; tax advisors flag a GCC-framework VAT as a future step, not current law
-- **Registration: $30** in EV Hub's model — versus $300 in both the UAE and Saudi Arabia
+- **Registration: $30** in China EV Mart's model — versus $300 in both the UAE and Saudi Arabia
 - **Worked example:** BYD Seal $24,690 → **$30,104.50 landed (+21.9%)**
 - **Qatar vs UAE:** cheaper by $533 to $2,265 across the eight models we ran
 - **Qatar vs Saudi Arabia:** cheaper by $1,058 to $6,255 on the same run
 - **Premium range inside Qatar:** +16.0% (Zeekr 001) to +88.6% (Wuling Hongguang MINI EV)
 - **For contrast:** the same Seal lands at $44,413.48 in Germany (+79.9%)
 
-Price basis, stated once and meant everywhere below: every base price is a **China ex-factory MSRP** — not a retail price, not a CIF quote. Every landed figure is EV Hub's model output, decomposed below so you can rerun it with your own numbers.
+Price basis, stated once and meant everywhere below: every base price is a **China ex-factory MSRP** — not a retail price, not a CIF quote. Every landed figure is China EV Mart's model output, decomposed below so you can rerun it with your own numbers.
 
 ## The stack, as the model counts it
 
@@ -37,7 +37,7 @@ Three Gulf markets, three different bills. The duty is identical; the consumptio
 | Registration (model input) | $30 | $300 | $300 |
 | Fixed block — freight, clearance, certification, inland | $4,150 | $4,150 | $4,150 |
 
-Rates from EV Hub's `market-master.json` and `tariffs.json` (verified 15 September 2026); Gulf VAT rates cross-checked against the PwC country summaries listed in Sources. One modelling note before anyone budgets off this: the model applies duty to the ex-factory price as a simplified CIF. A customs assessor may value the car differently. Treat every number here as a planning floor, not a quote.
+Rates from China EV Mart's `market-master.json` and `tariffs.json` (verified 15 September 2026); Gulf VAT rates cross-checked against the PwC country summaries listed in Sources. One modelling note before anyone budgets off this: the model applies duty to the ex-factory price as a simplified CIF. A customs assessor may value the car differently. Treat every number here as a planning floor, not a quote.
 
 ## Worked example: a BYD Seal into Qatar
 
@@ -96,7 +96,7 @@ Two patterns worth naming. First, **the edge scales with price** — the Saudi g
 
 **Reasoning.** First, the entire Qatar-versus-neighbour spread is consumption tax. Duty is 5% everywhere in the Gulf and no countervailing duty exists outside the EU, so the $1,566 gap on the Seal against the UAE is just five points of VAT and a smaller registration line — nothing about logistics or access explains it. Second, the structure is honest and measurable: on our numbers Qatar beats the UAE on all eight models and Saudi Arabia on all eight, and the per-model deltas let any importer audit the claim rather than trust it. Third, the direction of travel is one-way: Bahrain, Saudi Arabia, the UAE and Oman have all switched VAT on; Qatar has the framework agreed and not yet implemented. A Doha channel priced with a VAT sensitivity line is a better business than a Doha channel priced on zero forever — and if the zero holds longer, the spreadsheet simply reads better than planned.
 
-**Disclosure.** This is my analysis and opinion, not tax, customs or legal advice. Landed figures are EV Hub model estimates from records dated 15 September 2026; Gulf tax rates come from the PwC country summaries below, checked on 17 September 2026. Confirm the treatment of your exact vehicle, buyer structure and incentive eligibility with a Qatar customs broker and the Traffic Department before committing capital.
+**Disclosure.** This is my analysis and opinion, not tax, customs or legal advice. Landed figures are China EV Mart model estimates from records dated 15 September 2026; Gulf tax rates come from the PwC country summaries below, checked on 17 September 2026. Confirm the treatment of your exact vehicle, buyer structure and incentive eligibility with a Qatar customs broker and the Traffic Department before committing capital.
 
 ## Sources
 
@@ -105,8 +105,8 @@ Two patterns worth naming. First, **the edge scales with price** — the Saudi g
 3. PwC — "Saudi Arabia — Corporate — Other taxes" (standard VAT rate raised to 15% effective 1 July 2020) — https://taxsummaries.pwc.com/saudi-arabia/corporate/other-taxes — accessed 17 Sep 2026
 4. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 (countervailing duties on China-origin BEVs — the measure the Gulf does not apply) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 17 Sep 2026
 5. European Commission (Access2Markets) — "EU Commission imposes countervailing duties on imports of battery electric vehicles (BEVs) from China" — https://trade.ec.europa.eu/access-to-markets/en/news/eu-commission-imposes-countervailing-duties-imports-battery-electric-vehicles-bevs-china — accessed 17 Sep 2026
-6. EV Hub — `market-master.json` and `tariffs.json` (Qatar 5% duty / 0% VAT / $30 registration; UAE 5% / 5% / $300; Saudi Arabia 5% / 15% / $300; fixed-cost inputs; verified 15 Sep 2026)
-7. EV Hub — vehicle landed-cost records: Qatar, UAE and Saudi Arabia rows for eight models (data updated 7 Sep 2026)
+6. China EV Mart — `market-master.json` and `tariffs.json` (Qatar 5% duty / 0% VAT / $30 registration; UAE 5% / 5% / $300; Saudi Arabia 5% / 15% / $300; fixed-cost inputs; verified 15 Sep 2026)
+7. China EV Mart — vehicle landed-cost records: Qatar, UAE and Saudi Arabia rows for eight models (data updated 7 Sep 2026)
 
 ## Related reading
 

@@ -10,13 +10,13 @@ tags: [malaysia, ev-import, landed-cost, ckd, proton, geely, southeast-asia, chi
 
 ## TL;DR
 
-Importing a Chinese EV to Malaysia carries a **5% import duty plus a 10% sales tax** — one of the lightest stacks in Southeast Asia — and a BYD Seal priced at $24,690 ex-factory China lands at about **$33,167 (+34.3%)** on EV Hub's landed-cost model. The number that now decides whether a model can compete is not the tariff but the route: since 2026, fully built-up (CBU) imports face reinstated duties plus a **RM200,000 minimum CIF value and a 180 kW minimum power output**, while locally assembled (CKD) EVs like the Geely-derived Proton eMAS 7 keep full duty exemptions until the end of 2027.
+Importing a Chinese EV to Malaysia carries a **5% import duty plus a 10% sales tax** — one of the lightest stacks in Southeast Asia — and a BYD Seal priced at $24,690 ex-factory China lands at about **$33,167 (+34.3%)** on China EV Mart's landed-cost model. The number that now decides whether a model can compete is not the tariff but the route: since 2026, fully built-up (CBU) imports face reinstated duties plus a **RM200,000 minimum CIF value and a 180 kW minimum power output**, while locally assembled (CKD) EVs like the Geely-derived Proton eMAS 7 keep full duty exemptions until the end of 2027.
 
 ## Key statistics
 
 - **Import duty:** 5% for China-origin CBU EVs under the ACFTA tariff schedule, versus 30% for non-FTA origins such as South Korea or Europe
 - **Sales tax (SST):** 10%, unchanged throughout — it was the import and excise duty exemptions, not the sales tax, that made CBU EVs "tax-free" from 2022 to 2025
-- **Excise duty:** 10%, reinstated on 1 January 2026 when the four-year CBU exemption lapsed — a layer EV Hub's catalog model does not add (quantified below)
+- **Excise duty:** 10%, reinstated on 1 January 2026 when the four-year CBU exemption lapsed — a layer China EV Mart's catalog model does not add (quantified below)
 - **Countervailing duty:** none — Malaysia applies no EU-style anti-subsidy tariff on Chinese EVs
 - **Catalog example:** BYD Seal, $24,690 ex-factory → **$33,166.95 landed (+34.3%)**; approximately **$36,019 (+45.9%)** if the reinstated 10% excise is compounded in the same convention
 - **CBU entry rules since 1 July 2026:** minimum declared CIF value of **RM200,000** and minimum motor output of **180 kW (245 PS)** — ready stock and in-transit units were exempted
@@ -41,7 +41,7 @@ Importing a Chinese EV to Malaysia carries a **5% import duty plus a 10% sales t
 
 ## How the 2026 tax stack actually works
 
-The shorthand "Malaysia is 5% + 10%" describes the two layers EV Hub's catalog model applies: the ACFTA import duty at 5%, then a 10% consumption-tax layer on the duty-paid value. Taken alone, that is the second-lightest stack of the four Southeast Asian markets we track — Thailand is the only cheaper one. And for four years, CBU EVs paid nothing at all: a Budget 2022 measure removed both the import duty and the 10% excise duty from 1 January 2022, with a RM100,000 minimum price attached to keep out a flood of very cheap imports.
+The shorthand "Malaysia is 5% + 10%" describes the two layers China EV Mart's catalog model applies: the ACFTA import duty at 5%, then a 10% consumption-tax layer on the duty-paid value. Taken alone, that is the second-lightest stack of the four Southeast Asian markets we track — Thailand is the only cheaper one. And for four years, CBU EVs paid nothing at all: a Budget 2022 measure removed both the import duty and the 10% excise duty from 1 January 2022, with a RM100,000 minimum price attached to keep out a flood of very cheap imports.
 
 The window was extended twice — first to end-2024, then to end-2025, while the CKD exemption was pushed out to end-2027. Budget 2026 made no further extension, and the finance ministry's fiscal outlook counted on higher revenue partly because the EV incentives were expiring. Buyers got one last accommodation: vehicles that entered the country and were declared to customs before 28 December 2025 kept the exemption, regardless of delivery date.
 
@@ -56,11 +56,11 @@ Then on 1 July 2026 the route itself got a filter. MITI's new CBU EV policy requ
 | Sales tax (SST) | 10% | Unchanged | applied through both regimes |
 | Countervailing duty | 0% | — | Malaysia runs no anti-subsidy tariff |
 
-Note on the model: EV Hub's catalog applies the 5% duty and a 10% consumption-tax layer — its uniform convention across 30 markets — and does not add the reinstated excise step. Read every catalog figure for Malaysia as a floor, and treat the excise delta below as a separate line.
+Note on the model: China EV Mart's catalog applies the 5% duty and a 10% consumption-tax layer — its uniform convention across 30 markets — and does not add the reinstated excise step. Read every catalog figure for Malaysia as a floor, and treat the excise delta below as a separate line.
 
 ## Landed cost by model (Malaysia)
 
-Figures from EV Hub landed-cost records: base price ex-factory China, plus the catalog's Malaysia stack (5% import duty, 10% consumption tax), RoRo freight, customs clearance, certification, registration and inland transport.
+Figures from China EV Mart landed-cost records: base price ex-factory China, plus the catalog's Malaysia stack (5% import duty, 10% consumption tax), RoRo freight, customs clearance, certification, registration and inland transport.
 
 | Model | Base (China) | Malaysia landed | Premium |
 |---|---|---|---|
@@ -176,4 +176,4 @@ On the catalog model, no — Thailand is cheaper by a few percent on every model
 14. Paul Tan's Automotive News — "Continuation of Open AP system in line with NAP's goal to strengthen bumiputera participation – MITI" — https://paultan.org/2016/01/18/continuation-of-open-ap-system-in-line-with-naps-goal-to-strengthen-bumiputera-participation-miti/ — 18 Jan 2016
 15. Paul Tan's Automotive News — "Malaysia missed out on RM3.3 billion during four years of tax-free CBU EV sales; public chargers still lacking" — https://paultan.org/2026/08/03/malaysia-missed-out-on-rm3-3-billion-during-four-years-of-tax-free-cbu-ev-sales-public-chargers-still-lacking/ — 3 Aug 2026
 16. Paul Tan's Automotive News — "China takeover: how Chinese car brands went from 0.08% to 7.6% of the Malaysian market in 3 years" — https://paultan.org/2026/06/13/china-takeover-how-chinese-car-brands-went-from-0-08-to-7-6-of-the-malaysian-market-in-3-years/ — 13 Jun 2026
-17. EV Hub — tariff and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets). Internal dataset, last verified 15 September 2026.
+17. China EV Mart — tariff and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets). Internal dataset, last verified 15 September 2026.

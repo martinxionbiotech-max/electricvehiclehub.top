@@ -78,4 +78,4 @@ Yes — the UK uses CCS2 for DC fast charging and Type 2 for AC, same as the EU.
 ## Sources
 
 - GB/T (China) and CCS2 / Type 2 (Europe) charging standards
-- EV Hub landed-cost methodology — certification and adaptation line items
+- China EV Mart landed-cost methodology — certification and adaptation line items

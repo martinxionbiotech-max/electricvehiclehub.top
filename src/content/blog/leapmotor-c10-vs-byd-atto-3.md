@@ -33,7 +33,7 @@ Both columns in this comparison are the same kind of number — import-cost esti
 landed = base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs
 ```
 
-Every figure below comes from the two EV Hub vehicle records, with the rate inputs documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
+Every figure below comes from the two China EV Mart vehicle records, with the rate inputs documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
 
 ## The closest pair in the series
 
@@ -56,7 +56,7 @@ Read the trade, not the badge. The C10 packs **19.98 kWh more battery** — 40% 
 
 ## The landed-cost matrix: seven markets, two value imports
 
-Both cars, both columns from the EV Hub records, same fixed block per market:
+Both cars, both columns from the China EV Mart records, same fixed block per market:
 
 | Market | Leapmotor C10 landed | BYD Atto 3 landed | Gap |
 |---|---|---|---|
@@ -113,16 +113,16 @@ First, the decomposition does the arguing: strip the German gap down and $1,593 
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. All landed figures are EV Hub model estimates built from the Leapmotor C10 and BYD Atto 3 vehicle records updated 7 September 2026 — costs, not quotations. Countervailing-duty rates come from the sources below and are subject to review. Verify current rates and your own VAT recovery position before committing to a deal.
+This is my analysis and opinion, not verified fact, and not financial advice. All landed figures are China EV Mart model estimates built from the Leapmotor C10 and BYD Atto 3 vehicle records updated 7 September 2026 — costs, not quotations. Countervailing-duty rates come from the sources below and are subject to review. Verify current rates and your own VAT recovery position before committing to a deal.
 
 ## Sources
 
-1. EV Hub — Leapmotor C10 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/leapmotor-c10/ — accessed 20 Sep 2026
-2. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/byd-atto-3/ — accessed 20 Sep 2026
+1. China EV Mart — Leapmotor C10 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://chinaevmart.com/vehicles/leapmotor-c10/ — accessed 20 Sep 2026
+2. China EV Mart — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows; updated 7 Sep 2026) — https://chinaevmart.com/vehicles/byd-atto-3/ — accessed 20 Sep 2026
 3. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (BYD 17.0%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 20 Sep 2026
-4. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (Leapmotor's default-rate treatment across markets) — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 20 Sep 2026
-5. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
-6. EV Hub — Landed Cost Methodology (compounding formula and fixed-cost benchmarks) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+4. China EV Mart — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (Leapmotor's default-rate treatment across markets) — https://chinaevmart.com/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 20 Sep 2026
+5. China EV Mart — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026) — inputs documented at https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 20 Sep 2026
+6. China EV Mart — Landed Cost Methodology (compounding formula and fixed-cost benchmarks) — https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 20 Sep 2026
 
 ## Related reading
 

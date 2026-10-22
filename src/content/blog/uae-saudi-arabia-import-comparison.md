@@ -109,7 +109,7 @@ Only if your buyer, homologation route, or incentives are specifically Saudi. On
 
 **Reasoning.** First, the gap is mechanical: 5% against 15% VAT on the same customs value puts Saudi Arabia $2,592 above the UAE on a $24,690 BYD Seal — and roughly 10% of customs value on every model in the table. Second, it scales: $526 on the Wuling MINI EV, $6,492 on the Zeekr 009 — a cost that matters more the more expensive the car. Third, the decision worth planning is upstream of the Gulf: both markets escape the EU-style CVD, so the same Seal is ~$12,700 cheaper than in Germany — and that spread, not the VAT points, is where the strategy sits.
 
-**Disclosure.** This is my analysis of Gulf customs and VAT rules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. VAT applies where the car is registered; confirm your destination regime with a local adviser before committing.
+**Disclosure.** This is my analysis of Gulf customs and VAT rules and China EV Mart's landed-cost records — opinion, not a quotation or legal advice. VAT applies where the car is registered; confirm your destination regime with a local adviser before committing.
 
 ## Related reading
 
@@ -121,4 +121,4 @@ Only if your buyer, homologation route, or incentives are specifically Saudi. On
 
 - GCC / UAE and Saudi customs duty and VAT rates (5% duty both; 5% and 15% VAT respectively)
 - European Commission Implementing Regulation (EU) 2024/2754 — for the EU CVD comparison
-- EV Hub landed-cost records: 315 models × 7 markets, itemized duty/VAT
+- China EV Mart landed-cost records: 315 models × 7 markets, itemized duty/VAT

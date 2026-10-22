@@ -108,7 +108,7 @@ Generally no — the fixed-cost overhead and tariff stack make it a poor import.
 
 **Reasoning.** First, the fixed stack is the story: $6,600 to land a $5,000 car is 132% of its price, while the same $6,600 is 27% of a $24,000 car — flat costs cannot scale down to a microcar. Second, the segment ranks by tariff rate in disguise: the $8,440 Leapmotor T03 lands cheaper than the $8,140 Wuling AIR EV because Leapmotor's 20.7% countervailing duty beats Wuling's 35.3% by 14.6 points. Third, destination rewrites the outcome: the MINI EV lands at $9,962 in the UAE versus $15,455 in Germany, so the EU's harsh premium is a regulatory choice, not physics.
 
-**Disclosure.** This is my analysis of EU regulation and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Confirm the duty rate, homologation path and fixed costs for your exact model and destination with a licensed forwarder before committing.
+**Disclosure.** This is my analysis of EU regulation and China EV Mart's landed-cost records — opinion, not a quotation or legal advice. Confirm the duty rate, homologation path and fixed costs for your exact model and destination with a licensed forwarder before committing.
 
 ## Related reading
 
@@ -119,4 +119,4 @@ Generally no — the fixed-cost overhead and tariff stack make it a poor import.
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — Wuling (SAIC) 35.3% and other cooperating 20.7% countervailing duties
-- EV Hub landed-cost records: Wuling microcars and Leapmotor T03 × 7 markets, itemized
+- China EV Mart landed-cost records: Wuling microcars and Leapmotor T03 × 7 markets, itemized

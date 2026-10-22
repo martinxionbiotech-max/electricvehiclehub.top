@@ -33,7 +33,7 @@ Importing a Chinese EV to Thailand is one of the cheapest landings in our 30-mar
 
 ## What a Chinese EV actually pays at the Thai border
 
-| Layer | Rate for a China-origin BEV | Levied on | In EV Hub's landed model |
+| Layer | Rate for a China-origin BEV | Levied on | In China EV Mart's landed model |
 |---|---|---|---|
 | Import duty | **0%** under ACFTA | CIF value | Yes |
 | Countervailing duty | **None** | — | Yes (zero) |
@@ -47,7 +47,7 @@ That leaves excise as the pressure valve. Tariffs are locked by the ACFTA; excis
 
 ## Landed cost by model (Thailand)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus duty (0%), VAT (7%), and the fixed import block (freight, clearance, compliance, registration and inland transport).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus duty (0%), VAT (7%), and the fixed import block (freight, clearance, compliance, registration and inland transport).
 
 | Model | Base (China) | Thailand landed | Premium |
 |---|---|---|---|
@@ -69,7 +69,7 @@ For the Seal specifically, +25.8% is the **second-lowest premium in our 30-marke
 | Freight, clearance, compliance, registration, inland | $4,650 |
 | **Total landed** | **$31,068** |
 
-Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Every input is from EV Hub's tariff and landed-cost records dated 2026-09-15. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
+Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Every input is from China EV Mart's tariff and landed-cost records dated 2026-09-15. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
 
 ## Where this model stops: the excise layer
 
@@ -153,4 +153,4 @@ The context is a genuine industrial policy pivot. Thailand is Southeast Asia's l
 9. CnEVPost — "GAC Aion opens its 1st overseas plant in Thailand" — https://cnevpost.com/2024/07/17/gac-aion-opens-thailand-plant/ — 17 Jul 2024
 10. Paul Tan's Automotive News — "Great Wall Motor plans to set up new battery plant in Thailand — local Ora Good Cat production next year" — https://paultan.org/2023/05/31/great-wall-motor-plans-to-set-up-new-battery-plant-in-thailand/ — 31 May 2023
 11. CnEVPost — "Svolt Energy's Thailand plant sees 1st battery pack roll off line" — https://cnevpost.com/2023/12/20/svolt-thailand-plant-1st-battery-pack-off-line/ — 20 Dec 2023
-12. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Thailand: duty 0%, VAT 7%, registration ~$50; 517-model catalogue) — internal dataset, last verified 15 Sep 2026
+12. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Thailand: duty 0%, VAT 7%, registration ~$50; 517-model catalogue) — internal dataset, last verified 15 Sep 2026

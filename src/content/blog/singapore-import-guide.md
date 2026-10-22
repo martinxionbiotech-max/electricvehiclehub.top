@@ -10,7 +10,7 @@ tags: [singapore, ev-import, landed-cost, market-comparison, coe, arf, chinese-e
 
 ## TL;DR
 
-On the border, importing a Chinese EV to Singapore costs a **20% excise duty on the car's Open Market Value plus 9% GST**, compounded on top of it — a BYD Seal priced at $24,690 ex-factory China lands at **$37,154.52 (+50.5%)** on EV Hub's model, and premiums across our catalog run from +43.6% (Zeekr 001) to +128.0% (Wuling Hongguang MINI EV). Keep the boundary of that number in view, though: **our landed-cost model excludes Singapore's COE and ARF**, and the September 2026 COE alone closed at **S$133,009 (Category A)** and **S$135,001 (Category B)** — before a registration tax that runs up to 320% of OMV. The border half is mid-pack for Southeast Asia; the full bill is where Singapore becomes one of the most expensive car markets on earth.
+On the border, importing a Chinese EV to Singapore costs a **20% excise duty on the car's Open Market Value plus 9% GST**, compounded on top of it — a BYD Seal priced at $24,690 ex-factory China lands at **$37,154.52 (+50.5%)** on China EV Mart's model, and premiums across our catalog run from +43.6% (Zeekr 001) to +128.0% (Wuling Hongguang MINI EV). Keep the boundary of that number in view, though: **our landed-cost model excludes Singapore's COE and ARF**, and the September 2026 COE alone closed at **S$133,009 (Category A)** and **S$135,001 (Category B)** — before a registration tax that runs up to 320% of OMV. The border half is mid-pack for Southeast Asia; the full bill is where Singapore becomes one of the most expensive car markets on earth.
 
 ## Key statistics
 
@@ -31,7 +31,7 @@ Most import guides start with a customs line. Singapore needs three lines, becau
 2. **Registration taxes** — the Registration Fee, the Additional Registration Fee (ARF), and the emissions-based rebates or surcharges (VES and EEAI) that offset it. Assessed when the car is registered with LTA.
 3. **The right to own the car at all** — a Certificate of Entitlement (COE), won at auction, valid ten years. No COE, no registration, no road use. This layer sits outside any customs formula.
 
-Every Singapore figure on EV Hub is a system-1 number. This guide prices the border first, then walks through what systems 2 and 3 add — and why the second half is where this market differs from every other one we cover.
+Every Singapore figure on China EV Mart is a system-1 number. This guide prices the border first, then walks through what systems 2 and 3 add — and why the second half is where this market differs from every other one we cover.
 
 ## Defining the terms that shape the bill
 
@@ -57,7 +57,7 @@ Two percentage lines compound in a specific order — duty first, GST last, on t
 
 ## Landed cost by model (Singapore)
 
-Base price ex-factory China, plus 20% excise duty, 9% GST and the fixed block — border only, from EV Hub's vehicle records dated 15 September 2026.
+Base price ex-factory China, plus 20% excise duty, 9% GST and the fixed block — border only, from China EV Mart's vehicle records dated 15 September 2026.
 
 | Model | Base (China) | Singapore landed | Premium |
 |---|---|---|---|
@@ -79,7 +79,7 @@ Read the shape of the table, not just the rows. The cheaper the car, the worse t
 | Fixed block — freight, clearance, certification, registration, inland | $4,860.00 |
 | **Total landed, border only** | **$37,154.52** |
 
-Formula: `base × (1 + duty) × (1 + GST) + fixed costs`. Inputs from EV Hub's tariff and vehicle records, verified 15 September 2026.
+Formula: `base × (1 + duty) × (1 + GST) + fixed costs`. Inputs from China EV Mart's tariff and vehicle records, verified 15 September 2026.
 
 **Where this model stops — and why that matters more here than anywhere else.** Three exclusions to be explicit about:
 
@@ -152,7 +152,7 @@ Read across the row: Singapore's border cost sits between Thailand and Malaysia 
 **Does Singapore charge import duty on Chinese EVs?**
 Singapore charges a 20% excise duty on the Open Market Value at import, plus 9% GST on the import cost, and applies no countervailing duty on China-origin EVs. On our model that compounds to +30.8% of the car price before logistics, and +50.5% all-in on a BYD Seal.
 
-**Is the COE included in EV Hub's Singapore landed-cost figures?**
+**Is the COE included in China EV Mart's Singapore landed-cost figures?**
 No — and the caveat is explicit for this market. Our model covers the border: excise duty, GST, freight, clearance, certification, registration and inland transport. The COE and ARF are registration-stage costs and are excluded. In September 2026 the COE alone ran S$133,009 to S$137,890 depending on category.
 
 **Why is Singapore's premium lower than Indonesia's if Singapore is the more expensive market?**
@@ -172,7 +172,7 @@ Because they are different lenses. The border premium (+50.5% versus +85.5%) ref
 
 **Reasoning.** First, the COE is not a tax on the car; it is the price of the right to own one, and at September's prices a Category A certificate alone cost more than six times the entire border cost of the cheapest Chinese EVs we track. When the right to own dwarfs the cost to import, tariffs stop being the story. Second, ARF tops out at 320% of OMV while the 2026 PARF cut (the exit rebate now 30% of ARF, capped at S$30,000) means the state captures heavily at both ends of the ownership cycle — that changes financing and resale math, not just sticker prices. Third, the sweeteners are a calendar, not a structure: EEAI expires on 31 December 2026 and the VES Band A rebate steps down in 2027, so anyone planning a Singapore registration should plan the timing as carefully as the car.
 
-**Disclosure.** This is my analysis and opinion, not verified fact, and not legal, tax or financial advice. Border figures are EV Hub model estimates from vehicle records dated 15 September 2026; COE, ARF, VES and EEAI details come from the LTA and IRAS sources below, checked on 16 September 2026. COE outcomes change every bidding exercise — confirm current numbers with LTA before committing capital.
+**Disclosure.** This is my analysis and opinion, not verified fact, and not legal, tax or financial advice. Border figures are China EV Mart model estimates from vehicle records dated 15 September 2026; COE, ARF, VES and EEAI details come from the LTA and IRAS sources below, checked on 16 September 2026. COE outcomes change every bidding exercise — confirm current numbers with LTA before committing capital.
 
 ## Sources
 
@@ -184,4 +184,4 @@ Because they are different lenses. The border premium (+50.5% versus +85.5%) ref
 6. IRAS — "Current GST rates" (GST at 9%) — https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/current-gst-rates — accessed 16 Sep 2026
 7. The Business Times — "Longer bidding interval pushes up COE premiums; Cat A at all-time high" — https://www.businesstimes.com.sg/singapore/longer-bidding-interval-pushes-coe-premiums-cat-all-time-high — 9 Sep 2026
 8. AsiaOne — "Latest COE results 2026: Cat A hits new record high at $133,009" — https://www.asiaone.com/singapore/coe-prices-2026 — 9 Sep 2026
-9. EV Hub — tariffs.json and market-master.json (excise 0.20, GST 0.09, no CVD; verified 15 Sep 2026) and vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Seagull, MG4, Wuling Hongguang MINI EV), 15 Sep 2026
+9. China EV Mart — tariffs.json and market-master.json (excise 0.20, GST 0.09, no CVD; verified 15 Sep 2026) and vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Seagull, MG4, Wuling Hongguang MINI EV), 15 Sep 2026

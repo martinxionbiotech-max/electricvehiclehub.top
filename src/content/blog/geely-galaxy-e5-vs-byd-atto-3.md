@@ -27,7 +27,7 @@ The [Geely Galaxy E5](/vehicles/geely-galaxy-e5/) undercuts the [BYD Atto 3](/ve
 
 ## The basis: ex-factory, landed cost, and two duty lines
 
-**Ex-factory** is the price at the factory gate in China — what the car costs before it moves anywhere. Both base prices in this comparison are China ex-factory MSRP from the EV Hub catalogue: $15,460 for the E5, $16,260 for the Atto 3 (sold as the Yuan Plus in China).
+**Ex-factory** is the price at the factory gate in China — what the car costs before it moves anywhere. Both base prices in this comparison are China ex-factory MSRP from the China EV Mart catalogue: $15,460 for the E5, $16,260 for the Atto 3 (sold as the Yuan Plus in China).
 
 **Landed cost** is what an importer pays to clear the car through customs in the destination market: the base compounded through standard import duty, countervailing duty where the EU applies it, and VAT or GST — plus a flat block covering RoRo freight, customs clearance, certification, registration and inland transport. It is the cash needed at the border, not a retail price; no importer margin, dealer spread or warranty provisioning is inside.
 
@@ -60,7 +60,7 @@ The E5 takes the sheet on length (+160 mm), wheelbase (+30 mm), battery (+10.3 k
 
 ## The landed-cost matrix: seven markets, both cars
 
-Same formula, same producer-specific duties, same flat block within each market — two cars, two rates. Every figure below is drawn or compounded from the two EV Hub vehicle records.
+Same formula, same producer-specific duties, same flat block within each market — two cars, two rates. Every figure below is drawn or compounded from the two China EV Mart vehicle records.
 
 | Market | Car | Ex-factory | Duty | CVD | VAT | Fixed | Landed |
 |---|---|---|---|---|---|---|---|
@@ -154,14 +154,14 @@ First, the product case is unusually clean: the cheaper car is longer, roomier o
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are EV Hub model estimates on a B2B basis — costs, not quotes — from vehicle records updated 7 September 2026, with tariff inputs verified 15 September 2026; the per-market fixed blocks are embedded estimates, not itemised quotations, and they are volume- and lane-sensitive. Currency conversions use the 22 September 2026 ExchangeRate-API reference snapshot cited below. Range, charging and efficiency figures are quoted specifications, not measured results. The EU countervailing-duty regime is under review — verify current rates with a customs broker before committing.
+This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are China EV Mart model estimates on a B2B basis — costs, not quotes — from vehicle records updated 7 September 2026, with tariff inputs verified 15 September 2026; the per-market fixed blocks are embedded estimates, not itemised quotations, and they are volume- and lane-sensitive. Currency conversions use the 22 September 2026 ExchangeRate-API reference snapshot cited below. Range, charging and efficiency figures are quoted specifications, not measured results. The EU countervailing-duty regime is under review — verify current rates with a customs broker before committing.
 
 ## Sources
 
-1. EV Hub — Geely Galaxy E5 vehicle record and 30-market landed-cost data (base price $15,460; German breakdown; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/geely-galaxy-e5/ — accessed 23 Sep 2026
-2. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price $16,260; German breakdown; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/byd-atto-3/ — accessed 23 Sep 2026
-3. EV Hub — Landed Cost Methodology (compounding order, fixed-cost benchmarks, producer-specific CVD table) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
-4. EV Hub — tariffs.json and market-master.json (standard duty, producer-specific CVD, VAT/GST and registration inputs by market; verified 15 Sep 2026) — internal data files, inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+1. China EV Mart — Geely Galaxy E5 vehicle record and 30-market landed-cost data (base price $15,460; German breakdown; data updated 7 Sep 2026) — https://chinaevmart.com/vehicles/geely-galaxy-e5/ — accessed 23 Sep 2026
+2. China EV Mart — BYD Atto 3 vehicle record and 30-market landed-cost data (base price $16,260; German breakdown; data updated 7 Sep 2026) — https://chinaevmart.com/vehicles/byd-atto-3/ — accessed 23 Sep 2026
+3. China EV Mart — Landed Cost Methodology (compounding order, fixed-cost benchmarks, producer-specific CVD table) — https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+4. China EV Mart — tariffs.json and market-master.json (standard duty, producer-specific CVD, VAT/GST and registration inputs by market; verified 15 Sep 2026) — internal data files, inputs documented at https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 23 Sep 2026
 5. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (Geely group 18.8%; BYD 17.0%; other cooperating producers 20.7%); five-year duration, in force since October 2024 — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 23 Sep 2026
 6. ExchangeRate-API — USD-base reference-rate snapshot, open.er-api.com/v6/latest/USD (USD/EUR 0.873207 — 1 EUR = $1.1452; snapshot for the 22 September 2026 data pull, rates last updated 23 Sep 2026 00:02 UTC) — https://open.er-api.com/v6/latest/USD — accessed 23 Sep 2026
 

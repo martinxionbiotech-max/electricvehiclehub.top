@@ -96,6 +96,6 @@ Running the landed-cost math last — after deciding on the car and market — i
 
 ## Sources
 
-- EV Hub landed-cost records: 315 models × 7 markets, itemized (duty/CVD/VAT/fixed costs)
+- China EV Mart landed-cost records: 315 models × 7 markets, itemized (duty/CVD/VAT/fixed costs)
 - European Commission Implementing Regulation (EU) 2024/2754 — countervailing duties
-- EV Hub compliance guides (homologation, charging, drive-side)
+- China EV Mart compliance guides (homologation, charging, drive-side)

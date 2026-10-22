@@ -98,7 +98,7 @@ The brand's CVD tier matters more than any choice among the three countries coul
 | Freight, clearance, certification, registration, inland | $7,250 | $6,170 | $9,600 |
 | **Total landed** | **$38,112.50** | **$45,890.04** | **$49,320.04** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Inputs from EV Hub's tariff and vehicle records dated 15 September 2026; the Norway VAT line is the conservative ceiling described above.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Inputs from China EV Mart's tariff and vehicle records dated 15 September 2026; the Norway VAT line is the conservative ceiling described above.
 
 ## Beyond the border: the rules that reward reading fine print
 
@@ -138,7 +138,7 @@ In Sweden, generally yes for VAT-registered businesses on commercial-use cars. I
 
 **Reasoning.** First, the decomposition is exact, not impressionistic: Denmark−Sweden is a flat $3,430 on every row of our seven-model grid, while Sweden−Norway tracks the brand's CVD tier and price — $1,972 for a $5,000 SAIC microcar, $7,778 for a BYD Seal, $22,632 for a Zeekr 009. Second, the brand lever inside the EU dwarfs the country lever between two EU members: choosing a 17%-tier producer over a 35.3%-tier one saves about $6,290 on a $25,000 car, nearly twice the registration spread. Third, all three trajectories point the same way — Norway's VAT exemption is shrinking on a published schedule, and Denmark's registration relief is legislated to unwind by 2035 — so anyone modelling these markets should model the direction of travel, not just this year's rates. Fourth, the demand side is not the constraint anywhere: 45% EV share in Sweden without a purchase bonus, roughly 86% electrified registrations in Denmark with the taxes, and Norway's world-leading adoption. The Nordics will keep buying; the question is only what the border and the registration office take first.
 
-**Disclosure.** This is my analysis of published rules and EV Hub's landed-cost records — opinion, not legal, tax or customs advice, and not a quotation. Landed-cost figures are model estimates with dated inputs, not transaction prices; the Norway VAT lines are conservative ceilings by design. Confirm current rates, thresholds and procedures with the Norwegian, Swedish and Danish authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules and China EV Mart's landed-cost records — opinion, not legal, tax or customs advice, and not a quotation. Landed-cost figures are model estimates with dated inputs, not transaction prices; the Norway VAT lines are conservative ceilings by design. Confirm current rates, thresholds and procedures with the Norwegian, Swedish and Danish authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -162,4 +162,4 @@ In Sweden, generally yes for VAT-registered businesses on commercial-use cars. I
 7. Mobility Sweden — "Tudelad fordonsmarknad i augusti" (August 2026: EV share 45%; year-to-date 42%) — https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2026/tudelad-fordonsmarknad-i-augusti-elbilarna-fortsatter-oka_1 — published 1 September 2026; accessed 16 September 2026
 8. Mobility Denmark — "Statistik over nyregistreringer" and "Elektrificerede biler i Danmark" (131,759 new cars January–August 2026; ~86% electrified in August; brand registrations: Xpeng 3,698 / MG 3,065 / BYD 2,048 / Zeekr 1,944) — https://mobility.dk/nyregistreringer/ and https://mobility.dk/elbiler/ — accessed 16 September 2026
 9. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery electric vehicles from China (brand-specific rates: BYD 17.0%, Geely 18.8%, SAIC 35.3%, Tesla Shanghai 7.8%, other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — October 2024; accessed 16 September 2026
-10. EV Hub — tariff, market and vehicle landed-cost records (`src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`; 517 models × 30 markets; Norway duty 0% / registration $1,400; Sweden 10% / $70; Denmark 10% / $3,500) — internal dataset, last verified 15 September 2026
+10. China EV Mart — tariff, market and vehicle landed-cost records (`src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`; 517 models × 30 markets; Norway duty 0% / registration $1,400; Sweden 10% / $70; Denmark 10% / $3,500) — internal dataset, last verified 15 September 2026

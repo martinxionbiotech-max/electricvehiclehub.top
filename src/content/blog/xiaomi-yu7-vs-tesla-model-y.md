@@ -63,7 +63,7 @@ Xiaomi was not individually sampled in the EU's investigation, so it sits at the
 
 ## The landed-cost matrix: seven markets, both cars
 
-Seven markets, two SUVs, the full gap. Model Y figures are local list or entry prices from the sources below, converted at 22 September 2026 rates; YU7 figures are the EV Hub landed estimates from the [vehicle record](/vehicles/xiaomi-yu7/):
+Seven markets, two SUVs, the full gap. Model Y figures are local list or entry prices from the sources below, converted at 22 September 2026 rates; YU7 figures are the China EV Mart landed estimates from the [vehicle record](/vehicles/xiaomi-yu7/):
 
 | Market | YU7 landed (model) | Model Y local price | Converted | Gap |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ First, the counterfactual is the evidence: rebuild the German stack at Tesla's o
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. The YU7 figures are EV Hub model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla prices come from the tier-2 sources listed below, verified 22 September 2026; the official configurators were not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 22 September 2026 ExchangeRate-API rates cited in Sources. Range, efficiency and charging figures are quoted specifications, not measured results.
+This is my analysis and opinion, not verified fact, and not financial advice. The YU7 figures are China EV Mart model estimates from the vehicle record updated 7 September 2026 — costs, not quotes. Tesla prices come from the tier-2 sources listed below, verified 22 September 2026; the official configurators were not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 22 September 2026 ExchangeRate-API rates cited in Sources. Range, efficiency and charging figures are quoted specifications, not measured results.
 
 ## Sources
 
@@ -138,8 +138,8 @@ This is my analysis and opinion, not verified fact, and not financial advice. Th
 7. paultan.org — "Tesla Model Y Juniper facelift announced in Thailand" (RWD from 1.719 million baht; 3 April 2025) — https://paultan.org/2025/04/03/tesla-model-y-juniper-facelift-announced-in-thailand-rwd-and-long-range-awd-from-rm224k-q3-delivery/ — accessed 22 Sep 2026
 8. ExchangeRate-API — USD reference rates, 22 Sep 2026 (per USD: EUR 0.87176 · GBP 0.747749 · AUD 1.404334 · AED 3.6725 · NOK 9.435161 · THB 33.257692) — https://open.er-api.com/v6/latest/USD — accessed 22 Sep 2026
 9. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (other cooperating 20.7%; Tesla Shanghai 7.8%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 22 Sep 2026
-10. EV Hub — Xiaomi YU7 vehicle record and 30-market landed-cost data (base $35,700; Germany landed $63,004.68; data updated 7 Sep 2026)
-11. EV Hub — `tariffs.json` and market records (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
+10. China EV Mart — Xiaomi YU7 vehicle record and 30-market landed-cost data (base $35,700; Germany landed $63,004.68; data updated 7 Sep 2026)
+11. China EV Mart — `tariffs.json` and market records (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
 
 ## Related reading
 

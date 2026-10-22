@@ -37,7 +37,7 @@ If you want the mechanics of the three-layer stack — why 10 + 17 + 23 does not
 
 ## What a Chinese EV actually pays at the Polish border
 
-| Layer | Rate for a China-origin BEV | Levied on | In EV Hub's landed model |
+| Layer | Rate for a China-origin BEV | Levied on | In China EV Mart's landed model |
 |---|---|---|---|
 | Import duty | **10%** (MFN) | CIF value | Yes |
 | Countervailing duty | **17–35.3%**, by brand | CIF + duty | Yes |
@@ -51,7 +51,7 @@ One live variable: the EU is preparing to extend countervailing duties to plug-i
 
 ## Landed cost by model (Poland)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus 10% duty, the brand CVD, 23% VAT, and the fixed import block (freight, clearance, compliance, registration, inland transport — $6,155 in our Polish records).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus 10% duty, the brand CVD, 23% VAT, and the fixed import block (freight, clearance, compliance, registration, inland transport — $6,155 in our Polish records).
 
 | Model | Base (China) | Poland landed | Premium | CVD rate |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ Third, the ranking is not strictly by price: the Xiaomi SU7 (+83.6%) lands propo
 | Freight, clearance, certification, registration, inland | $6,155 |
 | **Total landed** | **$45,240** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input is from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input is from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
 Now the comparison everyone in Poland should actually run — against Germany. The same Seal lands at $44,413 in Germany (+79.9%). Poland's landing is **$826 higher**, and the cause is one line item: VAT. Germany's 19% VAT adds $6,037 on this car; Poland's 23% adds $7,308 — a difference of $1,271. Poland's cheaper registration ($55 versus $500) gives back $445, but that does not cover the gap. Where Western European importers treat VAT as the minor final layer, in Poland it is the single biggest tax line after the car itself.
 
@@ -175,4 +175,4 @@ And the competitive clock is ticking from the supply side: BYD's Szeged plant in
 13. CnEVPost — "EU readies tariffs on Chinese plug-in hybrids, report says" (investigation under way) — https://cnevpost.com/2026/06/20/eu-readies-tariffs-chinese-phevs/ — 20 Jun 2026
 14. Akcyzawarszawa — "Car Excise Tax in Poland — Complete 2025 Guide to Import Car Tax" (BEV exemption; 3.1%/18.6% base rates; 1.55%/9.3% hybrids; AKC-U/S filing, 14-day deadline; registration requires excise proof) — https://www.akcyzawarszawa.pl/car-excise-tax-in-poland-the-complete-2025-guide — 2025; accessed 16 Sep 2026
 15. National Bank of Poland — USD reference rate PLN 3.7639 (table 180/A/NBP/2026), used for zloty conversions — https://api.nbp.pl/api/exchangerates/rates/a/usd/ — 16 Sep 2026
-16. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Poland: duty 10%, VAT 23%, registration ~$55; 517-model catalogue; brand CVD as set by EU Reg 2024/2754) — internal dataset, last verified 15 Sep 2026
+16. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Poland: duty 10%, VAT 23%, registration ~$55; 517-model catalogue; brand CVD as set by EU Reg 2024/2754) — internal dataset, last verified 15 Sep 2026

@@ -46,7 +46,7 @@ Read the table top to bottom and Austria is one of the cleanest stacks in Europe
 
 ## Landed cost by model (Austria)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 20% VAT, and the fixed import block (freight, clearance, compliance, registration, inland).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 20% VAT, and the fixed import block (freight, clearance, compliance, registration, inland).
 
 | Model | Base (China) | Austria landed | Premium |
 |---|---|---|---|
@@ -75,7 +75,7 @@ Second, **cheap cars wear the premium worst.** A $5,000 Wuling pays the same fre
 | Freight, clearance, certification, registration, inland | $6,300 |
 | **Total landed** | **$44,431** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
 One caution on the registration line: our model folds registration into a flat $200 for Austria for comparability, but the official Austrian registration and NoVA filing fees could not be verified from primary sources at the time of writing — treat those specifics as UNKNOWN and confirm with Austrian authorities or a customs broker. Treat $44,431 as a floor, not a showroom estimate.
 
@@ -129,7 +129,7 @@ The market result: 2025 closed with BEVs at 21.3% of new registrations, up 35.9%
 
 **Reasoning.** First, the numbers are tight where it counts: within $18 of Germany on the same car despite different tax codes — so Austria's "cost position" is effectively Germany's, and comparison shopping across the Alps is a service-and-logistics question, not a tariff one. Second, the Swiss mirror shows the size of the structural trade: $10,624 on a single BYD Seal, purely because one side of the border is in the customs union — the same lesson as Sweden vs Norway, in a second language. Third, Austria's demand is genuine and post-subsidy: 21.3% BEV share in 2025 and 25.2% through August 2026 with the purchase bonus gone, a charging network approaching 40,000 points, and company-car rules that keep electric attractive for fleets. The private-buyer math — full 20% VAT, no deduction — stays the harsh part; the business math is where the caps at €40,000 and €80,000 decide real money.
 
-**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from EV Hub's dataset, not transaction prices. Parts of the Austrian registration and fee process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Austrian authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from China EV Mart's dataset, not transaction prices. Parts of the Austrian registration and fee process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Austrian authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -149,4 +149,4 @@ The market result: 2025 closed with BEVs at 21.3% of new registrations, up 35.9%
 2. Bundesverband Elektromobilität Österreich (BEÖ) — "Neuzulassungen E-Autos" (August 2026 report: 53,449 BEVs year-to-date, 25.2% of new registrations, +31.1% year-on-year; July report: 47,133 / 24.8%; December 2025 full year: 60,651 / 21.3%; data: Statistik Austria) — https://www.beoe.at/neuzulassungen/ — accessed 16 September 2026
 3. Bundesministerium für Innovation, Mobilität und Infrastruktur (BMIMI) — "Rekord bei E-Autos: 25 Prozent der PKW-Neuzulassungen im März 2026 waren rein elektrisch" (March 2026: 8,206 BEVs; almost 40,000 public charging points; 4,000 ultrafast points) — https://www.bmimi.gv.at/service/presse/hanke/2026/0413-emobility.html — published 13 April 2026; accessed 16 September 2026
 4. European Commission — Commission Implementing Regulation (EU) 2024/2754 imposing definitive countervailing duties on imports of battery electric vehicles from China (brand-specific rates: BYD 17.0%, Geely 18.8%, SAIC 35.3%, Tesla Shanghai 7.8%, other cooperating producers 20.7%; effective 31 October 2024, five years) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — October 2024; accessed 16 September 2026
-5. EV Hub — tariff, market and vehicle landed-cost records (Austria: duty 10%, VAT 20%, registration ~$200; 517-model catalogue with per-model Austria landing; source files: tariffs.json, market-master.json) — internal dataset, last verified 15 September 2026
+5. China EV Mart — tariff, market and vehicle landed-cost records (Austria: duty 10%, VAT 20%, registration ~$200; 517-model catalogue with per-model Austria landing; source files: tariffs.json, market-master.json) — internal dataset, last verified 15 September 2026

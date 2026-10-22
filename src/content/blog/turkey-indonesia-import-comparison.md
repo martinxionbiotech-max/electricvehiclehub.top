@@ -82,7 +82,7 @@ First, the arithmetic: the two markets land within $80 of each other on a mid-si
 
 ### Disclosure
 
-This is my analysis of published tariff schedules, tax reporting and EV Hub's landed-cost records — opinion, not legal or tax advice, and not a quotation. Modeled figures use EV Hub's tariff and vehicle records dated 15 September 2026 and exchange-rate references dated 22 September 2026. Items I could not verify from a primary source are flagged in the text — Indonesia's current PPnBM band for BEVs, the exact post-July-2025 ÖTV bracket thresholds, and Turkey's licensing path for a first-time private importer — each marked UNKNOWN rather than guessed. ÖTV brackets and localisation terms change by decree; confirm the current schedule with a licensed broker or counsel before committing capital.
+This is my analysis of published tariff schedules, tax reporting and China EV Mart's landed-cost records — opinion, not legal or tax advice, and not a quotation. Modeled figures use China EV Mart's tariff and vehicle records dated 15 September 2026 and exchange-rate references dated 22 September 2026. Items I could not verify from a primary source are flagged in the text — Indonesia's current PPnBM band for BEVs, the exact post-July-2025 ÖTV bracket thresholds, and Turkey's licensing path for a first-time private importer — each marked UNKNOWN rather than guessed. ÖTV brackets and localisation terms change by decree; confirm the current schedule with a licensed broker or counsel before committing capital.
 
 ## Sources
 
@@ -90,10 +90,10 @@ This is my analysis of published tariff schedules, tax reporting and EV Hub's la
 2. Ember — "Türkiye ranks fourth in Europe in electric car sales" (ÖTV bands: lowest 25% and higher bands 55–75% after July 2025; previously 10% / 40–60%) — https://ember-energy.org/latest-insights/turkiye-ranks-fourth-in-europe-in-electric-car-sales/ — 2026 (2025 full-year data); accessed 22 September 2026
 3. European Alternative Fuels Observatory — "Incentives and Legislation: Turkey" (pre-revision ÖTV table of 10% / 40% / 50% / 60%, as of 18 April 2025) — https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/turkey/incentives-legislations — published 18 April 2025; accessed 22 September 2026
 4. Indonesia Business Post — "Indonesia to tighten fiscal policy on electric vehicles starting 2026" (no extension of CBU incentives beyond 2025; 1:1 localisation commitment; TKDN; nine brands committed, seven facilities, ~Rp15.4 trillion / US$918 million, ~281,000 units a year) — https://indonesiabusinesspost.com/5843/markets-and-finance/indonesia-to-tighten-fiscal-policy-on-electric-vehicles-starting-2026 — published 22 December 2025; accessed 22 September 2026
-5. Kompas — "Indonesia to End EV Import Incentives, Eyes Billions in Tax Gains" (bank guarantee; forfeiture on missed targets) — https://go.kompas.com/read/2025/09/01/230700074/indonesia-to-end-ev-import-incentives-eyes-billions-in-tax-gains — 1 September 2025; cited via EV Hub's Indonesia guide (re-fetch attempted 22 September 2026, page did not render for extraction)
+5. Kompas — "Indonesia to End EV Import Incentives, Eyes Billions in Tax Gains" (bank guarantee; forfeiture on missed targets) — https://go.kompas.com/read/2025/09/01/230700074/indonesia-to-end-ev-import-incentives-eyes-billions-in-tax-gains — 1 September 2025; cited via China EV Mart's Indonesia guide (re-fetch attempted 22 September 2026, page did not render for extraction)
 6. ExchangeRate-API (exchangerate-api.com) — USD reference rates, last update 22 September 2026: USD/CNY 6.7102 · USD/TRY 48.8242 · USD/IDR 17,840.44 — https://open.er-api.com/v6/latest/USD — accessed 22 September 2026
-7. EV Hub — tariffs.json and market-master.json (Turkey duty 0.40 / VAT 0.20, Indonesia duty 0.50 / VAT 0.11, no countervailing duty in either; fixed import blocks $4,250 TR / $4,700 ID; last verified 15 September 2026)
-8. EV Hub — vehicle landed-cost records (BYD Atto 3, BYD Seal, Xiaomi YU7), 15 September 2026
+7. China EV Mart — tariffs.json and market-master.json (Turkey duty 0.40 / VAT 0.20, Indonesia duty 0.50 / VAT 0.11, no countervailing duty in either; fixed import blocks $4,250 TR / $4,700 ID; last verified 15 September 2026)
+8. China EV Mart — vehicle landed-cost records (BYD Atto 3, BYD Seal, Xiaomi YU7), 15 September 2026
 
 ## Related reading
 

@@ -14,7 +14,7 @@ The Zeekr 001 and the Tesla Model S are not direct competitors, and the reason i
 
 ## What "landed cost" means here
 
-**Landed cost** is the total outlay to move a vehicle from the factory gate to the buyer's door: import duty, countervailing duty where applicable, VAT/GST, ocean freight, customs clearance, certification, registration, and inland transport. EV Hub computes every figure with the single compounding formula documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
+**Landed cost** is the total outlay to move a vehicle from the factory gate to the buyer's door: import duty, countervailing duty where applicable, VAT/GST, ocean freight, customs clearance, certification, registration, and inland transport. China EV Mart computes every figure with the single compounding formula documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
 
 Three tariff terms do most of the work in this comparison:
 
@@ -112,7 +112,7 @@ So the comparison resolves to this: the Zeekr 001 is the car you can actually im
 
 **Reasoning:** First, the countervailing duty is China-only, so a Fremont-built Model S paid 10% duty and nothing else, while the Zeekr 001 pays 10% plus 18.8% Geely-group CVD plus VAT compounded on top — a structural gap worth roughly $9,350 on an identical base price. Second, that tariff advantage never mattered in practice because the Model S started near €110,000, about 2.3× the Zeekr's ex-factory price, so no duty saving could bring it into the Zeekr's cost band. Third, the Model S has been discontinued in Europe, which makes the whole exercise academic for anyone importing today — the Zeekr 001 is the only one of the two you can actually land.
 
-**Disclosure:** This is my analysis of published EU tariff law, the EV Hub landed-cost records, and third-party pricing reports, not legal or tax advice. Countervailing-duty rates, Tesla pricing, and Model S availability can change; confirm current schedules and inventory with a customs broker or the seller before pricing anything.
+**Disclosure:** This is my analysis of published EU tariff law, the China EV Mart landed-cost records, and third-party pricing reports, not legal or tax advice. Countervailing-duty rates, Tesla pricing, and Model S availability can change; confirm current schedules and inventory with a customs broker or the seller before pricing anything.
 
 ## Related reading
 
@@ -126,9 +126,9 @@ So the comparison resolves to this: the Zeekr 001 is the car you can actually im
 
 ## Sources
 
-1. EV Hub — Zeekr 001 catalog record: $38,000 base, 710 km CLTC, 95 kWh, 680 kW, 30-market landed-cost table (data updated 2026-09-07) — /vehicles/zeekr-001/
+1. China EV Mart — Zeekr 001 catalog record: $38,000 base, 710 km CLTC, 95 kWh, 680 kW, 30-market landed-cost table (data updated 2026-09-07) — /vehicles/zeekr-001/
 2. European Commission — Implementing Regulation (EU) 2024/2754, definitive countervailing duties on BEVs from China (BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating 20.8%, non-cooperating 35.3%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
-3. EV Hub — Landed Cost Methodology (compounding formula and fixed-cost benchmarks) — /docs/landed-cost-methodology/
+3. China EV Mart — Landed Cost Methodology (compounding formula and fixed-cost benchmarks) — /docs/landed-cost-methodology/
 4. Motor1 — "Tesla Model S suddenly €17,000 more expensive in Germany" (Dual Motor AWD €109,990, Plaid €119,990, specs, ~95 kWh NCA battery per EV-Database) — https://www.motor1.com/features/750090/tesla-model-s-price-increase-germany — 2025 (accessed 2026-09-15)
 5. InsideEVs — "The Tesla Model X And Model S Are Dead In Europe" (Europe left with inventory-only; no built-to-order units) — https://insideevs.com/news/767444/tesla-model-s-model-x-dead-europe — 2025 (accessed 2026-09-15)
 6. Electrek — "Tesla confirms Model S and Model X production is over — only ~600 left" (production ended; ~295 new Model S units left, nearly all in the US) — https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left — 1 April 2026

@@ -88,7 +88,7 @@ Not for road registration. Australia is RHD, so you need a right-hand-drive expo
 
 **Reasoning.** First, the cost case is real: a $24,690 BYD Seal lands at $33,009 (+33.7%) in Australia against $44,413 in Germany — the gap is almost entirely the EU's countervailing duty and higher VAT. Second, Australia is still not the cheapest landing: the UAE takes the same car at $31,671, because a flat 10% GST costs slightly more than the UAE's compounding 5% duty plus 5% VAT. Third, the binding constraint is not tax at all — ADR/RAV entry and a right-hand-drive variant — and that filter cuts our 315-model catalog down to a subset; no landed-cost saving rescues a car that cannot be registered.
 
-**Disclosure.** This is my analysis of Australian import treatment and EV Hub's landed-cost records — opinion, not a quotation or legal advice. ADR/RAV paths and RHD availability vary by model; verify both with a local compliance specialist before committing.
+**Disclosure.** This is my analysis of Australian import treatment and China EV Mart's landed-cost records — opinion, not a quotation or legal advice. ADR/RAV paths and RHD availability vary by model; verify both with a local compliance specialist before committing.
 
 ## Related reading
 
@@ -100,4 +100,4 @@ Not for road registration. Australia is RHD, so you need a right-hand-drive expo
 
 - Australian import duty and GST treatment for EVs (zero duty on mainstream EVs, 10% GST)
 - Australian Design Rules (ADR) and Register of Approved Vehicles (RAV) requirements
-- EV Hub landed-cost records: 315 models × 7 markets, itemized duty/GST
+- China EV Mart landed-cost records: 315 models × 7 markets, itemized duty/GST

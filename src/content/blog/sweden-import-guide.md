@@ -44,7 +44,7 @@ Read the table top to bottom and the structure is obvious: Sweden has no domesti
 
 ## Landed cost by model (Sweden)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 25% VAT, and the fixed import block (freight, clearance, compliance, registration, inland).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 25% VAT, and the fixed import block (freight, clearance, compliance, registration, inland).
 
 | Model | Base (China) | Sweden landed | Premium |
 |---|---|---|---|
@@ -73,7 +73,7 @@ Second, **cheap cars wear the premium worst.** A $5,000 Wuling pays the same fre
 | Freight, clearance, certification, registration, inland | $6,170 |
 | **Total landed** | **$45,890** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
 One caution on the registration line: our model folds registration into a flat $70 per market for comparability, but the Transport Agency's verification-of-origin fee for an imported car is SEK 1,240 on its own, and the registration inspection costs extra. Treat $45,890 as a floor, not a showroom estimate [Source: Swedish Transport Agency].
 
@@ -88,7 +88,7 @@ This is the comparison the Swedish number is built to make. Norway and Sweden sh
 | BYD Seal | $45,890 | $38,112 | +$7,778 |
 | Zeekr 009 | $107,169 | $84,538 | +$22,632 |
 
-The entire gap is the customs stack. For a BYD, the 10% duty and 17% CVD multiply the ex-factory price by **1.287 before VAT is even applied**; for an MG, the SAIC rate of 35.3% pushes that multiplier to **1.488**. In Norway the same multiplier is 1.000 — zero duty, zero CVD. [Source: EU Implementing Regulation 2024/2754; EV Hub records]
+The entire gap is the customs stack. For a BYD, the 10% duty and 17% CVD multiply the ex-factory price by **1.287 before VAT is even applied**; for an MG, the SAIC rate of 35.3% pushes that multiplier to **1.488**. In Norway the same multiplier is 1.000 — zero duty, zero CVD. [Source: EU Implementing Regulation 2024/2754; China EV Mart records]
 
 Two footnotes keep the comparison honest. Norway's model in our catalogue applies the full 25% VAT to the import value, but the real 2026 rule exempts the first NOK 300,000 — so for cheaper cars the Norwegian number shown is a ceiling, not a floor; our [Norway import guide](/blog/norway-import-guide/) covers those mechanics in detail. And the Swedish figures exclude nothing: what you see is the full stack. For a German reference point, the same Seal lands at $44,413 — $1,477 below Sweden, almost entirely because Germany's VAT is 19% rather than 25%.
 
@@ -120,7 +120,7 @@ For an importer the practical reading is this: the demand is real, the market is
 
 **Reasoning.** First, the numbers are not close and not temporary: the customs stack multiplies a BYD's ex-factory price by 1.287 and an MG's by 1.488 before VAT, and the CVD regulation runs for five years from late 2024 — this is the decade's baseline, not a quarter's anomaly. Second, Sweden's own policy levers are pointed elsewhere: the purchase bonus was scrapped in 2022, so the state supports electric driving through annual tax relief, company-car benefit discounts and fuel disincentives — none of which reduce what an importer pays at the border. Third, the market itself argues against treating the tariff as prohibitive: 42–45% EV share with no purchase subsidy means the demand side is genuine, and for VAT-registered fleets the recoverable VAT removes the single heaviest line in the stack. The private-buyer math is the one that stays harsh.
 
-**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from EV Hub's dataset, not transaction prices. Parts of the Swedish customs process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Swedish authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from China EV Mart's dataset, not transaction prices. Parts of the Swedish customs process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Swedish authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -139,4 +139,4 @@ For an importer the practical reading is this: the demand is real, the market is
 2. Swedish Transport Agency (Transportstyrelsen) — "Vehicle import and verification of origin" (verification-of-origin fee SEK 1,240; registration inspection process; EC type approval acceptance) — https://www.transportstyrelsen.se/en/road/vehicles/Vehicle-import-and-verification-of-origin/ — accessed 16 September 2026
 3. Mobility Sweden — "Tudelad fordonsmarknad i augusti – elbilarna fortsätter öka" (August 2026: 22,584 new passenger cars, +12%; EV share 45%; year-to-date EV share 42%; private share 32%→39%; two in three via private leasing) — https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2026/tudelad-fordonsmarknad-i-augusti-elbilarna-fortsatter-oka_1 — published 1 September 2026; accessed 16 September 2026
 4. European Commission — Commission Implementing Regulation (EU) 2024/2754 imposing definitive countervailing duties on imports of battery electric vehicles from China (brand-specific rates: BYD 17.0%, Geely 18.8%, SAIC 35.3%, Tesla Shanghai 7.8%, other cooperating producers 20.7%; effective 31 October 2024, five years) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — October 2024
-5. EV Hub — tariff, market and vehicle landed-cost records (30 markets; Sweden: duty 10%, VAT 25%, registration ~$70; 517-model catalogue with per-model Sweden landing) — internal dataset, last verified 15 September 2026
+5. China EV Mart — tariff, market and vehicle landed-cost records (30 markets; Sweden: duty 10%, VAT 25%, registration ~$70; 517-model catalogue with per-model Sweden landing) — internal dataset, last verified 15 September 2026

@@ -40,7 +40,7 @@ Both ranges are CLTC — the optimistic Chinese cycle — and neither should be 
 
 ## One question, eight markets
 
-All landed figures from EV Hub's model (bases are China ex-factory MSRPs). "Spread" is how much more the 007 costs to land than the Seal; the multiplier shows what every $1 of ex-factory difference becomes after the local tax stack.
+All landed figures from China EV Mart's model (bases are China ex-factory MSRPs). "Spread" is how much more the 007 costs to land than the Seal; the multiplier shows what every $1 of ex-factory difference becomes after the local tax stack.
 
 | Market | Zeekr 007 landed | BYD Seal landed | Spread | Multiplier |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ Three things it does not buy, in my reading. First, cycle truth: both ranges are
 
 **Reasoning.** First, the multiplier column is the honest specification sheet of this matchup: 1.05× in Qatar against 1.67× in Germany means the upgrade's price is set in the destination's tax code, and an importer who ignores that is negotiating against their own spreadsheet. Second, what the premium buys is real but narrow — battery and power, not space — which makes it easiest to justify where the landed spread is smallest and hardest where it is largest; the graph points one way. Third, the rate structures are close enough (18.8% against 17%) that neither car enjoys a hidden tariff advantage in Europe; the tiebreaker there is execution — service network, resale, parts — and on execution risk in Europe today, the Seal's more established position is worth more than the 007's spec sheet in my book. That ranking flips the moment you move outside the EU, and I would act on it accordingly.
 
-**Disclosure.** This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are EV Hub model estimates from vehicle records updated 7 September 2026; rates come from the EU regulation and secondary sources cited below; verified 17 September 2026. Confirm current pricing, rates, homologation and distribution for your exact variant and market before committing capital.
+**Disclosure.** This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are China EV Mart model estimates from vehicle records updated 7 September 2026; rates come from the EU regulation and secondary sources cited below; verified 17 September 2026. Confirm current pricing, rates, homologation and distribution for your exact variant and market before committing capital.
 
 ## Sources
 
@@ -115,8 +115,8 @@ Three things it does not buy, in my reading. First, cycle truth: both ranges are
 3. Reuters — "EU tariffs on imports of China-made EVs" (tariff factbox) — https://www.reuters.com/world/china/eu-tariffs-imports-china-made-evs-2026-02-11 — accessed 17 Sep 2026
 4. Trading Economics — EUR/USD exchange rate (1.1473 on 17 Sep 2026) — https://tradingeconomics.com/euro-area/currency — accessed 17 Sep 2026
 5. carwow.de — Zeekr brand overview (German model listings: X, 001, 7X) — https://www.carwow.de/zeekr — accessed 17 Sep 2026
-6. EV Hub — Zeekr 007 and BYD Seal vehicle records (landed-cost markets; data updated 7 Sep 2026)
-7. EV Hub — `tariffs.json` and `market-master.json` (CVD rates 18.8% / 17.0%; market duty and VAT inputs; verified 15 Sep 2026)
+6. China EV Mart — Zeekr 007 and BYD Seal vehicle records (landed-cost markets; data updated 7 Sep 2026)
+7. China EV Mart — `tariffs.json` and `market-master.json` (CVD rates 18.8% / 17.0%; market duty and VAT inputs; verified 15 Sep 2026)
 
 ## Related reading
 

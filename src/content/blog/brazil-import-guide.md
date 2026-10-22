@@ -16,7 +16,7 @@ Brazil finished its three-year tariff ramp on 1 July 2026: fully assembled elect
 
 - **Import tax (II):** 35% for fully assembled BEVs from 1 July 2026 — the Mercosur ceiling
 - **Ramp history:** 10% (January 2024) → 18% (July 2024) → 25% (July 2025) → 35% (July 2026)
-- **ICMS:** state-level, about 17% in EV Hub's model, levied on a base that already includes the import tax and other federal charges
+- **ICMS:** state-level, about 17% in China EV Mart's model, levied on a base that already includes the import tax and other federal charges
 - **Other federal layers:** IPI (excise on manufactured goods), PIS-Import and COFINS-Import, plus AFRMM on sea freight — all charged before ICMS
 - **Countervailing duty:** none
 - **Assembly kits:** from 1 July 2026 the reduced CKD/SKD rate is being withdrawn, reaching parity with the 35% CBU rate by 1 January 2027
@@ -66,7 +66,7 @@ Base price ex-factory China, plus 35% import tax, 17% ICMS-equivalent VAT layer,
 | Freight, clearance, certification, registration, inland | $6,570 |
 | **Total landed** | **$45,568** |
 
-Formula: `base × (1 + II) × (1 + ICMS) + fixed costs`. All inputs from EV Hub records dated 2026-09-15.
+Formula: `base × (1 + II) × (1 + ICMS) + fixed costs`. All inputs from China EV Mart records dated 2026-09-15.
 
 **Scope note:** the model applies one VAT-equivalent layer. In a real Brazilian customs entry, IPI, PIS-Import and COFINS-Import sit between the II and the ICMS, and the ICMS base is grossed up. So the true landed cost of a CBU BEV in Brazil is higher than $45,568. Treat this figure as the floor of a range, not the ceiling.
 
@@ -105,5 +105,5 @@ Formula: `base × (1 + II) × (1 + ICMS) + fixed costs`. All inputs from EV Hub 
 2. electrive.com — "Brazil ends preferential tariffs for EV assembly kits" — https://www.electrive.com/2026/02/10/brazil-ends-preferential-tariffs-for-ev-assembly-kits — 2026-02-10
 3. The Rio Times — "Brazil EV Tariffs: 18% to 35% by 2026" — https://www.riotimesonline.com/brazils-tariff-hike-on-electric-vehicles-aims-to-boost-local-factories-and-targets-china — undated; accessed 2026-09-15
 4. Novo Trade Brasil — "Brazil Import Duties 2026: Full Cost Breakdown + Tax Reform" (II/IPI/AFRMM/PIS/COFINS/ICMS order and cascading effect) — https://novatradebrasil.com/en/import-duties-taxes-brazil — 2026
-5. EV Hub — tariffs.json and market-master.json (II 0.35, ICMS layer 0.17, no CVD; verified 2026-09-15)
-6. EV Hub — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15
+5. China EV Mart — tariffs.json and market-master.json (II 0.35, ICMS layer 0.17, no CVD; verified 2026-09-15)
+6. China EV Mart — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15

@@ -32,7 +32,7 @@ Two things are worth stating plainly. First, the 6.1% rate is not a new preferen
 
 ## What a Chinese EV actually lands at in Canada
 
-The table uses the EV Hub landed-cost model: ex-factory China price, plus duty, plus countervailing duty (zero here), plus GST and fixed freight, clearance, certification, inland transport and registration.
+The table uses the China EV Mart landed-cost model: ex-factory China price, plus duty, plus countervailing duty (zero here), plus GST and fixed freight, clearance, certification, inland transport and registration.
 
 | Model | Base (China) | Canada (6.1% MFN + 5% GST) | Premium | Australia (0% + 10% GST) | Mexico (50% + 16% VAT) |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@ The Canada Border Services Agency advised importers to amend Commercial Accounti
 
 **Reasoning.** First, the arithmetic genuinely works now: at 6.1% plus 5% GST, Canada lands a BYD Seal at $34,546, within about $1,500 of Australia and roughly $16,000 below Mexico, which is a remarkable turnaround from a 100% wall. Second, the quota design means the benefit is captured at the allocation stage; 49,000 units against 1.7 million annual sales is real volume but far short of demand, so the margin will sit with whoever can get cars counted inside the quota. Third, I would treat the 6.1% as a policy variable rather than a settled rate — it exists because of a bilateral arrangement with a review horizon, and importers who model it as permanent are taking a position on Canadian politics they may not intend to take. If I were underwriting a Canada import today, I would size the deal to the quota I control and assume the rate could move at the next review.
 
-**Disclosure.** This is my opinion and analysis, not verified fact. The tax and quota figures are drawn from Canadian government sources and Reuters/CBC reporting cited below; the landed-cost figures are EV Hub model estimates, not quotations, and exclude provincial HST/PST.
+**Disclosure.** This is my opinion and analysis, not verified fact. The tax and quota figures are drawn from Canadian government sources and Reuters/CBC reporting cited below; the landed-cost figures are China EV Mart model estimates, not quotations, and exclude provincial HST/PST.
 
 ## Sources
 
@@ -100,4 +100,4 @@ The Canada Border Services Agency advised importers to amend Commercial Accounti
 2. Canada Border Services Agency, Customs Notice 24-32 update (summarised by GHY Trade Compliance) — repeal of Sections 3 and Schedule 1 of the China Surtax Order (2024), effective 1 March 2026; importer guidance on amended declarations and refunds. https://www.ghy.com/trade-compliance/canada-repeals-china-ev-surtax — published 26 Feb 2026
 3. Reuters — "Canada, China slash EV, canola tariffs in reset of ties": initial quota of 49,000 Chinese EVs at 6.1% MFN, growth to about 70,000 within five years; 2023 baseline of 41,678 EVs exported to Canada. https://www.reuters.com/world/china/canada-china-set-make-historic-gains-new-partnership-says-carney-2026-01-16 — published 16 Jan 2026
 4. CBC News — "Canada reaches tariff-quota deal with China on EVs, canola": confirms the 49,000-unit quota at 6.1%, replacing the 2024 100% tariff. https://www.cbc.ca/news/politics/carney-meeting-xi-china-9.7047880 — published 16 Jan 2026
-5. EV Hub tariff and landed-cost records — `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`; market note records "100% surtax repealed Mar 2026; 6.1% MFN; GST 5%". Internal dataset, last verified 15 Sep 2026.
+5. China EV Mart tariff and landed-cost records — `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`; market note records "100% surtax repealed Mar 2026; 6.1% MFN; GST 5%". Internal dataset, last verified 15 Sep 2026.

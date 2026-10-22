@@ -25,7 +25,7 @@ Both cars chase the same importer shortlist, and the landed-cost gap between the
 
 ## The basis: ex-factory versus landed cost
 
-Plain language first. **Ex-factory** is the price at the factory gate in China — what the car costs before it moves anywhere. Both figures in this comparison are China ex-factory MSRP from the EV Hub catalog: $21,940 for the [Zeekr X](/vehicles/zeekr-x/), $16,260 for the [BYD Atto 3](/vehicles/byd-atto-3/) (sold as the Yuan Plus in China).
+Plain language first. **Ex-factory** is the price at the factory gate in China — what the car costs before it moves anywhere. Both figures in this comparison are China ex-factory MSRP from the China EV Mart catalog: $21,940 for the [Zeekr X](/vehicles/zeekr-x/), $16,260 for the [BYD Atto 3](/vehicles/byd-atto-3/) (sold as the Yuan Plus in China).
 
 **Landed cost** is what an importer pays to get that car through customs in the destination market: the ex-factory price compounded through standard import duty, countervailing duty where the EU applies it, and VAT or GST — plus a fixed block covering RoRo freight, customs clearance, certification, registration and inland transport. It is the cash needed at the border, not the price the car sells for; no importer margin, dealer spread or warranty provisioning is included.
 
@@ -35,7 +35,7 @@ The arithmetic compounds rather than adds:
 landed = base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs
 ```
 
-Adding those rates instead of compounding them is the most common — and most expensive — error in import math. The worked basis, including where the EU's producer-specific duties come from, sits in EV Hub's [landed-cost methodology](/docs/landed-cost-methodology/). One practical note from that page: VAT is often recoverable for registered B2B importers, so treat the VAT line as cash flow at the border rather than a final cost — duty and countervailing duty never come back.
+Adding those rates instead of compounding them is the most common — and most expensive — error in import math. The worked basis, including where the EU's producer-specific duties come from, sits in China EV Mart's [landed-cost methodology](/docs/landed-cost-methodology/). One practical note from that page: VAT is often recoverable for registered B2B importers, so treat the VAT line as cash flow at the border rather than a final cost — duty and countervailing duty never come back.
 
 ## Same footprint, different tier
 
@@ -58,7 +58,7 @@ Two cautions on that table. First, both range figures are CLTC — the two cars 
 
 ## The landed-cost matrix: seven markets, both cars
 
-Same formula, same fixed block within each market, two cars and two producers. Every figure below is drawn or compounded from the two EV Hub vehicle records:
+Same formula, same fixed block within each market, two cars and two producers. Every figure below is drawn or compounded from the two China EV Mart vehicle records:
 
 | Market | Car | Ex-factory | Duty | CVD | VAT | Fixed costs | Landed |
 |---|---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Same formula, same fixed block within each market, two cars and two producers. E
 | Thailand | Zeekr X | $21,940 | $0 | $0 | $1,536 | $4,650 | $28,126 (+28.2%) |
 | Thailand | BYD Atto 3 | $16,260 | $0 | $0 | $1,138 | $4,650 | $22,048 (+35.6%) |
 
-Notes: CVD applies in EU markets only — 18.8% for Zeekr (Geely group) and 17.0% for BYD, per Commission Implementing Regulation (EU) 2024/2754. Fixed costs cover RoRo freight, customs clearance, certification/homologation, registration and inland transport, at the per-market values embedded in the EV Hub estimates. Premium is over each car's own ex-factory base. The UK, Australia and Thailand are right-hand-drive markets — configuration affects homologation and shipping before the tariff line even starts, as covered in [LHD vs RHD markets](/blog/lhd-vs-rhd-markets/).
+Notes: CVD applies in EU markets only — 18.8% for Zeekr (Geely group) and 17.0% for BYD, per Commission Implementing Regulation (EU) 2024/2754. Fixed costs cover RoRo freight, customs clearance, certification/homologation, registration and inland transport, at the per-market values embedded in the China EV Mart estimates. Premium is over each car's own ex-factory base. The UK, Australia and Thailand are right-hand-drive markets — configuration affects homologation and shipping before the tariff line even starts, as covered in [LHD vs RHD markets](/blog/lhd-vs-rhd-markets/).
 
 ## The gap, market by market
 
@@ -136,15 +136,15 @@ First, the tariff map sets the size of the gap, not the badge: the two widest sp
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. The landed figures are EV Hub model estimates on a B2B basis — costs, not quotes — built from vehicle records updated 7 September 2026 and tariff inputs verified 15 September 2026. The per-market fixed-cost values in the matrix are residual blocks embedded in each estimate (freight, clearance, certification, registration, inland transport), not itemised quotations, and they are volume- and lane-sensitive. VAT is shown in full; registered importers often recover it, which changes cash flow rather than duty costs. All range and charging figures are quoted specifications, not measured results. Verify current duty rates before committing — the EU countervailing regime is under review.
+This is my analysis and opinion, not verified fact, and not financial advice. The landed figures are China EV Mart model estimates on a B2B basis — costs, not quotes — built from vehicle records updated 7 September 2026 and tariff inputs verified 15 September 2026. The per-market fixed-cost values in the matrix are residual blocks embedded in each estimate (freight, clearance, certification, registration, inland transport), not itemised quotations, and they are volume- and lane-sensitive. VAT is shown in full; registered importers often recover it, which changes cash flow rather than duty costs. All range and charging figures are quoted specifications, not measured results. Verify current duty rates before committing — the EU countervailing regime is under review.
 
 ## Sources
 
 1. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 — producer-specific countervailing duties on Chinese BEVs (BYD 17.0%; Geely incl. Zeekr 18.8%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 19 Sep 2026
-2. EV Hub — Landed Cost Methodology (formula, compounding order, fixed-cost benchmarks, CVD table) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 19 Sep 2026
-3. EV Hub — Zeekr X vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://electricvehiclehub.top/vehicles/zeekr-x/ — accessed 19 Sep 2026
-4. EV Hub — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://electricvehiclehub.top/vehicles/byd-atto-3/ — accessed 19 Sep 2026
-5. EV Hub — tariffs.json and market-master.json (standard duty, VAT/GST and registration inputs by market; updated 15 Sep 2026) — internal data files; inputs documented at https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 19 Sep 2026
+2. China EV Mart — Landed Cost Methodology (formula, compounding order, fixed-cost benchmarks, CVD table) — https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 19 Sep 2026
+3. China EV Mart — Zeekr X vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://chinaevmart.com/vehicles/zeekr-x/ — accessed 19 Sep 2026
+4. China EV Mart — BYD Atto 3 vehicle record and 30-market landed-cost data (base price, Germany breakdown, market rows) — https://chinaevmart.com/vehicles/byd-atto-3/ — accessed 19 Sep 2026
+5. China EV Mart — tariffs.json and market-master.json (standard duty, VAT/GST and registration inputs by market; updated 15 Sep 2026) — internal data files; inputs documented at https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 19 Sep 2026
 
 ## Related reading
 

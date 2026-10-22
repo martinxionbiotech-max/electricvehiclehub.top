@@ -22,7 +22,7 @@ Importing a Chinese EV to the Netherlands means paying the full EU customs stack
 - **Netherlands vs Belgium:** +$250 on all eight models we ran — exactly the registration-line difference, because both charge 21% VAT on the same duty-paid base
 - **Netherlands vs Germany:** +$49 (Wuling Hongguang MINI EV) to +$1,516 (Zeekr 009) — a two-point VAT gap partly offset by Germany's higher registration line
 - **Catalogue range:** across the 517 models with a Netherlands landing in our records, premiums run from +36.4% (Hongqi Guoya) to +246.4% (Bestune Pony)
-- **Records basis:** EV Hub tariff, market and vehicle records (30 markets), last verified 15 September 2026; tariff basis EU Implementing Regulation (EU) 2024/2754
+- **Records basis:** China EV Mart tariff, market and vehicle records (30 markets), last verified 15 September 2026; tariff basis EU Implementing Regulation (EU) 2024/2754
 
 ## The terms that decide this market
 
@@ -48,7 +48,7 @@ Read the table top to bottom and the structure is familiar from every EU market:
 
 ## Landed cost by model (Netherlands)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 21% VAT, and the fixed import block (freight, clearance, compliance, registration, inland — $6,500 for the Netherlands).
+Figures from China EV Mart's vehicle records: ex-factory China price, plus the brand's CVD rate, 10% duty, 21% VAT, and the fixed import block (freight, clearance, compliance, registration, inland — $6,500 for the Netherlands).
 
 | Model | Base (China) | Netherlands landed | Premium |
 |---|---|---|---|
@@ -78,7 +78,7 @@ Second, **cheap cars wear the fixed block worst.** A $5,000 Wuling pays the same
 | Freight, clearance, certification, registration, inland | $6,500.00 |
 | **Total landed** | **$44,949.00** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from EV Hub's tariff and landed-cost records dated 15 September 2026.
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input comes from China EV Mart's tariff and landed-cost records dated 15 September 2026.
 
 One caution on the registration line: the model folds registration into a flat $400 for comparability, but the Netherlands' actual bpm treatment of an imported zero-emission car could not be verified from our sources — treat the exact registration computation as UNKNOWN and confirm it with the Belastingdienst or a licensed customs broker before committing. The $44,949 figure is a planning floor, not a showroom estimate.
 
@@ -125,7 +125,7 @@ What our dataset does not carry is Rotterdam's vehicle throughput — port volum
 
 **Reasoning.** First, the mechanism is fully visible in our records: identical 10% duty and identical brand CVDs across the three markets, a 21% VAT rate the Netherlands shares with Belgium, and a registration line ($400) that sits between Belgium's ($150) and Germany's ($500). The $250 Netherlands–Belgium gap is exactly the registration difference — nothing else — and it holds on every one of the eight models we ran. Second, the direction of the Netherlands–Germany gap depends on the car: a two-point VAT penalty that grows with value, partly offset by a $100 registration advantage, running from +$49 on a Wuling to +$1,516 on a Zeekr 009. Third, the catalogue-wide premium band — +36.4% to +246.4% across 517 models — shows how much of the outcome is the car's price class rather than the tariff itself: a cheap car pays the same $6,500 fixed block as an expensive one. Fourth, the policy clock is worth watching: the CVD regime in our records dates from late 2024, and any later EU-level developments around it could not be verified for this article (UNKNOWN) — treat brand-level rates as the current state, not a permanent one.
 
-**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from EV Hub's dataset, not transaction prices. Parts of the Dutch registration (bpm) and tax process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Dutch authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules, tariff records and market data — not legal, tax or customs advice, and not a quote. Landed-cost figures are model estimates from China EV Mart's dataset, not transaction prices. Parts of the Dutch registration (bpm) and tax process could not be verified from primary sources (flagged UNKNOWN above); confirm current rates, thresholds and procedures with Dutch authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -144,6 +144,6 @@ What our dataset does not carry is Rotterdam's vehicle throughput — port volum
 ## Sources
 
 1. European Commission — Commission Implementing Regulation (EU) 2024/2754, countervailing duties on battery-electric vehicles from China (brand-specific rates: BYD group 17.0%, Geely group 18.8%, SAIC 35.3%, Tesla Shanghai 7.8%, other cooperating producers 20.7%; BEV-only scope; in force since 30 October 2024 per our records) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — October 2024; accessed 17 September 2026
-2. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars) — https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via EV Hub's source registry, last verified 15 September 2026
-3. EV Hub — tariff and market records (`tariffs.json`, `market-master.json`: Netherlands duty 10%, VAT 21%, registration $400; brand CVD schedule; fixed import block $6,500; VAT rates per national tax authorities; 30 markets) — internal dataset, last verified 15 September 2026
-4. EV Hub — vehicle landed-cost records (517-model catalogue with per-model Netherlands landings across 30 markets; data updated 7 September 2026) — internal dataset; accessed 17 September 2026
+2. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars) — https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via China EV Mart's source registry, last verified 15 September 2026
+3. China EV Mart — tariff and market records (`tariffs.json`, `market-master.json`: Netherlands duty 10%, VAT 21%, registration $400; brand CVD schedule; fixed import block $6,500; VAT rates per national tax authorities; 30 markets) — internal dataset, last verified 15 September 2026
+4. China EV Mart — vehicle landed-cost records (517-model catalogue with per-model Netherlands landings across 30 markets; data updated 7 September 2026) — internal dataset; accessed 17 September 2026

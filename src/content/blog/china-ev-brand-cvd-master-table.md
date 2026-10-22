@@ -38,7 +38,7 @@ One scope note: these rates apply to battery-electric cars. EU VAT (19–25% dep
 
 ## Key statistics: every Chinese EV brand's CVD
 
-All 72 brands tracked in the EV Hub catalog, mapped by parent group. "Source" points to the article, regulation entry or dataset where the rate is documented. [Download the full table (CSV)](/brand-cvd-master.csv).
+All 72 brands tracked in the China EV Mart catalog, mapped by parent group. "Source" points to the article, regulation entry or dataset where the rate is documented. [Download the full table (CSV)](/brand-cvd-master.csv).
 
 | Brand | Parent company | CVD rate | Duty group | Source |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ All 72 brands tracked in the EV Hub catalog, mapped by parent group. "Source" po
 | SAIC | SAIC | 35.3% | SAIC group (sampled) | saic-35-percent-countervailing-duty.md |
 | Wuling | SAIC | 35.3% | SAIC group (sampled) | saic-35-percent-countervailing-duty.md |
 | Aeolus | Dongfeng | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
-| AION | GAC | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| AION | GAC | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | AITO | Seres | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
-| Arcfox | BAIC | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Arcfox | BAIC | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Avatr | ChangAn | 20.7% | Other cooperating companies (non-sampled) | changan-countervailing-duty.md |
-| BAW | BAW | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| BAW | BAW | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Bestune | FAW | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | ChangAn | ChangAn | 20.7% | Other cooperating companies (non-sampled) | changan-countervailing-duty.md |
 | ChangAn NEVO | ChangAn | 20.7% | Other cooperating companies (non-sampled) | changan-countervailing-duty.md |
@@ -72,50 +72,50 @@ All 72 brands tracked in the EV Hub catalog, mapped by parent group. "Source" po
 | Chery Fulwin | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
 | Chery New Energy | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
 | Cowin | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
-| Dayun Yuanhang | Dayun Group | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Dayun Yuanhang | Dayun Group | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Deepal | ChangAn | 20.7% | Other cooperating companies (non-sampled) | changan-countervailing-duty.md |
 | Dongfeng eπ | Dongfeng | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Dongfeng Nammi | Dongfeng | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Exeed | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
 | firefly | NIO | 20.7% | Other cooperating companies (non-sampled) | nio-xpeng-leapmotor-countervailing-duty.md |
 | Forthing | Dongfeng | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
-| GAC Motor | GAC | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| GAC Motor | GAC | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Haval | Great Wall | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Hongqi | FAW | 20.7% | Other cooperating companies (non-sampled) | xiaomi-hongqi-countervailing-duty.md |
-| Hycan | GAC + NIO JV | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
-| Hyptec | GAC | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Hycan | GAC + NIO JV | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
+| Hyptec | GAC | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | iCAUR | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
 | JAC | JAC | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | JAC Refine | JAC | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | JAC Yiwei | JAC | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Jaecoo | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
 | Jetour | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
-| JMC | JMC (Jiangling Motors) | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| JMC | JMC (Jiangling Motors) | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Kaicene | ChangAn | 20.7% | Other cooperating companies (non-sampled) | changan-countervailing-duty.md |
 | Landian | Seres Group | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Leapmotor | Leapmotor | 20.7% | Other cooperating companies (non-sampled) | nio-xpeng-leapmotor-countervailing-duty.md |
-| Li Auto | Li Auto | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Li Auto | Li Auto | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Luxeed | Chery | 20.7% | Other cooperating companies (non-sampled) | chery-countervailing-duty.md |
 | M-Hero | Dongfeng | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Maextro | JAC | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
-| Neta | Hozon Auto | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Neta | Hozon Auto | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | NIO | NIO | 20.7% | Other cooperating companies (non-sampled) | nio-xpeng-leapmotor-countervailing-duty.md |
 | Onvo | NIO | 20.7% | Other cooperating companies (non-sampled) | nio-xpeng-leapmotor-countervailing-duty.md |
 | Ora | Great Wall | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Oshan | Changan | 20.7% | Other cooperating companies (non-sampled) | changan-countervailing-duty.md |
 | Sehol | JAC Group | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Seres | Seres Group | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
-| Skywell | Skywell Group | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
-| Stelato | BAIC | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Skywell | Skywell Group | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
+| Stelato | BAIC | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Tank | Great Wall | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
-| Venucia | Dongfeng-Nissan | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Venucia | Dongfeng-Nissan | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 | Voyah | Dongfeng | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | WEY | Great Wall | 20.7% | Other cooperating companies (non-sampled) | EUR-Lex Reg (EU) 2024/2754, Annex |
 | Xiaomi | Xiaomi | 20.7% | Other cooperating companies (non-sampled) | xiaomi-hongqi-countervailing-duty.md |
 | XPeng | XPeng | 20.7% | Other cooperating companies (non-sampled) | nio-xpeng-leapmotor-countervailing-duty.md |
-| Yudo | Yudo Auto | 20.7% | Other cooperating companies (non-sampled) | EV Hub tariffs.json (default) |
+| Yudo | Yudo Auto | 20.7% | Other cooperating companies (non-sampled) | China EV Mart tariffs.json (default) |
 
-A note on the 20.7% rows: it is the regulation's weighted-average line for cooperating producers that were not individually sampled. Where a parent group is not individually named in the regulation's cooperating-company annex, the same non-sampled default applies under EV Hub's classification — those rows are marked as the default in the Source column and should be treated as provisional pending exporter-level verification.
+A note on the 20.7% rows: it is the regulation's weighted-average line for cooperating producers that were not individually sampled. Where a parent group is not individually named in the regulation's cooperating-company annex, the same non-sampled default applies under China EV Mart's classification — those rows are marked as the default in the Source column and should be treated as provisional pending exporter-level verification.
 
 ## What the spread does to landed costs
 
@@ -138,7 +138,7 @@ Two forces drive the pattern. A higher group rate adds thousands before VAT — 
 
 **Reasoning:** Three things stand out. First, the four-rate structure is deliberate and sticky: individual rates reflect assessed subsidy margins from the investigation and travel with the exporting entities — which is why premium badges like Zeekr, Lynk & Co and Maxus inherit group rates rather than earning private ones. Second, the 20.7% band is where most of the industry lives; treat it as the default against which any exception must be explained — and note that the 35.3% ceiling applies both to SAIC and to producers that stayed outside the process. Third, rates and landing math point in opposite directions: rate gaps compound hardest on the cheapest cars, because fixed costs, not the CVD, dominate a micro-EV's premium — so the group you import is most decisive exactly where margins are thinnest.
 
-**Disclosure:** Two honest caveats. First, non-sampled cooperating producers are assigned the weighted-average 20.7% "other cooperating companies" rate under Implementing Regulation (EU) 2024/2754; this table applies that rate to every brand outside the three sampled groups, including parents not individually named in the regulation's cooperating-company annex, so those rows should be treated as provisional pending exporter-level verification. Second, classification follows the parent company recorded in EV Hub's brand-master.json data — where ownership is indirect or split, the mapping reflects the recorded parent, not a customs ruling. This is analysis, not legal or tax advice; rates can change with reviews, appeals or negotiated undertakings — verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** Two honest caveats. First, non-sampled cooperating producers are assigned the weighted-average 20.7% "other cooperating companies" rate under Implementing Regulation (EU) 2024/2754; this table applies that rate to every brand outside the three sampled groups, including parents not individually named in the regulation's cooperating-company annex, so those rows should be treated as provisional pending exporter-level verification. Second, classification follows the parent company recorded in China EV Mart's brand-master.json data — where ownership is indirect or split, the mapping reflects the recorded parent, not a customs ruling. This is analysis, not legal or tax advice; rates can change with reviews, appeals or negotiated undertakings — verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -155,14 +155,14 @@ Two forces drive the pattern. A higher group rate adds thousands before VAT — 
 
 ## Sources
 
-1. EV Hub — "BYD's 17% Countervailing Duty: The Complete Landed-Cost Math (2026)" — https://electricvehiclehub.top/blog/byd-countervailing-duty-landed-cost/ — accessed 2026-09-19
-2. EV Hub — "Geely's 18.8% Countervailing Duty: What It Means for Zeekr, Lynk & Co, and Galaxy Buyers" — https://electricvehiclehub.top/blog/geely-188-countervailing-duty/ — accessed 2026-09-19
-3. EV Hub — "Why MG/SAIC Pays 35.3%: The Most Tariff-Hit Chinese EV Brand (2026)" — https://electricvehiclehub.top/blog/saic-35-percent-countervailing-duty/ — accessed 2026-09-19
-4. EV Hub — "Chery's 20.7% Countervailing Duty: What It Means for Fulwin, Chery New Energy, and Exeed Buyers" — https://electricvehiclehub.top/blog/chery-countervailing-duty/ — accessed 2026-09-19
-5. EV Hub — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://electricvehiclehub.top/blog/changan-countervailing-duty/ — accessed 2026-09-19
-6. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 2026-09-19
-7. EV Hub — "Zeekr's 18.8% Countervailing Duty: The Premium Brand Stuck With Geely's Rate" — https://electricvehiclehub.top/blog/zeekr-countervailing-duty/ — accessed 2026-09-19
-8. EV Hub — "Xiaomi and Hongqi's 20.7% Countervailing Duty: A Tech Challenger and a State Flagship, Same Rate" — https://electricvehiclehub.top/blog/xiaomi-hongqi-countervailing-duty/ — accessed 2026-09-19
+1. China EV Mart — "BYD's 17% Countervailing Duty: The Complete Landed-Cost Math (2026)" — https://chinaevmart.com/blog/byd-countervailing-duty-landed-cost/ — accessed 2026-09-19
+2. China EV Mart — "Geely's 18.8% Countervailing Duty: What It Means for Zeekr, Lynk & Co, and Galaxy Buyers" — https://chinaevmart.com/blog/geely-188-countervailing-duty/ — accessed 2026-09-19
+3. China EV Mart — "Why MG/SAIC Pays 35.3%: The Most Tariff-Hit Chinese EV Brand (2026)" — https://chinaevmart.com/blog/saic-35-percent-countervailing-duty/ — accessed 2026-09-19
+4. China EV Mart — "Chery's 20.7% Countervailing Duty: What It Means for Fulwin, Chery New Energy, and Exeed Buyers" — https://chinaevmart.com/blog/chery-countervailing-duty/ — accessed 2026-09-19
+5. China EV Mart — "Changan's 20.7% Countervailing Duty: What It Means for Nevo, Deepal, and Avatr Buyers" — https://chinaevmart.com/blog/changan-countervailing-duty/ — accessed 2026-09-19
+6. China EV Mart — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" — https://chinaevmart.com/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 2026-09-19
+7. China EV Mart — "Zeekr's 18.8% Countervailing Duty: The Premium Brand Stuck With Geely's Rate" — https://chinaevmart.com/blog/zeekr-countervailing-duty/ — accessed 2026-09-19
+8. China EV Mart — "Xiaomi and Hongqi's 20.7% Countervailing Duty: A Tech Challenger and a State Flagship, Same Rate" — https://chinaevmart.com/blog/xiaomi-hongqi-countervailing-duty/ — accessed 2026-09-19
 9. Publications Office of the European Union — Commission Implementing Regulation (EU) 2024/2754 (definitive countervailing duty on BEVs from China; rate table and cooperating-company annex) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 2026-09-19
-10. EV Hub — brand-master.json (72-brand parent-company register) and tariffs.json (brand CVD schedule) — https://electricvehiclehub.top/methodology/ — accessed 2026-09-19
-11. EV Hub — vehicle landed-cost records (catalog models × 30 markets; figures quoted in this article) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 2026-09-19
+10. China EV Mart — brand-master.json (72-brand parent-company register) and tariffs.json (brand CVD schedule) — https://chinaevmart.com/methodology/ — accessed 2026-09-19
+11. China EV Mart — vehicle landed-cost records (catalog models × 30 markets; figures quoted in this article) — https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 2026-09-19

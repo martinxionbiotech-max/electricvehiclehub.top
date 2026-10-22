@@ -114,16 +114,16 @@ First, the identical rate stack means the tariff cannot explain the ES8's positi
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial advice. Both cars carry tier-1 EV Hub records — manufacturer specs plus landed-cost models, data updated 7 September 2026 — and those figures are model estimates: costs, not quotes. All figures are USD as recorded in the dataset; no currency conversion is applied in this article. CVD rate inputs were last verified 15 September 2026; a scheduled independent re-verification on 17 September 2026 could not be completed because the source was unreachable, and no rate was changed as a result. Range and charging figures are quoted specifications, not measured results — and the ES8's DC fast-charge time is not recorded at all.
+This is my analysis and opinion, not verified fact, and not financial advice. Both cars carry tier-1 China EV Mart records — manufacturer specs plus landed-cost models, data updated 7 September 2026 — and those figures are model estimates: costs, not quotes. All figures are USD as recorded in the dataset; no currency conversion is applied in this article. CVD rate inputs were last verified 15 September 2026; a scheduled independent re-verification on 17 September 2026 could not be completed because the source was unreachable, and no rate was changed as a result. Range and charging figures are quoted specifications, not measured results — and the ES8's DC fast-charge time is not recorded at all.
 
 ## Sources
 
-1. EV Hub — XPeng G9 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/xpeng-g9/ — accessed 23 Sep 2026
-2. EV Hub — NIO ES8 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://electricvehiclehub.top/vehicles/nio-es8/ — accessed 23 Sep 2026
+1. China EV Mart — XPeng G9 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://chinaevmart.com/vehicles/xpeng-g9/ — accessed 23 Sep 2026
+2. China EV Mart — NIO ES8 vehicle record and 30-market landed-cost model (base price, Germany breakdown, spec sheet; data updated 7 Sep 2026) — https://chinaevmart.com/vehicles/nio-es8/ — accessed 23 Sep 2026
 3. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754: definitive countervailing duties on Chinese BEVs; "other cooperating companies" rate 20.7%, in force for five years from late October 2024 — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 23 Sep 2026
-4. EV Hub — tariff and market datasets (`tariffs.json`, `market-master.json`: CVD defaults, market duty/VAT schedules; rates verified 15 Sep 2026) — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 23 Sep 2026
-5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (rate-tier context; published 15 Sep 2026) — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 23 Sep 2026
-6. EV Hub — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" (sampled vs other-cooperating rate tiers; published 19 Sep 2026) — https://electricvehiclehub.top/blog/china-ev-brand-cvd-master-table/ — accessed 23 Sep 2026
+4. China EV Mart — tariff and market datasets (`tariffs.json`, `market-master.json`: CVD defaults, market duty/VAT schedules; rates verified 15 Sep 2026) — https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 23 Sep 2026
+5. China EV Mart — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty: One Rate, Three Very Different Bands" (rate-tier context; published 15 Sep 2026) — https://chinaevmart.com/blog/nio-xpeng-leapmotor-countervailing-duty/ — accessed 23 Sep 2026
+6. China EV Mart — "Every Chinese EV Brand's EU Countervailing Duty, in One Table" (sampled vs other-cooperating rate tiers; published 19 Sep 2026) — https://chinaevmart.com/blog/china-ev-brand-cvd-master-table/ — accessed 23 Sep 2026
 
 ## Related reading
 

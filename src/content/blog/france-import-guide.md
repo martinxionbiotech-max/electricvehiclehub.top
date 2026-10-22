@@ -10,7 +10,7 @@ tags: [france, ev-import, landed-cost, eu-tariffs, countervailing-duty, vat, ste
 
 ## TL;DR
 
-Importing a Chinese EV to France means the full EU stack — **10% standard duty, a brand-specific countervailing duty (BYD 17%, Geely 18.8%, SAIC/MG 35.3%, most other exporters 20.7%), then 20% VAT on the duty-paid value** — which lands a BYD Seal at about **$44,631 (+80.8%)** in EV Hub's records: $218 above Germany and $318 below the Netherlands. But France's two local wrinkles matter more than that VAT point: a registration/malus layer our model deliberately does not price, and a home-market incumbent (Stellantis) that competes with these imports while distributing a Chinese-developed brand through its own European network.
+Importing a Chinese EV to France means the full EU stack — **10% standard duty, a brand-specific countervailing duty (BYD 17%, Geely 18.8%, SAIC/MG 35.3%, most other exporters 20.7%), then 20% VAT on the duty-paid value** — which lands a BYD Seal at about **$44,631 (+80.8%)** in China EV Mart's records: $218 above Germany and $318 below the Netherlands. But France's two local wrinkles matter more than that VAT point: a registration/malus layer our model deliberately does not price, and a home-market incumbent (Stellantis) that competes with these imports while distributing a Chinese-developed brand through its own European network.
 
 ## Key statistics
 
@@ -35,7 +35,7 @@ Importing a Chinese EV to France means the full EU stack — **10% standard duty
 
 ## What a Chinese EV actually pays at the French border
 
-| Layer | Rate for a China-origin BEV | Levied on | In EV Hub's landed model |
+| Layer | Rate for a China-origin BEV | Levied on | In China EV Mart's landed model |
 |---|---|---|---|
 | Import duty | **10%** (EU MFN) | customs value | Yes |
 | Countervailing duty | **17% / 18.8% / 35.3% / 20.7%** by brand | duty-paid value | Yes |
@@ -48,7 +48,7 @@ That is the whole story of why France is not a cheap landing and not an expensiv
 
 ## Landed cost by model (France)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus 10% duty, plus the brand CVD, plus 20% VAT, plus the fixed import block (freight, clearance, certification, registration, inland — $6,500 for France). Premium is the total uplift over the China price.
+Figures from China EV Mart's vehicle records: ex-factory China price, plus 10% duty, plus the brand CVD, plus 20% VAT, plus the fixed import block (freight, clearance, certification, registration, inland — $6,500 for France). Premium is the total uplift over the China price.
 
 | Model | Powertrain | Brand CVD | Base (China) | France landed | Premium |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@ Third, the PHEV row sits near the bottom of the premium column. The BYD Seal 06 
 | Freight, clearance, certification, registration, inland | $6,500 |
 | **Total landed** | **$44,631** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input is from EV Hub's tariff and vehicle records dated 15 September 2026. The compounding is the part most price comparisons miss: the CVD is charged on the duty-paid value, and VAT is charged on both. Ten percent plus seventeen plus twenty is not forty-seven — the layers compound to a 54.4% uplift on the base price before the fixed block, which is why the Seal lands at +80.8% all-in. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. Every input is from China EV Mart's tariff and vehicle records dated 15 September 2026. The compounding is the part most price comparisons miss: the CVD is charged on the duty-paid value, and VAT is charged on both. Ten percent plus seventeen plus twenty is not forty-seven — the layers compound to a 54.4% uplift on the base price before the fixed block, which is why the Seal lands at +80.8% all-in. For how the model is built, see [How our landed-cost model works](/docs/landed-cost-methodology/).
 
 Hold the car constant and change only the rate, and the brand-tier premium becomes visible: the same Seal under SAIC's 35.3% would land at about $50,595 — roughly $5,964 more, purely from the producer-level rate. Flip the exercise onto the [MG 4](/vehicles/mg-4/): its SAIC rate lands the car at $23,806, while the same base with BYD's 17% would land at $21,465 — a $2,341 difference on a car that costs less than $10,000 ex-factory. For a French importer choosing between brands, the CVD column is worth more diligence than the VAT column ever will be.
 
@@ -139,7 +139,7 @@ We keep this section deliberately free of numbers. Our dataset tracks tariffs, t
 
 **Reasoning.** First, the cost structure rewards the right diligence order: France-versus-Germany and France-versus-Netherlands gaps are entirely VAT points and a $100 registration differential — $218 and $318 on the Seal — while a single brand-tier switch moves thousands: the same MG 4 differs by $2,341 between SAIC's rate and BYD's, and the same Seal differs by $5,964. Second, the malus layer is genuinely the biggest unpriced line for a French registration; our flat $400 is a simplification, the per-vehicle treatment is outside our records, and I would treat any net-price promise built without it as provisional. Third, the structural risks run through scope and localisation rather than rates: the plug-in row looks cheap because of an exemption we expect to be contested, and every Europe-built Chinese-brand car that comes online is one less unit paying this table at all. Add the incumbent's dual game, and France is a market where resale and margin assumptions deserve as much attention as the duty column.
 
-**Disclosure.** These are my interpretations of published rules and our own records — not legal, tax or customs advice, and not a quote. Landed figures come from EV Hub's model (central-estimate fixed block; excludes incentives, dealer margin and the malus layer). The CVD rates are carried in our records as last verified 15 September 2026; a later automated re-check was blocked at the source and a manual re-verification is pending, so treat the rates as recorded rather than freshly re-confirmed. Confirm duties, origin treatment and registration with a French customs broker and the registration authority before committing capital.
+**Disclosure.** These are my interpretations of published rules and our own records — not legal, tax or customs advice, and not a quote. Landed figures come from China EV Mart's model (central-estimate fixed block; excludes incentives, dealer margin and the malus layer). The CVD rates are carried in our records as last verified 15 September 2026; a later automated re-check was blocked at the source and a manual re-verification is pending, so treat the rates as recorded rather than freshly re-confirmed. Confirm duties, origin treatment and registration with a French customs broker and the registration authority before committing capital.
 
 ## Related reading
 
@@ -161,6 +161,6 @@ We keep this section deliberately free of numbers. Our dataset tracks tariffs, t
 
 1. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (brand-level rates; five-year term; effective 30 October 2024) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — rates carried in our records as last verified 15 September 2026; a later automated re-check was blocked at source, values unchanged, manual re-verification pending
 2. European Commission — TARIC / Common Customs Tariff, CN 8703 80 10: 10% MFN duty on battery-electric passenger cars — https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — record dated 15 September 2026
-3. EV Hub — `tariffs.json` and `market-master.json` (France: standard duty 10%, VAT 20%, registration ~$400, brand CVD table, fixed-cost inputs; France is an EU market with countervailing duty in force) — internal dataset, last verified 15 September 2026
-4. EV Hub — vehicle landed-cost records: 30 markets × 517 models with itemised duty/CVD/VAT/fixed block (France, Germany, Netherlands, Italy, Spain, UK and Switzerland rows used above) — internal dataset, records updated 7–14 September 2026
-5. National tax authorities — French standard VAT rate of 20% (and comparative EU rates) as carried in our market records — accessed via EV Hub dataset, 15 September 2026
+3. China EV Mart — `tariffs.json` and `market-master.json` (France: standard duty 10%, VAT 20%, registration ~$400, brand CVD table, fixed-cost inputs; France is an EU market with countervailing duty in force) — internal dataset, last verified 15 September 2026
+4. China EV Mart — vehicle landed-cost records: 30 markets × 517 models with itemised duty/CVD/VAT/fixed block (France, Germany, Netherlands, Italy, Spain, UK and Switzerland rows used above) — internal dataset, records updated 7–14 September 2026
+5. National tax authorities — French standard VAT rate of 20% (and comparative EU rates) as carried in our market records — accessed via China EV Mart dataset, 15 September 2026

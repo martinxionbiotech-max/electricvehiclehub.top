@@ -66,11 +66,11 @@ Two gaps in our records are worth naming before you model anything. First, the d
 | Registration fee | $500.00 |
 | **Total landed** | **$33,009.00 (+33.7%)** |
 
-The formula: `landed = base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. For Australia: `24,690 × 1.10 + 5,850 = 33,009.00`. The rates compound in that order — duty, then countervailing duty, then consumption tax — which is where cross-border quotes go wrong when a market has all three layers; here only the GST layer is live, so the compounding question is simple. Every input is from EV Hub's tariff and landed-cost records dated 15 September 2026, and the result is a model estimate rather than a quotation. Read every landed figure as cash-at-the-border, not sticker — [the gap between a quote and a registered car](/blog/sticker-vs-landed-price/) is where import plans usually break. If you are GST-registered, the $2,469.00 GST line is typically recoverable, which is why B2B and private buyers should read this table differently.
+The formula: `landed = base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs`. For Australia: `24,690 × 1.10 + 5,850 = 33,009.00`. The rates compound in that order — duty, then countervailing duty, then consumption tax — which is where cross-border quotes go wrong when a market has all three layers; here only the GST layer is live, so the compounding question is simple. Every input is from China EV Mart's tariff and landed-cost records dated 15 September 2026, and the result is a model estimate rather than a quotation. Read every landed figure as cash-at-the-border, not sticker — [the gap between a quote and a registered car](/blog/sticker-vs-landed-price/) is where import plans usually break. If you are GST-registered, the $2,469.00 GST line is typically recoverable, which is why B2B and private buyers should read this table differently.
 
 ## Landed cost by model (Australia)
 
-Figures from EV Hub's landed-cost records: base price ex-factory China, 0% duty, 10% GST, the $5,350 Oceania fixed basket and the $500 registration fee. The New Zealand column uses the same model with its own 15% GST and $23 registration.
+Figures from China EV Mart's landed-cost records: base price ex-factory China, 0% duty, 10% GST, the $5,350 Oceania fixed basket and the $500 registration fee. The New Zealand column uses the same model with its own 15% GST and $23 registration.
 
 | Model | Base (China) | Australia landed | Premium (AU) | New Zealand landed | Premium (NZ) |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@ Not by the routine path. Australia drives on the left, so a China-market (LHD) c
 
 **Does the Luxury Car Tax apply to my import?**
 
-UNKNOWN in our records — the LCT does not appear in EV Hub's landed-cost dataset at all, so none of the figures in this article include it. Confirm current treatment and thresholds directly before committing capital.
+UNKNOWN in our records — the LCT does not appear in China EV Mart's landed-cost dataset at all, so none of the figures in this article include it. Confirm current treatment and thresholds directly before committing capital.
 
 ## Related reading
 
@@ -171,13 +171,13 @@ First, the stack is genuinely open — 0% duty, no CVD, 10% GST — and the work
 
 ### Disclosure
 
-This is my analysis and opinion, not legal, customs or tax advice, and the landed-cost figures are EV Hub model estimates rather than quotations. The dataset records rates as at 15 September 2026; ADR/RAV paths, the Luxury Car Tax, and the instrument behind the 0% duty should be confirmed with a customs broker, the ATO and the Department of Infrastructure before you commit capital.
+This is my analysis and opinion, not legal, customs or tax advice, and the landed-cost figures are China EV Mart model estimates rather than quotations. The dataset records rates as at 15 September 2026; ADR/RAV paths, the Luxury Car Tax, and the instrument behind the 0% duty should be confirmed with a customs broker, the ATO and the Department of Infrastructure before you commit capital.
 
 ## Sources
 
 1. European Commission — Commission Implementing Regulation (EU) 2024/2754, countervailing duties on battery electric vehicles from China (producer rates: BYD 17.0%, Geely 18.8%, SAIC 35.3%, Tesla Shanghai 7.8%; EU scope only). https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — effective 30 October 2024.
 2. Australian Government, Department of Infrastructure — Vehicle Standards / Australian Design Rules framework (ADR conformity and RAV entry). https://www.infrastructure.gov.au/vehicles/vehicle-regulation — accessed 23 September 2026.
-3. New Vehicle Efficiency Standard Act 2024 — recorded in EV Hub's regulatory dataset (fleet-average CO2 targets effective 1 January 2025; enforcement from 1 July 2025; penalty recorded around A$100 per g/km; tradable credits). https://en.wikipedia.org/wiki/New_Vehicle_Efficiency_Standard_Act_2024 — accessed 23 September 2026.
-4. New Car Assessment Program listing — ANCAP, the Australian and New Zealand independent crash-safety assessment program, recorded in EV Hub's regulatory dataset. https://en.wikipedia.org/wiki/New_Car_Assessment_Program — accessed 23 September 2026.
-5. Australian Taxation Office — "Luxury car tax" (verification pointer; EV Hub's landed-cost model does not include the LCT). https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/luxury-car-tax — accessed 23 September 2026.
-6. EV Hub — tariff, market and regulatory records: `src/data/tariffs.json` (updated 15 September 2026), `src/data/market-master.json`, `src/data/regulatory-master.json`, and 517 vehicle records with per-market landed costs. Rates per national tax authorities as recorded. Internal dataset, last verified 15 September 2026.
+3. New Vehicle Efficiency Standard Act 2024 — recorded in China EV Mart's regulatory dataset (fleet-average CO2 targets effective 1 January 2025; enforcement from 1 July 2025; penalty recorded around A$100 per g/km; tradable credits). https://en.wikipedia.org/wiki/New_Vehicle_Efficiency_Standard_Act_2024 — accessed 23 September 2026.
+4. New Car Assessment Program listing — ANCAP, the Australian and New Zealand independent crash-safety assessment program, recorded in China EV Mart's regulatory dataset. https://en.wikipedia.org/wiki/New_Car_Assessment_Program — accessed 23 September 2026.
+5. Australian Taxation Office — "Luxury car tax" (verification pointer; China EV Mart's landed-cost model does not include the LCT). https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/luxury-car-tax — accessed 23 September 2026.
+6. China EV Mart — tariff, market and regulatory records: `src/data/tariffs.json` (updated 15 September 2026), `src/data/market-master.json`, `src/data/regulatory-master.json`, and 517 vehicle records with per-market landed costs. Rates per national tax authorities as recorded. Internal dataset, last verified 15 September 2026.

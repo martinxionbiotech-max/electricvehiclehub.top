@@ -56,7 +56,7 @@ The Australian side is not just trivia: Australia charges a Luxury Car Tax on th
 
 ## Landed cost by model (New Zealand)
 
-Figures from EV Hub's landed-cost records: base price ex-factory China, plus duty, CVD, GST at 15%, freight, clearance, certification, registration and inland transport. The Australia column uses the same model with 10% GST. Read every number as landed, not sticker — [the gap between a quote and a registered car](/blog/sticker-vs-landed-price/) is where import plans usually break.
+Figures from China EV Mart's landed-cost records: base price ex-factory China, plus duty, CVD, GST at 15%, freight, clearance, certification, registration and inland transport. The Australia column uses the same model with 10% GST. Read every number as landed, not sticker — [the gap between a quote and a registered car](/blog/sticker-vs-landed-price/) is where import plans usually break.
 
 | Model | Base (China) | New Zealand landed | Premium (NZ) | Australia landed | Premium (AU) |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@ Two patterns are worth naming. First, the percentage premium shrinks as the car 
 | Registration fee | $23 |
 | **Total landed** | **$33,766.50** |
 
-Formula: `base × (1 + 0.15) + 5,373`. Every input is from EV Hub's tariff and landed-cost records dated 2026-09-15.
+Formula: `base × (1 + 0.15) + 5,373`. Every input is from China EV Mart's tariff and landed-cost records dated 2026-09-15.
 
 Only five markets in our dataset land the Seal more cheaply than New Zealand — Qatar, Thailand, the UAE, Australia and Malaysia. The same car lands at $45,729 in Turkey and $44,413 in Germany, and $38,112 in Norway. The caveat is what happens after the border, which is where this market changed in 2024.
 
@@ -171,4 +171,4 @@ No. The last consumer scheme ended on 31 December 2023 and nothing has replaced 
 5. NZTA — "Importing a used vehicle" (NZTA/MPI/Customs requirements, border inspection, entry certification, registration) — https://nzta.govt.nz/vehicles/importing-a-vehicle — accessed 16 September 2026
 6. New Zealand Customs Service — "Tariffs" (most goods duty-free, GST payable; 5% and 10% on some goods) — https://www.customs.govt.nz/business/tariffs/ — accessed 16 September 2026
 7. Australian Taxation Office — "Luxury car tax" — https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/luxury-car-tax — accessed 16 September 2026
-8. EV Hub — tariff and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, and 517 vehicle records with per-market landed costs. Internal dataset, last verified 15 September 2026.
+8. China EV Mart — tariff and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, and 517 vehicle records with per-market landed costs. Internal dataset, last verified 15 September 2026.

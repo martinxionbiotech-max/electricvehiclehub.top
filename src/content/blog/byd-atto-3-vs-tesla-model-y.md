@@ -41,7 +41,7 @@ One range warning before the table gets quoted out of context: 430 km CLTC is no
 
 ## The landed-cost matrix
 
-Atto 3 figures are EV Hub landed-cost estimates (ex-factory base, duty, CVD where applicable, VAT/GST, freight and fixed costs). Model Y figures are local retail prices from the sources below, converted at 17 September 2026 rates.
+Atto 3 figures are China EV Mart landed-cost estimates (ex-factory base, duty, CVD where applicable, VAT/GST, freight and fixed costs). Model Y figures are local retail prices from the sources below, converted at 17 September 2026 rates.
 
 | Market | Atto 3 landed (model) | Model Y local price | Model Y converted | Gap |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ If the car is for your own driveway and you value a national service network, th
 
 **Reasoning.** First, the physical gap is plain once measured — 337 mm shorter, 170 mm less wheelbase, 296 kg lighter — and a smaller car costing less is not arbitrage; it is the market working as designed. Second, the tariff map, not the car, decides how big the gap gets: the same Atto 3 lands at $31,503 in Germany with BYD's 17% countervailing duty attached, and $23,736 in Australia where no duty applies at all — nearly $7,800 of the difference is jurisdiction, not product. Third, the number absent from every one of these tables is the one that decides the deal in year three: who warranties the car, and who buys it back. An importer who cannot answer both questions is quietly discounting someone else's risk into their own price.
 
-**Disclosure.** This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are EV Hub model estimates from vehicle records updated 7 September 2026; Tesla prices come from the tier-2 sources below, checked 17 September 2026 — the official configurator was not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 17 September 2026 rates cited in Sources.
+**Disclosure.** This is my analysis and opinion, not verified fact, and not financial advice. Landed figures are China EV Mart model estimates from vehicle records updated 7 September 2026; Tesla prices come from the tier-2 sources below, checked 17 September 2026 — the official configurator was not machine-accessible at the time of writing, so verify current pricing before acting. Currency conversions use the 17 September 2026 rates cited in Sources.
 
 ## Sources
 
@@ -109,8 +109,8 @@ If the car is for your own driveway and you value a national service network, th
 5. carwow.de — "Tesla Model Y: Test 2026, Konfigurator & Preise" (list price €39,990–€62,990; offers from €38,970; updated 19 June 2026) — https://www.carwow.de/tesla/model-y — accessed 17 Sep 2026
 6. Trading Economics — exchange rates, 17 Sep 2026: EUR/USD 1.1473 · GBP/USD 1.3369 · AUD/USD 0.7110 — https://tradingeconomics.com/euro-area/currency — accessed 17 Sep 2026
 7. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 (BYD's 17% countervailing duty) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 17 Sep 2026
-8. EV Hub — BYD Atto 3 vehicle record and landed-cost markets (Germany / UK / Australia rows; data updated 7 Sep 2026)
-9. EV Hub — `market-master.json` and `tariffs.json` (duty, VAT and fixed-cost inputs; verified 15 Sep 2026)
+8. China EV Mart — BYD Atto 3 vehicle record and landed-cost markets (Germany / UK / Australia rows; data updated 7 Sep 2026)
+9. China EV Mart — `market-master.json` and `tariffs.json` (duty, VAT and fixed-cost inputs; verified 15 Sep 2026)
 
 ## Related reading
 

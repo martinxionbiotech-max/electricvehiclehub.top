@@ -26,13 +26,13 @@ The [BYD Dolphin](/vehicles/byd-dolphin/) lands cheaper than the [XPeng Mona M03
 
 ## Ex-factory vs landed cost: the two prices this article compares
 
-**Ex-factory price** is what the car costs at the Chinese factory gate — EV Hub's catalog lists the Mona M03 at $16,800 and the Dolphin at $14,020 as China ex-factory MSRPs. It is the number on a quotation, not the number on the final invoice when the car arrives at a port.
+**Ex-factory price** is what the car costs at the Chinese factory gate — China EV Mart's catalog lists the Mona M03 at $16,800 and the Dolphin at $14,020 as China ex-factory MSRPs. It is the number on a quotation, not the number on the final invoice when the car arrives at a port.
 
 **Landed cost** is what one unit actually costs delivered through a destination's border and registered: the ex-factory price compounded through standard duty, countervailing duty and VAT — in that order, because that is how customs valuations cascade — plus a fixed block of freight, clearance, certification, registration and inland transport. In formula:
 
 `landed = base × (1 + standard duty) × (1 + countervailing duty) × (1 + VAT) + fixed block`
 
-Every figure in this article comes from EV Hub's catalog under the same documented method; the [landed-cost methodology](/docs/landed-cost-methodology/) page carries the formula, the fixed-cost benchmarks and the assumptions.
+Every figure in this article comes from China EV Mart's catalog under the same documented method; the [landed-cost methodology](/docs/landed-cost-methodology/) page carries the formula, the fixed-cost benchmarks and the assumptions.
 
 ## The two cars, on paper
 
@@ -68,7 +68,7 @@ Two consequences for anyone pricing either car. The gap between the two lines is
 
 ## The seven-market matrix
 
-All landed figures are EV Hub model estimates from the two vehicle records; each car's premium over its ex-factory base is shown in parentheses.
+All landed figures are China EV Mart model estimates from the two vehicle records; each car's premium over its ex-factory base is shown in parentheses.
 
 | Market | Mona M03 landed | Dolphin landed | Dolphin cheaper by |
 |---|---|---|---|
@@ -151,15 +151,15 @@ First, the arithmetic is unambiguous and it is not the tariff's story: $813.67 o
 
 ### Disclosure
 
-This is my analysis and opinion, not verified fact, and not financial or legal advice. Landed figures are EV Hub model estimates from the two vehicle records updated 7 September 2026 — costs, not quotes. Duty rates come from EU Implementing Regulation (EU) 2024/2754 as recorded in EV Hub's tariff dataset (last verified 15 September 2026); confirm current rates and your exact variant with a customs broker before acting. All figures are USD; the euro reference equivalents use the USD/EUR 0.873207 rate from the ExchangeRate-API snapshot cited in Sources, retrieved 23 September 2026.
+This is my analysis and opinion, not verified fact, and not financial or legal advice. Landed figures are China EV Mart model estimates from the two vehicle records updated 7 September 2026 — costs, not quotes. Duty rates come from EU Implementing Regulation (EU) 2024/2754 as recorded in China EV Mart's tariff dataset (last verified 15 September 2026); confirm current rates and your exact variant with a customs broker before acting. All figures are USD; the euro reference equivalents use the USD/EUR 0.873207 rate from the ExchangeRate-API snapshot cited in Sources, retrieved 23 September 2026.
 
 ## Sources
 
-1. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (BYD 17.0%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force since 31 October 2024; rate schedule as recorded in EV Hub's tariff dataset, last verified 15 Sep 2026
-2. EV Hub — `tariffs.json` and `market-master.json` — standard duty, countervailing-duty, VAT and registration inputs for all seven markets; fixed-cost components (verified 15 Sep 2026)
-3. EV Hub — XPeng Mona M03 vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://electricvehiclehub.top/vehicles/xpeng-mona-m03/
-4. EV Hub — BYD Dolphin vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://electricvehiclehub.top/vehicles/byd-dolphin/
-5. EV Hub — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty" (rate classification for XPeng; the ~$24,600 ET9 countervailing-duty figure) — https://electricvehiclehub.top/blog/nio-xpeng-leapmotor-countervailing-duty/ — 15 Sep 2026
+1. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery-electric vehicles from China (BYD 17.0%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — in force since 31 October 2024; rate schedule as recorded in China EV Mart's tariff dataset, last verified 15 Sep 2026
+2. China EV Mart — `tariffs.json` and `market-master.json` — standard duty, countervailing-duty, VAT and registration inputs for all seven markets; fixed-cost components (verified 15 Sep 2026)
+3. China EV Mart — XPeng Mona M03 vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://chinaevmart.com/vehicles/xpeng-mona-m03/
+4. China EV Mart — BYD Dolphin vehicle record (ex-factory price, specifications, 30-market landed-cost estimates; data updated 7 Sep 2026; spec source: official brand website) — https://chinaevmart.com/vehicles/byd-dolphin/
+5. China EV Mart — "NIO, XPeng, and Leapmotor's 20.7% Countervailing Duty" (rate classification for XPeng; the ~$24,600 ET9 countervailing-duty figure) — https://chinaevmart.com/blog/nio-xpeng-leapmotor-countervailing-duty/ — 15 Sep 2026
 6. ExchangeRate-API — USD reference rates — https://open.er-api.com/v6/latest/USD — retrieved 23 Sep 2026 (API update stamp: Wed 23 Sep 2026 00:02 UTC; USD/EUR 0.873207 used for the two illustrative euro equivalents)
 
 ## Related reading

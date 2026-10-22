@@ -63,7 +63,7 @@ Indonesia now lands almost exactly level with Turkey on the same models — with
 | Freight, clearance, certification, registration, inland | $4,700 |
 | **Total landed** | **$45,809** |
 
-Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs from EV Hub tariff and vehicle records dated 2026-09-15.
+Formula: `base × (1 + duty) × (1 + VAT) + fixed costs`. Inputs from China EV Mart tariff and vehicle records dated 2026-09-15.
 
 This model excludes PPnBM, the luxury-goods tax on certain passenger vehicles. Under the expired incentive, CBU BEVs were relieved of it; under the general regime it can apply. Any quoted Indonesian retail price should be checked for PPnBM separately — we could not verify the current BEV band from a primary source, so we mark it **UNKNOWN** rather than guess.
 
@@ -106,5 +106,5 @@ For a first-time importer with no manufacturing plan, the honest answer is that 
 2. Kompas — "Indonesia to End EV Import Incentives, Eyes Billions in Tax Gains" (1:1 production commitment; bank guarantee; 15.5 trillion rupiah pledged) — https://go.kompas.com/read/2025/09/01/230700074/indonesia-to-end-ev-import-incentives-eyes-billions-in-tax-gains — 2025-09-01
 3. MUC Consulting — "Ministry of Finance Extends 0% Import Duty on Electric Vehicles Until 2025" (PMK No. 10 of 2024) — https://muc.co.id/en/article/ministry-of-finance-extends-0-import-duty-on-electric-vehicles-until-2025 — 2024-02-22
 4. Schinder Law Firm — "Import of Completely Built-up (CBU) Electric Cars Officially Duty-Free Until 2025" (BKPM Regulation No. 6 of 2023) — https://schinderlawfirm.com/blog/import-of-completely-built-up-cbu-electric-cars-officially-duty-free-until-2025 — undated; accessed 2026-09-15
-5. EV Hub — tariffs.json and market-master.json (duty 0.50, PPN 0.11, no CVD; CBU exemption expired 2025; verified 2026-09-15)
-6. EV Hub — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15
+5. China EV Mart — tariffs.json and market-master.json (duty 0.50, PPN 0.11, no CVD; CBU exemption expired 2025; verified 2026-09-15)
+6. China EV Mart — vehicle landed-cost records (BYD Seal, Zeekr 001, BYD Dolphin, MG 4, BYD Atto 3, BYD Seagull, Wuling Hongguang MINI EV), 2026-09-15

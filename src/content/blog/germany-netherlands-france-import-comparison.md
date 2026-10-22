@@ -112,7 +112,7 @@ Purely its 21% VAT — the highest standard rate among the three. Its actual lan
 
 **Reasoning.** First, the duties are bloc-level: a BYD pays 17% and a SAIC pays 35.3% whether the car clears in Hamburg, Le Havre, or Rotterdam, so the country-level variable is only VAT (19% vs 20% vs 21%). Second, the resulting spreads are roundings next to everything else: $536 between Germany and the Netherlands on a $24,690 Seal, and $1,516 even on a $61,830 Zeekr 009 — about a point and a half. Third, the factors that actually swing an import are national and non-tariff: a single €2,000–€4,000 purchase grant erases the VAT difference several times over, and homologation routes diverge far more than rates do.
 
-**Disclosure.** This is my analysis of published EU and national tax rules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. VAT follows the country of registration; verify your route and incentives with a local adviser before committing.
+**Disclosure.** This is my analysis of published EU and national tax rules and China EV Mart's landed-cost records — opinion, not a quotation or legal advice. VAT follows the country of registration; verify your route and incentives with a local adviser before committing.
 
 ## Related reading
 
@@ -125,4 +125,4 @@ Purely its 21% VAT — the highest standard rate among the three. Its actual lan
 - EU common customs tariff — 10% standard duty on passenger cars
 - European Commission Implementing Regulation (EU) 2024/2754 — brand-specific countervailing duties
 - National VAT rates: Germany 19%, France 20%, Netherlands 21%
-- EV Hub landed-cost records: 315 models × 7 markets, itemized duty/CVD/VAT
+- China EV Mart landed-cost records: 315 models × 7 markets, itemized duty/CVD/VAT

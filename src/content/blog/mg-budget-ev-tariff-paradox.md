@@ -118,7 +118,7 @@ No. It's an EU measure. The same MG4 lands at +56% in the UAE and +70% in Austra
 
 **Reasoning.** First, the MG4 pays the EU's highest rate and still lands $4,310 cheaper than a BYD Dolphin, because its base is $4,330 lower — a percentage of a smaller base is smaller money. Second, the same rate on a converged base flips the story: the MG S5 EV lands $4,249 above the similarly priced Atto 3, which is the tariff gap doing exactly what rate-shoppers fear. Third, the penalty is EU-only: the same MG4 is $8,600 cheaper to land in the UAE, where neither the 35.3% CVD nor the 19% VAT applies.
 
-**Disclosure.** This is my interpretation of EU tariff law and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Producer rates are set by regulation and can change; verify your exact badge and model with a customs broker before pricing.
+**Disclosure.** This is my interpretation of EU tariff law and China EV Mart's landed-cost records — opinion, not a quotation or legal advice. Producer rates are set by regulation and can change; verify your exact badge and model with a customs broker before pricing.
 
 ## Related reading
 
@@ -129,4 +129,4 @@ No. It's an EU measure. The same MG4 lands at +56% in the UAE and +70% in Austra
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — SAIC's 35.3% countervailing duty
-- EV Hub landed-cost records: MG4 and MG S5 EV × 7 markets, itemized
+- China EV Mart landed-cost records: MG4 and MG S5 EV × 7 markets, itemized

@@ -98,7 +98,7 @@ A **$16,600 difference on the SU7** between Germany and the UAE — almost entir
 
 **Reasoning:** First, the 20.7% is the "other cooperating" default shared by both, so the rate carries no signal about either brand; comparing them by tariff is meaningless because they are identical on paper. Second, Xiaomi's tightly clustered four-model lineup sits entirely in the band where the 20.7% produces a manageable +67% to +80% premium, so the brand is coherently importable. Third, Hongqi's range is its own undoing — the $12,650 E QM5 suffers a +110% premium from the fixed-cost stack long before the tariff matters, while the $83,070 E HS9 generates the largest dollar duty bill; a single brand cannot be treated as a single tariff story.
 
-**Disclosure:** This is my interpretation of published EU tariff law and the EV Hub landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** This is my interpretation of published EU tariff law and the China EV Mart landed-cost records, not legal or tax advice. Countervailing-duty rates and covered exporters are set by EU regulation and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -111,5 +111,5 @@ A **$16,600 difference on the SU7** between Germany and the UAE — almost entir
 
 1. European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
 2. European Commission press release on definitive anti-subsidy duties on BEVs from China — 29 October 2024
-3. EV Hub — tariffs.json brand_cvd (Xiaomi/Hongqi → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
-4. EV Hub — vehicle landed-cost records for 12 Xiaomi/Hongqi BEV models, 2026-09-15
+3. China EV Mart — tariffs.json brand_cvd (Xiaomi/Hongqi → 20.7% "other cooperating" rate) and market-master.json (EU duty/VAT), verified 2026-09-15
+4. China EV Mart — vehicle landed-cost records for 12 Xiaomi/Hongqi BEV models, 2026-09-15

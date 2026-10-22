@@ -14,8 +14,8 @@ The XPeng G6 and the Xiaomi YU7 pay the **same tariff treatment** — 10% standa
 
 ## Definitions
 
-- **Ex-factory price** — what the car costs at the Chinese factory gate, before ocean freight, duty, or tax. The G6's ex-factory figure in EV Hub's records is $24,830; the YU7's is $35,700.
-- **Landed cost** — the all-in cost of getting a car to a registered, road-legal state in the destination market: ex-factory price + standard import duty + countervailing duty + VAT/GST + RoRo freight + customs clearance + certification + registration + inland transport. It is a B2B import estimate, not a retail price. Every figure in this article follows [EV Hub's documented landed-cost formula](/docs/landed-cost-methodology/).
+- **Ex-factory price** — what the car costs at the Chinese factory gate, before ocean freight, duty, or tax. The G6's ex-factory figure in China EV Mart's records is $24,830; the YU7's is $35,700.
+- **Landed cost** — the all-in cost of getting a car to a registered, road-legal state in the destination market: ex-factory price + standard import duty + countervailing duty + VAT/GST + RoRo freight + customs clearance + certification + registration + inland transport. It is a B2B import estimate, not a retail price. Every figure in this article follows [China EV Mart's documented landed-cost formula](/docs/landed-cost-methodology/).
 - **Countervailing duty (CVD)** — the EU's anti-subsidy tariff on Chinese-built battery-electric vehicles, layered on top of the standard 10% import duty and set per producer under Implementing Regulation (EU) 2024/2754. Neither car has an individually assessed rate; both are modeled at the 20.7% "other cooperating producer" default.
 - **Compounding** — the rates multiply, they do not add: CVD is assessed on the duty-inclusive value, and VAT/GST lands last on top of both. A 10% duty and a 20.7% CVD combine to 32.77% of the ex-factory value, not 30.7%.
 - **VAT/GST recoverability** — for VAT-registered B2B importers, VAT/GST is often reclaimable and behaves as a cash-flow item; duty and CVD are permanent costs. The figures below show the full VAT-inclusive cash needed at the border.
@@ -24,7 +24,7 @@ The XPeng G6 and the Xiaomi YU7 pay the **same tariff treatment** — 10% standa
 
 | Attribute | XPeng G6 | Xiaomi YU7 |
 |---|---|---|
-| Class (per EV Hub records) | Compact SUV | Mid-size SUV |
+| Class (per China EV Mart records) | Compact SUV | Mid-size SUV |
 | Length / wheelbase | 4,758 mm / 2,890 mm | 4,999 mm / 3,000 mm |
 | Width / height | 1,920 mm / 1,650 mm | 1,996 mm / 1,608 mm |
 | Curb weight | 2,030 kg | 2,315 kg |
@@ -42,7 +42,7 @@ Two qualifications matter before the money. First, these are adjacent segments, 
 
 ## The tariff stack: two Chinese brands, one identical rate
 
-Most China-to-Europe import stories are stories about a tariff *wedge*: Tesla (Shanghai) pays 7.8% countervailing duty, BYD 17%, Geely 18.8%, SAIC 35.3%, and the "other cooperating producer" default sits at 20.7%. Both XPeng and Xiaomi fall under that default 20.7% rate — neither has an individually assessed rate in EV Hub's tariff schedule — so there is no regulatory asymmetry between these two cars to exploit.
+Most China-to-Europe import stories are stories about a tariff *wedge*: Tesla (Shanghai) pays 7.8% countervailing duty, BYD 17%, Geely 18.8%, SAIC 35.3%, and the "other cooperating producer" default sits at 20.7%. Both XPeng and Xiaomi fall under that default 20.7% rate — neither has an individually assessed rate in China EV Mart's tariff schedule — so there is no regulatory asymmetry between these two cars to exploit.
 
 That makes this comparison unusually clean: every dollar of difference in the landed totals below comes from (a) the $10,870 ex-factory gap and (b) each market's own tax treatment of an imported BEV.
 
@@ -52,7 +52,7 @@ That makes this comparison unusually clean: every dollar of difference in the la
 | Countervailing duty | 20.7% | 20.7% | 0% | 0% | 0% | 0% | 0% |
 | VAT / GST | 19% | 20% | 20% | 25% | 10% | 5% | 7% |
 
-Rates as modeled in EV Hub's market and tariff records; both cars share the same rates in every market. Where the countervailing duty disappears — the UK, Norway, the Gulf, Australia, Thailand — a large slice of the EU premium goes with it. The full mechanics are in the [landed-cost methodology](/docs/landed-cost-methodology/).
+Rates as modeled in China EV Mart's market and tariff records; both cars share the same rates in every market. Where the countervailing duty disappears — the UK, Norway, the Gulf, Australia, Thailand — a large slice of the EU premium goes with it. The full mechanics are in the [landed-cost methodology](/docs/landed-cost-methodology/).
 
 ## Landed cost by market, line by line
 
@@ -125,7 +125,7 @@ Three things drive my read:
 
 The limits, honestly stated:
 
-- Everything here derives from EV Hub's tier-1 catalog records — manufacturer-spec sheets and the 30-market landed-cost estimates — produced with the [documented methodology](/docs/landed-cost-methodology/) and central fixed-cost benchmarks. These are B2B import estimates: not quotes, not retail prices, and not legal or tax advice.
+- Everything here derives from China EV Mart's tier-1 catalog records — manufacturer-spec sheets and the 30-market landed-cost estimates — produced with the [documented methodology](/docs/landed-cost-methodology/) and central fixed-cost benchmarks. These are B2B import estimates: not quotes, not retail prices, and not legal or tax advice.
 - No retail on-the-road prices for either car are in the dataset, so this is landed cost versus landed cost. A dealer's real-world cost will also carry margin, warranty provisioning, and currency exposure that no model of this kind can see.
 - Range, efficiency, and charging figures are manufacturer specifications on the CLTC cycle; the dataset contains no independent real-world range or efficiency data for either car, so real-world range is unknown here.
 - The EU countervailing-duty schedule retains its last-confirmed values pending an upstream re-verification; trade policy can change, and a rate change would move every EU number in this article.
@@ -142,12 +142,12 @@ The limits, honestly stated:
 ## Sources
 
 1. European Commission (EUR-Lex) — "Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on battery electric vehicles from China" — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 2026-09-19.
-2. EV Hub — "XPENG G6 vehicle record and 30-market landed-cost data (tier-1; ex-factory $24,830; Germany landed $45,830.48)" — https://electricvehiclehub.top/vehicles/xpeng-g6/ — accessed 2026-09-19.
-3. EV Hub — "Xiaomi YU7 vehicle record and 30-market landed-cost data (tier-1; ex-factory $35,700; Germany landed $63,004.68)" — https://electricvehiclehub.top/vehicles/xiaomi-yu7/ — accessed 2026-09-19.
-4. EV Hub — "tariffs.json — tariff schedule and producer-specific countervailing-duty rates (data file; updated 2026-09-15)" — repository file `src/data/tariffs.json` — accessed 2026-09-19.
-5. EV Hub — "market-master.json — standard duties, VAT/GST rates, and registration fees by market (data file; updated 2026-09-15)" — repository file `src/data/market-master.json` — accessed 2026-09-19.
-6. EV Hub — "Landed Cost Methodology — the formula, fixed-cost benchmarks, and assumptions behind every landed-cost number" — https://electricvehiclehub.top/docs/landed-cost-methodology/ — accessed 2026-09-19.
-7. EV Hub — "Why the Sticker Price Is Never the Landed Price: The Complete Import Cost Stack" — https://electricvehiclehub.top/blog/sticker-vs-landed-price/ — accessed 2026-09-19.
+2. China EV Mart — "XPENG G6 vehicle record and 30-market landed-cost data (tier-1; ex-factory $24,830; Germany landed $45,830.48)" — https://chinaevmart.com/vehicles/xpeng-g6/ — accessed 2026-09-19.
+3. China EV Mart — "Xiaomi YU7 vehicle record and 30-market landed-cost data (tier-1; ex-factory $35,700; Germany landed $63,004.68)" — https://chinaevmart.com/vehicles/xiaomi-yu7/ — accessed 2026-09-19.
+4. China EV Mart — "tariffs.json — tariff schedule and producer-specific countervailing-duty rates (data file; updated 2026-09-15)" — repository file `src/data/tariffs.json` — accessed 2026-09-19.
+5. China EV Mart — "market-master.json — standard duties, VAT/GST rates, and registration fees by market (data file; updated 2026-09-15)" — repository file `src/data/market-master.json` — accessed 2026-09-19.
+6. China EV Mart — "Landed Cost Methodology — the formula, fixed-cost benchmarks, and assumptions behind every landed-cost number" — https://chinaevmart.com/docs/landed-cost-methodology/ — accessed 2026-09-19.
+7. China EV Mart — "Why the Sticker Price Is Never the Landed Price: The Complete Import Cost Stack" — https://chinaevmart.com/blog/sticker-vs-landed-price/ — accessed 2026-09-19.
 
 ## Related reading
 

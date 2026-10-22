@@ -26,18 +26,18 @@ A Chinese EV imported into Ireland pays the EU's standard 10% import duty, then 
 
 ## The terms that decide this market
 
-- **Landed cost** — what a car costs to get from a Chinese factory to an import-cleared, registrable state in the destination country: ex-factory price, duty, countervailing duty, VAT, freight, clearance, compliance, registration and inland transport. The figures in this article are EV Hub model estimates, not quotes.
+- **Landed cost** — what a car costs to get from a Chinese factory to an import-cleared, registrable state in the destination country: ex-factory price, duty, countervailing duty, VAT, freight, clearance, compliance, registration and inland transport. The figures in this article are China EV Mart model estimates, not quotes.
 - **CIF** — cost, insurance and freight; the customs value the 10% duty is calculated on.
 - **Countervailing duty (CVD)** — the EU's anti-subsidy tariff on China-built battery-electric cars, set per producer group rather than per model. It stacks on top of the standard duty before VAT touches anything, and Ireland applies it as part of the EU customs union. This is the single biggest difference between Ireland and its nearest neighbour.
 - **VAT** — value-added tax. Ireland's standard rate is 23%, charged at import on the duty-inclusive value. For VAT-registered businesses it is normally deductible; for private buyers it is simply cost.
-- **VRT (Vehicle Registration Tax)** — Ireland's own registration tax, charged once when the car is entered on the Irish register, calculated on the **OMSP** and banded by WLTP CO2 emissions. It is not part of the customs stack and is not included in EV Hub's landing figures in this article — it comes on top, with its own relief rules.
+- **VRT (Vehicle Registration Tax)** — Ireland's own registration tax, charged once when the car is entered on the Irish register, calculated on the **OMSP** and banded by WLTP CO2 emissions. It is not part of the customs stack and is not included in China EV Mart's landing figures in this article — it comes on top, with its own relief rules.
 - **OMSP** — the open market selling price: the Revenue-assessed market value of the car in Ireland, which Revenue notes is "usually slightly different" from the invoice value. If a model is not in the VRT calculator, Revenue determines its OMSP using market indicators including UK and Irish trade guides, advertisements and experts.
 - **RHD** — right-hand drive. Ireland drives on the left and new cars sold there are RHD; China's domestic lineup is left-hand drive, so the models that can be distributed at scale are the RHD export builds.
 - **NCTS** — the National Car Testing Service, which registers vehicles on Revenue's behalf and collects VRT at the point of registration.
 
 ## What a Chinese EV pays at the Irish border
 
-| Layer | Rate (China-origin BEV) | Levied on | In EV Hub's landed model |
+| Layer | Rate (China-origin BEV) | Levied on | In China EV Mart's landed model |
 |---|---|---|---|
 | Import duty | **10%** | CIF value | Yes |
 | Countervailing duty | **17%–35.3%**, brand-specific | CIF value plus duty, in our model | Yes |
@@ -63,13 +63,13 @@ The stack tracks the EU mainland almost to the euro, and that is the point: what
 | Inland transport | $500.00 |
 | **Total landed** | **$45,384.52 (+83.8%)** |
 
-Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs` — here `24,690 × 1.10 × 1.17 × 1.23 + 6,300`. Every input is from EV Hub's tariff and landed-cost records dated 15 September 2026. For how the model is built, see [Landed cost methodology](/docs/landed-cost-methodology/).
+Formula: `base × (1 + duty) × (1 + CVD) × (1 + VAT) + fixed costs` — here `24,690 × 1.10 × 1.17 × 1.23 + 6,300`. Every input is from China EV Mart's tariff and landed-cost records dated 15 September 2026. For how the model is built, see [Landed cost methodology](/docs/landed-cost-methodology/).
 
 Treat $45,384 as a floor, not a showroom estimate. It excludes VRT (which we get to below), any dealer margin, and any currency moves between order and arrival.
 
 ## Landed cost by model (Ireland)
 
-Figures from EV Hub's vehicle records: ex-factory China price, plus duty (10%), the brand's countervailing duty, VAT (23%), freight, clearance, certification, registration and inland transport.
+Figures from China EV Mart's vehicle records: ex-factory China price, plus duty (10%), the brand's countervailing duty, VAT (23%), freight, clearance, certification, registration and inland transport.
 
 | Model | Base (China) | Countervailing duty | Ireland landed | Premium |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ The supply-side consequence is easy to underestimate. A brand that ships LHD-onl
 
 **Reasoning.** First, the UK comparison is the one that changes decisions. Ireland and the UK pull from the same RHD factories and ship on the same routes, but the countervailing duty Ireland pays and the UK does not is worth $2,401 to $10,970 per car in our records — enough that "UK & Ireland" is not one market for pricing purposes, and pretending otherwise overpays or underprices one side by thousands. Second, within the EU Ireland's position is premium but not extreme: roughly $971 above Germany on a Seal, held there by the 23% VAT rate compounding over the same duty lines every other member state charges. Third, the deadline is the real swing factor. A relief that is worth about €2,100–€2,800 per car at typical OMSPs, and more on €40,000-plus cars, currently has no life beyond 31 December 2026; anyone planning a 2027 import against today's landing costs is implicitly betting on a Budget decision that has not been made.
 
-**Disclosure.** This is my analysis of published Revenue guidance, the EU regulation behind the duty rates, and EV Hub's cost records — opinion, not legal, tax or customs advice. Whether the VRT relief survives December 2026, the exact OMSP Revenue will assign to any specific car, and the reduced relief scale between €40,000 and €50,000 OMSP are all open questions flagged above; confirm them with Revenue and a customs broker before committing capital.
+**Disclosure.** This is my analysis of published Revenue guidance, the EU regulation behind the duty rates, and China EV Mart's cost records — opinion, not legal, tax or customs advice. Whether the VRT relief survives December 2026, the exact OMSP Revenue will assign to any specific car, and the reduced relief scale between €40,000 and €50,000 OMSP are all open questions flagged above; confirm them with Revenue and a customs broker before committing capital.
 
 ## Related reading
 
@@ -167,7 +167,7 @@ The supply-side consequence is easy to underestimate. A brand that ships LHD-onl
 4. Revenue — "Calculating Vehicle Registration Tax (VRT): VAT and Customs Duty" (customs duty chargeable on vehicles imported from outside the EU; proof of payment of duty and VAT required by NCTS at registration; "new means of transport" VAT test of under 6 months or 6,000 km). https://www.revenue.ie/en/vrt/calculating-vrt/vat-customs-duty.aspx — accessed 16 September 2026.
 5. Revenue — "Importing vehicles from Great Britain and Northern Ireland" (vehicles must be registered within 30 days of entry; NCTS registers vehicles on behalf of Revenue; Great Britain treated as a third country for customs since 1 January 2021). https://www.revenue.ie/en/vrt/registration-of-imported-used-vehicles/index.aspx — accessed 16 September 2026.
 6. Revenue — "VAT rates" (index for current VAT rates on goods and services). https://www.revenue.ie/en/vat/vat-rates/index.aspx — accessed 16 September 2026.
-7. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery electric vehicles originating in China (BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating producers 20.7%, non-cooperating producers 35.3%, Tesla Shanghai 7.8%; five-year measure adopted 29 October 2024). https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — URL from EV Hub's source registry, last verified 15 September 2026.
-8. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars). https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via EV Hub's source registry, last verified 15 September 2026.
+7. European Commission — Commission Implementing Regulation (EU) 2024/2754, definitive countervailing duties on battery electric vehicles originating in China (BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating producers 20.7%, non-cooperating producers 35.3%, Tesla Shanghai 7.8%; five-year measure adopted 29 October 2024). https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — URL from China EV Mart's source registry, last verified 15 September 2026.
+8. European Commission — TARIC / EU Common Customs Tariff, CN 8703 80 10 (10% most-favoured-nation duty on battery-electric passenger cars). https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp — via China EV Mart's source registry, last verified 15 September 2026.
 9. Wikipedia — "Left- and right-hand traffic" (left-hand-traffic jurisdictions, including Ireland, Malta and Cyprus; tertiary source used only for drive-side context). https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic — accessed 16 September 2026.
-10. EV Hub — tariff, market, regulatory and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets; Ireland: duty 10%, VAT 23%, registration fee ~$200, brand CVD rates as cited; last verified 15 September 2026). Internal dataset.
+10. China EV Mart — tariff, market, regulatory and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets; Ireland: duty 10%, VAT 23%, registration fee ~$200, brand CVD rates as cited; last verified 15 September 2026). Internal dataset.

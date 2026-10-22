@@ -112,7 +112,7 @@ SAIC has announced legal action at the Court of Justice of the EU. Any outcome i
 
 **Reasoning:** First, there is no internal hedge: the rate is assigned group-wide — MG, Maxus, Roewe and Wuling all carry it — matching the non-cooperating ceiling. Second, the burden inverts the lineup: the CVD alone is nearly four times the standard duty on an MG4 and turns a $5,000 Wuling into a +209% premium, while a $38,010 Maxus absorbs the same rate at +94% — decisive at the bottom, merely expensive at the top. Third, neither escape route fixes 2026: landing outside the EU drops most of the hit — the same MG4 lands at +56% in the UAE — and SAIC's court challenge is uncertain and non-retroactive. Treat 35.3% as the base case.
 
-**Disclosure:** This is the EV Hub analysis team's judgment based on public data — not a quotation or legal advice. Countervailing-duty rates follow Commission Implementing Regulation (EU) 2024/2754 and official EU updates, and can change; verify the current schedule with a customs broker before pricing anything.
+**Disclosure:** This is the China EV Mart analysis team's judgment based on public data — not a quotation or legal advice. Countervailing-duty rates follow Commission Implementing Regulation (EU) 2024/2754 and official EU updates, and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 
@@ -127,4 +127,4 @@ SAIC has announced legal action at the Court of Justice of the EU. Any outcome i
 - EU Commission press release, 29 October 2024 (duties enter into force 31 October 2024)
 - Reuters factbox on EU tariffs on China-made EVs (February 2026)
 - electrive — SAIC announces legal action against EU special tariffs (31 October 2024)
-- EV Hub landed-cost records: 20 SAIC-group BEV models × 7 markets, itemized
+- China EV Mart landed-cost records: 20 SAIC-group BEV models × 7 markets, itemized

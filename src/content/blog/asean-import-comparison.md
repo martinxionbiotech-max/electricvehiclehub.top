@@ -113,7 +113,7 @@ The takeaway is arithmetic, not opinion: **the customs spread between Thailand a
 | **Total landed (model)** | **$31,068.30** | **$33,166.95** | **$37,154.52** | **$45,808.85** |
 | Excluded layer | 10% import excise → ~$33,700 practical | 10% reinstated excise → ~$36,019 | COE + ARF (six figures, S$) | PPnBM (band UNKNOWN) |
 
-Formula: `base × (1 + duty) × (1 + consumption tax) × (1 + VAT/GST) + fixed costs`, applied with each market's own stack. Inputs from EV Hub's tariff and vehicle records dated 15 September 2026.
+Formula: `base × (1 + duty) × (1 + consumption tax) × (1 + VAT/GST) + fixed costs`, applied with each market's own stack. Inputs from China EV Mart's tariff and vehicle records dated 15 September 2026.
 
 ## Where each market's number stops
 
@@ -159,7 +159,7 @@ Only inside the localisation programme: a 1:1 production commitment backed by a 
 
 **Reasoning.** First, the border math is now too small to be decisive: the whole Thailand-versus-Malaysia spread is 8.5 points of base — real, but dwarfed by layers the model excludes, like a six-figure COE or a 10% excise redesign. Second, the direction of travel is uniform: Thailand's Tier 3 rate is signalled above 10%, Malaysia's July 2026 rules superseded a January 2026 regime within six months, Singapore's EEAI rebate expires at the end of this year, and Indonesia's window closes at the end of 2027. Third, the industry has already voted — Thailand's factory belt, Geely's Proton pipeline and Indonesia's pledged capacity show where brands think the taxes will be. Fourth, the demand side supports the pivot: Chinese brands approaching a 9% share in Malaysia, more than 20% NEV penetration in Thailand, programme-driven volumes in Indonesia. The buyer-side conclusion is conditional, not uniform: pay a tariff where you can (Thailand today), pass a content test where you must (Indonesia, Malaysia), and treat Singapore as a certificate business rather than an import business.
 
-**Disclosure.** This is my analysis of published rules, press reporting and EV Hub's landed-cost records — opinion, not legal, tax or customs advice, and not a quotation. Landed-cost figures are model estimates with dated inputs; the excise base in Thailand, excise carve-outs in Malaysia, the PPnBM band in Indonesia and GST recovery in Singapore are flagged UNKNOWN or unverified where noted. Confirm current rates, gates and deadlines with local authorities or a licensed broker before committing capital.
+**Disclosure.** This is my analysis of published rules, press reporting and China EV Mart's landed-cost records — opinion, not legal, tax or customs advice, and not a quotation. Landed-cost figures are model estimates with dated inputs; the excise base in Thailand, excise carve-outs in Malaysia, the PPnBM band in Indonesia and GST recovery in Singapore are flagged UNKNOWN or unverified where noted. Confirm current rates, gates and deadlines with local authorities or a licensed broker before committing capital.
 
 ## Related reading
 
@@ -196,4 +196,4 @@ Only inside the localisation programme: a 1:1 production commitment backed by a 
 19. MUC Consulting — "Ministry of Finance Extends 0% Import Duty on Electric Vehicles Until 2025" (PMK No. 10 of 2024) — https://muc.co.id/en/article/ministry-of-finance-extends-0-import-duty-on-electric-vehicles-until-2025 — 22 February 2024
 20. CnEVPost — "BYD Thailand plant opens as its 8 millionth NEV rolls off line" (150,000 units a year; Rayong) — https://cnevpost.com/2024/07/04/byd-thailand-plant-opens-8-millionth-nev/ — 4 July 2024; and "BYD Thailand deliveries surpass 130,000 as local plant marks second anniversary" — https://cnevpost.com/2026/07/14/byd-thailand-deliveries-130000-local-plant-2nd-anniversary/ — 14 July 2026
 21. CnEVPost — "Changan Thailand plant goes into operation, its 1st overseas EV plant" (100,000 units a year, planned 200,000) — https://cnevpost.com/2025/05/19/changan-thailand-plant-goes-into-operation/ — 19 May 2025; and "GAC Aion opens its 1st overseas plant in Thailand" (50,000 units, expandable to 100,000) — https://cnevpost.com/2024/07/17/gac-aion-opens-thailand-plant/ — 17 July 2024
-22. EV Hub — tariff, market and vehicle landed-cost records (`src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`; Thailand duty 0% / VAT 7%; Malaysia 5% / 10%; Singapore 20% / 9%; Indonesia 50% / 11%) — internal dataset, last verified 15 September 2026
+22. China EV Mart — tariff, market and vehicle landed-cost records (`src/data/tariffs.json`, `src/data/market-master.json`, `src/content/vehicles/*.md`; Thailand duty 0% / VAT 7%; Malaysia 5% / 10%; Singapore 20% / 9%; Indonesia 50% / 11%) — internal dataset, last verified 15 September 2026

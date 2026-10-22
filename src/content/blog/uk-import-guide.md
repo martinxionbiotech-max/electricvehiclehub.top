@@ -65,7 +65,7 @@ Two mechanics matter more than the line items. First, **VAT compounds on the dut
 | Inland transport | $500.00 |
 | **Total landed** | **$38,840.80 (+57.3%)** |
 
-The formula: `base × (1 + 10%) × (1 + 20%) + $6,250`. For a [BYD Seal](/vehicles/byd-seal/) at $24,690 that is `24,690 × 1.32 + 6,250 = 38,840.8`. Every input is from EV Hub's tariff and landed-cost records dated 15 September 2026.
+The formula: `base × (1 + 10%) × (1 + 20%) + $6,250`. For a [BYD Seal](/vehicles/byd-seal/) at $24,690 that is `24,690 × 1.32 + 6,250 = 38,840.8`. Every input is from China EV Mart's tariff and landed-cost records dated 15 September 2026.
 
 ## Where the $5,573 gap with Germany comes from
 
@@ -84,7 +84,7 @@ Note what is *not* driving the gap: the 10% duty is identical, and Germany's VAT
 
 ## Landed cost by model (UK)
 
-Figures from EV Hub landed-cost records: ex-factory China price, plus 10% duty, 20% VAT, freight, clearance, certification, registration and inland transport.
+Figures from China EV Mart landed-cost records: ex-factory China price, plus 10% duty, 20% VAT, freight, clearance, certification, registration and inland transport.
 
 | Model | Base (China) | UK landed | Premium |
 |---|---|---|---|
@@ -172,7 +172,7 @@ Yes, for VAT-registered businesses — it is claimed on the next VAT return. Pri
 
 **Reasoning:** First, the advantage is structural rather than promotional. It held for every BEV I checked, and it widens with the EU's brand-specific duty: SAIC's 35.3% rate turns the MG4 into a nearly 49-percentage-point UK-versus-EU gap, while BYD's 17% narrows the Seal's gap to 22.6 points. Second, the tariff story is only half the business case — RHD supply and the IVA/approval path are the real gates, and a China-market LHD car steered through IVA is a personal import, not a distribution channel. Third, and least comfortable to say: the UK's position is a policy choice, not a natural feature. No countervailing measure was in force at our last verification, but trade policy can move between order and delivery, so I would write any UK business case with a tariff-risk scenario rather than a presumption of permanent free access.
 
-**Disclosure:** This is my analysis and opinion, not legal, customs or tax advice, and the landed-cost figures are EV Hub model estimates rather than quotes. The customs facts cited here come from HMRC's published tariff and GOV.UK guidance; confirm the current position with HMRC, DVSA and a customs broker before you commit capital.
+**Disclosure:** This is my analysis and opinion, not legal, customs or tax advice, and the landed-cost figures are China EV Mart model estimates rather than quotes. The customs facts cited here come from HMRC's published tariff and GOV.UK guidance; confirm the current position with HMRC, DVSA and a customs broker before you commit capital.
 
 ## Sources
 
@@ -186,4 +186,4 @@ Yes, for VAT-registered businesses — it is claimed on the next VAT return. Pri
 8. GOV.UK (DfT) — "Zero emission vehicle mandate review" consultation, published 14 August 2026 (ZEV mandate trajectory and 2030 phase-out under review). https://www.gov.uk/government/consultations/zero-emission-vehicle-mandate-review — accessed 16 September 2026
 9. legislation.gov.uk — The Vehicle Emissions Trading Schemes Order 2023 (SI 2023/1394), as amended by SI 2024/1130, SI 2025/678 and SI 2025/1101. https://www.legislation.gov.uk/uksi/2023/1394/contents — accessed 16 September 2026
 10. European Commission — Implementing Regulation (EU) 2024/2754 (countervailing duties on Chinese battery electric vehicles: BYD 17%, Geely 18.8%, SAIC 35.3% and other rates). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402754 — accessed 16 September 2026
-11. EV Hub — tariff, regulatory and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, `src/data/regulatory-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets; last verified 15 September 2026). Internal dataset.
+11. China EV Mart — tariff, regulatory and landed-cost records: `src/data/tariffs.json`, `src/data/market-master.json`, `src/data/regulatory-master.json`, `src/content/vehicles/*.md` (517 models × 30 markets; last verified 15 September 2026). Internal dataset.

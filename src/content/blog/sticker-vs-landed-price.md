@@ -124,7 +124,7 @@ Dramatically. The same BYD Seal lands at $44,413 in Germany but $31,671 in the U
 
 **Reasoning.** First, the stacking order is what produces the shock: duty, then the 17–35.3% countervailing duty on top of duty, then VAT on top of both — on a $14,020 Dolphin that compounds to $7,452 of tax before a cent of freight. Second, fixed costs punish thrift: the same ~$6,600 stack is 47% of the Dolphin's base but only 17% of a $38,000 car, which is exactly why the cheapest cars show the worst premiums (up to +209% in our records). Third, the most commonly omitted line is also the largest fixed cost: certification at $3,000–$3,250 does not shrink for a cheap car, and it does not go away if you shop harder for freight.
 
-**Disclosure.** This is my analysis of published tariff schedules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Producer rate, port and vehicle variant decide the real numbers; verify all three with a licensed forwarder before committing.
+**Disclosure.** This is my analysis of published tariff schedules and China EV Mart's landed-cost records — opinion, not a quotation or legal advice. Producer rate, port and vehicle variant decide the real numbers; verify all three with a licensed forwarder before committing.
 
 ## Related reading
 
@@ -139,4 +139,4 @@ Dramatically. The same BYD Seal lands at $44,413 in Germany but $31,671 in the U
 
 - EU common customs tariff (10%) and Implementing Regulation (EU) 2024/2754 (countervailing duties)
 - National VAT/GST rates (Germany 19%, France 20%, Netherlands 21%, UAE 5%, Saudi 15%, Australia 10%)
-- EV Hub landed-cost methodology — itemized duty/CVD/VAT/fixed-cost records for 315 models
+- China EV Mart landed-cost methodology — itemized duty/CVD/VAT/fixed-cost records for 315 models

@@ -51,7 +51,7 @@ Two notes against lazy reading of this table. The ranges are both CLTC — do no
 
 ## Head to head across six markets
 
-All landed figures from EV Hub's model; bases are China ex-factory MSRPs; premium against base shown in parentheses.
+All landed figures from China EV Mart's model; bases are China ex-factory MSRPs; premium against base shown in parentheses.
 
 | Market | MG4 landed | Dolphin landed | Dolphin costs more by |
 |---|---|---|---|
@@ -95,7 +95,7 @@ The practical lesson is the one this whole catalog keeps teaching: **rank import
 
 **Reasoning.** First, the arithmetic is unusually honest here: the German tax lines coincide within $19.69, which means the entire ranking is decided by base price — a $4,330 factory-gate advantage that no rate differential in the current table can overturn. Second, the same structure flatters the MG4 outside the EU even more cleanly, where no countervailing duty exists for either brand and the comparison reduces to light percentage stacks on two known bases. Third, the asymmetry that would keep me up at night is legal, not commercial: the MG4's European economics ride on a contested rate, so a court ruling or a review outcome reprices every unit in transit. Cheap imports are cheap until the footnote changes.
 
-**Disclosure.** This is my analysis and opinion, not verified fact, and not financial or legal advice. Landed figures are EV Hub model estimates from vehicle records updated 7 September 2026; duty rates come from the EU regulation and secondary sources cited below, checked 17 September 2026. Confirm current rates, your exact variant and your own margin position before acting.
+**Disclosure.** This is my analysis and opinion, not verified fact, and not financial or legal advice. Landed figures are China EV Mart model estimates from vehicle records updated 7 September 2026; duty rates come from the EU regulation and secondary sources cited below, checked 17 September 2026. Confirm current rates, your exact variant and your own margin position before acting.
 
 ## Sources
 
@@ -104,8 +104,8 @@ The practical lesson is the one this whole catalog keeps teaching: **rank import
 3. Reuters — "EU tariffs on imports of China-made EVs" (tariff factbox) — https://www.reuters.com/world/china/eu-tariffs-imports-china-made-evs-2026-02-11 — accessed 17 Sep 2026
 4. carwow.de — "BYD Dolphin: Test 2026, Konfigurator & Preise" (German list prices €33,990–€35,990; 427 km WLTP range shown) — https://www.carwow.de/byd/dolphin — accessed 17 Sep 2026
 5. MG (official) — MG4 EV model pages — https://www.mgmotor.eu/ — accessed 17 Sep 2026
-6. EV Hub — MG4 and BYD Dolphin vehicle records (landed-cost markets across 30 destinations; data updated 7 Sep 2026)
-7. EV Hub — `tariffs.json` and `market-master.json` (countervailing-duty rates 35.3% / 17.0%; market duty and VAT inputs; verified 15 Sep 2026)
+6. China EV Mart — MG4 and BYD Dolphin vehicle records (landed-cost markets across 30 destinations; data updated 7 Sep 2026)
+7. China EV Mart — `tariffs.json` and `market-master.json` (countervailing-duty rates 35.3% / 17.0%; market duty and VAT inputs; verified 15 Sep 2026)
 
 ## Related reading
 

@@ -12,7 +12,7 @@ tags: [xiaomi, su7, byd, han, comparison, landed-cost, flagship-sedan]
 
 The BYD Han lands cheaper than the Xiaomi SU7 in every market in this comparison: $42,897.26 against $54,504.48 in Germany — a gap of $11,607.22 — $36,875.00 against $45,150.00 in Norway, and $30,009.00 against $37,092.40 in Thailand. The two cars are five-metre-class flagship sedans within 2 mm of each other in length, so the spread is not about size: it is the $6,620 factory-gate price gap between them compounding through duty and VAT, plus Xiaomi's 20.7% EU countervailing duty against BYD's individually assessed 17.0%.
 
-Every number below is computed from the two vehicle records and the central tariff database behind EV Hub's landed-cost figures, using the formula documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
+Every number below is computed from the two vehicle records and the central tariff database behind China EV Mart's landed-cost figures, using the formula documented in the [landed-cost methodology](/docs/landed-cost-methodology/).
 
 ## Definitions
 
@@ -121,12 +121,12 @@ Fixed costs are regional benchmarks — $4,450 in the UAE to $7,250 in Norway ac
 ## Sources
 
 1. EUR-Lex — Commission Implementing Regulation (EU) 2024/2754: countervailing duties on battery electric vehicles from China — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 15 September 2026.
-2. EV Hub — Xiaomi SU7 vehicle record and 30-market landed-cost dataset (base $30,320; Germany landed $54,504.48) — /vehicles/xiaomi-su7/ — accessed 19 September 2026.
-3. EV Hub — BYD Han vehicle record and 30-market landed-cost dataset (base $23,700; Germany landed $42,897.26) — /vehicles/byd-han/ — accessed 19 September 2026.
-4. EV Hub — Central tariff database: standard duty, producer-specific countervailing-duty schedule, fixed-cost components — src/data/tariffs.json — accessed 19 September 2026.
-5. EV Hub — Market reference: per-market duty, VAT/GST, and registration fees — src/data/market-master.json — accessed 19 September 2026.
-6. EV Hub — Landed Cost Methodology: formula, compounding order, fixed-cost benchmarks — /docs/landed-cost-methodology/ — accessed 19 September 2026.
-7. EV Hub — Regional fixed-cost model (region base + registration fee) used to extend landed costs to 30 markets — scripts/extend_markets.py — accessed 19 September 2026.
+2. China EV Mart — Xiaomi SU7 vehicle record and 30-market landed-cost dataset (base $30,320; Germany landed $54,504.48) — /vehicles/xiaomi-su7/ — accessed 19 September 2026.
+3. China EV Mart — BYD Han vehicle record and 30-market landed-cost dataset (base $23,700; Germany landed $42,897.26) — /vehicles/byd-han/ — accessed 19 September 2026.
+4. China EV Mart — Central tariff database: standard duty, producer-specific countervailing-duty schedule, fixed-cost components — src/data/tariffs.json — accessed 19 September 2026.
+5. China EV Mart — Market reference: per-market duty, VAT/GST, and registration fees — src/data/market-master.json — accessed 19 September 2026.
+6. China EV Mart — Landed Cost Methodology: formula, compounding order, fixed-cost benchmarks — /docs/landed-cost-methodology/ — accessed 19 September 2026.
+7. China EV Mart — Regional fixed-cost model (region base + registration fee) used to extend landed costs to 30 markets — scripts/extend_markets.py — accessed 19 September 2026.
 
 ## Related reading
 

@@ -86,4 +86,4 @@ The US EPA cycle is the most conservative and closest to real-world motorway dri
 ## Sources
 
 - CLTC (China Light-duty Vehicle Test Cycle) and WLTP test procedure definitions
-- EV Hub catalog — range figures quoted in CLTC (manufacturer-published)
+- China EV Mart catalog — range figures quoted in CLTC (manufacturer-published)
