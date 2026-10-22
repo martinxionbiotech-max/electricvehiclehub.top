@@ -2,7 +2,9 @@
 import { getCollection, render } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { url as siteUrl } from '@/config/site';
-import { brandLabelMap, vehicleThumbAlt } from '@/lib/brand-label';
+import { vehicleThumbAlt } from '@/lib/brand-label';
+import { brandLabelMap } from '@/lib/brand-label';
+import { POWERTRAIN_ORDER, powertrainLabel } from '@/lib/powertrain';
 
 export async function getStaticPaths() {
   const brands = await getCollection('brands');
@@ -17,104 +19,176 @@ const brandEntry = brands.find((b) => b.id.replace(/\.mdx?$/, '') === slug);
 const { data } = brandEntry;
 const { Content } = await render(brandEntry);
 
-// 该品牌下的所有车型（brand 字段 = 品牌 slug）
+// 该品牌下的所有车型（brand 字段 = 品牌 slug）—— 单一数据源
 const allVehicles = await getCollection('vehicles');
 const brandMap = await brandLabelMap();
 const brandVehicles = allVehicles
   .filter((v) => v.data.brand === slug)
   .sort((a, b) => a.data.price_usd - b.data.price_usd);
 
-// Brand JSON-LD schema
+// ── 关系区分：制造商集团 vs 品牌 vs 子品牌 ──
+// parent_manufacturer 是集团/制造商，brand_name 是品牌。二者不同 → 品牌为集团旗下子品牌。
+const group = data.parent_manufacturer || data.brand_name;
+const isSubBrand =
+  group.trim().toLowerCase() !== data.brand_name.trim().toLowerCase();
+
+// ── 动力形式分布（从规范化数据集实时推导） ──
+const powertrainCounts = new Map<string, number>();
+for (const v of brandVehicles) {
+  powertrainCounts.set(v.data.powertrain, (powertrainCounts.get(v.data.powertrain) ?? 0) + 1);
+}
+const powertrainsPresent = POWERTRAIN_ORDER.filter((p) => powertrainCounts.has(p));
+
+// ── 车系（family）分组（数据驱动，仅聚合存在的 family） ──
+const familyMap = new Map<string, typeof brandVehicles>();
+for (const v of brandVehicles) {
+  const f = v.data.family || 'Ungrouped';
+  if (!familyMap.has(f)) familyMap.set(f, []);
+  familyMap.get(f)!.push(v);
+}
+const families = [...familyMap.entries()]
+  .map(([name, vs]) => ({ name, vs: vs.slice().sort((a, b) => a.data.price_usd - b.data.price_usd) }))
+  .sort((a, b) => a.vs.length - b.vs.length || a.name.localeCompare(b.name));
+
+// 车系数量（排除 "Ungrouped" 伪车系）
+const familyCount = families.filter((f) => f.name !== 'Ungrouped').length;
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: data.brand_name,
   description: data.description,
   url: siteUrl + '/brands/' + slug + '/',
-  foundingDate: data.established,
-  parentOrganization: data.parent_manufacturer
-    ? { '@type': 'Organization', name: data.parent_manufacturer, location: data.parent_location }
-    : undefined,
-};
-
-const breadcrumbLd = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
-    { '@type': 'ListItem', position: 2, name: 'Brands', item: `${siteUrl}/brands/` },
-    { '@type': 'ListItem', position: 3, name: data.brand_name },
-  ],
+  ...(data.established ? { foundingDate: data.established } : {}),
+  ...(data.parent_manufacturer
+    ? { parentOrganization: { '@type': 'Organization', name: data.parent_manufacturer } }
+    : {}),
 };
 ---
 
-<MarketingLayout title={data.brand_name} description={data.description}>
+<MarketingLayout
+  title={`${data.brand_name} — Chinese EV Brand Profile`}
+  description={data.description}
+>
   <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
       <a href="/" class="hover:text-green-600">Home</a> / <a href="/brands/" class="hover:text-green-600">Brands</a> / <span class="text-gray-700">{data.brand_name}</span>
     </nav>
 
-    <div class="flex items-center gap-5 mb-8">
+    <div class="flex items-center gap-5 mb-6">
       <div class="w-20 h-20 shrink-0 rounded-2xl bg-green-600 flex items-center justify-center text-white text-4xl font-bold">
         {data.brand_name.charAt(0)}
       </div>
       <div>
-        <h1 class="text-4xl font-bold mb-1 text-gray-900">{data.brand_name}</h1>
-        <p class="text-lg text-gray-600">Parent: {data.parent_manufacturer} · {data.parent_location} (founded {data.parent_founded})</p>
+        <h1 class="text-3xl md:text-4xl font-bold mb-1 text-gray-900">{data.brand_name}</h1>
+        <p class="text-gray-600">
+          {isSubBrand
+            ? <>Brand under <strong>{group}</strong> · {data.parent_location || 'China'}</>
+            : <>{data.brand_name} operates under its own name · {data.parent_location || 'China'}</>}
+        </p>
       </div>
     </div>
 
-    <div class="mb-6 flex flex-wrap items-center gap-2">
+    <div class="mb-8 flex flex-wrap items-center gap-2">
       <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-medium">{brandVehicles.length} models</span>
-      <span class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-medium">Est. {data.established}</span>
+      {data.established && <span class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-medium">Est. {data.established}</span>}
       {data.website && <a href={data.website} class="text-sm text-green-600 hover:underline" rel="noopener">Official website ↗</a>}
     </div>
 
+    <!-- 集团/品牌/子品牌 关系（数据驱动） -->
+    <div class="mb-8 rounded-xl border border-gray-200 overflow-hidden">
+      <table class="w-full text-sm">
+        <tbody>
+          <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700 w-2/5">Brand</td><td class="px-5 py-3 text-gray-900">{data.brand_name}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Manufacturer group</td><td class="px-5 py-3 text-gray-900">{group}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700">Relationship</td><td class="px-5 py-3 text-gray-900">{isSubBrand ? `${data.brand_name} is a brand of the ${group} group` : `${data.brand_name} is the brand name of the ${group} group`}</td></tr>
+          {data.parent_location && <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Headquarters</td><td class="px-5 py-3 text-gray-900">{data.parent_location}</td></tr>}
+          {data.parent_founded && <tr class="bg-gray-50"><td class="px-5 py-3 font-medium text-gray-700">Group founded</td><td class="px-5 py-3 text-gray-900">{data.parent_founded}</td></tr>}
+          {data.established && <tr class="bg-white"><td class="px-5 py-3 font-medium text-gray-700">Brand established</td><td class="px-5 py-3 text-gray-900">{data.established}</td></tr>}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 有源品牌背景（来自内容正文，去除 landed-cost 残留后） -->
     <div class="prose prose-lg max-w-none mb-10">
       <Content />
     </div>
 
+    <!-- 动力形式分布 -->
+    {powertrainsPresent.length > 0 && (
+      <section class="mb-10">
+        <h2 class="text-2xl font-bold mb-4 text-gray-900">Powertrain lineup</h2>
+        <div class="flex flex-wrap gap-2">
+          {powertrainsPresent.map((p) => (
+            <span class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-gray-200 rounded-full text-sm">
+              <span class="font-semibold text-gray-800">{p}</span>
+              <span class="text-gray-500">· {powertrainLabel(p)}</span>
+              <span class="ml-1 px-2 py-0.5 bg-green-600/10 text-green-700 rounded-full text-xs font-semibold">{powertrainCounts.get(p)}</span>
+            </span>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {/* 车系分组（有 family 数据的车型） */}
+    {familyCount > 0 && (
+      <section class="mb-10">
+        <h2 class="text-2xl font-bold mb-4 text-gray-900">Model families</h2>
+        <div class="space-y-4">
+          {families.filter((f) => f.name !== 'Ungrouped').map((fam) => (
+            <div class="rounded-xl border border-gray-200 overflow-hidden">
+              <div class="px-5 py-3 bg-gray-50 flex items-center justify-between">
+                <h3 class="font-semibold text-gray-800">{fam.name}</h3>
+                <span class="text-xs text-gray-500">{fam.vs.length} model{fam.vs.length > 1 ? 's' : ''}</span>
+              </div>
+              <ul class="divide-y divide-gray-100">
+                {fam.vs.map((v) => (
+                  <li class="px-5 py-3 flex items-center justify-between gap-3">
+                    <a href={`/vehicles/${v.data.slug}/`} class="text-green-700 hover:underline font-medium">{v.data.title}</a>
+                    <span class="text-xs text-gray-500">{v.data.type} · {v.data.powertrain}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {/* 全部车型（规范化数据集：动力 + 续航标准 + 价格口径，无 landed-cost） */}
     {brandVehicles.length > 0 && (
       <section class="mb-10">
-        <h2 class="text-2xl font-bold mb-6 text-gray-900">{data.brand_name} Models ({brandVehicles.length})</h2>
+        <h2 class="text-2xl font-bold mb-4 text-gray-900">{data.brand_name} models ({brandVehicles.length})</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {brandVehicles.map((v) => {
-            const lc = v.data.landed_cost;
-            const landed = lc?.total_landed_usd ?? 0;
-            const premium = lc?.premium_pct ?? 0;
-            return (
-              <a href={`/vehicles/${v.data.slug}/`} class="flex items-center gap-4 p-4 border border-gray-200 rounded-xl bg-white hover:border-green-500/60 hover:shadow-md transition group">
-                {v.data.image && (
-                  <div class="w-24 h-18 shrink-0 rounded-lg overflow-hidden bg-gray-100 aspect-[4/3]">
-                    <img src={v.data.image} alt={vehicleThumbAlt(v.data, brandMap)} loading="lazy" width="96" height="72" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
-                  </div>
-                )}
-                <div class="min-w-0 flex-1">
-                  <h3 class="font-semibold text-gray-900 group-hover:text-green-600 transition">{v.data.title}</h3>
-                  <div class="text-xs text-gray-500 mt-0.5">{v.data.type}
-                    {v.data.range_cltc_km && <> · {v.data.range_cltc_km} km</>}
-                    {v.data.battery_kwh && <> · {v.data.battery_kwh} kWh</>}
-                  </div>
-                  <div class="mt-1 text-sm">
-                    <span class="font-bold text-gray-900">${v.data.price_usd.toLocaleString()}</span>
-                    {landed > 0 && (
-                      <span class="text-gray-500 text-xs ml-2">Landed DE <span class="text-green-600 font-semibold">${landed.toLocaleString()}</span> (+{premium}%)</span>
-                    )}
-                  </div>
+          {brandVehicles.map((v) => (
+            <a href={`/vehicles/${v.data.slug}/`} class="flex items-center gap-4 p-4 border border-gray-200 rounded-xl bg-white hover:border-green-500/60 hover:shadow-md transition group">
+              {v.data.image && (
+                <div class="w-24 h-18 shrink-0 rounded-lg overflow-hidden bg-gray-100 aspect-[4/3]">
+                  <img src={v.data.image} alt={vehicleThumbAlt(v.data, brandMap)} loading="lazy" width="96" height="72" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
                 </div>
-                <svg class="w-5 h-5 text-gray-300 group-hover:text-green-600 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
-              </a>
-            );
-          })}
+              )}
+              <div class="min-w-0 flex-1">
+                <h3 class="font-semibold text-gray-900 group-hover:text-green-600 transition">{v.data.title}</h3>
+                <div class="text-xs text-gray-500 mt-0.5">
+                  {v.data.type} · {v.data.powertrain}
+                  {v.data.range_cltc_km && <> · {v.data.range_cltc_km} km CLTC</>}
+                </div>
+                <div class="mt-1 text-sm">
+                  <span class="font-bold text-gray-900">${v.data.price_usd.toLocaleString()}</span>
+                  <span class="text-gray-500 text-xs ml-1.5">ex-factory</span>
+                </div>
+              </div>
+              <svg class="w-5 h-5 text-gray-300 group-hover:text-green-600 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+            </a>
+          ))}
         </div>
       </section>
     )}
 
     <div class="border-t pt-6 text-sm text-gray-500">
-      Author: Wei Wang (EV & Battery Industry Analyst) · Chengguang Energy · Updated {data.publishedDate.toISOString().split('T')[0]} · <a href="/contact/" class="text-green-700 hover:underline">Contact</a>
+      Author: Wei Wang (EV &amp; Battery Industry Analyst) · Chengguang Energy · Updated {data.publishedDate ? data.publishedDate.toISOString().split('T')[0] : '2026-09-05'} · <a href="/contact/" class="text-green-700 hover:underline">Contact</a>
     </div>
   </article>
 </MarketingLayout>
 
 <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
