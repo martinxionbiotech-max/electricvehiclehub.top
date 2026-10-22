@@ -6,6 +6,7 @@ brand: "wuling"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 9410.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 325
 battery_kwh: 31.9

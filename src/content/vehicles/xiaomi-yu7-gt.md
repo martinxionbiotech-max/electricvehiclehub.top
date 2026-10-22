@@ -6,6 +6,7 @@ brand: "xiaomi"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 54150.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 705.0
 battery_kwh: 101.7

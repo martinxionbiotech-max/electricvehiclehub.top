@@ -6,6 +6,7 @@ brand: "hyptec"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 37470.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 350.0
 battery_kwh: 60.33

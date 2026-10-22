@@ -6,6 +6,7 @@ brand: "chery-new-energy"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 22210.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 512.0
 battery_kwh: 67.12

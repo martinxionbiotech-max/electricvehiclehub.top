@@ -6,6 +6,7 @@ brand: "baojun"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 11380.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 303
 battery_kwh: 28.1

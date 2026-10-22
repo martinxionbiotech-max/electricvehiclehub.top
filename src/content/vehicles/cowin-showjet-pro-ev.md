@@ -6,6 +6,7 @@ brand: "cowin"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 18320.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 401.0
 battery_kwh: 53.6

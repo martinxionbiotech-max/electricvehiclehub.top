@@ -6,6 +6,7 @@ brand: "li-auto"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 35180.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 720
 battery_kwh: 87.3

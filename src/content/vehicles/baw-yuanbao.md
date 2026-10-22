@@ -6,6 +6,7 @@ brand: "baw"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 4130.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 120.0
 battery_kwh: 9.6

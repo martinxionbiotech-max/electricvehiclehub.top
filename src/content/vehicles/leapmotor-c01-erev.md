@@ -6,6 +6,7 @@ brand: "leapmotor"
 type: "Sedan"
 powertrain: "EREV"
 price_usd: 20250.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 216.0
 battery_kwh: 30.1

@@ -6,6 +6,7 @@ brand: "arcfox"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 15810.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 215.0
 battery_kwh: 27.4

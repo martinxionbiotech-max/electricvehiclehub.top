@@ -6,6 +6,7 @@ brand: "im"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 30690.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 760
 range_long_km: 802

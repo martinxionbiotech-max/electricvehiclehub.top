@@ -6,6 +6,7 @@ brand: "deepal"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 20550.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 530
 range_long_km: 660

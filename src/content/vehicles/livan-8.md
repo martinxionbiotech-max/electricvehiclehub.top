@@ -6,6 +6,7 @@ brand: "livan"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 19140.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 515.0
 battery_kwh: 68.03

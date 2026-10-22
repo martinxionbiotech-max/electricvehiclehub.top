@@ -6,6 +6,7 @@ brand: "geely"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 22490.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 245
 battery_kwh: 41.2

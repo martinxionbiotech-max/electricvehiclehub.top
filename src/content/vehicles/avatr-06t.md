@@ -6,6 +6,7 @@ brand: "avatr"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 30540.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 652.0
 battery_kwh: 75.46

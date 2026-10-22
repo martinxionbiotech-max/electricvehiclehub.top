@@ -6,6 +6,7 @@ brand: "wuling"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 14620.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 500
 battery_kwh: 60

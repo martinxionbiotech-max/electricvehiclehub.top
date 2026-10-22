@@ -6,6 +6,7 @@ brand: "xiaomi"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 73600.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 630.0
 battery_kwh: 93.7

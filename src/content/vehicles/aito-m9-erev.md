@@ -6,6 +6,7 @@ brand: "aito"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 65250.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 225.0
 battery_kwh: 42.0

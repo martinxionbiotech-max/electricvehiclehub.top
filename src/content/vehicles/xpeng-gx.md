@@ -6,6 +6,7 @@ brand: "xpeng"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 38860.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 430.0
 range_long_km: 1585.0

@@ -6,6 +6,7 @@ brand: "forthing"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 21390.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 530
 battery_kwh: 64.4

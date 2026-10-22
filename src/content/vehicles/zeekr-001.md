@@ -6,6 +6,7 @@ brand: "zeekr"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 38000.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 710
 battery_kwh: 95.0

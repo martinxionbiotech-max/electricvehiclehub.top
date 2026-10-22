@@ -6,6 +6,7 @@ brand: "wey"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 32250.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 130
 battery_kwh: 34.0

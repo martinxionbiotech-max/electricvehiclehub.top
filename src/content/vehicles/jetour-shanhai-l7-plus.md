@@ -6,6 +6,7 @@ brand: "jetour"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 21100.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 220
 battery_kwh: 32.66

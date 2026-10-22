@@ -6,6 +6,7 @@ brand: "icaur"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 19420.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 length_mm: 4432.0
 width_mm: 1916.0

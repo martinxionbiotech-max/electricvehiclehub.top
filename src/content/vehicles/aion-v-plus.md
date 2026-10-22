@@ -6,6 +6,7 @@ brand: "aion"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 20820.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 motor_power_kw: 135.0
 length_mm: 4650.0

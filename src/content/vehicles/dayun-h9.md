@@ -6,6 +6,7 @@ brand: "dayun"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 56920.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 650.0
 range_long_km: 950.0

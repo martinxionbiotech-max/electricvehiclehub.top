@@ -6,6 +6,7 @@ brand: "byd"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 13880.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 motor_power_kw: 240.0
 accel_0_100_s: 5.9

@@ -6,6 +6,7 @@ brand: "seres"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 32890.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 battery_kwh: 40.0
 length_mm: 4700.0

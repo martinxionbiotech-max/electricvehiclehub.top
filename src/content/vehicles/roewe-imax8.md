@@ -6,6 +6,7 @@ brand: "roewe"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 28150.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 570
 battery_kwh: 90

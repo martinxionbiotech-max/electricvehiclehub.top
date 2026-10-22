@@ -6,6 +6,7 @@ brand: "aito"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 50680.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 705
 battery_kwh: 100

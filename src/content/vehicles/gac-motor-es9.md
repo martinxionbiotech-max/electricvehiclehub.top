@@ -6,6 +6,7 @@ brand: "gac-motor"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 32370.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 143
 battery_kwh: 25.57

@@ -6,6 +6,7 @@ brand: "m-hero"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 89820.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 505
 battery_kwh: 142.7

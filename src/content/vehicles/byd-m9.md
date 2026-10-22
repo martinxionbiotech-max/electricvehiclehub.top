@@ -6,6 +6,7 @@ brand: "byd"
 type: "MPV"
 powertrain: "PHEV"
 price_usd: 32370.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 180
 battery_kwh: 20.39

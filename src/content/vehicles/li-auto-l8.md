@@ -6,6 +6,7 @@ brand: "li-auto"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 45190.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 430
 battery_kwh: 42.8

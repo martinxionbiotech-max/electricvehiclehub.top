@@ -6,6 +6,7 @@ brand: "geometry"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 24420.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 410.0
 battery_kwh: 46.1

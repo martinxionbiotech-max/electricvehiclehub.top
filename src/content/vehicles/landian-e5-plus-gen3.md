@@ -6,6 +6,7 @@ brand: "landian"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 19420.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 230.0
 range_long_km: 1200.0

@@ -6,6 +6,7 @@ brand: "jac-refine"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 24970.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 440.0
 range_long_km: 540.0

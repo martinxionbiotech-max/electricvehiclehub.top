@@ -6,6 +6,7 @@ brand: "forthing"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 18040.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 230.0
 motor_power_kw: 120.0

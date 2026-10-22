@@ -6,6 +6,7 @@ brand: "changan"
 type: "SUV"
 powertrain: "ICE"
 price_usd: 8400.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: null
 accel_0_100_s: 14.2

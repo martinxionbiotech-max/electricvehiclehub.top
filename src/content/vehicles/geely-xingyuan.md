@@ -6,6 +6,7 @@ brand: "geely"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 9000.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 310.0
 battery_kwh: 30.12

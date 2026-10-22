@@ -6,6 +6,7 @@ brand: "im"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 29850.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 370.0
 battery_kwh: 52.0

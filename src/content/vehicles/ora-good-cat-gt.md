@@ -6,6 +6,7 @@ brand: "ora"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 13440.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 430.0
 battery_kwh: 45.9

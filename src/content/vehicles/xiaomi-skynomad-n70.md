@@ -6,6 +6,7 @@ brand: "xiaomi"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 29150.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 351.0
 range_long_km: 1351.0

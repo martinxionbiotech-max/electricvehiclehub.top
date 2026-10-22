@@ -6,6 +6,7 @@ brand: "roewe"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 18280.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 135
 battery_kwh: 21.4

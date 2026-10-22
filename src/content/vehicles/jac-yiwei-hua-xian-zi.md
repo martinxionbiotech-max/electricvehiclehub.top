@@ -6,6 +6,7 @@ brand: "jac-yiwei"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 8440.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 301
 battery_kwh: 30.2

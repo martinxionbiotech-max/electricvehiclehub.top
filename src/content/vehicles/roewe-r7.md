@@ -6,6 +6,7 @@ brand: "roewe"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 22210.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 battery_kwh: 90.0
 motor_power_kw: 250.0

@@ -6,6 +6,7 @@ brand: "leapmotor"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 30530.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 400.0
 range_long_km: 500.0

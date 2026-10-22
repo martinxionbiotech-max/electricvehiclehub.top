@@ -6,6 +6,7 @@ brand: "geely-galaxy"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 19430.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 640.0
 battery_kwh: 63.8

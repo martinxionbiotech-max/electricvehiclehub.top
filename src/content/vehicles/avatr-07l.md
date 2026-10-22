@@ -6,6 +6,7 @@ brand: "avatr"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 31930.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 725.0
 battery_kwh: 89.33

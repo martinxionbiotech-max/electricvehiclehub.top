@@ -6,6 +6,7 @@ brand: "leapmotor"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 12610.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 430
 battery_kwh: 43.9

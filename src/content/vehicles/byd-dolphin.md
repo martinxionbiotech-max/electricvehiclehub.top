@@ -6,6 +6,7 @@ brand: "byd"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 14020.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 418
 battery_kwh: 45.12

@@ -6,6 +6,7 @@ brand: "hycan"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 36080.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 523.0
 battery_kwh: 73.0

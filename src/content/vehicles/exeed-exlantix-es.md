@@ -6,6 +6,7 @@ brand: "exeed"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 21520.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 905
 battery_kwh: 97.7

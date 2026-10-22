@@ -6,6 +6,7 @@ brand: "dongfeng-e"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 23580.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 fast_charge: null
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 37466.22, "premium_pct": 58.9, "breakdown": {"duty_cif_usd": 2358.0, "countervailing_duty_usd": 0.0, "vat_usd": 4928.22, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}

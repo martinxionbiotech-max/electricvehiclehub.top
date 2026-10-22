@@ -6,6 +6,7 @@ brand: "oshan"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 23170.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 battery_kwh: 57.9
 motor_power_kw: 90.0

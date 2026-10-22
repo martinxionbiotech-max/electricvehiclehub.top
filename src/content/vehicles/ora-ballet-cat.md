@@ -6,6 +6,7 @@ brand: "ora"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 21100.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 401
 battery_kwh: 49.92

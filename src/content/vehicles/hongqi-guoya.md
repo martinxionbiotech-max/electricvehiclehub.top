@@ -6,6 +6,7 @@ brand: "hongqi"
 type: "Sedan"
 powertrain: "HEV"
 price_usd: 197180.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: null
 motor_power_kw: 160

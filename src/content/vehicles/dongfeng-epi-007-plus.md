@@ -6,6 +6,7 @@ brand: "dongfeng-e"
 type: "Sedan"
 powertrain: "EREV"
 price_usd: 18040.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 length_mm: 4880.0
 width_mm: 1895.0

@@ -6,6 +6,7 @@ brand: "aion"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 20820.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 510.0
 battery_kwh: 59.5

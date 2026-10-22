@@ -6,6 +6,7 @@ brand: "changan"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 15680.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 125.0
 battery_kwh: 18.4

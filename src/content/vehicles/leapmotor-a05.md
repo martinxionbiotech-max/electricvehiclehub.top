@@ -6,6 +6,7 @@ brand: "leapmotor"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 8880.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 405.0
 range_long_km: 510.0

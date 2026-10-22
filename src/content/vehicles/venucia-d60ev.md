@@ -6,6 +6,7 @@ brand: "venucia"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 19420.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 450.0
 battery_kwh: 58.0

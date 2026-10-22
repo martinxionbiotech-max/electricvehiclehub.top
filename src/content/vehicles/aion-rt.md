@@ -6,6 +6,7 @@ brand: "aion"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 14060.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 520
 battery_kwh: 55.1

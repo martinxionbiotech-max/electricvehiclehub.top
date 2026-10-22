@@ -6,6 +6,7 @@ brand: "hyptec"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 27760.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 660.0
 motor_power_kw: 250.0

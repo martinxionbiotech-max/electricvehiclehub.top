@@ -6,6 +6,7 @@ brand: "yangwang"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 154650.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 180
 battery_kwh: 49.05

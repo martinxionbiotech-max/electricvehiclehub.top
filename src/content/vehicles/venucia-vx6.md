@@ -6,6 +6,7 @@ brand: "venucia"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 18740.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 520.0
 battery_kwh: 62.0

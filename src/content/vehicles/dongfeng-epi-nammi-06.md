@@ -6,6 +6,7 @@ brand: "dongfeng-e"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 12660.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 401
 battery_kwh: 44.94

@@ -6,6 +6,7 @@ brand: "mg"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 9690.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 437
 battery_kwh: 42.8

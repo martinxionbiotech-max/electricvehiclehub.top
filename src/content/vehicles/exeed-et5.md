@@ -6,6 +6,7 @@ brand: "exeed"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 20120.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 210.0
 motor_power_kw: 195.0

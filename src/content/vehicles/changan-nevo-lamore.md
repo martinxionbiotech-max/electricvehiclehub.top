@@ -6,6 +6,7 @@ brand: "changan"
 type: "Sedan"
 powertrain: "ICE"
 price_usd: 11110.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: null
 battery_kwh: null

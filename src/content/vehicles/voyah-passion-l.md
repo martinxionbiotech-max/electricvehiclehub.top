@@ -6,6 +6,7 @@ brand: "voyah"
 type: "Sedan"
 powertrain: "PHEV"
 price_usd: 38880.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 410.0
 battery_kwh: 63.0

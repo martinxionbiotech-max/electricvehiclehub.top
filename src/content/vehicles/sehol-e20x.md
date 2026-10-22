@@ -6,6 +6,7 @@ brand: "sehol"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 17780.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 402.0
 battery_kwh: 49.5

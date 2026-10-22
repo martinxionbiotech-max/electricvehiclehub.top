@@ -6,6 +6,7 @@ brand: "m-hero"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 88570.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 200.0
 battery_kwh: 65.8

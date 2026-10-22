@@ -6,6 +6,7 @@ brand: "arcfox"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 8850.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 320
 battery_kwh: 33.4

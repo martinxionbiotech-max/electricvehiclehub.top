@@ -6,6 +6,7 @@ brand: "xpeng"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 24830.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 625
 battery_kwh: 68.5

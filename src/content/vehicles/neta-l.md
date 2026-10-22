@@ -6,6 +6,7 @@ brand: "neta"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 18040.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 310.0
 battery_kwh: 40.3

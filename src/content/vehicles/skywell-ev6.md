@@ -6,6 +6,7 @@ brand: "skywell"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 21110.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 410.0
 range_long_km: 520.0

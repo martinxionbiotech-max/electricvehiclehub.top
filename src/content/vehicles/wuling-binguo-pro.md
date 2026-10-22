@@ -6,6 +6,7 @@ brand: "wuling"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 8170.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 330.0
 range_long_km: 403.0

@@ -6,6 +6,7 @@ brand: "chery-fulwin"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 16890.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 215
 battery_kwh: 33.68

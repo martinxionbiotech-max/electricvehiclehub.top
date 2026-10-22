@@ -6,6 +6,7 @@ brand: "geely-galaxy"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 41650.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 570.0
 battery_kwh: 100.0

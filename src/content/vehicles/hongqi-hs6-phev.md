@@ -6,6 +6,7 @@ brand: "hongqi"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 25180.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 148
 battery_kwh: 23.0

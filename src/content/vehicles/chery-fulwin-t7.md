@@ -6,6 +6,7 @@ brand: "chery-fulwin"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 13600.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 600.0
 battery_kwh: 65.05

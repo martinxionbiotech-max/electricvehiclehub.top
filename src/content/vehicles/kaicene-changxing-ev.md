@@ -6,6 +6,7 @@ brand: "kaicene"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 18500.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 motor_power_kw: 90.0
 length_mm: 4510.0

@@ -6,6 +6,7 @@ brand: "byd"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 23770.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 450
 battery_kwh: 52.8

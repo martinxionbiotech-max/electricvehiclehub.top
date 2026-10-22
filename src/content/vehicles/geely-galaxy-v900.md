@@ -6,6 +6,7 @@ brand: "geely-galaxy"
 type: "MPV"
 powertrain: "EREV"
 price_usd: 37470.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 202.0
 battery_kwh: 50.0

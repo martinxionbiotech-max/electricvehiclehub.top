@@ -6,6 +6,7 @@ brand: "jmc"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 7330.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 length_mm: 3720.0
 width_mm: 1640.0

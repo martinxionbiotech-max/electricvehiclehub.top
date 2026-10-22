@@ -1,11 +1,12 @@
 ---
 title: "BYD Han"
-description: "BYD's BYD Han is a sedan fully electric with a CLTC-rated range of 605 km, 72 kWh of battery, 200 kW peak output, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
+description: "BYD's BYD Han is a sedan fully electric with a CLTC-rated range of 605 km, 76.9 kWh of battery, 200 kW peak output, and LFP (Blade) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "byd-han"
 brand: "byd"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 23700.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 605
 range_long_km: 715

@@ -6,6 +6,7 @@ brand: "bestune"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 3500.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 122
 battery_kwh: 9.4

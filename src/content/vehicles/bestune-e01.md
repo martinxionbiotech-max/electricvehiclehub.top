@@ -6,6 +6,7 @@ brand: "bestune"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 27330.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_long_km: 450.0
 battery_kwh: 61.34

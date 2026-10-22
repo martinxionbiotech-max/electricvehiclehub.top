@@ -6,6 +6,7 @@ brand: "geometry"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 18030.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 400.0
 battery_kwh: 53.0

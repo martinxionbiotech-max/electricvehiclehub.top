@@ -6,6 +6,7 @@ brand: "wuling"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 11240.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 510
 battery_kwh: 54.3

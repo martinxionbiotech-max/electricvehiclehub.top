@@ -6,6 +6,7 @@ brand: "hycan"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 44280.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 620.0
 battery_kwh: 92.0

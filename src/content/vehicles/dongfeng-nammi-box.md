@@ -6,6 +6,7 @@ brand: "dongfeng-nammi"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 7600.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 331.0
 battery_kwh: 27.2

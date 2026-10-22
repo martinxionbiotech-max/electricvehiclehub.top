@@ -6,6 +6,7 @@ brand: "avatr"
 type: "Sedan"
 powertrain: "EREV"
 price_usd: 29150.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 230.0
 battery_kwh: 31.7

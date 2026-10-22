@@ -6,6 +6,7 @@ brand: "geely-galaxy"
 type: "SUV"
 powertrain: "HEV"
 price_usd: 17850.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: null
 motor_power_kw: 100

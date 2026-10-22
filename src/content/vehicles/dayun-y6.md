@@ -6,6 +6,7 @@ brand: "dayun"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 45810.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 720.0
 range_long_km: 1020.0

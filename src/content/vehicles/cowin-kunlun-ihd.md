@@ -6,6 +6,7 @@ brand: "cowin"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 22210.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 motor_power_kw: 150.0
 length_mm: 4738.0

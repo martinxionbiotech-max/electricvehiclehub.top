@@ -6,6 +6,7 @@ brand: "chery-new-energy"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 11960.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 301
 battery_kwh: 28.86

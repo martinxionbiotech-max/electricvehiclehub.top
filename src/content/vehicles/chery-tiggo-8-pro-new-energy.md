@@ -6,6 +6,7 @@ brand: "chery"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 19150.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 100.0
 motor_power_kw: 125.0

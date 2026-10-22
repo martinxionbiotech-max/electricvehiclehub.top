@@ -6,6 +6,7 @@ brand: "denza"
 type: "Sedan"
 powertrain: "PHEV"
 price_usd: 46500.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 201.0
 battery_kwh: 38.5

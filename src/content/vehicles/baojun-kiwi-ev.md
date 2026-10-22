@@ -6,6 +6,7 @@ brand: "baojun"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 12370.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 305
 battery_kwh: 31.9

@@ -6,6 +6,7 @@ brand: "xpeng"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 30870.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 702
 battery_kwh: 74.9

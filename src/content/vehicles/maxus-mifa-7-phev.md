@@ -6,6 +6,7 @@ brand: "maxus"
 type: "MPV"
 powertrain: "PHEV"
 price_usd: 27760.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 battery_kwh: 24.7
 motor_power_kw: 176.0

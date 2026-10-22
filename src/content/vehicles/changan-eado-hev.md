@@ -6,6 +6,7 @@ brand: "changan"
 type: "Sedan"
 powertrain: "HEV"
 price_usd: 11100.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 motor_power_kw: 180.0
 length_mm: 4785.0

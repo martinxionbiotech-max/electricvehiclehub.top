@@ -6,6 +6,7 @@ brand: "nio"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 64510.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 635
 battery_kwh: 100.0

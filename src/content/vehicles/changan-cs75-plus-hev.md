@@ -6,6 +6,7 @@ brand: "changan"
 type: "SUV"
 powertrain: "HEV"
 price_usd: 15260.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 motor_power_kw: 180.0
 length_mm: 4770.0

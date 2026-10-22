@@ -6,6 +6,7 @@ brand: "changan-nevo"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 19700.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 710
 battery_kwh: 79.97

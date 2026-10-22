@@ -6,6 +6,7 @@ brand: "denza"
 type: "MPV"
 powertrain: "PHEV"
 price_usd: 47190.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 98.0
 battery_kwh: 20.39

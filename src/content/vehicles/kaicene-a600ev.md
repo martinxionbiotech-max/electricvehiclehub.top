@@ -6,6 +6,7 @@ brand: "kaicene"
 type: "MPV"
 powertrain: "BEV"
 price_usd: 21100.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 402
 battery_kwh: 56.68

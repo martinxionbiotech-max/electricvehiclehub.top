@@ -6,6 +6,7 @@ brand: "geely-galaxy"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 5540.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 200.0
 battery_kwh: 17.03

@@ -6,6 +6,7 @@ brand: "oshan"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 21640.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 150.0
 battery_kwh: 28.4

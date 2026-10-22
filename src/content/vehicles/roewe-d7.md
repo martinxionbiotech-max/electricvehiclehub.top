@@ -6,6 +6,7 @@ brand: "roewe"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 17440.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 610
 battery_kwh: 68.5

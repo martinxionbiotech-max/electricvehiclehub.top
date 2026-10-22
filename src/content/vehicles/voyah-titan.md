@@ -6,6 +6,7 @@ brand: "voyah"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 53510.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 370
 battery_kwh: 65.0

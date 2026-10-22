@@ -6,6 +6,7 @@ brand: "gac-motor"
 type: "SUV"
 powertrain: "HEV"
 price_usd: 21100.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: null
 motor_power_kw: 134

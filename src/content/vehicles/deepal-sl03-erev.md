@@ -6,6 +6,7 @@ brand: "deepal"
 type: "Sedan"
 powertrain: "EREV"
 price_usd: 16650.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 140.0
 battery_kwh: 18.99

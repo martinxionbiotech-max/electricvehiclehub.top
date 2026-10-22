@@ -6,6 +6,7 @@ brand: "gac-motor"
 type: "MPV"
 powertrain: "PHEV"
 price_usd: 43040.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 fast_charge: null
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 62939.36, "premium_pct": 46.2, "breakdown": {"duty_cif_usd": 4304.0, "countervailing_duty_usd": 0.0, "vat_usd": 8995.36, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}

@@ -6,6 +6,7 @@ brand: "tank"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 47180.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 120
 battery_kwh: 37.1

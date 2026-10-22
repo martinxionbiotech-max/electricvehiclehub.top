@@ -6,6 +6,7 @@ brand: "geely-galaxy"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 25890.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 230
 battery_kwh: 41.46

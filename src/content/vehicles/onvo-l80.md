@@ -6,6 +6,7 @@ brand: "onvo"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 33720.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 605.0
 battery_kwh: 85.1

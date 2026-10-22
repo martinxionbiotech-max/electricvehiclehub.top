@@ -6,6 +6,7 @@ brand: "lynk-co"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 43650.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 280
 battery_kwh: 44.85

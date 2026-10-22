@@ -6,6 +6,7 @@ brand: "firefly"
 type: "Hatchback"
 powertrain: "BEV"
 price_usd: 16870.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 420
 battery_kwh: 42.1

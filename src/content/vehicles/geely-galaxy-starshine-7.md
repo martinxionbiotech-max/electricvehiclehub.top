@@ -6,6 +6,7 @@ brand: "geely-galaxy"
 type: "Sedan"
 powertrain: "PHEV"
 price_usd: 13720.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 220.0
 length_mm: 4958.0

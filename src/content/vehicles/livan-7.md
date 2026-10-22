@@ -6,6 +6,7 @@ brand: "livan"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 16350.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 450.0
 range_long_km: 605.0

@@ -6,6 +6,7 @@ brand: "saic"
 type: "SUV"
 powertrain: "EREV"
 price_usd: 22190.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 235.0
 battery_kwh: 32.6

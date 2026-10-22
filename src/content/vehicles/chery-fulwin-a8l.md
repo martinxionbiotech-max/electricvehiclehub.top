@@ -6,6 +6,7 @@ brand: "chery-fulwin"
 type: "Sedan"
 powertrain: "PHEV"
 price_usd: 15260.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 145.0
 range_long_km: 2100.0

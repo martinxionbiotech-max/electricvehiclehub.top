@@ -6,6 +6,7 @@ brand: "byd"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 19130.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 605
 battery_kwh: 87.04

@@ -6,6 +6,7 @@ brand: "aeolus"
 type: "SUV"
 powertrain: "PHEV"
 price_usd: 18300.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 185
 battery_kwh: 18.1

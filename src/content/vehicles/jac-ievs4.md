@@ -6,6 +6,7 @@ brand: "jac"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 19380.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 470.0
 battery_kwh: 66.0

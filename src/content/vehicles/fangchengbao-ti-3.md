@@ -6,6 +6,7 @@ brand: "fangchengbao"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 18850.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 range_cltc_km: 501
 battery_kwh: 65.28

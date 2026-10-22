@@ -6,6 +6,7 @@ brand: "jac"
 type: "Sedan"
 powertrain: "BEV"
 price_usd: 19380.0
+price_type: "China ex-factory reference price"
 currency: "USD"
 battery_kwh: 44.5
 motor_power_kw: 92.0
