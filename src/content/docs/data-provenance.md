@@ -64,6 +64,10 @@ The template on every vehicle page renders `data_source`, `data_updated`, `data_
 - No vehicle file was batch-modified as part of this step.
 - New or hand-fixed records (e.g. Hongqi Guoya powertrain, verified 2026-09-24) record the verification date in `data_source` / `data_updated`.
 
+## Statement-layer convention
+
+In addition to source provenance, every substantive technical or regulatory statement on China EV Mart carries one of four **claim layers** — `Fact`, `Manufacturer claim`, `Editorial interpretation`, or `Estimate` — so a reader can tell a verifiable statement from a manufacturer's assertion, our judgement, or a derived figure. The convention and its definitions are published on the [Data & Editorial Methodology](/methodology/) page and applied throughout the [glossary](/docs/glossary/).
+
 ## Related
 
 - [QA gate](/docs/) — `scripts/qa_data.py` (SOURCE QA flags missing `data_source`)

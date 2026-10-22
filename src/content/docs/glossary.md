@@ -10,6 +10,15 @@ draft: false
 
 The language of vehicle importing is dense with acronyms and terms of art. This glossary defines the ones you'll actually encounter, in plain English.
 
+## How to read this glossary
+
+Every technical or regulatory statement below carries one of four labels, so you can tell at a glance how much to trust it. The full convention is published on the [Data & Editorial Methodology](/methodology/) page.
+
+- **[Fact]** — verifiable against a primary or regulatory source (a standard, a regulation, an official datasheet).
+- **[Manufacturer claim]** — asserted by a manufacturer and not independently re-measured by us.
+- **[Editorial interpretation]** — our analysis and judgement, stated as such.
+- **[Estimate]** — a derived or benchmark figure, not a measured or quoted value.
+
 ## Cost & pricing terms
 
 **FOB (Free on Board)** — The price of the vehicle at the origin port, excluding ocean freight and insurance. The seller's responsibility ends when the vehicle is loaded on the ship.
@@ -72,27 +81,27 @@ The language of vehicle importing is dense with acronyms and terms of art. This 
 
 ## Range & specification terms
 
-**CLTC (China Light-duty vehicle Test Cycle)** — China's range test standard, which typically reports 15–30% higher figures than real-world use.
+**CLTC (China Light-duty vehicle Test Cycle)** — China's range test standard, which typically reports 15–30% higher figures than real-world use. *[Fact — GB/T 38146 series; the 15–30% gap is an editorial estimate based on published CLTC-vs-real-world comparisons.]*
 
-**WLTP (Worldwide Harmonised Light vehicles Test Procedure)** — The EU's range test standard, closer to real-world conditions.
+**WLTP (Worldwide Harmonised Light vehicles Test Procedure)** — The EU's range test standard, closer to real-world conditions. *[Fact — UNECE Global Technical Regulation No. 15.]*
 
-**NEDC (New European Driving Cycle)** — An older EU test standard, now largely superseded by WLTP.
+**NEDC (New European Driving Cycle)** — An older EU test standard, now largely superseded by WLTP. *[Fact — UNECE Regulation No. 101.]*
 
 ## Technology terms
 
-**Battery chemistry** — The cathode/electrolyte cell composition of the traction pack. The two dominant chemistries in Chinese EVs are **LFP (lithium iron phosphate)** — cheaper, more cycle-stable, cobalt-free — and **NMC (nickel-manganese-cobalt)** — higher energy density, longer range per kg. A single model may offer both across trims.
+**Battery chemistry** — The cathode/electrolyte cell composition of the traction pack. The two dominant chemistries in Chinese EVs are **LFP (lithium iron phosphate)** — cheaper, more cycle-stable, cobalt-free — and **NMC (nickel-manganese-cobalt)** — higher energy density, longer range per kg. A single model may offer both across trims. *[Fact — established battery chemistry; specific model chemistries are recorded per-vehicle from manufacturer data.]*
 
-**Motor type** — The electric traction machine architecture. **PMSM (permanent-magnet synchronous motor)** dominates for efficiency and power density; **induction (asynchronous) motors** are common on a front axle for dual-motor all-wheel-drive layouts.
+**Motor type** — The electric traction machine architecture. **PMSM (permanent-magnet synchronous motor)** dominates for efficiency and power density; **induction (asynchronous) motors** are common on a front axle for dual-motor all-wheel-drive layouts. *[Editorial interpretation — a general industry pattern, not a measured claim about any one vehicle.]*
 
-**Drive architecture** — The powered-wheel layout: **RWD** (rear-wheel drive), **FWD** (front-wheel drive), or **AWD** (dual-motor all-wheel drive).
+**Drive architecture** — The powered-wheel layout: **RWD** (rear-wheel drive), **FWD** (front-wheel drive), or **AWD** (dual-motor all-wheel drive). *[Fact — per-vehicle field.]*
 
-**Charging interface** — The physical inlet and protocol on the vehicle. China-market cars use the **GB/T** standard (AC + DC); export destinations such as the EU use **CCS2 (DC) / Type 2 (AC)**. See also [CCS2 vs GB/T](/blog/ccs2-vs-gbt-charging/).
+**Charging interface** — The physical inlet and protocol on the vehicle. China-market cars use the **GB/T** standard (AC + DC); export destinations such as the EU use **CCS2 (DC) / Type 2 (AC)**. *[Fact — GB/T 20234 (China) and IEC 62196 / CCS2 (EU).]* See also [CCS2 vs GB/T](/blog/ccs2-vs-gbt-charging/).
 
-**Battery thermal management** — How the pack is kept in its optimal temperature window: air-cooled, liquid-cooled, or refrigerant-cooled. Liquid cooling is standard on modern Chinese EVs.
+**Battery thermal management** — How the pack is kept in its optimal temperature window: air-cooled, liquid-cooled, or refrigerant-cooled. Liquid cooling is standard on modern Chinese EVs. *[Editorial interpretation — a general observation, not a measured claim.]*
 
-**Heat pump** — An efficiency feature that scavenges heat from the ambient air and drivetrain to warm the cabin, reducing winter range loss versus a resistive heater.
+**Heat pump** — An efficiency feature that scavenges heat from the ambient air and drivetrain to warm the cabin, reducing winter range loss versus a resistive heater. *[Fact — the mechanism; per-vehicle fitment is recorded from manufacturer data.]*
 
-**Drag coefficient (Cd)** — A dimensionless measure of aerodynamic resistance. Lower is better for high-speed efficiency; the BYD Seal's Cd of 0.219 is among the lowest for a production sedan.
+**Drag coefficient (Cd)** — A dimensionless measure of aerodynamic resistance. Lower is better for high-speed efficiency; the BYD Seal's Cd of 0.219 is among the lowest for a production sedan. *[Fact — manufacturer-published figure; the "among the lowest" framing is editorial.]*
 
 ---
 
