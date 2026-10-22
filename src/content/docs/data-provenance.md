@@ -1,6 +1,6 @@
 ---
 title: "Data Provenance & Traceability"
-description: "EV Hub field-level data provenance conventions — source types, confidence levels, and verification dates for every vehicle record."
+description: "China EV Mart field-level data provenance conventions — source types, confidence levels, and verification dates for every vehicle record."
 section: "Data Quality"
 order: 10
 draft: false
@@ -8,7 +8,7 @@ draft: false
 
 # Data Provenance & Traceability
 
-Every vehicle record on EV Hub carries provenance metadata so readers can tell **where a number came from and how much to trust it**. This page is the convention document for that system (task book §7).
+Every vehicle record on China EV Mart carries provenance metadata so readers can tell **where a number came from and how much to trust it**. This page is the convention document for that system (task book §7).
 
 ## Machine-readable convention
 
@@ -27,8 +27,8 @@ Every source that feeds a vehicle field is classified as exactly one of:
 | `industry` | Industry media / industry benchmarks | CnEVPost, RoRo freight benchmarks |
 | `primary` | Primary source (generic alias for official channels) | — |
 | `secondary` | Secondary / aggregated catalog data | Autohome / 懂车帝 |
-| `evhub_calculation` | Computed by EV Hub from a documented formula | `landed_cost`, VAT compounding |
-| `evhub_estimate` | EV Hub benchmark estimate | RoRo freight, certification fees |
+| `chinaevmart_calculation` | Computed by China EV Mart from a documented formula | `landed_cost`, VAT compounding |
+| `chinaevmart_estimate` | China EV Mart benchmark estimate | RoRo freight, certification fees |
 
 ### Confidence levels
 
