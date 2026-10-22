@@ -8,7 +8,14 @@ draft: false
 
 # Landed Cost Methodology
 
-Every number on China EV Mart is produced from a single, documented formula using public tariff schedules, national tax rates, and industry freight benchmarks. This page is that documentation, so you can verify — and reproduce — any figure on the site.
+> **Note:** China EV Mart does not run a landed-cost calculator. The interactive calculator and
+> per-destination figures live on our sister site,
+> [electricvehiclehub.net/landed-cost-calculator/](https://electricvehiclehub.net/landed-cost-calculator/).
+> This page documents the shared formula both sites reference.
+
+Every landed-cost figure China EV Mart references is produced on our sister site from a single,
+documented formula using public tariff schedules, national tax rates, and industry freight
+benchmarks. This page is that documentation, so you can verify — and reproduce — any figure.
 
 ## Why we publish this
 
@@ -21,13 +28,15 @@ landed_price = base_price × (1 + standard_duty) × (1 + countervailing_duty) ×
                + RoRo freight + customs clearance + certification + registration + inland transport
 ```
 
-Duties compound in this order because that is how customs valuations cascade in practice:
+Duties compound in this order:
 
-1. **Standard duty** is assessed on the CIF value (car price + insurance + freight).
-2. **Countervailing duty** is assessed on top of that (standard duty + CIF).
+1. **Standard duty** is assessed on the ex-factory base price.
+2. **Countervailing duty** is assessed on top of that (base + standard duty).
 3. **VAT/GST** is charged last, on the duty-inclusive total.
 
 You do not add the rates; you compound them. This is the single most expensive misunderstanding in EV importing.
+
+Freight and insurance are itemised as separate fixed costs, not compounded into the dutiable value. Strict EU customs valuation uses the CIF value (car price + insurance + freight) as the dutiable base; our figures assess duty on the ex-factory base price as a conservative simplification, and insurance is excluded (see Assumptions & limits).
 
 ## The fixed-cost benchmarks
 
@@ -51,7 +60,7 @@ The EU anti-subsidy duty on Chinese BEVs is producer-specific, not a flat rate:
 | BYD | 17.0% |
 | Geely (incl. Zeekr, Polestar) | 18.8% |
 | SAIC (MG, Roewe, Maxus) | 35.3% |
-| Other cooperating producers | ~20.8% |
+| Other cooperating producers | 20.7% |
 | Non-cooperating producers | 35.3% |
 
 Source: European Commission Implementing Regulation (EU) 2024/2754, effective 31 October 2024, five-year duration.
@@ -80,6 +89,8 @@ These are **B2B import estimates**, not retail quotes. Actual landed cost varies
 - Homologation route (full type approval vs. single-vehicle)
 
 Figures are refreshed when tariff schedules or tax rates change, and every estimate carries its data date.
+
+**Excluded from every figure:** insurance (the "I" in CIF), foreign-exchange movement, financing and dealer margin, port demurrage/storage, and destination-specific taxes such as Turkey's special consumption tax (SCT), Singapore's ARF and COE, Indonesia's PPnBM luxury tax, Brazil's IPI/ICMS, and Malaysia's excise duty. These can be material in those markets — confirm the full stack with a local broker before committing.
 
 ## Related
 
