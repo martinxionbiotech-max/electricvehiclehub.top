@@ -1,10 +1,10 @@
 {
  "entities": [
   {
-   "id": "ev-hub",
-   "name": "EV Hub",
+   "id": "china-ev-mart",
+   "name": "China EV Mart",
    "type": "Platform",
-   "url": "https://electricvehiclehub.top"
+   "url": "https://chinaevmart.com"
   },
   {
    "id": "chengguang-energy",
@@ -43,32 +43,32 @@
  ],
  "relationships": [
   {
-   "from": "ev-hub",
+   "from": "china-ev-mart",
    "to": "chengguang-energy",
    "type": "operated_by"
   },
   {
-   "from": "ev-hub",
+   "from": "china-ev-mart",
    "to": "wei-wang",
    "type": "edited_by"
   },
   {
-   "from": "ev-hub",
+   "from": "china-ev-mart",
    "to": "aaron-w",
    "type": "contact_via"
   },
   {
-   "from": "ev-hub",
+   "from": "china-ev-mart",
    "to": "vehicle-db",
    "type": "contains"
   },
   {
-   "from": "ev-hub",
+   "from": "china-ev-mart",
    "to": "market-db",
    "type": "contains"
   },
   {
-   "from": "ev-hub",
+   "from": "china-ev-mart",
    "to": "landed-cost-db",
    "type": "contains"
   },

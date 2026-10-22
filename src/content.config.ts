@@ -68,7 +68,7 @@ const vehicles = defineCollection({
     quality_tier: z.string().optional(),
     confidence: z.string().optional(),
     family: z.string().optional(),
-    // ── EVHub Top deep-profile fields (five-section template; all optional) ──
+    // ── China EV Mart deep-profile fields (five-section template; all optional) ──
     // ① Entity Snapshot
     trim: z.string().optional(),
     range_wltp_km: z.number().nullable().optional(),

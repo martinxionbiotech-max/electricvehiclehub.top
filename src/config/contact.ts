@@ -1,5 +1,5 @@
 /**
- * Contact Page Configuration — EV Hub
+ * Contact Page Configuration — China EV Mart
  *
  * Real company + author contact information for EEAT.
  * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
@@ -47,7 +47,7 @@ export const contactFAQs: ContactFAQ[] = [
   {
     question: 'Do you sell vehicles directly?',
     answer:
-      'No. EV Hub is an independent information platform. We provide landed-cost intelligence and sourcing guidance, but do not sell vehicles or act on behalf of any manufacturer.',
+      'No. China EV Mart is an independent information platform. We provide landed-cost intelligence and sourcing guidance, but do not sell vehicles or act on behalf of any manufacturer.',
   },
 ];
 

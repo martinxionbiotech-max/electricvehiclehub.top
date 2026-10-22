@@ -224,7 +224,7 @@ const jsonLd = {
       />
       {data.image_credit && (
         <p class="px-4 py-2 text-xs text-gray-500 bg-gray-50 border-t border-gray-200">
-          {/EV Hub original/i.test(data.image_credit) ? 'Illustration' : 'Photo'}: {data.image_credit}
+          {/China EV Mart original/i.test(data.image_credit) ? 'Illustration' : 'Photo'}: {data.image_credit}
           {data.image_source && (<> · <a href={data.image_source} rel="nofollow noopener" target="_blank" class="underline hover:text-green-700">source</a></>)}
         </p>
       )}
@@ -398,7 +398,7 @@ const jsonLd = {
       </div>
       <div class="p-5 bg-white border border-amber-200 rounded-xl">
         <div class="flex items-center gap-2 mb-3">
-          <span class="inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-bold uppercase tracking-wide">EV Hub estimate</span>
+          <span class="inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-bold uppercase tracking-wide">China EV Mart estimate</span>
         </div>
         <ul class="text-sm text-gray-700 space-y-2">
           <li class="flex gap-2"><span class="text-amber-500">≈</span> 40HQ packing (length-graded estimate)</li>
@@ -407,7 +407,7 @@ const jsonLd = {
       </div>
     </div>
     <p class="text-xs text-gray-400 mt-4">
-      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'}{data.verification_status ? ` · Verification: ${data.verification_status}` : ''}
+      Data source: {data.data_source || 'China EV Mart catalog'} · Last updated: {data.data_updated || 'n/a'}{data.verification_status ? ` · Verification: ${data.verification_status}` : ''}
     </p>
   </section>
 

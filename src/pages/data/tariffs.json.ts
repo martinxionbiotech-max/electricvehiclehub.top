@@ -11,7 +11,7 @@ export function GET() {
       {
         name: 'Chinese EV Export Database — Tariff Reference',
         description:
-          'Standard import duty, countervailing duty (EU BEV, producer-specific), VAT/GST rates and fixed-cost benchmarks used by the EV Hub landed-cost model.',
+          'Standard import duty, countervailing duty (EU BEV, producer-specific), VAT/GST rates and fixed-cost benchmarks used by the China EV Mart landed-cost model.',
         license: 'CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)',
         updated: tariffs.updated,
         source: tariffs.source,

@@ -1,5 +1,5 @@
 /**
- * Navigation Configuration — EV Hub
+ * Navigation Configuration — China EV Mart
  *
  * EV export information platform navigation (header + footer).
  * Removed SaaS-template residue (pricing/login/dashboard/etc.).

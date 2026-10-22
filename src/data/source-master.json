@@ -119,8 +119,8 @@
       "industry": "行业媒体/行业基准（CnEVPost、CarNewsChina、货运基准）",
       "primary": "一手数据（综合别名：官方渠道直接发布）",
       "secondary": "二手数据（转载/聚合目录，如 Autohome/懂车帝）",
-      "evhub_calculation": "EV Hub 由公式/规则计算得出（如 landed_cost、VAT 叠加）",
-      "evhub_estimate": "EV Hub 行业基准估算（如 RoRo 运费、认证费）"
+      "evhub_calculation": "China EV Mart 由公式/规则计算得出（如 landed_cost、VAT 叠加）",
+      "evhub_estimate": "China EV Mart 行业基准估算（如 RoRo 运费、认证费）"
     },
     "confidence_enum": {
       "high": "官方一手且经交叉核验",
