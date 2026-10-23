@@ -94,7 +94,7 @@ Most comparison tables I've seen put "$24,690 BYD Seal" next to "€36,990 Tesla
 
 The honest comparison is **Seal landed ($44,413 / ≈ €38,500) versus Tesla OTR (€36,990)** — and even then the Seal number is flattered, because it excludes the importer's margin while the Tesla number includes Tesla's. To make the Seal genuinely competitive, a buyer needs the landed cost to sit *meaningfully below* the Tesla retail, not merely at parity. It does not.
 
-There is one legitimate nuance on the other side. For a **B2B importer who is VAT-registered**, the Seal's $6,037 of VAT is recoverable — it is a cash-flow item, not a final cost. Strip VAT from both and the picture shifts from "Seal slightly above" to "closer to parity," because the Seal's higher absolute value carries more recoverable VAT. The countervailing duty, by contrast, is never recoverable. Run both scenarios through the [landed-cost calculator](/landed-cost-calculator/) with your own VAT position before deciding.
+There is one legitimate nuance on the other side. For a **B2B importer who is VAT-registered**, the Seal's $6,037 of VAT is recoverable — it is a cash-flow item, not a final cost. Strip VAT from both and the picture shifts from "Seal slightly above" to "closer to parity," because the Seal's higher absolute value carries more recoverable VAT. The countervailing duty, by contrast, is never recoverable. Run both scenarios through the [landed-cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) with your own VAT position before deciding.
 
 ## Who should care about this comparison
 

@@ -152,7 +152,7 @@ Source: European Commission VAT rates in the EU, 2025.
 
 **Why compounding matters.** If you naively add 10 + 17 + 19 = 46%, you'll under-budget. The real multiplier is (1.10) × (1.17) × (1.19) = 1.532 — that's a 53.2% uplift on the CIF value, not 46%. On a $25,000 car, the difference between naive and compounded is over $1,800 — and on an MG with a 35.3% CVD, the compounding gap is even wider.
 
-This is exactly why we built a dedicated calculator. Before you commit to a purchase, run the numbers through our [landed cost calculator](/landed-cost-calculator/) rather than eyeballing it. And if you want the full derivation of the formula and why every factor multiplies, read our [landed cost methodology](/landed-cost-methodology/).
+This is exactly why the landed-cost calculator exists on electricvehiclehub.net. Before you commit to a purchase, run the numbers through the [landed cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) rather than eyeballing it. And if you want the full derivation of the formula and why every factor multiplies, read the [landed cost methodology](/landed-cost-methodology/).
 
 ### Step 8: Certification & Homologation
 
@@ -258,7 +258,7 @@ Two tax notes that decide whether this works for you:
 
 That asymmetry — recoverable VAT, non-recoverable CVD — is the biggest reason some importers still turn a profit on BYD but steer clear of SAIC/MG models. Pick your brand with the CVD table open.
 
-If you want to run your own numbers rather than trust my arithmetic, plug your figures into our [landed cost calculator](/landed-cost-calculator/) and read the [landed cost methodology](/landed-cost-methodology/) for the full derivation of every factor.
+If you want to run your own numbers rather than trust my arithmetic, plug your figures into the [landed cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) on electricvehiclehub.net and read the [landed cost methodology](/landed-cost-methodology/) for the full derivation of every factor.
 
 ---
 
@@ -297,7 +297,7 @@ A: Yes, but the math and the paperwork don't care whether you're a business or a
 
 ### Q: What's the cheapest Chinese EV to import in 2026?
 
-A: There's no single answer because the *CVD rate* swings the result more than the sticker price. A cheap SAIC-built MG carries a 35.3% CVD, while a slightly pricier BYD carries 17%, and a Shanghai Tesla just 7.8% [Source: European Commission Implementing Regulation (EU) 2024/2754]. In most scenarios, the *lowest-tariff* vehicle beats the *lowest-price* vehicle once you compound three layers of tax. Run it through the [landed cost calculator](/landed-cost-calculator/) rather than guessing.
+A: There's no single answer because the *CVD rate* swings the result more than the sticker price. A cheap SAIC-built MG carries a 35.3% CVD, while a slightly pricier BYD carries 17%, and a Shanghai Tesla just 7.8% [Source: European Commission Implementing Regulation (EU) 2024/2754]. In most scenarios, the *lowest-tariff* vehicle beats the *lowest-price* vehicle once you compound three layers of tax. Run it through the [landed cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) rather than guessing.
 
 ### Q: Do I pay VAT on the countervailing duty too?
 

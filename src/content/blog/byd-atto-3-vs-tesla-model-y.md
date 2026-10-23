@@ -90,7 +90,7 @@ The gap against the Model Y moves with this map. It is widest in the UK ($28,423
 
 ## What compact SUV buyers should actually do
 
-If the car is for your own driveway and you value a national service network, the Model Y's price buys things the import math cannot show you — and the segment gap above is real. If you are importing to sell, or for a fleet where you control service yourself, the Atto 3's landed position is strong in every market we ran; run your actual margin, warranty reserve and resale assumption through the [landed-cost calculator](/landed-cost-calculator/) before you commit, because those three numbers, not the sticker, decide whether the "$13k saving" survives contact with year one.
+If the car is for your own driveway and you value a national service network, the Model Y's price buys things the import math cannot show you — and the segment gap above is real. If you are importing to sell, or for a fleet where you control service yourself, the Atto 3's landed position is strong in every market we ran; run your actual margin, warranty reserve and resale assumption through the [landed-cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) before you commit, because those three numbers, not the sticker, decide whether the "$13k saving" survives contact with year one.
 
 ## The Author's Take
 

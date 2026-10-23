@@ -55,4 +55,4 @@ The full formula and worked examples are in the [Landed Cost section](/docs/land
 
 ## Next steps
 
-Start with the market-specific guides in this documentation, then run your target vehicle through the [landed-cost calculator](/landed-cost-calculator/) to see the real numbers.
+Start with the market-specific guides in this documentation, then run your target vehicle through the [landed-cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) to see the real numbers.

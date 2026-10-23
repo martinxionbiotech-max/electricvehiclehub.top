@@ -255,7 +255,7 @@ If your model is thin-margin and high-volume, look elsewhere. If your model is s
 A: WLTP is the honest European standard, unlike CLTC. Expect real-world mixed driving to land 10–15% below the WLTP figure in cold weather, roughly in line with most EVs. The Performance AWD tested at 18.6 kWh/100 km in independent testing, which implies around 440–450 km of real range from its 82.6 kWh pack in mixed conditions [Source: CarExpert road test efficiency figure].
 
 **Q: How much does it actually cost to land a BYD Seal in Germany?**
-A: For the Premium RWD, about $44,413 all-in, a +79.9% markup over the $24,690 China base price, driven by 10% duty, 17% BYD countervailing duty, 19% VAT, freight and certification [Source: China EV Mart landed-cost methodology]. Use our calculator to model your own spec and market.
+A: For the Premium RWD, about $44,413 all-in, a +79.9% markup over the $24,690 China base price, driven by 10% duty, 17% BYD countervailing duty, 19% VAT, freight and certification [Source: China EV Mart landed-cost methodology]. Use the calculator on electricvehiclehub.net to model your own spec and market.
 
 **Q: Does the Seal need CCS2 or GB/T charging?**
 A: For Europe you need CCS2 (DC) and Type 2 (AC). Export-spec Seals come with CCS2. Sourcing a domestic Chinese unit will leave you with GB/T and a retrofit or adapter problem you don't want to explain to a customer.
@@ -284,7 +284,7 @@ A: Not necessarily. The Seal's ex-factory price is lower, but BYD's 17% counterv
 
 ---
 
-*Want your own spec, market, and volume modeled? Run it through the [landed-cost calculator](/landed-cost-calculator/) and read our full [landed-cost methodology](/landed-cost-methodology/) before you commit. Compare the Seal against other China-sourced EVs in the [vehicle data library](/vehicles/).*
+*Want your own spec, market, and volume modeled? Run it through the [landed-cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) and read our full [landed-cost methodology](/landed-cost-methodology/) before you commit. Compare the Seal against other China-sourced EVs in the [vehicle data library](/vehicles/).*
 
 ## Sources
 

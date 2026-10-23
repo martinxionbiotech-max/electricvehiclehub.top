@@ -143,7 +143,7 @@ Europe is where Chinese brands want to be long-term, because it's where brand eq
 
 The response has been localization. BYD's Hungary plant, Chery's Barcelona JV with Ebro, and Leapmotor's Stellantis tie-up are all the same bet: to sell in Europe at scale, you eventually have to build (or partner to build) in Europe. The IEA noted Chinese automakers are actively scoping European production to stay competitive [Source: IEA Global EV Outlook 2026].
 
-Our own landed-cost methodology makes the math explicit: if you want to know what a China-built EV actually costs by the time it clears an EU port, the tariff and logistics matter as much as the sticker price. We built a calculator for exactly that; you can find it [here](/landed-cost-methodology/) and run your own numbers [here](/landed-cost-calculator/).
+Our own landed-cost methodology makes the math explicit: if you want to know what a China-built EV actually costs by the time it clears an EU port, the tariff and logistics matter as much as the sticker price. That calculation runs on our sister site — you can read the [methodology](/landed-cost-methodology/) and run your own numbers on [electricvehiclehub.net](https://electricvehiclehub.net/landed-cost-calculator/).
 
 ### Southeast Asia: the friendliest big market
 

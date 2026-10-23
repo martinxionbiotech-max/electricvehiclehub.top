@@ -40,4 +40,4 @@ Every tariff rate, tax rate, and freight benchmark is sourced from public author
 
 ## Who this is for
 
-B2B fleet buyers, distributors, dealers, and experienced private importers evaluating the real economics of bringing Chinese EVs into export markets. If you're comparing vehicles, start with the [vehicle database](/vehicles/), then run the numbers in the [calculator](/landed-cost-calculator/).
+B2B fleet buyers, distributors, dealers, and experienced private importers evaluating the real economics of bringing Chinese EVs into export markets. If you're comparing vehicles, start with the [vehicle database](/vehicles/), then run the numbers in the [calculator](https://electricvehiclehub.net/landed-cost-calculator/) on electricvehiclehub.net.

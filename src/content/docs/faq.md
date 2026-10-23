@@ -54,7 +54,7 @@ Our landed-cost figures model the cost for a business importing a vehicle — fl
 
 ### How do I get an exact quote for a specific vehicle?
 
-The [landed-cost calculator](/landed-cost-calculator/) lets you pick a vehicle and destination to itemize a cost breakdown. For a binding quote on a specific trim and volume, [contact us](/contact/) and we'll work through the exact numbers.
+The [landed-cost calculator](https://electricvehiclehub.net/landed-cost-calculator/) on our sister site lets you pick a vehicle and destination to itemize a cost breakdown. For a binding quote on a specific trim and volume, [contact us](/contact/) and we'll work through the exact numbers.
 
 ## Buying safely
 
