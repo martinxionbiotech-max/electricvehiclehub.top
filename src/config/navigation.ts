@@ -41,6 +41,7 @@ export const navigation: Navigation = {
       { label: 'Authors & Review Standards', href: '/authors' },
       { label: 'Editorial Independence', href: '/editorial-independence' },
       { label: 'Evidence & Data Methodology', href: '/methodology' },
+      { label: 'Data Methodology', href: '/data-methodology' },
       { label: 'Contact', href: '/contact' },
     ],
     legal: [

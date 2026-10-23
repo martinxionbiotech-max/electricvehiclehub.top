@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import { url as siteUrl } from '@/config/site';
+import { url as siteUrl, company } from '@/config/site';
 import { brandLabelMap, vehicleAlt } from '@/lib/brand-label';
 import { powertrainLabel } from '@/lib/powertrain';
 import paramVerification from '@/data/parameter-verification.json';
@@ -496,6 +496,14 @@ const jsonLd = {
           Not yet recorded: {unresolved.join(', ')}. These fields are shown as N/A rather than estimated.
         </p>
       )}
+      <p class="mt-3 text-xs text-gray-500">
+        <a
+          href={`mailto:${company.email}?subject=${encodeURIComponent(`Data issue: ${data.slug}`)}&body=${encodeURIComponent(`Reporting a data issue for ${data.title} (slug: ${data.slug}, /vehicles/${data.slug}/).\n\nField(s): \nCurrent value: \nCorrect value / source: `)}`}
+          class="text-green-700 hover:underline font-medium"
+        >
+          Report a data issue for this model →
+        </a>
+      </p>
     </section>
 
     {/* ⓐ key-parameter verification (batch 01 — source / verified_at / model_year / trim / confidence / status) */}

@@ -1,0 +1,123 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { siteConfig, company } from '@/config';
+
+const lastUpdated = siteConfig.legal.lastUpdated;
+---
+
+<MarketingLayout
+  title={`Data Methodology - ${siteConfig.name}`}
+  description="How China EV Mart structures its vehicle database: data sources, parameter normalization, price conversion, version matching, and update cadence."
+>
+  <article class="max-w-3xl mx-auto px-6 py-16">
+    <div class="mb-10">
+      <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>
+    </div>
+
+    <h1 class="text-4xl font-bold mb-3">Data Methodology</h1>
+    <p class="text-gray-600 mb-10">
+      How the vehicle database is built: where each field comes from, how it is normalized, how
+      prices are converted, how versions are matched, and when data is updated.
+    </p>
+
+    <div class="prose max-w-none space-y-8">
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Data source system</h2>
+        <p>
+          Every vehicle record is compiled from public sources and carries a record-level{' '}
+          <code>data_source</code> and <code>data_updated</code> date. Sources are graded by tier —
+          official and regulatory at the top, community reports at the bottom. The full tier
+          definitions are on the{' '}
+          <a href="/docs/data-provenance/" class="text-green-700 hover:underline">Data Provenance</a>{' '}
+          page and the{' '}
+          <a href="/methodology/" class="text-green-700 hover:underline">Data &amp; Editorial Methodology</a>{' '}
+          page.
+        </p>
+        <p>
+          Since this batch, a{' '}
+          <a href="/docs/verification-system/" class="text-green-700 hover:underline">parameter-level
+          verification layer</a>{' '}
+          also records a source, verification date, model year, trim, and confidence for the six
+          key parameters (price, range, battery, motor, acceleration, charging) on high-exposure
+          vehicles, with a <code>verified / mismatch / unverifiable / conflict</code> status. Conflict
+          values are flagged, never silently changed.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Parameter normalization rules</h2>
+        <p>
+          Fields are normalized to fixed enums rather than free text, so two vehicles can be compared
+          on the same basis:
+        </p>
+        <ul class="list-disc pl-6 space-y-1">
+          <li><strong>Powertrain</strong> — BEV / PHEV / EREV / HEV / ICE / FCEV. Non-plug-in HEV and ICE records exist in the catalog and are labelled as such, not silently reclassified.</li>
+          <li><strong>Body type</strong> — Sedan / Hatchback / SUV / MPV / Wagon / Pickup / Van / Coupe / Convertible / Sports Car / Crossover / Other.</li>
+          <li><strong>Range</strong> — recorded against a named test standard (<code>range_cltc_km</code>, <code>range_wltp_km</code>, <code>range_epa_km</code>, <code>range_nedc_km</code>); no bare "range" field, and figures are never combined across standards.</li>
+          <li><strong>Units</strong> — kW for power, Nm for torque, kWh for battery, mm for dimensions, kg for weight, km/h for speed.</li>
+        </ul>
+        <p>
+          Where a field is absent, it is rendered as "not recorded" rather than estimated. The full
+          field-level schema is in <code>src/content.config.ts</code>.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Price conversion method</h2>
+        <p>
+          Prices are kept on one of five strictly-separated bases — <strong>Official MSRP</strong>,
+          <strong>China market reference price</strong>, <strong>China ex-factory reference price</strong>,
+          <strong>FOB quotation</strong>, or <strong>Landed cost estimate</strong>. This catalog uses{' '}
+          <strong>China ex-factory reference price</strong> by default, stated in USD.
+        </p>
+        <p>
+          The ex-factory figure is a factory-gate starting price, not a retail, FOB, or landed price.
+          Where a figure's basis could not be confirmed it is labelled <code>Reference (unverified)</code>.
+          A reader comparing figures should confirm the actual quotation with a supplier — we do not
+          publish transactional prices or quotes, and we never silently convert one basis into another.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Version matching</h2>
+        <p>
+          Where the manufacturer publishes multiple versions, the <code>trim</code> field records them
+          verbatim (slash-separated). A single representative figure is recorded per standard per model,
+          and the page states that figures apply to the base/representative configuration rather than
+          inventing a per-trim breakdown that is not in the source data.
+        </p>
+        <p>
+          <code>model_year</code> is recorded where known; it is currently unfilled on most records and
+          is shown as not recorded rather than guessed.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Update cadence</h2>
+        <p>
+          We review records and pages periodically rather than on a fixed schedule. Each record carries a{' '}
+          <code>data_updated</code> date, and each page carries a last-updated date, so a figure's age is
+          visible rather than hidden. Tariff and price data is revisited most often, since those move
+          fastest.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Report a data problem</h2>
+        <p>
+          If a figure looks wrong, report it — every vehicle page has a "Report data issue" link that
+          opens a pre-filled email with the model slug. Corrections are welcomed and, where material,
+          recorded on the page rather than silently swapped out.
+        </p>
+      </section>
+
+      <section class="border-t border-gray-200 pt-8 text-sm text-gray-600">
+        <p>
+          Published by <strong>{company.name}</strong> · {company.legalName}
+          <br/>Author: <strong>{company.author}</strong>, {company.authorRole}
+          <br/>Last updated: {lastUpdated}
+        </p>
+      </section>
+    </div>
+  </article>
+</MarketingLayout>
