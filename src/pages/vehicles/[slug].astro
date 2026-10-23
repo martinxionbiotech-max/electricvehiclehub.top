@@ -4,6 +4,7 @@ import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { url as siteUrl } from '@/config/site';
 import { brandLabelMap, vehicleAlt } from '@/lib/brand-label';
 import { powertrainLabel } from '@/lib/powertrain';
+import paramVerification from '@/data/parameter-verification.json';
 
 export async function getStaticPaths() {
   const vehicles = await getCollection('vehicles');
@@ -146,9 +147,39 @@ const keyFields: [string, unknown][] = [
 ];
 const unresolved = keyFields.filter(([, v]) => v == null).map(([k]) => k);
 
-// ── tier ──
 const tier = data.quality_tier || 'B';
 const isCompact = tier === 'C';
+
+// ── parameter-level verification (batch 01 — featured 6 + A-tier Tier-1 top 30) ──
+const paramV = (paramVerification as any).vehicles?.[slug];
+const paramOrder = ['price', 'range', 'battery', 'motor', 'accel', 'charge'] as const;
+const paramLabels: Record<string, string> = {
+  price: 'Price',
+  range: 'Range (CLTC)',
+  battery: 'Battery',
+  motor: 'Motor power',
+  accel: '0–100 km/h',
+  charge: 'Fast charge',
+};
+const statusTone: Record<string, string> = {
+  verified: 'text-green-700 bg-green-50 border-green-200',
+  mismatch: 'text-red-700 bg-red-50 border-red-200',
+  unverifiable: 'text-gray-600 bg-gray-50 border-gray-200',
+  conflict: 'text-amber-800 bg-amber-50 border-amber-300',
+};
+const statusLabel: Record<string, string> = {
+  verified: 'verified',
+  mismatch: 'mismatch',
+  unverifiable: 'unverified',
+  conflict: 'conflict',
+};
+const paramRows = paramV
+  ? paramOrder
+      .filter((p) => paramV[p])
+      .map((p) => ({ key: p, label: paramLabels[p], cell: paramV[p] }))
+  : [];
+const hasParamV = paramRows.length > 0;
+const conflictRows = paramRows.filter((r) => r.cell.status === 'conflict');
 
 // structured-data / share image
 const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
@@ -466,6 +497,56 @@ const jsonLd = {
         </p>
       )}
     </section>
+
+    {/* ⓐ key-parameter verification (batch 01 — source / verified_at / model_year / trim / confidence / status) */}
+    {hasParamV && (
+      <section class="mb-10">
+        <h2 class="text-2xl font-bold mb-4 text-gray-900">Key parameter verification</h2>
+        <p class="text-sm text-gray-500 mb-4">
+          Parameter-level source metadata for the six key parameters. A figure marked{' '}
+          <span class="font-semibold text-amber-800">conflict</span> is flagged for review — the value is shown as recorded, not silently replaced.
+        </p>
+        <div class="rounded-xl border border-gray-200 overflow-hidden">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="bg-gray-50 text-left">
+                <th class="px-4 py-3 font-semibold text-gray-700">Parameter</th>
+                <th class="px-4 py-3 font-semibold text-gray-700">Value</th>
+                <th class="px-4 py-3 font-semibold text-gray-700">Status</th>
+                <th class="px-4 py-3 font-semibold text-gray-700">Source</th>
+                <th class="px-4 py-3 font-semibold text-gray-700">Verified</th>
+              </tr>
+            </thead>
+            <tbody>
+              {paramRows.map((r, i) => (
+                <tr class={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                  <td class="px-4 py-3 text-gray-700 font-medium">{r.label}</td>
+                  <td class="px-4 py-3 text-gray-900">{r.cell.value != null ? String(r.cell.value) : 'N/A'}</td>
+                  <td class="px-4 py-3">
+                    <span class={`inline-block px-2 py-0.5 rounded-full text-xs font-semibold border ${statusTone[r.cell.status] || statusTone.unverifiable}`}>
+                      {statusLabel[r.cell.status] || 'unverified'}
+                    </span>
+                  </td>
+                  <td class="px-4 py-3 text-gray-700">{r.cell.source || '—'}</td>
+                  <td class="px-4 py-3 text-gray-700">{r.cell.verified_at || '—'}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        {conflictRows.length > 0 && (
+          <div class="mt-4 rounded-xl border border-amber-300 bg-amber-50 px-5 py-4">
+            <p class="text-sm font-semibold text-amber-800">Fields flagged for review</p>
+            <ul class="mt-2 space-y-1 text-xs text-amber-700 list-disc pl-5">
+              {conflictRows.map((r) => (
+                <li><strong>{r.label}</strong>{r.cell.note ? `: ${r.cell.note}` : ''}</li>
+              ))}
+            </ul>
+            <p class="text-xs text-amber-700 mt-2">Conflicts are recorded, not resolved by guessing. Report a correction via the link below.</p>
+          </div>
+        )}
+      </section>
+    )}
 
     {/* ⑩ internal links */}
     <section class="mb-10">

@@ -1,0 +1,1888 @@
+{
+  "schema_version": 1,
+  "generated": "2026-10-23",
+  "purpose": "Parameter-level source metadata for the key-parameter table (price / range / battery / motor / accel / charge). States: verified | mismatch | unverifiable | conflict. Conflict values are flagged, never auto-filled.",
+  "coverage": {
+    "total": 32,
+    "featured_homepage": 6,
+    "a_tier_tier1_top30": 30,
+    "union_unique": 32,
+    "slugs": [
+      "hongqi-guoya",
+      "yangwang-u8l",
+      "yangwang-u8",
+      "nio-et9",
+      "maextro-s800",
+      "aito-m9-ultimate",
+      "m-hero-917",
+      "m-hero-917-erev",
+      "yangwang-u7",
+      "xiaomi-su7-ultra",
+      "nio-es9",
+      "aito-m9-erev",
+      "nio-es7",
+      "nio-ec7",
+      "zeekr-009",
+      "nio-et7",
+      "nio-es8",
+      "dayun-h9",
+      "dayun-y7",
+      "stelato-s9",
+      "xiaomi-yu7-gt",
+      "fangchengbao-bao-8",
+      "jac-refine-rf8",
+      "voyah-dream-phev",
+      "nio-ec6",
+      "aito-m8-erev",
+      "zeekr-8x",
+      "dayun-h8",
+      "im-ls7",
+      "nio-es6",
+      "denza-d9-dm-i",
+      "denza-z9"
+    ]
+  },
+  "params": [
+    "price",
+    "range",
+    "battery",
+    "motor",
+    "accel",
+    "charge"
+  ],
+  "status_enum": [
+    "verified",
+    "mismatch",
+    "unverifiable",
+    "conflict"
+  ],
+  "confidence_enum": [
+    "high",
+    "medium",
+    "low"
+  ],
+  "vehicles": {
+    "hongqi-guoya": {
+      "price": {
+        "value": 197180,
+        "source": "China EV Mart catalog (ex-factory USD)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "国雅版 (旗舰)"
+      },
+      "range": {
+        "value": null,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "国雅版 (旗舰)"
+      },
+      "battery": {
+        "value": null,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "国雅版 (旗舰)"
+      },
+      "motor": {
+        "value": 160,
+        "source": "Wikipedia: hybrid system 294–358 kW (V6/V8)",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "medium",
+        "note": "field motor_power_kw=160 kW; official hybrid system output 294–358 kW. Value left unchanged; power basis unclear.",
+        "model_year": null,
+        "trim": "国雅版 (旗舰)"
+      },
+      "accel": {
+        "value": 4.8,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "国雅版 (旗舰)"
+      },
+      "charge": {
+        "value": "null",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "国雅版 (旗舰)"
+      },
+      "powertrain": {
+        "value": "HEV",
+        "source": "Hongqi official / Wikipedia: power-split hybrid (non-plug-in)",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "high",
+        "note": "HEV in a new-energy-vehicle catalog is a pre-existing boundary item (P3 U-2)."
+      }
+    },
+    "yangwang-u8l": {
+      "price": {
+        "value": 180280,
+        "source": "China EV Mart catalog (ex-factory USD)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 (加长)"
+      },
+      "range": {
+        "value": 200,
+        "source": "Electrek: pure-electric CLTC 230 km",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "medium",
+        "note": "field range=200 km; launch report says 230 km. Value left unchanged.",
+        "model_year": null,
+        "trim": "豪华版 (加长)"
+      },
+      "battery": {
+        "value": 55.53,
+        "source": "Electrek (Aug 2026): 56.58 kWh Blade",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "medium",
+        "note": "field battery=55.53 kWh; launch report says 56.58 kWh. Value left unchanged.",
+        "model_year": null,
+        "trim": "豪华版 (加长)"
+      },
+      "motor": {
+        "value": 880,
+        "source": "BYD / Yangwang: 880 kW quad-motor",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "medium",
+        "value_ref": "880 kW",
+        "model_year": null,
+        "trim": "豪华版 (加长)"
+      },
+      "accel": {
+        "value": 3.5,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 (加长)"
+      },
+      "charge": {
+        "value": "15 min (30-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 (加长)"
+      }
+    },
+    "yangwang-u8": {
+      "price": {
+        "value": 154650,
+        "source": "China EV Mart catalog (ex-factory USD)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 越野玩家版"
+      },
+      "range": {
+        "value": 180,
+        "source": "BYD official \"180/124 km\" electric-only",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "medium",
+        "note": "field=180 km electric-only; body claims \"780 km CLTC\" (combined range-extended). Value left unchanged; body wording needs correction.",
+        "model_year": null,
+        "trim": "豪华版 / 越野玩家版"
+      },
+      "battery": {
+        "value": 49.05,
+        "source": "BYD / Yangwang official spec (bydcn.com) + Wikipedia",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "high",
+        "value_ref": "49.05 kWh",
+        "model_year": null,
+        "trim": "豪华版 / 越野玩家版"
+      },
+      "motor": {
+        "value": 880,
+        "source": "BYD / Yangwang official + Wikipedia (4×220 kW)",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "high",
+        "value_ref": "880 kW",
+        "model_year": null,
+        "trim": "豪华版 / 越野玩家版"
+      },
+      "accel": {
+        "value": 3.6,
+        "source": "BYD official 3.6 s",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "medium",
+        "note": "field=3.6 s; body claims 3.9 s. Value left unchanged.",
+        "model_year": null,
+        "trim": "豪华版 / 越野玩家版"
+      },
+      "charge": {
+        "value": "18 min (30-80%)",
+        "source": "BYD official 18 min 30–80%",
+        "verified_at": "2026-10-23",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 越野玩家版"
+      }
+    },
+    "nio-et9": {
+      "price": {
+        "value": 108170,
+        "source": "China EV Mart catalog (ex-factory USD)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版 (900V)"
+      },
+      "range": {
+        "value": 650,
+        "source": "EV Gulf / official: ~650 km CLTC",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "high",
+        "value_ref": "650 km CLTC",
+        "model_year": null,
+        "trim": "旗舰版 (900V)"
+      },
+      "battery": {
+        "value": 102,
+        "source": "Wikipedia / auto-data.net: 100 kWh",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "medium",
+        "note": "field=102 kWh; official specs say 100 kWh. Value left unchanged.",
+        "model_year": null,
+        "trim": "旗舰版 (900V)"
+      },
+      "motor": {
+        "value": 520,
+        "source": "Wikipedia / auto-data.net: 520 kW dual-motor",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "high",
+        "value_ref": "520 kW",
+        "model_year": null,
+        "trim": "旗舰版 (900V)"
+      },
+      "accel": {
+        "value": 4.1,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版 (900V)"
+      },
+      "charge": {
+        "value": "null",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版 (900V)"
+      },
+      "type": {
+        "value": "SUV",
+        "source": "Wikipedia: full-size luxury SEDAN",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "high",
+        "note": "field type=SUV; ET9 is a sedan. Body-type field needs correction."
+      }
+    },
+    "maextro-s800": {
+      "price": {
+        "value": 99720,
+        "source": "China EV Mart catalog (ex-factory USD)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 670,
+        "source": "CN Auto: BEV 650–780 km CLTC",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "medium",
+        "value_ref": "670 km CLTC",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 65,
+        "source": "auto-data.net / CN Auto: BEV 97/120 kWh; EREV 65 kWh",
+        "verified_at": "2026-10-23",
+        "status": "conflict",
+        "confidence": "medium",
+        "note": "field battery=65 kWh (the EREV pack) but powertrain=BEV. Value left unchanged; needs trim/powertrain reconciliation.",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 390,
+        "source": "Wikipedia: 390–635 kW (base 390)",
+        "verified_at": "2026-10-23",
+        "status": "verified",
+        "confidence": "medium",
+        "value_ref": "390 kW (base)",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": 4.9,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "10 min (10-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "aito-m9-ultimate": {
+      "price": {
+        "value": 90250,
+        "source": "China EV Mart catalog (ex-factory USD)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultimate (大满配)"
+      },
+      "range": {
+        "value": null,
+        "source": "range_long_km=1260 is combined (range-extended), not CLTC electric",
+        "verified_at": "2026-10-23",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultimate (大满配)"
+      },
+      "battery": {
+        "value": null,
+        "source": "AITO M9 EREV official (no clean single figure for \"Ultimate\" trim)",
+        "verified_at": "2026-10-23",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultimate (大满配)"
+      },
+      "motor": {
+        "value": 365,
+        "source": "AITO M9 EREV: ~365 kW dual-motor (not cleanly confirmed)",
+        "verified_at": "2026-10-23",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultimate (大满配)"
+      },
+      "accel": {
+        "value": 3.99,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultimate (大满配)"
+      },
+      "charge": {
+        "value": "null",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultimate (大满配)"
+      }
+    },
+    "m-hero-917": {
+      "price": {
+        "value": 89820,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 505,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 142.7,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 797,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": 6,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "35 min (30-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P0 field verification vs en.wikipedia.org + manufacturer specs, 2026-10-22",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "m-hero-917-erev": {
+      "price": {
+        "value": 88570,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 200,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 65.8,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 600,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": 6,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "30-80% 0.61h",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "yangwang-u7": {
+      "price": {
+        "value": 88450,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 旗舰版"
+      },
+      "range": {
+        "value": 720,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 旗舰版"
+      },
+      "battery": {
+        "value": 135.5,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 旗舰版"
+      },
+      "motor": {
+        "value": 960,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 旗舰版"
+      },
+      "accel": {
+        "value": 2.9,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 旗舰版"
+      },
+      "charge": {
+        "value": "20 min (30-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "豪华版 / 旗舰版"
+      }
+    },
+    "xiaomi-su7-ultra": {
+      "price": {
+        "value": 73600,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultra (四电机)"
+      },
+      "range": {
+        "value": 630,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultra (四电机)"
+      },
+      "battery": {
+        "value": 93.7,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultra (四电机)"
+      },
+      "motor": {
+        "value": 1138,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultra (四电机)"
+      },
+      "accel": {
+        "value": 1.98,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultra (四电机)"
+      },
+      "charge": {
+        "value": "5.2C (10-80% 11min)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "Ultra (四电机)"
+      }
+    },
+    "nio-es9": {
+      "price": {
+        "value": 69170,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "range": {
+        "value": 620,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "battery": {
+        "value": 102,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "motor": {
+        "value": 520,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "accel": {
+        "value": 4.3,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "charge": {
+        "value": "900V up to 600 kW (5C)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      }
+    },
+    "aito-m9-erev": {
+      "price": {
+        "value": 65250,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "range": {
+        "value": 225,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "battery": {
+        "value": 42,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "motor": {
+        "value": 365,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "accel": {
+        "value": 4.9,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "charge": {
+        "value": "null",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      }
+    },
+    "nio-es7": {
+      "price": {
+        "value": 65000,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "range": {
+        "value": 620,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "battery": {
+        "value": 100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "motor": {
+        "value": 480,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "accel": {
+        "value": 3.9,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "charge": {
+        "value": "DC 140-180 kW; battery swap",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      }
+    },
+    "nio-ec7": {
+      "price": {
+        "value": 64510,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "range": {
+        "value": 635,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "battery": {
+        "value": 100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "motor": {
+        "value": 480,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "accel": {
+        "value": 3.8,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "charge": {
+        "value": "20 min (10-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      }
+    },
+    "zeekr-009": {
+      "price": {
+        "value": 61830,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "WE 版 / ME 版"
+      },
+      "range": {
+        "value": 740,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "WE 版 / ME 版"
+      },
+      "battery": {
+        "value": 108,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "WE 版 / ME 版"
+      },
+      "motor": {
+        "value": 310,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "WE 版 / ME 版"
+      },
+      "accel": {
+        "value": 6.9,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "WE 版 / ME 版"
+      },
+      "charge": {
+        "value": "10 min (10-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "WE 版 / ME 版"
+      }
+    },
+    "nio-et7": {
+      "price": {
+        "value": 60100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "range": {
+        "value": 675,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "battery": {
+        "value": 185.44,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "motor": {
+        "value": 480,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "accel": {
+        "value": 3.8,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "charge": {
+        "value": "35 min (80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      }
+    },
+    "nio-es8": {
+      "price": {
+        "value": 57130,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "range": {
+        "value": 635,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "battery": {
+        "value": 102,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "motor": {
+        "value": 520,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "accel": {
+        "value": 3.97,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      },
+      "charge": {
+        "value": "null",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-22",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh 标准续航 / 长续航"
+      }
+    },
+    "dayun-h9": {
+      "price": {
+        "value": 56920,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 650,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 98,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 500,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": 3.8,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "800V",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "dayun-y7": {
+      "price": {
+        "value": 55530,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 800,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": null,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 500,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": null,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "800V",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "stelato-s9": {
+      "price": {
+        "value": 55530,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 816,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 230,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": null,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "800 V; 30–80% 15 min",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "xiaomi-yu7-gt": {
+      "price": {
+        "value": 54150,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "GT (四电机)"
+      },
+      "range": {
+        "value": 705,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "GT (四电机)"
+      },
+      "battery": {
+        "value": 101.7,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "GT (四电机)"
+      },
+      "motor": {
+        "value": 738,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "GT (四电机)"
+      },
+      "accel": {
+        "value": 2.92,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "GT (四电机)"
+      },
+      "charge": {
+        "value": "800V (10-80% 12min)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "GT (四电机)"
+      }
+    },
+    "fangchengbao-bao-8": {
+      "price": {
+        "value": 53490,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "range": {
+        "value": 125,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "battery": {
+        "value": 36.8,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "motor": {
+        "value": 500,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "accel": {
+        "value": 4.8,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      },
+      "charge": {
+        "value": "15 min (30-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "旗舰版"
+      }
+    },
+    "jac-refine-rf8": {
+      "price": {
+        "value": 52100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 252,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 44.5,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 160,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": 7.3,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "20 min (30-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "voyah-dream-phev": {
+      "price": {
+        "value": 51380,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 尊享 / 旗舰"
+      },
+      "range": {
+        "value": 82,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 尊享 / 旗舰"
+      },
+      "battery": {
+        "value": 25.57,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 尊享 / 旗舰"
+      },
+      "motor": {
+        "value": 290,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 尊享 / 旗舰"
+      },
+      "accel": {
+        "value": 6.6,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 尊享 / 旗舰"
+      },
+      "charge": {
+        "value": "null",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 尊享 / 旗舰"
+      }
+    },
+    "nio-ec6": {
+      "price": {
+        "value": 50270,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "range": {
+        "value": 655,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "battery": {
+        "value": 100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "motor": {
+        "value": 360,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "accel": {
+        "value": 4.4,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "charge": {
+        "value": "35 min (10-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      }
+    },
+    "aito-m8-erev": {
+      "price": {
+        "value": 49970,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "range": {
+        "value": 201,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "battery": {
+        "value": 37,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "motor": {
+        "value": 365,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "accel": {
+        "value": 5.2,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      },
+      "charge": {
+        "value": "30-80% 15min",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "增程版 Max"
+      }
+    },
+    "zeekr-8x": {
+      "price": {
+        "value": 49560,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊享版 / 旗舰版"
+      },
+      "range": {
+        "value": 318,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊享版 / 旗舰版"
+      },
+      "battery": {
+        "value": 55.1,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊享版 / 旗舰版"
+      },
+      "motor": {
+        "value": 660,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊享版 / 旗舰版"
+      },
+      "accel": {
+        "value": 3.7,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊享版 / 旗舰版"
+      },
+      "charge": {
+        "value": "500 kW",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊享版 / 旗舰版"
+      }
+    },
+    "dayun-h8": {
+      "price": {
+        "value": 48580,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 610,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 88.42,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 250,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": 6.5,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "20-80% 30min",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "im-ls7": {
+      "price": {
+        "value": 47870,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "range": {
+        "value": 700,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "battery": {
+        "value": 100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "motor": {
+        "value": 579,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "accel": {
+        "value": 3.9,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      },
+      "charge": {
+        "value": "15 min (10-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": null
+      }
+    },
+    "nio-es6": {
+      "price": {
+        "value": 47460,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "range": {
+        "value": 650,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "battery": {
+        "value": 100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "motor": {
+        "value": 360,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "accel": {
+        "value": 4.5,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      },
+      "charge": {
+        "value": "35 min (10-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "75 kWh / 100 kWh"
+      }
+    },
+    "denza-d9-dm-i": {
+      "price": {
+        "value": 47190,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "DM-i 尊贵型 / 旗舰型"
+      },
+      "range": {
+        "value": 98,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "DM-i 尊贵型 / 旗舰型"
+      },
+      "battery": {
+        "value": 20.39,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "DM-i 尊贵型 / 旗舰型"
+      },
+      "motor": {
+        "value": 170,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "DM-i 尊贵型 / 旗舰型"
+      },
+      "accel": {
+        "value": 9.5,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "DM-i 尊贵型 / 旗舰型"
+      },
+      "charge": {
+        "value": "null",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "DM-i 尊贵型 / 旗舰型"
+      }
+    },
+    "denza-z9": {
+      "price": {
+        "value": 47150,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊贵型 / 旗舰型"
+      },
+      "range": {
+        "value": 630,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊贵型 / 旗舰型"
+      },
+      "battery": {
+        "value": 100,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊贵型 / 旗舰型"
+      },
+      "motor": {
+        "value": 640,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊贵型 / 旗舰型"
+      },
+      "accel": {
+        "value": 3.6,
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊贵型 / 旗舰型"
+      },
+      "charge": {
+        "value": "20 min (30-80%)",
+        "source": "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)",
+        "verified_at": "2026-10-21",
+        "status": "unverifiable",
+        "confidence": "low",
+        "model_year": null,
+        "trim": "尊贵型 / 旗舰型"
+      }
+    }
+  }
+}

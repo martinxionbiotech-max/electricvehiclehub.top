@@ -97,6 +97,23 @@ const vehicles = defineCollection({
     quality_tier: z.string().optional(),
     confidence: z.string().optional(),
     family: z.string().optional(),
+    // ── Parameter-level source metadata (verification-system, batch 01) ──
+    // Five-tuple per key parameter (price / range / battery / motor / accel /
+    // charge) + a three-state status. Conflict values are flagged, never
+    // auto-filled. Canonical batch data lives in src/data/parameter-verification.json;
+    // this field documents the frontmatter path for future hand-fixed records.
+    param_verification: z
+      .record(
+        z.object({
+          source: z.string(),
+          verified_at: z.string().optional(),
+          model_year: z.number().nullable().optional(),
+          trim: z.string().optional(),
+          confidence: z.enum(['high', 'medium', 'low']).optional(),
+          status: z.enum(['verified', 'mismatch', 'unverifiable', 'conflict']).optional(),
+        }),
+      )
+      .optional(),
     // ── China EV Mart deep-profile fields (five-section template; all optional) ──
     // ① Entity Snapshot
     trim: z.string().optional(),
