@@ -98,6 +98,37 @@ const stats = [
     background="default"
   />
 
+  <ContentSection
+    title="Operating entity & editorial responsibility"
+    content={[
+      `${siteConfig.name} is operated by ${company.name} (${company.legalName}), which also maintains the vehicle database. Editorial analysis is written and reviewed by ${company.author}, ${company.authorRole}, who is the named author on trade and tariff articles.`,
+      "Where a figure or a cost statement is an estimate rather than a recorded or measured value, it is labelled as such. Landed-cost figures are published on the electricvehiclehub.net sister site, whose methodology is referenced rather than reproduced here.",
+      `${siteConfig.name} is an independent information platform. Its data records and editorial analysis do not represent the official position of any vehicle manufacturer, brand, or government authority. Manufacturer specifications are attributed to the manufacturer, not stated as this platform's own findings.`,
+    ]}
+    background="muted"
+  />
+
+  <ContentSection
+    title="Operator disclosure & relationship to Chengguang Energy"
+    content={[
+      `This platform's own records identify its operator as ${company.name} (${company.legalName}), founded 2002, described as an automotive battery manufacturer whose quality management system is certified to IATF 16949. The records name ${company.author} (${company.authorRole}) as editor.`,
+      `The operator–author relationship is recorded as an employment relationship, but this site's entity data marks it "NEEDS_REVIEW" — meaning the exact nature of the relationship between ${company.name} and ${company.author} (employee, contractor, or otherwise) has not been confirmed against a primary document. We disclose this openly rather than asserting a precise employment status we cannot point to.`,
+      "Pending operator confirmation, the following items remain open and are listed for manual completion:",
+    ]}
+    background="default"
+  />
+
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-6 -mt-4">
+    <div class="rounded-xl border border-amber-300 bg-amber-50 px-5 py-4">
+      <p class="text-sm font-semibold text-amber-800 mb-2">Operator disclosure — pending manual confirmation</p>
+      <ul class="text-sm text-amber-700 list-disc pl-5 space-y-1">
+        <li>Confirm the exact nature of the relationship between Chengguang Energy and Wei Wang (employee / contractor / principal).</li>
+        <li>Provide a primary source for the IATF 16949 certification claim (certificate number or registry reference).</li>
+        <li>Confirm the legal relationship between China EV Mart (platform) and Chengguang Energy (operator), and between China EV Mart and the electricvehiclehub.net sister site.</li>
+      </ul>
+    </div>
+  </div>
+
   <CTA
     title="Start with the structured record"
     description="Browse the catalog and see the sourced, dated specification for any Chinese EV."

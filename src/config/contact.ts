@@ -49,5 +49,10 @@ export const contactFAQs: ContactFAQ[] = [
     answer:
       'No. China EV Mart is an independent information platform. We catalog and clarify Chinese EV product data, but we do not sell vehicles, source vehicles, or act on behalf of any manufacturer.',
   },
+  {
+    question: 'Does China EV Mart speak for vehicle manufacturers?',
+    answer:
+      'No. Our records and analysis do not represent the official position of any manufacturer, brand, or government authority. Manufacturer specifications are attributed to the manufacturer, not stated as our own finding. For landed-cost figures, see the methodology on electricvehiclehub.net.',
+  },
 ];
 

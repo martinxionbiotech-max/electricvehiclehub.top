@@ -139,6 +139,61 @@ const bylines = [
       </section>
 
       <section>
+        <h2 class="text-2xl font-bold mb-3">Roles behind the site</h2>
+        <div class="not-prose overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="border-b border-gray-300">
+                <th class="text-left py-2 pr-4 w-48">Role</th>
+                <th class="text-left py-2">Accountability</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-200 align-top">
+                <td class="py-3 pr-4 font-semibold text-gray-900">Database maintainer</td>
+                <td class="py-3 text-gray-700">
+                  Owns the vehicle records: normalization, source metadata, verification status, and
+                  update dates. Operated by {company.name} ({company.legalName}).
+                </td>
+              </tr>
+              <tr class="border-b border-gray-200 align-top">
+                <td class="py-3 pr-4 font-semibold text-gray-900">Trade article author &amp; reviewer</td>
+                <td class="py-3 text-gray-700">
+                  {company.author} writes and reviews the trade and tariff articles, and is the named
+                  author on those pages. Where written and reviewed by the same person, the byline says so.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">What is an estimate here</h2>
+        <p>
+          Some figures are recorded facts; some are estimates, and we keep the two labelled apart.
+          Landed-cost figures — import duty, countervailing duty, VAT, freight, certification — are
+          model estimates published on the{' '}
+          <a href="https://electricvehiclehub.net/landed-cost-calculator/" class="text-green-700 hover:underline" rel="noopener">
+            electricvehiclehub.net
+          </a>{' '}
+          sister site, whose methodology is referenced rather than reproduced here. On this platform,
+          vehicle specifications are recorded as published by their source; any figure we could not
+          verify is marked not recorded or unverified, never stated as a measured result.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Not a manufacturer voice</h2>
+        <p>
+          {siteConfig.name} is an independent information platform. Its records and analysis do not
+          represent the official position of any vehicle manufacturer, brand, or government authority.
+          Manufacturer specifications are attributed to the manufacturer, not stated as this platform's
+          own finding.
+        </p>
+      </section>
+
+      <section>
         <h2 class="text-2xl font-bold mb-3">Review and verification</h2>
         <p>
           China EV Mart is a small publication, and we say so rather than implying a large newsroom. In
