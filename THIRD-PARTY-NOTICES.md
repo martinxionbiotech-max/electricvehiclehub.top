@@ -33,7 +33,7 @@ SOFTWARE.
 ```
 
 (That notice covers the starter template's source code only. It does not cover the editorial
-content, data tables, calculated figures or photographs published on electricvehiclehub.top.)
+content, data tables, calculated figures or photographs published on chinaevmart.com.)
 
 ## Photographs
 

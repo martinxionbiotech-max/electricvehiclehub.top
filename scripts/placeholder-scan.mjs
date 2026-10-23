@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * EV Hub 全字段占位扫描（P2 §15 扩展）。
+ * China EV Mart 全字段占位扫描（P2 §15 扩展）。
  * Run: npm run placeholder:scan
  * 扫描 vehicle-master 全字段 + md frontmatter：
  * 9999/99999 哨兵值、未来日期、负值、空串、placeholder/TBD/N/A 等字样。

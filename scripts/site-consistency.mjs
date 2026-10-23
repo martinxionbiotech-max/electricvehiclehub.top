@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * EV Hub build 后一致性 + sitemap 校验（§32 + §27）。
+ * China EV Mart build 后一致性 + sitemap 校验（§32 + §27）。
  * Run: node scripts/site-consistency.mjs   （需先 npm run build）
  *
  * 检查：
@@ -17,7 +17,7 @@ import { join } from 'node:path';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const DIST = join(ROOT, 'dist');
-const SITE = 'https://electricvehiclehub.top';
+const SITE = 'https://chinaevmart.com';
 
 const checks = [];
 const failures = [];

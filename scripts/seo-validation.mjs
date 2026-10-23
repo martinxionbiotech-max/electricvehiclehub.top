@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * EV Hub full SEO validation (P2 §22-24, §28).
+ * China EV Mart full SEO validation (P2 §22-24, §28).
  * Run: npm run seo:validate
  * 1) sitemap URL 全量有效性（对照 dist 构建产物）
  * 2) 内链断裂全量扫描（dist HTML 内 href/src）
@@ -12,7 +12,7 @@ import { join } from 'node:path';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const DIST = join(ROOT, 'dist');
-const SITE = 'https://electricvehiclehub.top';
+const SITE = 'https://chinaevmart.com';
 const today = new Date().toISOString().split('T')[0];
 
 const issues = [];

@@ -7,7 +7,7 @@
  * technology, and evaluating export-market requirements.
  * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
  * Author: Wei Wang, EV & Battery Industry Analyst
- * Primary contact: info@electricvehiclehub.top (business email)
+ * Primary contact: info@chinaevmart.com (business email)
  */
 
 import type { SocialLinks, LegalConfig } from '../lib/types';
@@ -47,7 +47,7 @@ export const company = {
     'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an automotive battery manufacturer founded in 2002 whose quality management system is certified to IATF 16949, publishing an independent product database of Chinese EV specifications, versions, and technology data.',
   url: 'https://chinaevmart.com',
   logo: '/logo.svg',
-  email: 'info@electricvehiclehub.top',
+  email: 'info@chinaevmart.com',
   author: 'Wei Wang',
   authorRole: 'EV & Battery Industry Analyst',
   authorBio:
@@ -56,7 +56,7 @@ export const company = {
 
 /** Legal configuration for privacy policy and terms pages */
 export const legal: LegalConfig = {
-  privacyEmail: 'privacy@electricvehiclehub.top',
-  legalEmail: 'legal@electricvehiclehub.top',
+  privacyEmail: 'privacy@chinaevmart.com',
+  legalEmail: 'legal@chinaevmart.com',
   lastUpdated: 'September 5, 2026',
 };

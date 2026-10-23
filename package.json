@@ -2,7 +2,7 @@
   "name": "ev-hub",
   "type": "module",
   "version": "1.4.1",
-  "description": "EV Hub \u2014 China EV export intelligence: landed cost, tariffs, vehicle & market data.",
+  "description": "China EV Mart \u2014 Chinese EV product database: specifications, versions, technology, and market comparison data.",
   "keywords": [
     "astro",
     "theme",

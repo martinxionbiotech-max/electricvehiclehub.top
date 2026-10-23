@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * EV Hub indexation quality gate (P2 §21).
+ * China EV Mart indexation quality gate (P2 §21).
  * Run: npm run quality:gate
  * Checks 5 gates per vehicle: identity / brand / powertrain / specs / source.
  * Produces docs/indexation-quality-gate.md (report only — does NOT noindex anything).
@@ -9,7 +9,7 @@ import { readFileSync, readdirSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 const ROOT = new URL('..', import.meta.url).pathname;
-const SITE = 'https://electricvehiclehub.top';
+const SITE = 'https://chinaevmart.com';
 const load = (p) => JSON.parse(readFileSync(join(ROOT, p), 'utf8'));
 
 const ALLOWED_POWERTRAINS = new Set(['BEV','PHEV','EREV','HEV','ICE','FCEV','Unknown']);
@@ -103,7 +103,7 @@ for (const v of vehicles) {
 // ── 报告输出 ──
 const today = new Date().toISOString().split('T')[0];
 const lines = [];
-lines.push('# EV Hub Indexation Quality Gate');
+lines.push('# China EV Mart Indexation Quality Gate');
 lines.push('');
 lines.push(`> 生成：${today} ｜ 车辆总数：${vehicles.length} ｜ 工具：scripts/quality-gate.mjs（\`npm run quality:gate\`）`);
 lines.push('> 本报告仅产出不完整清单，**不自动 noindex**（无既有政策支持）。');
