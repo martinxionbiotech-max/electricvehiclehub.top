@@ -114,7 +114,7 @@
 
 ## 8. 一致性审计清单（每次发布前）
 
-1. `grep -rn "EVHub Top\|EV Hub\|CNEVhub\|electricvehiclehub.top" src/ public/` → 应为 0（或仅历史语境 + 邮箱域名待运营确认）。
+1. `grep -rn "EVHub Top\|EV Hub\|CNEVhub\|electricvehiclehub.top" src/ public/` → 应为 0（或仅历史语境 + 社交句柄 x.com/cnevhub、github …/CNEVhub 待运营更新）。
 2. 首页 / 车型 / 品牌 / About 的 `<title>` 与 `og:site_name` → 全部 `China EV Mart`。
 3. `siteConfig.name === 'China EV Mart'` · `siteConfig.url === 'https://chinaevmart.com'`。
 4. 价格/续航数字均带口径标签（ex-factory / CLTC / WLTP）。
