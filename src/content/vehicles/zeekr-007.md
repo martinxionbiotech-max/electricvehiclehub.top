@@ -3,7 +3,7 @@ title: "Zeekr 007"
 description: "Zeekr's Zeekr 007 is an SUV fully electric, offering 688 km of CLTC range, 75 kWh of battery, 310 kW peak output, and a LFP (Golden) / NMC pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "zeekr-007"
 brand: "zeekr"
-type: "SUV"
+type: Sedan
 powertrain: "BEV"
 price_usd: 29560.0
 price_type: "China ex-factory reference price"
@@ -47,8 +47,8 @@ hs_code: "87038000"
 trim: "后驱版 / 四驱版 / GT"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
-data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_updated: "2026-10-23"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P1 body-type fix SUV→Sedan vs en.wikipedia.org, 2026-10-23"
 quality_tier: "A"
 ---
 # Zeekr 007

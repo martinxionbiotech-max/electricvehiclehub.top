@@ -3,7 +3,7 @@ title: "Lynk Co 07"
 description: "The Lynk Co 07 is an SUV plug-in hybrid electric from Lynk & Co with a CLTC-rated range of 126 km, 18 kWh of battery, 180 kW peak output, and LFP (CATL) chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "lynk-co-07"
 brand: "lynk-co"
-type: "SUV"
+type: Sedan
 powertrain: "PHEV"
 price_usd: 21940.0
 price_type: "China ex-factory reference price"
@@ -44,8 +44,8 @@ certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapte
 hs_code: "870340"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
-data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_updated: "2026-10-23"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P1 body-type fix SUV→Sedan vs en.wikipedia.org, 2026-10-23"
 quality_tier: "A"
 ---
 # Lynk Co 07

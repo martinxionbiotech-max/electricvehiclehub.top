@@ -3,7 +3,7 @@ title: "NIO Et5T"
 description: "The NIO Et5T is an SUV fully electric from NIO, offering 710 km of CLTC range, 100 kWh of battery, 360 kW of motor power, and a NMC (CATL) pack. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "nio-et5t"
 brand: "nio"
-type: "SUV"
+type: Wagon
 powertrain: "BEV"
 price_usd: 41970.0
 price_type: "China ex-factory reference price"
@@ -45,8 +45,8 @@ certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapte
 hs_code: "87038000"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
-data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_updated: "2026-10-23"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P1 body-type fix SUV→Wagon vs en.wikipedia.org, 2026-10-23"
 quality_tier: "A"
 ---
 # Nio Et5T

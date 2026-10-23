@@ -3,7 +3,7 @@ title: "NIO ET5"
 description: "The NIO ET5, an SUV battery-electric from NIO, offering 740 km of CLTC range, a 100 kWh battery, 360 kW peak output, and NMC / LFP chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "nio-et5"
 brand: "nio"
-type: "SUV"
+type: Sedan
 powertrain: "BEV"
 price_usd: 41850.0
 price_type: "China ex-factory reference price"
@@ -46,8 +46,8 @@ hs_code: "87038000"
 trim: "75 kWh / 100 kWh"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
-data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_updated: "2026-10-23"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P1 body-type fix SUV→Sedan vs en.wikipedia.org, 2026-10-23"
 quality_tier: "A"
 ---
 # Nio ET5

@@ -3,7 +3,7 @@ title: "Zeekr MIX"
 description: "The Zeekr MIX is Zeekr's SUV battery-electric, offering a CLTC-rated range of 550 km, 76 kWh of battery, 310 kW of motor power, and LFP / NMC chemistry. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "zeekr-mix"
 brand: "zeekr"
-type: "SUV"
+type: MPV
 powertrain: "BEV"
 price_usd: 39420.0
 price_type: "China ex-factory reference price"
@@ -47,8 +47,8 @@ hs_code: "87038000"
 trim: "后驱版 / 四驱版"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
-data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_updated: "2026-10-23"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P1 body-type fix SUV→MPV vs en.wikipedia.org, 2026-10-23"
 quality_tier: "A"
 ---
 # Zeekr MIX

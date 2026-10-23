@@ -3,7 +3,7 @@ title: "Hongqi EH7"
 description: "The Hongqi EH7 is Hongqi's SUV battery-electric with 600 km of CLTC range, 75 kWh of battery, 253 kW of motor power, and NMC (CATL) chemistry. Complete product specifications, versions and technology data in the Chinese EV database."
 slug: "hongqi-eh7"
 brand: "hongqi"
-type: "SUV"
+type: Sedan
 powertrain: "BEV"
 price_usd: 29410.0
 price_type: "China ex-factory reference price"
@@ -45,8 +45,8 @@ certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapte
 hs_code: "87038000"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
-data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_updated: "2026-10-23"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P1 body-type fix SUV→Sedan vs en.wikipedia.org, 2026-10-23"
 quality_tier: "A"
 ---
 # Hongqi EH7

@@ -3,7 +3,7 @@ title: "Im L6"
 description: "The Im L6, an SUV battery-electric from IM, offering a CLTC-rated range of 690 km, 74 kWh of battery, 245 kW of motor power, and a LFP / NMC pack. Deep product specifications, versions and technology data in the Chinese EV database."
 slug: "im-l6"
 brand: "im"
-type: "SUV"
+type: Sedan
 powertrain: "BEV"
 price_usd: 30970.0
 price_type: "China ex-factory reference price"
@@ -45,8 +45,8 @@ certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapte
 hs_code: "87038000"
 brakes: "Front ventilated disc / rear disc"
 infotainment_language: "Chinese / English"
-data_updated: "2026-10-21"
-data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
+data_updated: "2026-10-23"
+data_source: "China EV Mart catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21) · P1 body-type fix SUV→Sedan vs en.wikipedia.org, 2026-10-23"
 quality_tier: "A"
 ---
 # Im L6
