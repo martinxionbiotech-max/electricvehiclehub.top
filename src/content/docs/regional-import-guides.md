@@ -128,7 +128,7 @@ in-depth guides:
 - [Germany](/blog/germany-import-guide/) · [Netherlands](/blog/netherlands-import-guide/) · [France](/blog/france-import-guide/)
 - [UK](/blog/uk-import-guide/) · [Norway](/blog/norway-import-guide/) · [Sweden](/blog/sweden-import-guide/)
 - [UAE](/blog/uae-import-guide/) · [Saudi Arabia](/blog/saudi-arabia-import-guide/)
-- [Australia](/blog/australia-import-guide/) · [New Zealand](/blog/new-zealand-import-guide/)
+- [Australia](/blog/australia-import-zero-duty/) · [New Zealand](/blog/new-zealand-import-guide/)
 - [Landed Cost Methodology](/docs/landed-cost-methodology/)
 
 ## Source
