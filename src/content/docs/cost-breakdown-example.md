@@ -89,4 +89,4 @@ The "cheap Chinese EV" narrative holds in the Gulf and Australia, where the prem
 ## Related
 
 - [Landed Cost Methodology](/docs/landed-cost-methodology/) — the formula behind these numbers.
-- [UAE & Saudi Import](/docs/uae-saudi-import/) — why the Gulf is cheapest.
+- [UAE & Saudi Import](/docs/regional-import-guides/) — why the Gulf is cheapest.

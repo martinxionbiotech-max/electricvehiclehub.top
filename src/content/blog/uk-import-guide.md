@@ -164,7 +164,7 @@ Yes, for VAT-registered businesses — it is claimed on the next VAT return. Pri
 - [Germany vs Netherlands vs France: Which EU Market Is Cheapest?](/blog/germany-netherlands-france-import-comparison/)
 - [Importing a Chinese EV to Norway: Zero Duty, 25% VAT](/blog/norway-import-guide/)
 - [Importing a Chinese EV to the EU: Complete 2026 Guide](/blog/import-chinese-ev-eu-guide/)
-- [Landed Cost Methodology](/docs/landed-cost-methodology/) · [UK import notes](/docs/uk-import/) · [Browse the vehicle catalog](/vehicles/)
+- [Landed Cost Methodology](/docs/landed-cost-methodology/) · [UK import notes](/docs/regional-import-guides/) · [Browse the vehicle catalog](/vehicles/)
 
 ## The Author's Take
 

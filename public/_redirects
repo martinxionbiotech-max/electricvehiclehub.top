@@ -11,3 +11,9 @@ https://www.chinaevmart.com/*  https://chinaevmart.com/:splat  301
 # 计算器已迁移到 .net（出口情报定位），跨域一对一 301
 /landed-cost-calculator/  https://electricvehiclehub.net/landed-cost-calculator/  301
 /landed-cost-calculator  https://electricvehiclehub.net/landed-cost-calculator/  301
+# 国家指南去重合并（five-02）：5 篇薄文档 → 区域指南带国家差异表
+/docs/eu-import-guide/  /docs/regional-import-guides/  301
+/docs/germany-import/  /docs/regional-import-guides/  301
+/docs/uk-import/  /docs/regional-import-guides/  301
+/docs/australia-import/  /docs/regional-import-guides/  301
+/docs/uae-saudi-import/  /docs/regional-import-guides/  301

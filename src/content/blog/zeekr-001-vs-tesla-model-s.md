@@ -119,7 +119,7 @@ So the comparison resolves to this: the Zeekr 001 is the car you can actually im
 - [Zeekr's 18.8% Countervailing Duty](/blog/zeekr-countervailing-duty/)
 - [Geely's 18.8% Countervailing Duty](/blog/geely-188-countervailing-duty/)
 - [Landed Cost Methodology](/docs/landed-cost-methodology/)
-- [EU Import Guide](/docs/eu-import-guide/)
+- [EU Import Guide](/docs/regional-import-guides/)
 - [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
 - [CLTC vs WLTP Range](/blog/cltc-vs-wltp-range/)
 - [Zeekr 001 catalog page](/vehicles/zeekr-001/)

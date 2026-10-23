@@ -100,7 +100,7 @@ Within Germany, three practical items matter for a small-volume importer:
 
 1. **Approval route.** An EU whole-vehicle type approval with a Certificate of Conformity is the fast lane. Without one, Germany's §21 StVZO single-vehicle approval (via TÜV, DEKRA or GTÜ) is the well-trodden path — budget 2–6 weeks and $1,500–$5,000 for certification, more if the car needs adaptations like lighting or speedometer conformity. The model holds $3,250. See [WVTA vs single-vehicle approval](/blog/wvta-vs-single-vehicle-approval/).
 2. **Charging interface.** EU-spec cars use Type 2 / CCS2; China-market builds use GB/T. If the inlet is wrong for Germany's network, [the adapter path has a cost of its own](/blog/ccs2-vs-gbt-charging/).
-3. **Running costs after registration.** Registration is in the landed figure; annual road tax and insurance are not. EVs currently benefit from reduced or zero annual road tax for the first years, per [China EV Mart's Germany reference](/docs/germany-import/) — confirm the current terms for your model.
+3. **Running costs after registration.** Registration is in the landed figure; annual road tax and insurance are not. EVs currently benefit from reduced or zero annual road tax for the first years, per [China EV Mart's Germany reference](/docs/regional-import-guides/) — confirm the current terms for your model.
 
 ## The Tesla Berlin question
 
@@ -138,7 +138,7 @@ For a Chinese-brand importer the lesson isn't loophole-spotting; it's that the d
 - [SAIC's 35.3% Countervailing Duty: The Most Tariff-Hit Chinese EV Brand](/blog/saic-35-percent-countervailing-duty/)
 - [Geely's 18.8% Countervailing Duty: What It Means for Zeekr, Lynk & Co, and Galaxy Buyers](/blog/geely-188-countervailing-duty/)
 - [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
-- [Germany Import — reference page](/docs/germany-import/)
+- [Germany Import — reference page](/docs/regional-import-guides/)
 - Vehicle pages: [BYD Seal](/vehicles/byd-seal/) · [MG 4](/vehicles/mg-4/) · [Zeekr 009](/vehicles/zeekr-009/) · [Xiaomi SU7](/vehicles/xiaomi-su7/)
 
 ## Sources
@@ -149,4 +149,4 @@ For a Chinese-brand importer the lesson isn't loophole-spotting; it's that the d
 4. European Commission (Access2Markets) — "EU Commission imposes countervailing duties on imports of battery electric vehicles (BEVs) from China" — https://trade.ec.europa.eu/access-to-markets/en/news/eu-commission-imposes-countervailing-duties-imports-battery-electric-vehicles-bevs-china — accessed 17 September 2026.
 5. China EV Mart — tariff, market and cost records: `src/data/tariffs.json`, `src/data/market-master.json` (Germany: 10% duty, 19% VAT, $500 registration; France, Netherlands and Belgium rows; fixed-cost inputs; brand CVD schedule; last verified 15 September 2026). Internal dataset.
 6. China EV Mart — vehicle landed-cost records: Germany, France, Netherlands and Belgium rows for the nine models in this article (data updated 7 September 2026). Internal dataset.
-7. China EV Mart — "Germany Import" reference page (§21 StVZO single-vehicle approval via TÜV / DEKRA / GTÜ; 2–6 week certification budget of $1,500–$5,000; road-tax note) — /docs/germany-import/ — reviewed 17 September 2026.
+7. China EV Mart — "Germany Import" reference page (§21 StVZO single-vehicle approval via TÜV / DEKRA / GTÜ; 2–6 week certification budget of $1,500–$5,000; road-tax note) — /docs/regional-import-guides/ — reviewed 17 September 2026.

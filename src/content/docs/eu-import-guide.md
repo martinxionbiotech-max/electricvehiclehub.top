@@ -3,7 +3,7 @@ title: "EU Import Guide"
 description: "The complete tariff and certification stack for importing a Chinese EV into the European Union, including standard duty, countervailing duties by producer, VAT, and homologation."
 section: "European Markets"
 order: 1
-draft: false
+draft: true
 ---
 
 # EU Import Guide: The Full Tariff Stack

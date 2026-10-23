@@ -129,6 +129,6 @@ Before wiring anything, run the Qatar lane against your own numbers. The five-po
 - [UAE vs Saudi Arabia: which Gulf market lands a Chinese EV cheaper](/blog/uae-saudi-arabia-import-comparison/)
 - [Why the sticker price is never the landed price](/blog/sticker-vs-landed-price/)
 - [Left-hand-drive vs right-hand-drive markets](/blog/lhd-vs-rhd-markets/)
-- [Gulf import overview (docs)](/docs/uae-saudi-import/)
+- [Gulf import overview (docs)](/docs/regional-import-guides/)
 - [Landed cost methodology (docs)](/docs/landed-cost-methodology/)
 - [BYD Seal landed-cost record](/vehicles/byd-seal/)

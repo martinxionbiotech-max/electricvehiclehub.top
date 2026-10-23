@@ -25,7 +25,7 @@ The EU's framework is the most mature: a vehicle must satisfy the applicable UN/
 
 ## United Kingdom
 
-Post-Brexit, the UK runs its own IVA scheme via the DVSA. A China-market EV generally needs a Basic IVA, with adaptations such as mph speedometer display and right-hand-drive considerations where relevant. See [UK Import](/docs/uk-import/).
+Post-Brexit, the UK runs its own IVA scheme via the DVSA. A China-market EV generally needs a Basic IVA, with adaptations such as mph speedometer display and right-hand-drive considerations where relevant. See [UK Import](/docs/regional-import-guides/).
 
 ## Gulf (UAE & Saudi Arabia)
 
@@ -33,7 +33,7 @@ The Gulf applies its own conformity framework. Vehicles typically need to demons
 
 ## Australia
 
-Australia is the most demanding on documentation. Imported vehicles must meet ADRs and be entered on the Register of Approved Vehicles (RAV), usually via a concessional entry for vehicles not type-approved for Australia. Physical modifications (lighting, child-restraint anchors, speedometer) are frequently required. See [Australia Import](/docs/australia-import/).
+Australia is the most demanding on documentation. Imported vehicles must meet ADRs and be entered on the Register of Approved Vehicles (RAV), usually via a concessional entry for vehicles not type-approved for Australia. Physical modifications (lighting, child-restraint anchors, speedometer) are frequently required. See [Australia Import](/docs/regional-import-guides/).
 
 ## A practical checklist
 

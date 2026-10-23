@@ -3,7 +3,7 @@ title: "UK Import"
 description: "How post-Brexit rules change importing a Chinese EV into the United Kingdom, including UK duty, VAT, IVA approval, and the absence of EU countervailing duty."
 section: "European Markets"
 order: 3
-draft: false
+draft: true
 ---
 
 # UK Import Guide

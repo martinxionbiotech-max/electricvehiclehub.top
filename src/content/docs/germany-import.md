@@ -3,7 +3,7 @@ title: "Germany Import"
 description: "The specific tariffs, VAT, registration, and homologation requirements for importing a Chinese EV into Germany, with a worked cost example."
 section: "European Markets"
 order: 2
-draft: false
+draft: true
 ---
 
 # Germany Import Guide

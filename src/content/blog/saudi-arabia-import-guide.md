@@ -131,5 +131,5 @@ One property of the regime is worth internalizing early: consumption tax is a de
 - [Importing a Chinese EV to Qatar: 5% duty, no VAT, and the Gulf's cheapest lane](/blog/qatar-import-guide/)
 - [UAE vs Saudi Arabia: which Gulf market lands a Chinese EV cheaper](/blog/uae-saudi-arabia-import-comparison/)
 - [Why the sticker price is never the landed price](/blog/sticker-vs-landed-price/)
-- [UAE & Saudi import overview (docs)](/docs/uae-saudi-import/)
+- [UAE & Saudi import overview (docs)](/docs/regional-import-guides/)
 - [BYD Seal landed-cost record](/vehicles/byd-seal/)

@@ -133,6 +133,6 @@ There is one legitimate nuance on the other side. For a **B2B importer who is VA
 - [BYD Seal Deep Review: Real Landed Cost & Import Math](/blog/byd-seal-deep-review/)
 - [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
 - [CLTC vs WLTP: The Range You Won't Get](/blog/cltc-vs-wltp-range/)
-- [EU Import Guide](/docs/eu-import-guide/)
+- [EU Import Guide](/docs/regional-import-guides/)
 - [Landed Cost Methodology](/docs/landed-cost-methodology/)
 - [BYD Seal vehicle record](/vehicles/byd-seal/)

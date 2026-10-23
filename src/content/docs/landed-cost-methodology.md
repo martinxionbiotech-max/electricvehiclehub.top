@@ -95,4 +95,4 @@ Figures are refreshed when tariff schedules or tax rates change, and every estim
 ## Related
 
 - [Cost Breakdown Example](/docs/cost-breakdown-example/) — a fully worked example on a BYD Seal.
-- [EU Import Guide](/docs/eu-import-guide/) — the tariff stack in context.
+- [EU Import Guide](/docs/regional-import-guides/) — the tariff stack in context.

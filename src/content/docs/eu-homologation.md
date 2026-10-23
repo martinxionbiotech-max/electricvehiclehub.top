@@ -54,4 +54,4 @@ Don't shortcut this step. A vehicle that fails its first approval attempt costs 
 ## Related
 
 - [Compliance Requirements](/docs/compliance-requirements/) — how conformity works across markets.
-- [Germany Import](/docs/germany-import/) — the §21 route in practice.
+- [Germany Import](/docs/regional-import-guides/) — the §21 route in practice.

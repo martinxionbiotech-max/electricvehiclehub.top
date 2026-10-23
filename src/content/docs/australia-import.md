@@ -3,7 +3,7 @@ title: "Australia Import"
 description: "Importing a Chinese EV into Australia: zero import duty, 10% GST, no countervailing duty, and the RAV/ADR compliance requirements that make Australia a uniquely attractive market."
 section: "Middle East & Oceania"
 order: 2
-draft: false
+draft: true
 ---
 
 # Australia Import Guide

@@ -3,7 +3,7 @@ title: "UAE & Saudi Import"
 description: "Importing a Chinese EV into the UAE and Saudi Arabia: low standard duties, no countervailing duty, and 5% VAT/GST — why the Middle East is the cheapest major export destination."
 section: "Middle East & Oceania"
 order: 1
-draft: false
+draft: true
 ---
 
 # UAE & Saudi Arabia Import Guide
