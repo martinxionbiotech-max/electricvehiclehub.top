@@ -170,9 +170,12 @@ const statusTone: Record<string, string> = {
 const statusLabel: Record<string, string> = {
   verified: 'verified',
   mismatch: 'mismatch',
-  unverifiable: 'unverified',
+  unverifiable: '待核验 (pending)',
   conflict: 'conflict',
 };
+// Pending-review determination: unverifiable status OR low confidence (待核验).
+const isPendingCell = (c: { status?: string; confidence?: string }) =>
+  c.status === 'unverifiable' || c.confidence === 'low';
 const paramRows = paramV
   ? paramOrder
       .filter((p) => paramV[p])
@@ -180,6 +183,7 @@ const paramRows = paramV
   : [];
 const hasParamV = paramRows.length > 0;
 const conflictRows = paramRows.filter((r) => r.cell.status === 'conflict');
+const pendingRows = paramRows.filter((r) => isPendingCell(r.cell));
 
 // structured-data / share image
 const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
@@ -535,7 +539,10 @@ const jsonLd = {
                       {statusLabel[r.cell.status] || 'unverified'}
                     </span>
                   </td>
-                  <td class="px-4 py-3 text-gray-700">{r.cell.source || '—'}</td>
+                  <td class="px-4 py-3 text-gray-700">
+                    {r.cell.source || '—'}
+                    {r.cell.test_standard ? <span class="text-gray-500"> · {r.cell.test_standard}</span> : ''}
+                  </td>
                   <td class="px-4 py-3 text-gray-700">{r.cell.verified_at || '—'}</td>
                 </tr>
               ))}
@@ -551,6 +558,16 @@ const jsonLd = {
               ))}
             </ul>
             <p class="text-xs text-amber-700 mt-2">Conflicts are recorded, not resolved by guessing. Report a correction via the link below.</p>
+          </div>
+        )}
+        {pendingRows.length > 0 && (
+          <div class="mt-4 rounded-xl border border-gray-200 bg-gray-50 px-5 py-4">
+            <p class="text-sm font-semibold text-gray-700">待核验 (pending review)</p>
+            <p class="text-xs text-gray-600 mt-1 leading-relaxed">
+              {pendingRows.length} of {paramRows.length} key parameter{paramRows.length === 1 ? '' : 's'} are recorded but not yet confirmed
+              against a manufacturer / authoritative source. Shown as recorded, not estimated:
+              {pendingRows.map((r) => r.label).join(', ')}.
+            </p>
           </div>
         )}
       </section>

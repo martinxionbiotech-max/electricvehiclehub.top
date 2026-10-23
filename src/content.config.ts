@@ -111,6 +111,8 @@ const vehicles = defineCollection({
           trim: z.string().optional(),
           confidence: z.enum(['high', 'medium', 'low']).optional(),
           status: z.enum(['verified', 'mismatch', 'unverifiable', 'conflict']).optional(),
+          test_standard: z.enum(['CLTC', 'WLTP', 'EPA', 'NEDC']).optional(),
+          note: z.string().optional(),
         }),
       )
       .optional(),
