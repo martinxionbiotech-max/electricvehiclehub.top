@@ -38,6 +38,7 @@ export const navigation: Navigation = {
     ],
     company: [
       { label: 'About', href: '/about' },
+      { label: 'Request Export Guidance', href: '/quote' },
       { label: 'Authors & Review Standards', href: '/authors' },
       { label: 'Editorial Independence', href: '/editorial-independence' },
       { label: 'Evidence & Data Methodology', href: '/methodology' },

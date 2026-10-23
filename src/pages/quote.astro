@@ -1,0 +1,209 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import PageHeader from '@sections/content/PageHeader.astro';
+import tariffs from '@/data/tariffs.json';
+import { Icon } from 'astro-icon/components';
+import { siteConfig, contact } from '@/config';
+
+// Destination dropdown from tariffs.json (single source of truth).
+const markets = Object.entries(tariffs.markets).map(([key, m]) => ({
+  key,
+  label: m.label,
+}));
+
+// Prefill from query params (vehicle page CTA passes these).
+const url = Astro.url;
+const prefilledVehicle = url.searchParams.get('vehicle') || '';
+const prefilledModel = url.searchParams.get('model') || '';
+const prefilledPrice = url.searchParams.get('price') || '';
+---
+
+<MarketingLayout
+  title={`Export Inquiry - ${siteConfig.name}`}
+  description="Request export guidance for a specific Chinese EV. Tell us the model, quantity, and destination, and our team will respond with specification and landed-cost guidance."
+>
+  <PageHeader
+    title="Request export guidance"
+    subtitle="Tell us the model, quantity, and destination. We'll respond with specification guidance and landed-cost reference — not a purchase order."
+    align="left"
+    maxWidth="lg"
+  />
+
+  <section class="py-section bg-surface">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+        <div>
+          <h2 class="text-2xl font-bold text-text mb-4">Your inquiry</h2>
+          <form id="quote-form" class="space-y-5" data-email={contact.email} onsubmit="return buildMailto(event)">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+              <div>
+                <label for="name" class="block text-sm font-medium text-text mb-2">
+                  Name <span class="text-red-500">*</span>
+                </label>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  required
+                  minlength="2"
+                  class="w-full px-4 py-3 rounded-md border border-border bg-background text-text focus:outline-none focus:ring-2 focus:ring-primary"
+                  placeholder="Your name"
+                />
+              </div>
+              <div>
+                <label for="email" class="block text-sm font-medium text-text mb-2">
+                  Email <span class="text-red-500">*</span>
+                </label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  required
+                  class="w-full px-4 py-3 rounded-md border border-border bg-background text-text focus:outline-none focus:ring-2 focus:ring-primary"
+                  placeholder="you@example.com"
+                />
+              </div>
+            </div>
+
+            <div>
+              <label for="model" class="block text-sm font-medium text-text mb-2">
+                Vehicle model <span class="text-red-500">*</span>
+              </label>
+              <input
+                type="text"
+                id="model"
+                name="model"
+                required
+                value={prefilledModel}
+                class="w-full px-4 py-3 rounded-md border border-border bg-background text-text focus:outline-none focus:ring-2 focus:ring-primary"
+                placeholder="e.g. BYD Seal, MG 4, Zeekr 001"
+              />
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+              <div>
+                <label for="quantity" class="block text-sm font-medium text-text mb-2">
+                  Quantity <span class="text-red-500">*</span>
+                </label>
+                <input
+                  type="number"
+                  id="quantity"
+                  name="quantity"
+                  required
+                  min="1"
+                  step="1"
+                  class="w-full px-4 py-3 rounded-md border border-border bg-background text-text focus:outline-none focus:ring-2 focus:ring-primary"
+                  placeholder="e.g. 10"
+                />
+              </div>
+              <div>
+                <label for="destination" class="block text-sm font-medium text-text mb-2">
+                  Destination <span class="text-red-500">*</span>
+                </label>
+                <select
+                  id="destination"
+                  name="destination"
+                  required
+                  class="w-full px-4 py-3 rounded-md border border-border bg-background text-text focus:outline-none focus:ring-2 focus:ring-primary"
+                >
+                  <option value="">Select destination</option>
+                  {
+                    markets.map((m) => (
+                      <option value={m.label}>{m.label}</option>
+                    ))
+                  }
+                </select>
+              </div>
+            </div>
+
+            <div>
+              <label for="notes" class="block text-sm font-medium text-text mb-2">
+                Notes (optional)
+              </label>
+              <textarea
+                id="notes"
+                name="notes"
+                rows="3"
+                class="w-full px-4 py-3 rounded-md border border-border bg-background text-text focus:outline-none focus:ring-2 focus:ring-primary resize-none"
+                placeholder="Trim, target price, timeline, or anything else"
+              ></textarea>
+            </div>
+
+            <div class="rounded-xl border border-amber-200 bg-amber-50 px-5 py-4">
+              <p class="text-sm text-amber-800 leading-relaxed">
+                Submitting opens your email client with the inquiry pre-filled. No data is sent to our
+                server — your message goes to {contact.email} via your own email account.
+              </p>
+            </div>
+
+            <button
+              type="submit"
+              class="w-full sm:w-auto px-6 py-3 rounded-md bg-primary text-white font-medium hover:bg-primary-dark transition-colors"
+            >
+              Compose email
+            </button>
+          </form>
+        </div>
+
+        <div class="space-y-8">
+          <div>
+            <h2 class="text-2xl font-bold text-text mb-4">What to expect</h2>
+            <ul class="space-y-3 text-text-muted">
+              <li class="flex items-start gap-3">
+                <Icon name="lucide:clock" class="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                <span><strong class="text-text">Response within 24 hours</strong> on business days (GMT+8).</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <Icon name="lucide:file-text" class="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                <span><strong class="text-text">Specification guidance</strong> — battery, powertrain, price basis, and landed-cost reference for your model and destination.</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <Icon name="lucide:info" class="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                <span><strong class="text-text">Not a purchase order or quote.</strong> China EV Mart is an information platform — we do not sell vehicles, act as a broker, or provide binding transactional prices.</span>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h2 class="text-2xl font-bold text-text mb-4">Prefer direct email?</h2>
+            <a
+              href={`mailto:${contact.email}`}
+              class="flex items-center gap-3 text-text-muted hover:text-primary transition-colors"
+            >
+              <Icon name="lucide:mail" class="w-5 h-5 text-primary" />
+              <span class="group-hover:underline">{contact.email}</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    function buildMailto(event: Event) {
+      event.preventDefault();
+      const form = document.getElementById('quote-form') as HTMLFormElement;
+      const toEmail = form.dataset.email || 'info@chinaevmart.com';
+      const get = (id: string) => (form.elements.namedItem(id) as HTMLInputElement)?.value?.trim() ?? '';
+      const name = get('name');
+      const email = get('email');
+      const model = get('model');
+      const quantity = get('quantity');
+      const destination = get('destination');
+      const notes = get('notes');
+      const subject = `Export inquiry: ${model} (${quantity} units, ${destination})`;
+      const body = [
+        `Name: ${name}`,
+        `Email: ${email}`,
+        ``,
+        `Vehicle model: ${model}`,
+        `Quantity: ${quantity}`,
+        `Destination: ${destination}`,
+        ``,
+        `Notes: ${notes || '(none)'}`,
+      ].join('\n');
+      window.location.href = `mailto:${toEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      return false;
+    }
+  </script>
+</MarketingLayout>

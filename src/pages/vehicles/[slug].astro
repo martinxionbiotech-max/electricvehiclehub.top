@@ -266,6 +266,15 @@ const jsonLd = {
         {data.trim ? <> · Trims: {data.trim}</> : ''}
         {data.family ? <> · Family: {data.family}</> : ''}
       </p>
+      <div class="mt-4 flex flex-wrap gap-3">
+        <a
+          href={`/quote/?vehicle=${data.slug}&model=${encodeURIComponent(data.title)}&price=${data.price_usd}`}
+          class="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-green-600 text-white text-sm font-semibold hover:bg-green-700 transition-colors"
+        >
+          Request export guidance
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+        </a>
+      </div>
     </div>
 
     {isCompact && (

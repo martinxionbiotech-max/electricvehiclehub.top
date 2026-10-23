@@ -40,9 +40,9 @@ export const contactFAQs: ContactFAQ[] = [
     answer: 'We respond to most inquiries within 24 hours on business days (GMT+8).',
   },
   {
-    question: 'Can you help me source a specific Chinese EV?',
+    question: "Can you help me source a specific Chinese EV?",
     answer:
-      'We can offer specification guidance for a specific model — clarify the product record, its battery, powertrain, and price basis. We do not act as a purchasing agent or broker, and we do not provide transactional prices or quotes.',
+      'We can offer specification guidance for a specific model — clarify the product record, its battery, powertrain, and price basis. For export guidance on a specific model, quantity, and destination, use the request form on the [export guidance page](/quote/). We do not act as a purchasing agent or broker, and we do not provide transactional prices or quotes.',
   },
   {
     question: 'Do you sell vehicles directly?',
