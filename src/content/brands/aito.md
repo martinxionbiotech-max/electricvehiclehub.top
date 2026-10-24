@@ -1,5 +1,5 @@
 ---
-title: "AITO: Chinese EV Brand Profile & Export Data"
+title: "AITO: 10 Models — Factory $31,920–$90,250, Germany Landed Cost"
 description: "AITO (Seres Group brand developed with Huawei under HIMA, launched 2021) — 10 models catalogued with factory prices and Germany landed-cost breakdowns (+66% to +76% import premium)."
 brand_name: "AITO"
 established: "2021"

@@ -1,6 +1,6 @@
 ---
-title: "Deepal: Chinese EV Brand Profile & Export Data"
-description: "Deepal, also known as Shenlan Auto, meaning \"deep blue\", is a new-energy vehicle brand under Changan Automobile, created to lead the company’s trans..."
+title: "Deepal: 10 Models — Factory $16,460–$33,790, Germany Landed Cost"
+description: "Deepal (Changan's Shenlan Auto) — 10 models catalogued with factory prices and Germany landed-cost breakdowns (+50% to +98% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Deepal"
 established: "2018"
 parent_manufacturer: "ChangAn"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Deepal, Chinese EV brand, EV export]
 ---
 
-Deepal, also known as Shenlan Auto, meaning \"deep blue\", is a new-energy vehicle brand under Changan Automobile, created to lead the company’s transition into the intelligent electric era. Officially launched in 2022, Deepal represents Changan’s vision of blending technology, design, and emotional connection to deliver a new generation of smart electric vehicles for global consumers.
+Deepal, also known as Shenlan Auto, is Changan Automobile's new-energy brand created to lead the group's transition into intelligent EVs. We catalogue 10 Deepal models, whose factory prices span roughly $16,460 to $33,790; in Germany, landed cost runs about $28,395 to $50,831, a +50% to +98% premium over the sticker price, with its BEV models carrying a 20.7% EU countervailing duty.

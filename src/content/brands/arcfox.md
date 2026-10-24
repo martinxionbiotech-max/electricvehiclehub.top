@@ -1,5 +1,5 @@
 ---
-title: "Arcfox: Chinese EV Brand Profile & Export Data"
+title: "Arcfox: 7 Models — Factory $8,850–$36,170, Germany Landed Cost"
 description: "Arcfox (BAIC Group's premium EV brand, launched 2017 under BAIC BluePark) — 7 models catalogued with factory prices and Germany landed-cost breakdowns, showing a +74% to +130% import premium."
 brand_name: "Arcfox"
 established: "2017"

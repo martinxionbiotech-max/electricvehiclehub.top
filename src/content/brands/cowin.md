@@ -1,6 +1,6 @@
 ---
-title: "Cowin: Chinese EV Brand Profile & Export Data"
-description: "Cowin, also marketed as Kaiyi, is a budget-oriented automotive brand founded in 2014 as a subsidiary of Chery Automobile, producing affordable sedans, SUVs, and city EVs for value-focused buyers in China and emerging export markets."
+title: "Cowin: 4 Models — Factory $6,650–$22,210, Germany Landed Cost"
+description: "Cowin (Chery's budget brand (Kaiyi)) — 4 models catalogued with factory prices and Germany landed-cost breakdowns (+61% to +157% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Cowin"
 established: "2014"
 parent_manufacturer: "Chery"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-15"
 tags: [Cowin, Chinese EV brand, EV export]
 ---
 
-Cowin (Kaiyi) is an affordable car brand established in 2014 under Chery Automobile, headquartered in Yibin, Sichuan. Positioned below Chery's mainstream lineup, Cowin targets value-conscious buyers with compact sedans, hatchbacks, and SUVs, several of which are electrified for the domestic and export markets.
+Cowin, also marketed as Kaiyi, is Chery Automobile's budget-oriented brand, producing affordable sedans, SUVs and city EVs. The 4 Cowin models we track carry factory prices from roughly $6,650 to $22,210; landed in Germany, that becomes about $17,107 to $39,495, a +61% to +157% uplift — a 20.7% EU countervailing duty applies to its BEV models.

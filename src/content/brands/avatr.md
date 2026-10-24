@@ -1,6 +1,6 @@
 ---
-title: "Avatr: Chinese EV Brand Profile & Export Data"
-description: "Avatr is a premium intelligent electric vehicle brand jointly developed by Changan Automobile, Huawei, and CATL, positioned at the intersection of adv..."
+title: "Avatr: 9 Models — Factory $29,150–$40,830, Germany Landed Cost"
+description: "Avatr (Changan–Huawei–CATL joint venture) — 9 models catalogued with factory prices and Germany landed-cost breakdowns (+48% to +80% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Avatr"
 established: "2018"
 parent_manufacturer: "ChangAn"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Avatr, Chinese EV brand, EV export]
 ---
 
-Avatr is a premium intelligent electric vehicle brand jointly developed by Changan Automobile, Huawei, and CATL, positioned at the intersection of advanced technology, luxury, and emotional design. Established in 2018 and relaunched in 2021, Avatr represents a new generation of Chinese smart mobility, integrating cutting-edge electrification with digital intelligence to deliver an immersive driving experience.
+Avatr is a premium intelligent EV brand jointly developed by Changan Automobile, Huawei and CATL, positioned where advanced driver-assistance technology meets luxury design. Across the 9 Avatr models we catalogue, factory prices run from roughly $29,150 to $40,830; landed in Germany they reach about $44,757 to $71,110, a +48% to +80% import premium after a 20.7% EU countervailing duty on the BEV portion of the line-up.

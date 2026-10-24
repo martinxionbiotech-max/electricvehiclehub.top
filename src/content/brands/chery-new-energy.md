@@ -1,6 +1,6 @@
 ---
-title: "Chery New Energy: Chinese EV Brand Profile & Export Data"
-description: "Chery New Energy is the dedicated new-energy vehicle (NEV) division of Chery Automobile Co., Ltd., focused on advancing electric and intelligent mobil..."
+title: "Chery New Energy: 7 Models — Factory $5,200–$22,210, Germany Landed Cost"
+description: "Chery New Energy (Chery's NEV division) — 7 models catalogued with factory prices and Germany landed-cost breakdowns (+88% to +185% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Chery New Energy"
 established: "2010"
 parent_manufacturer: "Chery"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Chery New Energy, Chinese EV brand, EV export]
 ---
 
-Chery New Energy is the dedicated new-energy vehicle (NEV) division of Chery Automobile Co., Ltd., focused on advancing electric and intelligent mobility through innovation, technology, and sustainability. Established in 2010, Chery New Energy was among China’s earliest specialized EV manufacturers and has since become a leading force in the nation’s electrification movement.
+Chery New Energy is Chery Automobile's dedicated NEV division, among China's earliest specialised electric-vehicle makers since 2010. The 7 Chery New Energy models we track carry factory prices from roughly $5,200 to $22,210; landed in Germany, that becomes about $14,816 to $41,691, a +88% to +185% uplift after a 20.7% EU countervailing duty.

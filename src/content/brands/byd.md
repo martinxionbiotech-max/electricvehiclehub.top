@@ -1,5 +1,5 @@
 ---
-title: "BYD: Chinese EV Brand Profile & Export Data"
+title: "BYD: 46 Models — Factory $8,940–$32,370, Germany Landed Cost"
 description: "BYD (Build Your Dreams) — China's highest-volume new-energy vehicle maker, in autos since 2003 under BYD Company Limited — 46 models catalogued with factory prices and Germany landed-cost breakdowns (+51% to +127% import premium on a 17.0% EU countervailing duty)."
 brand_name: "BYD"
 established: "2003"

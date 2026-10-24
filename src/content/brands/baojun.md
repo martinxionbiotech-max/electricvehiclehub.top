@@ -1,6 +1,6 @@
 ---
-title: "Baojun: Chinese EV Brand Profile & Export Data"
-description: "Baojun is a dynamic automotive brand under the SAIC-GM-Wuling (SGMW) joint venture, jointly established by SAIC Motor, General Motors, and Liuzhou Wul..."
+title: "Baojun: 7 Models — Factory $10,820–$18,280, Germany Landed Cost"
+description: "Baojun (SAIC-GM-Wuling value brand) — 7 models catalogued with factory prices and Germany landed-cost breakdowns (+68% to +138% import premium on a 35.3% EU countervailing duty)."
 brand_name: "Baojun"
 established: "2010"
 parent_manufacturer: "SAIC"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Baojun, Chinese EV brand, EV export]
 ---
 
-Baojun is a dynamic automotive brand under the SAIC-GM-Wuling (SGMW) joint venture, jointly established by SAIC Motor, General Motors, and Liuzhou Wuling Motors Co., Ltd. Founded in 2010, Baojun was created to serve China’s rapidly growing middle class with modern, affordable, and intelligent vehicles designed for young, tech-savvy consumers.
+Baojun is the value brand of the SAIC-GM-Wuling (SGMW) joint venture, founded in 2010 to serve China's mainstream and young, tech-focused buyers. Our Baojun line-up spans 7 models, priced from around $10,820 to $18,280 ex-factory; Germany landed cost is about $25,763 to $38,975, a +68% to +138% premium after a 35.3% EU countervailing duty on the BEV portion of the line-up.

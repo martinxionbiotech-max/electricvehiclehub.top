@@ -1,6 +1,6 @@
 ---
-title: "Aeolus: Chinese EV Brand Profile & Export Data"
-description: "Aeolus, also known as Dongfeng Fengshen, is a core passenger vehicle brand under Dongfeng Motor Corporation, dedicated to providing intelligent, relia..."
+title: "Aeolus: 7 Models — Factory $13,180–$20,110, Germany Landed Cost"
+description: "Aeolus (Dongfeng Fengshen) — 7 models catalogued with factory prices and Germany landed-cost breakdowns (+64% to +108% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Aeolus"
 established: "2009"
 parent_manufacturer: "Dongfeng"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Aeolus, Chinese EV brand, EV export]
 ---
 
-Aeolus, also known as Dongfeng Fengshen, is a core passenger vehicle brand under Dongfeng Motor Corporation, dedicated to providing intelligent, reliable, and stylish mobility solutions for mainstream consumers. Established in 2009, Aeolus represents Dongfeng’s commitment to building modern, high-quality vehicles that combine performance, technology, and value.
+Aeolus, sold domestically as Dongfeng Fengshen, is Dongfeng Motor Corporation's core passenger-vehicle brand, based in Wuhan and building mainstream family cars since 2009. Our Aeolus line-up spans 7 models, priced from around $13,180 to $20,110 ex-factory; Germany landed cost is about $24,101 to $38,373, a +64% to +108% premium, with its BEV models carrying a 20.7% EU countervailing duty.
