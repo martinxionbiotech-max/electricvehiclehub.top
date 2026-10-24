@@ -1,6 +1,6 @@
 ---
-title: "iCAUR: Chinese EV Brand Profile & Export Data"
-description: "iCAUR, or iCAR in China, is a new-energy vehicle brand under Chery Automobile, created to connect with a younger generation of drivers who value indiv..."
+title: "iCAUR: 4 Models — Factory $15,460–$23,580, Germany Landed Cost"
+description: "iCAUR (Chery's iCAR youth brand) — 4 models catalogued with factory prices and Germany landed-cost breakdowns (+59% to +101% import premium on a 20.7% EU countervailing duty)."
 brand_name: "iCAUR"
 established: "2023"
 parent_manufacturer: "Chery"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [iCAUR, Chinese EV brand, EV export]
 ---
 
-iCAUR, or iCAR in China, is a new-energy vehicle brand under Chery Automobile, created to connect with a younger generation of drivers who value individuality, technology, and sustainability. Officially launched in 2023, iCAUR represents Chery’s bold step into the youth-oriented electric vehicle market — combining stylish design, intelligent connectivity, and offbeat personality in every model.
+iCAUR, known as iCAR in China, is Chery Automobile's youth-oriented new-energy brand, launched in 2023. iCAUR is represented here by 4 models, with ex-factory prices from about $15,460 to $23,580 and German landed cost around $31,026 to $37,466 — +59% to +101% above the sticker price, with its BEV models carrying a 20.7% EU countervailing duty.

@@ -1,6 +1,6 @@
 ---
-title: "JAC Yiwei: Chinese EV Brand Profile & Export Data"
-description: "JAC Yiwei is a new-energy vehicle brand under Anhui Jianghuai Automobile Group Corp., Ltd. (JAC Motors), established to spearhead the company’s transf..."
+title: "JAC Yiwei: 3 Models — Factory $8,440–$26,750, Germany Landed Cost"
+description: "JAC Yiwei (JAC's NEV brand) — 3 models catalogued with factory prices and Germany landed-cost breakdowns (+83% to +136% import premium on a 20.7% EU countervailing duty)."
 brand_name: "JAC Yiwei"
 established: "2020"
 parent_manufacturer: "JAC"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [JAC Yiwei, Chinese EV brand, EV export]
 ---
 
-JAC Yiwei is a new-energy vehicle brand under Anhui Jianghuai Automobile Group Corp., Ltd. (JAC Motors), established to spearhead the company’s transformation into the era of intelligent electrification. Officially launched in 2023, JAC Yiwei represents JAC’s renewed commitment to innovation, digital intelligence, and sustainable mobility, built upon decades of automotive engineering expertise.
+JAC Yiwei is JAC Motors' new-energy brand, created to carry the group into intelligent electrification. JAC Yiwei is represented here by 3 models, with ex-factory prices from about $8,440 to $26,750 and German landed cost around $19,935 to $48,864 — +83% to +136% above the sticker price, reflecting a 20.7% EU countervailing-duty rate.

@@ -1,6 +1,6 @@
 ---
-title: "Exeed: Chinese EV Brand Profile & Export Data"
-description: "Exeed is the premium automotive brand under Chery Automobile, created to showcase the company’s highest standards in design, technology, and craftsman..."
+title: "Exeed: 10 Models — Factory $19,690–$29,560, Germany Landed Cost"
+description: "Exeed (Chery's premium brand) — 10 models catalogued with factory prices and Germany landed-cost breakdowns (+53% to +89% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Exeed"
 established: "2017"
 parent_manufacturer: "Chery"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Exeed, Chinese EV brand, EV export]
 ---
 
-Exeed is the premium automotive brand under Chery Automobile, created to showcase the company’s highest standards in design, technology, and craftsmanship. Launched in 2017, Exeed embodies Chery’s vision of building globally competitive vehicles that combine intelligent performance, refined luxury, and emotional design — representing the pinnacle of Chinese premium mobility.
+Exeed is Chery Automobile's premium brand, launched in 2017 to showcase the group's highest standards in design and craftsmanship. The 10 Exeed models we track carry factory prices from roughly $19,690 to $29,560; landed in Germany, that becomes about $32,374 to $48,832, a +53% to +89% uplift on a 20.7% EU countervailing duty for its BEV models.

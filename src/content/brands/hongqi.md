@@ -1,6 +1,6 @@
 ---
-title: "Hongqi: Chinese EV Brand Profile & Export Data"
-description: "Hongqi, literally “Red Flag”, is the flagship luxury automobile brand under FAW Group Corporation, and one of China’s most iconic automotive names. Es..."
+title: "Hongqi: 14 Models — Factory $12,650–$197,180, Germany Landed Cost"
+description: "Hongqi (FAW's 'Red Flag' luxury marque) — 14 models catalogued with factory prices and Germany landed-cost breakdowns (+34% to +110% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Hongqi"
 established: "1958"
 parent_manufacturer: "FAW"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Hongqi, Chinese EV brand, EV export]
 ---
 
-Hongqi, literally “Red Flag”, is the flagship luxury automobile brand under FAW Group Corporation, and one of China’s most iconic automotive names. Established in 1958, Hongqi was originally created to serve as the official vehicle for national leaders and state occasions — symbolizing dignity, craftsmanship, and Chinese excellence. Today, it stands as a modern embodiment of China’s growing strength in global premium mobility.
+Hongqi, literally 'Red Flag', is FAW Group's flagship luxury brand and one of China's most iconic automotive names, dating to 1958. The catalogue lists 14 Hongqi models at factory prices of roughly $12,650 to $197,180; in Germany those land near $26,587 to $264,709, for a +34% to +110% premium over factory pricing on a 20.7% EU countervailing duty for its BEV models.

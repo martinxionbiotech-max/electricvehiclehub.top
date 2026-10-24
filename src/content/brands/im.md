@@ -1,5 +1,5 @@
 ---
-title: "IM: Chinese EV Brand Profile & Export Data"
+title: "IM: 7 Models — Factory $29,850–$47,870, Germany Landed Cost"
 description: "IM Motors (SAIC Motor's premium EV marque, founded 2020 with Alibaba Group and Zhangjiang Hi-Tech) — 7 models catalogued with factory prices and landed-cost breakdowns for Germany and 29 other markets."
 brand_name: "IM"
 established: "2020"
