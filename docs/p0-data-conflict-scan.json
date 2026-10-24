@@ -1,0 +1,3589 @@
+{
+  "summary": {
+    "total_vehicles": 517,
+    "genuine_conflicts": 32,
+    "vehicles_with_conflicts": 26,
+    "rounding_only": 365,
+    "conflict_by_component": {
+      "body-prose": 26,
+      "description": 6
+    }
+  },
+  "conflicts": [
+    {
+      "slug": "aeolus-l7",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 205,
+      "other": 430.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "avatr-06",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 650,
+      "other": 1190.0,
+      "kind": "conflict",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "baw-m8",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 505,
+      "other": 1370.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "bestune-t90",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 210,
+      "other": 1500.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-han",
+      "field": "battery_kwh",
+      "component": "body-prose",
+      "frontmatter": 76.9,
+      "other": 72.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seagull",
+      "field": "accel_0_100_s",
+      "component": "body-prose",
+      "frontmatter": 13.0,
+      "other": 4.9,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 550,
+      "other": 450.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-q05",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 125,
+      "other": 1215.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "denza-n8l",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 230,
+      "other": 1300.0,
+      "kind": "conflict",
+      "param_verification_status": "conflict"
+    },
+    {
+      "slug": "denza-z9-gt",
+      "field": "motor_power_kw",
+      "component": "body-prose",
+      "frontmatter": 710,
+      "other": 640.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "denza-z9-gt",
+      "field": "motor_power_kw",
+      "component": "description",
+      "frontmatter": 710,
+      "other": 640.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "denza-z9-gt",
+      "field": "accel_0_100_s",
+      "component": "body-prose",
+      "frontmatter": 3.4,
+      "other": 3.6,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "denza-z9",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 630,
+      "other": 1101.0,
+      "kind": "conflict",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "fangchengbao-bao-5",
+      "field": "motor_power_kw",
+      "component": "body-prose",
+      "frontmatter": 505,
+      "other": 485.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "fangchengbao-bao-5",
+      "field": "motor_power_kw",
+      "component": "description",
+      "frontmatter": 505,
+      "other": 485.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "fangchengbao-bao-8",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 125,
+      "other": 1200.0,
+      "kind": "conflict",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "geely-galaxy-e5",
+      "field": "top_speed_kmh",
+      "component": "body-prose",
+      "frontmatter": 175,
+      "other": 180.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-starshine-8",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 130,
+      "other": 1600.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-starship-7",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 120,
+      "other": 1355.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hongqi-h5-phev",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 130,
+      "other": 1560.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-qx",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 120,
+      "other": 1300.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c01",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 717,
+      "other": 1175.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-06",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 126,
+      "other": 1280.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "m-hero-917",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 505,
+      "other": 1026.0,
+      "kind": "conflict",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "m-hero-917",
+      "field": "motor_power_kw",
+      "component": "body-prose",
+      "frontmatter": 797,
+      "other": 600.0,
+      "kind": "conflict",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "m-hero-917",
+      "field": "motor_power_kw",
+      "component": "description",
+      "frontmatter": 797,
+      "other": 600.0,
+      "kind": "conflict",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "tank-400",
+      "field": "motor_power_kw",
+      "component": "description",
+      "frontmatter": 130,
+      "other": 300.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "tank-500",
+      "field": "motor_power_kw",
+      "component": "description",
+      "frontmatter": 130,
+      "other": 300.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "tank-700",
+      "field": "motor_power_kw",
+      "component": "body-prose",
+      "frontmatter": 385,
+      "other": 120.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wey-lanshan",
+      "field": "motor_power_kw",
+      "component": "body-prose",
+      "frontmatter": 380,
+      "other": 300.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wey-lanshan",
+      "field": "motor_power_kw",
+      "component": "description",
+      "frontmatter": 380,
+      "other": 300.0,
+      "kind": "conflict",
+      "param_verification_status": null
+    },
+    {
+      "slug": "yangwang-u8l",
+      "field": "range_cltc_km",
+      "component": "body-prose",
+      "frontmatter": 200,
+      "other": 1160.0,
+      "kind": "conflict",
+      "param_verification_status": "conflict"
+    }
+  ],
+  "roundings": [
+    {
+      "slug": "aeolus-e70",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 43.2,
+      "other": 43.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aeolus-huge",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 1.8,
+      "other": 1.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aeolus-l7-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 50.8,
+      "other": 50.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aeolus-l7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 30.3,
+      "other": 30.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aeolus-l8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.1,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aeolus-sky-ev01",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 50.82,
+      "other": 50.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-i60",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 62.27,
+      "other": 62.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-lx-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 144.4,
+      "other": 144.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "aion-lx",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 93.3,
+      "other": 93.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-n60",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 69.7,
+      "other": 69.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-rt",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 55.1,
+      "other": 55.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-s-max",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 59.5,
+      "other": 59.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-s-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 69.9,
+      "other": 69.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-s",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 46.76,
+      "other": 46.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-ut",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.87,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-v",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 62.7,
+      "other": 62.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-y-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 61.7,
+      "other": 61.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "aion-y",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.75,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "arcfox-as",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 74.5,
+      "other": 74.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "arcfox-at",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 65.6,
+      "other": 65.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "arcfox-at5-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 27.4,
+      "other": 27.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "arcfox-at5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 79.2,
+      "other": 79.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "arcfox-kaola",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 58.86,
+      "other": 58.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "arcfox-t1",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 33.4,
+      "other": 33.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "avatr-06-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.7,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "avatr-06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 72.88,
+      "other": 72.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "avatr-06t",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 75.46,
+      "other": 75.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "avatr-07-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 39.05,
+      "other": 39.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "avatr-07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 82.16,
+      "other": 82.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "avatr-07l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 89.33,
+      "other": 89.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "avatr-11",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 116.79,
+      "other": 116.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "avatr-12-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 52.01,
+      "other": 52.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "avatr-12",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 94.53,
+      "other": 94.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "baojun-kiwi-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.9,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "baojun-xiangjing-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 20.5,
+      "other": 20.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "baojun-xiangjing",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 69.2,
+      "other": 69.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "baojun-yep-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.9,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "baojun-yep",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.1,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "baojun-yunduo",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 37.9,
+      "other": 37.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "baojun-yunhai",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.7,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "baw-yuanbao",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 9.6,
+      "other": 9.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "bestune-e01",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 61.34,
+      "other": 61.0,
+      "kind": "rounding",
+      "param_verification_status": "verified"
+    },
+    {
+      "slug": "bestune-nat",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 54.8,
+      "other": 54.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "bestune-pony",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 9.4,
+      "other": 9.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "bestune-t90",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 30.9,
+      "other": 30.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "bestune-yueyi-03",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 48.35,
+      "other": 48.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "bestune-yueyi-07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 21.2,
+      "other": 21.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "bestune-yueyi-08",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 59.04,
+      "other": 59.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-atto-3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.92,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-d1",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 53.6,
+      "other": 53.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-destroyer-05",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-dolphin",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 45.12,
+      "other": 45.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-e2",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 43.2,
+      "other": 43.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-e3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 43.2,
+      "other": 43.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-frigate-07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 36.8,
+      "other": 36.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-han-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-han-l-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 29.4,
+      "other": 29.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "byd-han-l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 83.2,
+      "other": 83.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-m9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 20.39,
+      "other": 20.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-qin-l-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 10.08,
+      "other": 10.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-qin-l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.64,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-qin-plus-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 8.32,
+      "other": 8.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-qin-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 57.6,
+      "other": 57.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-qin",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 52.8,
+      "other": 52.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seagull",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 30.08,
+      "other": 30.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal-05-md-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 15.87,
+      "other": 15.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal-06-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 15.87,
+      "other": 15.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal-06-dmi-touring",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.71,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal-06-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 46.08,
+      "other": 46.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal-06-gt",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 59.52,
+      "other": 59.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal-07-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.6,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-seal",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 61.44,
+      "other": 61.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-sealion-05-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 12.9,
+      "other": 12.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-sealion-05-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 50.05,
+      "other": 50.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-sealion-06-dmi",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-sealion-06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 65.28,
+      "other": 65.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-sealion-07-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 26.6,
+      "other": 26.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-sealion-07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 71.8,
+      "other": 71.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-song-l-dmi",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-song-l-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 71.8,
+      "other": 71.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "byd-song-max",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-song-plus-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 12.9,
+      "other": 12.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-song-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 87.04,
+      "other": 87.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-song-pro",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-tang-l-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 35.62,
+      "other": 35.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "byd-tang-l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 100.5,
+      "other": 100.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-tang",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 21.5,
+      "other": 21.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-xia",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 20.39,
+      "other": 20.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "byd-yuan-up",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 45.12,
+      "other": 45.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-cs55-plus-hev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 1.7,
+      "other": 1.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-cs55-plus-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-cs55",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 84.2,
+      "other": 84.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-cs75-plus-idd",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.39,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-eado",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-a06-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.39,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-a06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 63.18,
+      "other": 63.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-a07-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.39,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-a07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 79.97,
+      "other": 79.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-e07-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 39.05,
+      "other": 39.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "changan-nevo-e07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 89.98,
+      "other": 89.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-lumin",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 13.41,
+      "other": 13.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-q05",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-q06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 80.02,
+      "other": 80.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-nevo-q07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 21.5,
+      "other": 21.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-uni-k-idd",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.4,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-uni-v-hev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 1.7,
+      "other": 1.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-uni-v-idd",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.99,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "changan-uni-z",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-explore-06-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-a8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-a8l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.67,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-a9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 70.11,
+      "other": 70.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-a9l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 33.68,
+      "other": 33.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-t10",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.46,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-t11",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 33.68,
+      "other": 33.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-t7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 65.05,
+      "other": 65.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-t8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.66,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-t9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.67,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-fulwin-x3l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 33.68,
+      "other": 33.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-new-energy-arrizo-e",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 48.16,
+      "other": 48.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "chery-new-energy-eq1",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 25.05,
+      "other": 25.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-new-energy-qq-duomi",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.5,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-new-energy-qq-ice-cream",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 13.98,
+      "other": 13.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-new-energy-shuxiangjia",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 67.12,
+      "other": 67.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "chery-new-energy-wujie-pro",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.86,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-tiggo-7-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.66,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-tiggo-7-plus-new-energy",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 16.7,
+      "other": 16.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-tiggo-8-plus-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.66,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.46,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "cowin-shiyue",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.08,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "cowin-showjet-pro-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 53.6,
+      "other": 53.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "cowin-xuandu-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 53.6,
+      "other": 53.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "dayun-h8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 88.42,
+      "other": 88.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "dayun-y6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 88.42,
+      "other": 88.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "deepal-g318",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 35.07,
+      "other": 35.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-l06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.12,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-l07-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.39,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-l07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.1,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-s05",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.12,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-s07-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.99,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-s07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 79.97,
+      "other": 79.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-s09",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 40.18,
+      "other": 40.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-sl03-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.99,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "deepal-sl03",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 79.97,
+      "other": 79.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "denza-d9-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 20.39,
+      "other": 20.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "denza-d9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 103.36,
+      "other": 103.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "denza-n7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 91.3,
+      "other": 91.0,
+      "kind": "rounding",
+      "param_verification_status": "verified"
+    },
+    {
+      "slug": "denza-n8l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 46.99,
+      "other": 46.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "denza-n9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 46.9,
+      "other": 46.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "denza-z9-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 38.5,
+      "other": 38.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "denza-z9-gt-dm-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 38.5,
+      "other": 38.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "dongfeng-epi-007",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 70.26,
+      "other": 70.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "dongfeng-epi-008-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.39,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "dongfeng-epi-008",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 82.28,
+      "other": 82.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "dongfeng-epi-nammi-06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.94,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "dongfeng-nammi-01",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.45,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "dongfeng-nammi-box",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 27.2,
+      "other": 27.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "exeed-exlantix-es-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 32.7,
+      "other": 32.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "exeed-exlantix-es",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 97.7,
+      "other": 97.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "exeed-lx-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.27,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "exeed-rx-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.53,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "exeed-txl",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 32.66,
+      "other": 32.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "exeed-vx-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.46,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "fangchengbao-bao-5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.8,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "fangchengbao-bao-8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 36.8,
+      "other": 36.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "fangchengbao-ti-3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 65.28,
+      "other": 65.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "fangchengbao-ti-7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 26.6,
+      "other": 26.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "firefly-firefly",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 42.1,
+      "other": 42.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "firefly-habitat",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 42.1,
+      "other": 42.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-lingzhi-m5-nev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 59.5,
+      "other": 59.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-s50ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.51,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-t5-evo",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.27,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-thunder-410",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.27,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-xinghai-s7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 59.4,
+      "other": 59.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-xinghai-t5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 64.4,
+      "other": 64.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-xinghai-v6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 45.5,
+      "other": 45.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-xinghai-v9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.9,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "forthing-xinghai-x5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 64.4,
+      "other": 64.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-e8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 25.57,
+      "other": 25.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-e9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 25.5,
+      "other": 25.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-empow",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 2.1,
+      "other": 2.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-es9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 25.57,
+      "other": 25.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-gs7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 36.3,
+      "other": 36.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-m8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 25.6,
+      "other": 25.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-xiangwang-s7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 36.3,
+      "other": 36.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "gac-motor-xiangwang-s9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.5,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-emgrand-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 51.8,
+      "other": 51.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-emgrand-l-hip",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 15.5,
+      "other": 15.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-a7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-e5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 60.22,
+      "other": 60.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-l6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.1,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-l7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-lc",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.03,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-m7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 29.8,
+      "other": 29.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-m9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 41.46,
+      "other": 41.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-panda-mini",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.03,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-starshine-6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 8.5,
+      "other": 8.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-starshine-8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-starship-7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.09,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-tt",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 63.8,
+      "other": 63.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-galaxy-xingyuan",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 30.12,
+      "other": 30.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-monjaro",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 41.2,
+      "other": 41.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geely-xingyuan",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 30.12,
+      "other": 30.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geometry-a",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 46.1,
+      "other": 46.0,
+      "kind": "rounding",
+      "param_verification_status": "conflict"
+    },
+    {
+      "slug": "geometry-e",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 33.5,
+      "other": 33.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "geometry-g6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 46.11,
+      "other": 46.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "haval-big-dog-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.74,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "haval-h6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.09,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "haval-raptor",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.74,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "haval-shenshou",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 1.69,
+      "other": 1.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "haval-xiaolong",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.27,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hongqi-h5-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hongqi-hq9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 20.14,
+      "other": 20.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hongqi-hs3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hongqi-hs7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 20.1,
+      "other": 20.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hycan-a06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 60.04,
+      "other": 60.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hycan-z03",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 55.5,
+      "other": 55.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hyptec-hl-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 60.33,
+      "other": 60.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "hyptec-hl",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 108.35,
+      "other": 108.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "hyptec-ht",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 83.3,
+      "other": 83.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "icaur-03",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 50.63,
+      "other": 50.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "icaur-v23",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 59.93,
+      "other": 59.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "icaur-v27",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.3,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-ic5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 64.5,
+      "other": 64.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-iev7l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 33.2,
+      "other": 33.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-ieva50",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.5,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-qx",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 21.68,
+      "other": 21.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-refine-e3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 76.5,
+      "other": 76.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-refine-e4",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 77.28,
+      "other": 77.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-refine-m3-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.52,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-refine-m3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.5,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-refine-rf8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.5,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "jac-x8-ejia",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.4,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-x8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.01,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-yiwei-3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.5,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-yiwei-aipao",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 54.2,
+      "other": 54.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jac-yiwei-hua-xian-zi",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 30.2,
+      "other": 30.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jaecoo-j7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-dashing-i-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.27,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-shanhai-l6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.43,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-shanhai-l7-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 32.66,
+      "other": 32.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-shanhai-l7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.37,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-shanhai-l9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.43,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-t1",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.3,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-t2",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 27.2,
+      "other": 27.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-x70-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.43,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-x90-c-dm",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.43,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-x90",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.43,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "jetour-zongheng-g700",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 34.13,
+      "other": 34.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "kaicene-a600ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.68,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "landian-e3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 50.3,
+      "other": 50.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "landian-e5-plus-gen3",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 35.95,
+      "other": 35.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-a05",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 39.8,
+      "other": 39.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-a10",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 39.8,
+      "other": 39.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-b01",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 43.9,
+      "other": 43.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-b10",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.2,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c01-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 30.1,
+      "other": 30.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c10-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.4,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c10",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 69.9,
+      "other": 69.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c11-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 43.74,
+      "other": 43.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c11",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 78.5,
+      "other": 78.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c16-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.4,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-c16",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 67.7,
+      "other": 67.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-d19",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 80.3,
+      "other": 80.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "leapmotor-d99",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 80.3,
+      "other": 80.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "leapmotor-lafa5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 56.2,
+      "other": 56.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "leapmotor-t03",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.9,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "li-auto-i6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 87.3,
+      "other": 87.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "li-auto-i8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 97.8,
+      "other": 97.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "li-auto-l6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 36.8,
+      "other": 36.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "li-auto-l7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 42.8,
+      "other": 42.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "li-auto-l8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 42.8,
+      "other": 42.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "li-auto-l9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 52.3,
+      "other": 52.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "li-auto-mega",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 102.7,
+      "other": 102.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "livan-7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 50.4,
+      "other": 50.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "livan-8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 68.03,
+      "other": 68.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "livan-9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 52.56,
+      "other": 52.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-01",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.7,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-02",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 61.47,
+      "other": 61.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-05",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.7,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-06",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.09,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-07-gt",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.3,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "lynk-co-07",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "lynk-co-08",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.3,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-09",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 40.1,
+      "other": 40.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-10",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 38.2,
+      "other": 38.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-900",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.85,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "lynk-co-z20",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 61.47,
+      "other": 61.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "m-hero-917-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 65.8,
+      "other": 65.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "m-hero-917",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 142.7,
+      "other": 142.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "m-hero-m817",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.7,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "maxus-eg10",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 71.8,
+      "other": 71.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "maxus-g50",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.65,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "maxus-mifa-7-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 24.7,
+      "other": 24.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "mg-4",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 42.8,
+      "other": 42.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "mg-4x",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 53.9,
+      "other": 53.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "mg-pilot-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 16.6,
+      "other": 16.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "mg-s5-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.1,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "mg6-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 11.1,
+      "other": 11.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "neta-l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 40.3,
+      "other": 40.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "neta-s",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 64.46,
+      "other": 64.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "neta-x",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 51.8,
+      "other": 51.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "nio-et7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 185.44,
+      "other": 185.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "onvo-l80",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 85.1,
+      "other": 85.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "ora-ballet-cat",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.92,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "ora-good-cat-gt",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 45.9,
+      "other": 45.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "ora-good-cat",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 45.9,
+      "other": 45.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "ora-lightning-cat",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 64.31,
+      "other": 64.0,
+      "kind": "rounding",
+      "param_verification_status": "conflict"
+    },
+    {
+      "slug": "oshan-keshan-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 57.9,
+      "other": 57.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "oshan-x7-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 59.9,
+      "other": 59.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "oshan-z6-idd",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 28.4,
+      "other": 28.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "roewe-d5x-dmh",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 21.4,
+      "other": 21.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "roewe-d6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 53.95,
+      "other": 53.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "roewe-d7-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.7,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "roewe-d7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 68.5,
+      "other": 68.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "roewe-erx5",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 12.3,
+      "other": 12.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "roewe-i6-max-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 9.1,
+      "other": 9.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "roewe-i6-max",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 69.9,
+      "other": 69.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "roewe-m7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 19.7,
+      "other": 19.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "saic-h5-erev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 32.6,
+      "other": 32.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "sehol-aipao",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 64.5,
+      "other": 64.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "sehol-e10x",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.4,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "sehol-e20x",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.5,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "skywell-ev6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 55.33,
+      "other": 55.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "skywell-ht-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 21.68,
+      "other": 21.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "tank-300",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 37.1,
+      "other": 37.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "tank-400",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 37.1,
+      "other": 37.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "tank-500",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 37.1,
+      "other": 37.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "tank-700",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 37.1,
+      "other": 37.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "venucia-v-online-dd-i",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 18.4,
+      "other": 18.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "voyah-dream-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 25.57,
+      "other": 25.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "voyah-dream",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 108.7,
+      "other": 108.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "voyah-passion",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 108.7,
+      "other": 108.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wey-05",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 35.04,
+      "other": 35.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wey-80",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.28,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wey-lanshan",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 44.5,
+      "other": 44.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-air-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 26.7,
+      "other": 26.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-binguo-pro",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.9,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-binguo-s",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.9,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-binguo-suv",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 31.9,
+      "other": 31.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-binguo",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 17.3,
+      "other": 17.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-hongguang-bev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 32.6,
+      "other": 32.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-hongguang-mini-ev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 9.3,
+      "other": 9.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-starlight-560",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 20.5,
+      "other": 20.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-starlight-730-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 9.5,
+      "other": 9.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-starlight-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 9.5,
+      "other": 9.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-starlight-s-phev",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 9.5,
+      "other": 9.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "wuling-starlight",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 54.3,
+      "other": 54.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xiaomi-su7-ultra",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 93.7,
+      "other": 93.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "xiaomi-su7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 73.6,
+      "other": 73.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xiaomi-yu7-gt",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 101.7,
+      "other": 101.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "xiaomi-yu7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 96.3,
+      "other": 96.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xpeng-g6",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 68.5,
+      "other": 68.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xpeng-g7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 68.5,
+      "other": 68.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xpeng-gx",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 63.3,
+      "other": 63.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "xpeng-mona-m03",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 51.8,
+      "other": 51.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 76.3,
+      "other": 76.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xpeng-p7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 74.9,
+      "other": 74.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "xpeng-x9",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 101.5,
+      "other": 101.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "yangwang-u7",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 135.5,
+      "other": 135.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "yangwang-u8",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 49.05,
+      "other": 49.0,
+      "kind": "rounding",
+      "param_verification_status": "verified"
+    },
+    {
+      "slug": "yangwang-u8l",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 55.53,
+      "other": 55.0,
+      "kind": "rounding",
+      "param_verification_status": "conflict"
+    },
+    {
+      "slug": "yudo-pi-1",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 41.7,
+      "other": 41.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    },
+    {
+      "slug": "zeekr-8x",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 55.1,
+      "other": 55.0,
+      "kind": "rounding",
+      "param_verification_status": "unverifiable"
+    },
+    {
+      "slug": "zeekr-x",
+      "field": "battery_kwh",
+      "component": "description",
+      "frontmatter": 61.47,
+      "other": 61.0,
+      "kind": "rounding",
+      "param_verification_status": null
+    }
+  ]
+}

@@ -55,11 +55,11 @@ quality_tier: "A"
 
 Yangwang U8 (starting at $154,650) is a SUV from YANGWANG.
 
-- **Range**: 780 km (CLTC)
+- **Range**: 180 km (CLTC, electric-only)
 - **Battery**: 49.05 kWh
 - **Motor power**: 880 kW
-- **0-100 km/h**: 3.9 s
+- **0-100 km/h**: 3.6 s
 
 ## Overview
 
-The Yangwang U8 is an quad-motor all-wheel-drive range-extended electric SUV from Yangwang. The $154,650 ex-factory price places this SUV range-extended electric in the flagship band. Across export markets for the SUV range-extended electric, Germany levies only the 10% standard tariff; Qatar offers the cheapest entry at about +7.7% over base (≈ $166,562 landed). Specification highlights are a top speed of 190 km/h and a CLTC-rated range of 180 km. For the SUV range-extended electric buyer, it suits importers targeting the family-SUV segment prioritizing feature content.
+The Yangwang U8 is an quad-motor all-wheel-drive range-extended electric SUV from Yangwang. The $154,650 ex-factory price places this SUV range-extended electric in the flagship band. Across export markets for the SUV range-extended electric, Germany levies only the 10% standard tariff; Qatar offers the cheapest entry at about +7.7% over base (≈ $166,562 landed). Specification highlights are a top speed of 200 km/h and a CLTC-rated electric-only range of 180 km. For the SUV range-extended electric buyer, it suits importers targeting the family-SUV segment prioritizing feature content.

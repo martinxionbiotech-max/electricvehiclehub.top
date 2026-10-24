@@ -258,10 +258,10 @@
       "range": {
         "value": 180,
         "source": "BYD official \"180/124 km\" electric-only",
-        "verified_at": "2026-10-23",
-        "status": "conflict",
-        "confidence": "medium",
-        "note": "field=180 km electric-only; body claims \"780 km CLTC\" (combined range-extended). Value left unchanged; body wording needs correction.",
+        "verified_at": "2026-10-24",
+        "status": "verified",
+        "confidence": "high",
+        "note": "Resolved 2026-10-24: body corrected to 180 km (CLTC, electric-only); was 780 km (combined range-extended, also incorrect). Field kept as 180 km electric-only per BYD official.",
         "model_year": null,
         "trim": "豪华版 / 越野玩家版"
       },
@@ -288,10 +288,10 @@
       "accel": {
         "value": 3.6,
         "source": "BYD official 3.6 s",
-        "verified_at": "2026-10-23",
-        "status": "conflict",
-        "confidence": "medium",
-        "note": "field=3.6 s; body claims 3.9 s. Value left unchanged.",
+        "verified_at": "2026-10-24",
+        "status": "verified",
+        "confidence": "high",
+        "note": "Resolved 2026-10-24: body corrected to 3.6 s; was 3.9 s. Field kept 3.6 s per BYD official.",
         "model_year": null,
         "trim": "豪华版 / 越野玩家版"
       },
