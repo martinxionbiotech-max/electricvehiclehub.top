@@ -1,5 +1,6 @@
 ---
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import CostDisclaimer from '@/components/common/CostDisclaimer.astro';
 import tariffs from '@/data/tariffs.json';
 import { siteConfig } from '@/config';
 
@@ -55,7 +56,7 @@ const sampledBrands = [
                   <td class="px-5 py-3 text-gray-600">{r.region}</td>
                   <td class="px-5 py-3 text-right text-gray-800">{(r.standard_duty_rate * 100).toFixed(0)}%</td>
                   <td class="px-5 py-3 text-right text-gray-800">{(r.vat_rate * 100).toFixed(0)}%</td>
-                  <td class="px-5 py-3 text-gray-600">{isEU ? 'Brand-specific (17–35.3%)' : 'None'}</td>
+                  <td class="px-5 py-3 text-gray-600">{isEU ? 'Brand-specific (7.8–35.3%)' : 'None'}</td>
                 </tr>
               );
             })}
@@ -65,6 +66,12 @@ const sampledBrands = [
       <p class="text-xs text-gray-500 mt-3">
         Source: {tariffs.source}. {tariffs.cvd_scope}.
       </p>
+      <div class="mt-3">
+        <CostDisclaimer
+          source="EU Implementing Regulation (EU) 2024/2754 (countervailing duties) + national VAT/GST authorities"
+          date={tariffs.updated}
+        />
+      </div>
     </section>
 
     <section class="mb-12">
@@ -92,6 +99,12 @@ const sampledBrands = [
       <p class="text-xs text-gray-500 mt-3">
         Rates effective 31 October 2024 for five years. {tariffs.cvd_scope}.
       </p>
+      <div class="mt-3">
+        <CostDisclaimer
+          source="EU Implementing Regulation (EU) 2024/2754 — producer-specific countervailing-duty rates"
+          date={tariffs.updated}
+        />
+      </div>
     </section>
 
     <section class="mb-12">

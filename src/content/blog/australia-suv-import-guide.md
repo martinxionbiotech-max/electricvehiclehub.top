@@ -99,4 +99,4 @@ In Australia's zero-duty, no-CVD structure, all four SUVs land at a +28% to +46%
 
 ---
 
-*B2B import estimate, not a retail quote. RHD availability and ADR compliance must be confirmed per model. Verify with a customs broker. See the full [vehicle directory](/vehicles/) to compare more models.*
+*For reference only — B2B import estimate, not a retail quote. RHD availability and ADR compliance must be confirmed per model. Verify with a customs broker. See the full [vehicle directory](/vehicles/) to compare more models.*

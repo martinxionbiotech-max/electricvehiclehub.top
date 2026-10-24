@@ -28,7 +28,7 @@ Since October 2024, the EU applies an **anti-subsidy (countervailing) duty** to 
 | BYD | 17.0% |
 | Geely (incl. Zeekr, Polestar) | 18.8% |
 | SAIC (MG, Roewe, Maxus) | 35.3% |
-| Other cooperating producers | ~20.8% |
+| Other cooperating producers | 20.7% |
 | Non-cooperating producers | 35.3% |
 
 These duties run for five years from 31 October 2024, under Implementing Regulation (EU) 2024/2754.

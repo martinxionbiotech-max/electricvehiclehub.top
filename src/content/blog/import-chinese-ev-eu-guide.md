@@ -16,7 +16,7 @@ Importing a Chinese EV into the EU isn't a single tax — it's a stacked calcula
 
 - **Standard EU import duty on Chinese EVs:** 10% of CIF value [Source: EU Common Customs Tariff, TARIC classification 8703.80]
 - **Countervailing duty (CVD) range:** 17.0% (BYD) to 35.3% (SAIC/MG) [Source: European Commission Implementing Regulation (EU) 2024/2754, October 2024]
-- **Other "cooperating" producers:** ~20.8%; the rest treated as "non-cooperating" at ~35.3% [Source: European Commission, October 2024]
+- **Other "cooperating" producers:** 20.7%; the rest treated as "non-cooperating" at 35.3% [Source: European Commission, October 2024]
 - **Tesla Shanghai's individual CVD rate:** significantly lower, set at 7.8% [Source: European Commission, October 2024]
 - **CVD duration:** 5 years, effective 31 October 2024 [Source: European Commission]
 - **EU VAT rates:** Germany 19%, France 20%, Netherlands 21%, Italy 22%, Spain 21%, Portugal 23% [Source: European Commission VAT rates database, 2025]
@@ -126,7 +126,7 @@ Here's the part that separates a profitable import from a loss. You pay three la
 | BYD | 17.0% | Lowest among the "sampled" Chinese producers |
 | Geely (incl. Zeekr, Polestar) | 18.8% | |
 | SAIC (MG, Maxus) | 35.3% | Highest; deemed non-cooperating |
-| Other cooperating companies | ~20.8% | Weighted average for those that cooperated but weren't sampled |
+| Other cooperating companies | 20.7% | Weighted average for those that cooperated but weren't sampled |
 | Non-cooperating companies | ~35.3% | Residual duty |
 | Tesla (Shanghai Gigafactory) | 7.8% | Individual rate, far below the Chinese producers |
 
@@ -305,7 +305,7 @@ A: Yes. VAT is charged on the customs value *plus* standard duty *plus* CVD. So 
 
 ### Q: Is the countervailing duty the same for every Chinese brand?
 
-A: No. BYD pays 17%, Geely 18.8%, SAIC 35.3%, other cooperating producers about 20.8%, non-cooperating companies about 35.3%, and Tesla Shanghai 7.8% [Source: European Commission Implementing Regulation (EU) 2024/2754]. Brand choice is a tax decision, not just a product decision.
+A: No. BYD pays 17%, Geely 18.8%, SAIC 35.3%, other cooperating producers 20.7%, non-cooperating companies 35.3%, and Tesla Shanghai 7.8% [Source: European Commission Implementing Regulation (EU) 2024/2754]. Brand choice is a tax decision, not just a product decision.
 
 ### Q: How long does the CVD last?
 

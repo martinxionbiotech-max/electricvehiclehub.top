@@ -8,6 +8,10 @@ draft: false
 
 # Cost Breakdown Example: BYD Seal
 
+> **For reference only.** This is a worked planning example, not a quote, offer, or legal/tax advice.
+> Rates from EU Reg 2024/2754 (CVD) + national VAT/GST authorities, data date 2026-09-15. Actual landed
+> cost varies with shipping route, insurance, trim, and homologation — verify with a customs broker before committing.
+
 To make the landed-cost concept concrete, this page walks a single vehicle — a BYD Seal at a $24,690 China base price — through four markets. The same car, the same freight, the same certification. Only the tax stack changes, and the spread is instructive.
 
 ## Germany: the full EU stack
@@ -54,7 +58,8 @@ Premium: **+57.3%**.
 | Standard duty (5%) | $1,235 |
 | Countervailing duty | $0 |
 | VAT (5%) | $1,296 |
-| Fixed costs | ~$6,250 |
+| Fixed costs (freight + clearance + certification + inland) | $4,150 |
+| Registration | $300 |
 | **Total landed** | **$31,671** |
 
 Premium: **+28.3%**.
@@ -69,7 +74,8 @@ Premium: **+28.3%**.
 | Standard duty (0%) | $0 |
 | Countervailing duty | $0 |
 | GST (10%) | $2,469 |
-| Fixed costs + compliance | ~$6,250 |
+| Fixed costs (freight + clearance + certification + inland) | $5,350 |
+| Registration | $500 |
 | **Total landed** | **$33,009** |
 
 Premium: **+33.7%**.
@@ -80,7 +86,7 @@ The same car lands anywhere from **$31,671 (UAE)** to **$44,413 (Germany)** — 
 
 1. **The countervailing duty is the biggest single variable.** The EU's producer-specific CVD adds $4,600+ to a BYD, and over $9,000 to an SAIC/MG vehicle at 35.3%.
 2. **VAT/GST is the second lever.** 5% (UAE) versus 19% (Germany) on a $24,690 base is a four-figure difference.
-3. **Fixed costs are roughly constant.** Freight, clearance, certification, and registration hover around $6,000–$6,250 in every market; they don't drive the spread.
+3. **Fixed costs are roughly constant.** Freight, clearance, certification, and registration run from about $4,450 (UAE) to $6,600 (Germany) depending on region and registration fee; they don't drive the spread.
 
 ## The margin reality
 

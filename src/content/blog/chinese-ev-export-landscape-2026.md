@@ -119,7 +119,7 @@ On 30 October 2024, the EU's definitive countervailing duties on Chinese battery
 | BYD | 17.0% | ~27% |
 | Geely | 18.8% | ~28.8% |
 | SAIC | 35.3% | ~45.3% |
-| Other cooperating (weighted avg) | ~20.8% | ~30.8% |
+| Other cooperating (weighted avg) | 20.7% | ~30.8% |
 | Tesla (China, individual) | 7.8% | ~18% |
 | Non-cooperating | 36.3% | ~46.3% |
 
@@ -231,7 +231,7 @@ BYD. It leads on volume, vertical integration, and overseas manufacturing, with 
 
 ### Q: What are the EU tariffs on Chinese EVs?
 
-Definitive countervailing duties took effect 30 October 2024 for five years: BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating producers ~20.8%, Tesla 7.8%, on top of the existing 10% import duty [Source: EU Implementing Regulation (EU) 2024/2754].
+Definitive countervailing duties took effect 30 October 2024 for five years: BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating producers 20.7%, Tesla 7.8%, on top of the existing 10% import duty [Source: EU Implementing Regulation (EU) 2024/2754].
 
 ### Q: Is China the world's biggest car exporter?
 

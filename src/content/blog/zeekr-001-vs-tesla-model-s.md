@@ -127,7 +127,7 @@ So the comparison resolves to this: the Zeekr 001 is the car you can actually im
 ## Sources
 
 1. China EV Mart — Zeekr 001 catalog record: $38,000 base, 710 km CLTC, 95 kWh, 680 kW, 30-market landed-cost table (data updated 2026-09-07) — /vehicles/zeekr-001/
-2. European Commission — Implementing Regulation (EU) 2024/2754, definitive countervailing duties on BEVs from China (BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating 20.8%, non-cooperating 35.3%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
+2. European Commission — Implementing Regulation (EU) 2024/2754, definitive countervailing duties on BEVs from China (BYD 17.0%, Geely 18.8%, SAIC 35.3%, other cooperating 20.7%, non-cooperating 35.3%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 30 October 2024
 3. China EV Mart — Landed Cost Methodology (compounding formula and fixed-cost benchmarks) — /docs/landed-cost-methodology/
 4. Motor1 — "Tesla Model S suddenly €17,000 more expensive in Germany" (Dual Motor AWD €109,990, Plaid €119,990, specs, ~95 kWh NCA battery per EV-Database) — https://www.motor1.com/features/750090/tesla-model-s-price-increase-germany — 2025 (accessed 2026-09-15)
 5. InsideEVs — "The Tesla Model X And Model S Are Dead In Europe" (Europe left with inventory-only; no built-to-order units) — https://insideevs.com/news/767444/tesla-model-s-model-x-dead-europe — 2025 (accessed 2026-09-15)

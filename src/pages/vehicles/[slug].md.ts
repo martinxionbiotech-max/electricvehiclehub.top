@@ -100,6 +100,8 @@ export const GET: APIRoute = async ({ params }) => {
   if (markets.length > 0) {
     out.push('## Landed Cost by Market');
     out.push('');
+    out.push('> **For reference only** — planning estimates, not quotes or legal/tax advice. Rates from EU Reg 2024/2754 + national VAT/GST authorities (data date 2026-09-15); verify with a customs broker before committing.');
+    out.push('');
     out.push('| Market | Region | Standard duty | Countervailing duty | VAT | Landed total (USD) | Premium |');
     out.push('| --- | --- | --- | --- | --- | --- | --- |');
     for (const m of markets) {
@@ -113,6 +115,8 @@ export const GET: APIRoute = async ({ params }) => {
   if (typeof lc.total_landed_usd === 'number' || Object.keys(breakdown).length > 0) {
     const marketName = lc.market || 'Germany';
     out.push(`## Landed Cost Breakdown — ${marketName}`);
+    out.push('');
+    out.push('> **For reference only** — planning estimates, not quotes or legal/tax advice. Fixed-cost lines are industry benchmarks; verify current rates with a customs broker.');
     out.push('');
     out.push('| Cost item | Amount (USD) |');
     out.push('| --- | --- |');

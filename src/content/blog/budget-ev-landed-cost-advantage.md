@@ -121,4 +121,4 @@ The budget EV's price advantage is **amplified in low-tariff markets** (Thailand
 
 ---
 
-*This is a B2B import estimate, not a retail quote. Verify current rates with a customs broker before committing funds. Compare all three models in the [vehicle directory](/vehicles/) and model your own destination with the [landed-cost calculator](https://electricvehiclehub.net/landed-cost-calculator/).*
+*For reference only — this is a B2B import estimate, not a retail quote. Verify current rates with a customs broker before committing funds. Compare all three models in the [vehicle directory](/vehicles/) and model your own destination with the [landed-cost calculator](https://electricvehiclehub.net/landed-cost-calculator/).*

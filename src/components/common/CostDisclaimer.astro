@@ -1,0 +1,36 @@
+---
+/**
+ * CostDisclaimer — unified "for reference only" declaration for landed-cost /
+ * tariff / import-cost figures. Renders next to (or above) any cost block so an
+ * example assumption is never read as a quote or a legal/tax conclusion.
+ *
+ * Usage:
+ *   <CostDisclaimer source="EU Reg 2024/2754 · national VAT/GST authorities" date="2026-09-15" />
+ *   <CostDisclaimer source="industry freight & homologation benchmarks" date="2026-09-15" estimate />
+ */
+interface Props {
+  /** Where the underlying rates/numbers come from (regulation, authority, benchmark). */
+  source?: string;
+  /** Data date (YYYY-MM-DD or human-readable). */
+  date?: string;
+  /** True when the number is a benchmark/estimate rather than an official rate. */
+  estimate?: boolean;
+}
+
+const {
+  source = 'public tariff schedules, national tax rates, and industry freight benchmarks',
+  date = '2026-09-15',
+  estimate = false,
+} = Astro.props;
+---
+
+<div class="rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-xs leading-relaxed text-amber-800">
+  <p class="font-semibold text-amber-900">
+    For reference only — a planning {estimate ? 'estimate' : 'figure'}, not a quote, offer, or legal/tax advice.
+  </p>
+  <p class="mt-1">
+    Computed from {source}. {date ? `Data date: ${date}. ` : ''}
+    Actual costs vary with shipping route, insurance, exchange rates, trim, and homologation route —
+    verify current rates with a customs broker or the relevant authority before committing.
+  </p>
+</div>

@@ -13,6 +13,11 @@ draft: false
 > [electricvehiclehub.net/landed-cost-calculator/](https://electricvehiclehub.net/landed-cost-calculator/).
 > This page documents the shared formula both sites reference.
 
+> **For reference only.** Landed-cost figures are planning estimates (base price + duty, countervailing
+> duty, VAT, freight, and compliance fees) — not quotes, offers, or legal/tax advice. Rates come from
+> EU Reg 2024/2754 (CVD) and national tax authorities, data date 2026-09-15. Actual totals vary with
+> shipping route, insurance, trim, and homologation — verify with a customs broker before committing.
+
 Every landed-cost figure China EV Mart references is produced on our sister site from a single,
 documented formula using public tariff schedules, national tax rates, and industry freight
 benchmarks. This page is that documentation, so you can verify — and reproduce — any figure.
@@ -77,6 +82,10 @@ This is why the United Kingdom and the Gulf land vehicles dramatically cheaper t
 ## A note on VAT recoverability
 
 For B2B importers, VAT/GST is often recoverable (via VAT registration in the EU/UK, or GST registration in Australia). The duty and countervailing duty are permanent costs; VAT is frequently a cash-flow item rather than a final cost. Our landed-cost figures show the full VAT-inclusive number, so treat it as the "cash you need at the border," not necessarily the "final net cost" if you can reclaim.
+
+## For reference only
+
+These are planning estimates for comparison, not quotes or legal/tax advice. Rates: EU Reg 2024/2754 (CVD) + national VAT/GST authorities, data date 2026-09-15. Verify current rates with a customs broker before purchase decisions.
 
 ## Assumptions & limits
 

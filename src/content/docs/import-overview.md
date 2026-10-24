@@ -46,6 +46,9 @@ Then fixed costs on top: RoRo freight, customs clearance, certification/homologa
 
 The full formula and worked examples are in the [Landed Cost section](/docs/landed-cost-methodology).
 
+> **For reference only** — landed-cost figures are planning estimates, not quotes, offers, or legal/tax
+> advice. Verify current duty, VAT, and compliance costs with a customs broker before committing.
+
 ## Common failure points
 
 - **Paying a supplier before verifying their export license.** Always verify the Certificate of Origin (COC) and export documentation exists *before* wiring money.

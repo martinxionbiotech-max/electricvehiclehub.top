@@ -94,4 +94,4 @@ Holding base price constant isolates the producer-specific countervailing duty a
 
 ---
 
-*B2B import estimate, not a retail quote. Duty rates are effective 31 October 2024 and may be revised; confirm with a customs broker. See the full brand-rate table in the [CVD master table](/blog/china-ev-brand-cvd-master-table/).*
+*For reference only — B2B import estimate, not a retail quote. Duty rates are effective 31 October 2024 and may be revised; confirm with a customs broker. See the full brand-rate table in the [CVD master table](/blog/china-ev-brand-cvd-master-table/).*

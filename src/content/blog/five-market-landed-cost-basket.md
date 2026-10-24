@@ -110,4 +110,4 @@ A ten-model basket test ranks the five markets **Thailand (+28.8%) < UAE (+31.1%
 
 ---
 
-*B2B import estimate, not a retail quote. Rates change; verify with a customs broker before committing funds. Selection methodology: `docs/p3-vehicle-market-selection.md`.*
+*For reference only — B2B import estimate, not a retail quote. Rates change; verify with a customs broker before committing funds. Selection methodology: `docs/p3-vehicle-market-selection.md`.*
