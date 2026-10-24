@@ -8,7 +8,6 @@ powertrain: "PHEV"
 price_usd: 16510.0
 price_type: "China ex-factory reference price"
 currency: "USD"
-range_long_km: 1132.0
 battery_kwh: 18.4
 motor_power_kw: 150.0
 torque_nm: 320.0

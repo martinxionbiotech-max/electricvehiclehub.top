@@ -8,7 +8,6 @@ powertrain: "EREV"
 price_usd: 90250.0
 price_type: "China ex-factory reference price"
 currency: "USD"
-range_long_km: 1260.0
 accel_0_100_s: 3.99
 length_mm: 5402.0
 width_mm: 2026.0

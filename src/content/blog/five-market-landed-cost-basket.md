@@ -26,7 +26,7 @@ Thailand and the UAE cluster around +29–31%; Australia sits mid at +37.5%; Bra
 
 ## Key statistics
 
-- **Basket:** 10 Tier-1 export BEVs, $9,690–$38,000 ex-factory, all `quality_tier: "A"` (full selection rationale in the [selection doc](/docs/p3-vehicle-market-selection/))
+- **Basket:** 10 Tier-1 export BEVs, $9,690–$38,000 ex-factory, all `quality_tier: "A"` (full selection rationale in `docs/p3-vehicle-market-selection.md`)
 - **Thailand:** $319,371 total, +28.8% avg — cheapest, driven by 0% ACFTA duty + 7% VAT
 - **Germany:** $466,362 total, +88.9% avg — dearest, driven by 10% duty + brand CVD (17–35.3%) + 19% VAT
 - **The structural driver:** Germany's extra cost is almost entirely the **countervailing duty + higher VAT**, both absent in Thailand/UAE/Australia

@@ -20,41 +20,22 @@
 ## 基线结果
 
 - 车型总数：**517**
-- PASS（零阻断）：**500**
-- BLOCK（≥1 阻断）：**17**
-- 仅 WARN（可发布但待复核）：**76**
-- 完全 clean：**424**
-- 阻断项合计：**19** ｜ 告警项合计：**324**
+- PASS（零阻断）：**517**
+- BLOCK（≥1 阻断）：**0**
+- 仅 WARN（可发布但待复核）：**89**
+- 完全 clean：**428**
+- 阻断项合计：**0** ｜ 告警项合计：**334**
 
 ## 待人工清单（conflict + 高风险未核验）
 
-- conflict 单元：**16**（已带 note 6 / 未带 note 10）
+- conflict 单元：**16**（已带 note 16 / 未带 note 0）
 - 高风险字段未核验（unverifiable/partial）：**237**
 - 高风险字段缺来源/日期：**0**
 
-## 阻断 (block)（19）
+## 阻断 (block)（0）
 
-- [① trim/version] **aito-m9**: trim "增程 Max / 纯电 Max" spans powertrain EREV but field powertrain=BEV
-- [① trim/version] **leapmotor-c11**: trim "增程 / 纯电 尊享版 / 旗舰版" spans powertrain EREV but field powertrain=BEV
-- [① trim/version] **leapmotor-c16**: trim "增程 / 纯电 标准版 / 旗舰版" spans powertrain EREV but field powertrain=BEV
-- [① trim/version] **voyah-dream-phev**: trim "增程版 尊享 / 旗舰" spans powertrain EREV but field powertrain=PHEV
-- [③ test standard] **aito-m9-ultimate**: range_long_km present with no CLTC/WLTP/EPA/NEDC field — standard ambiguous
-- [③ test standard] **bestune-e01**: range_long_km present with no CLTC/WLTP/EPA/NEDC field — standard ambiguous
-- [③ test standard] **landian-e5**: range_long_km present with no CLTC/WLTP/EPA/NEDC field — standard ambiguous
-- [③ test standard] **oshan-x7-ev**: range_long_km present with no CLTC/WLTP/EPA/NEDC field — standard ambiguous
-- [③ test standard] **venucia-v-online-dd-i**: range_long_km present with no CLTC/WLTP/EPA/NEDC field — standard ambiguous
-- [⑤ conflict] **denza-z9-gt-dm-i**: param type: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **denza-n8l**: param range: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **ora-lightning-cat**: param range: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **ora-lightning-cat**: param battery: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **zeekr-007-gt**: param type: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **geometry-a**: param battery: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **geometry-a**: param motor: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **lynk-co-07**: param motor: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **aion-lx-plus**: param range: conflict with no note — must be manually resolved or documented before publish
-- [⑤ conflict] **avatr-06t**: param type: conflict with no note — must be manually resolved or documented before publish
 
-## 告警 (warn)（324）
+## 告警 (warn)（334）
 
 - [① trim/version] **aion-lx**: trim present but model_year missing (version unpinned)
 - [① trim/version] **aion-rt**: trim present but model_year missing (version unpinned)
@@ -143,6 +124,16 @@
 - [⑤ conflict] **nio-et9**: param battery: conflict documented (note present) — still pending manual resolution
 - [⑤ conflict] **nio-et9**: param type: conflict documented (note present) — still pending manual resolution
 - [⑤ conflict] **maextro-s800**: param battery: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **denza-z9-gt-dm-i**: param type: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **denza-n8l**: param range: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **ora-lightning-cat**: param range: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **ora-lightning-cat**: param battery: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **zeekr-007-gt**: param type: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **geometry-a**: param battery: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **geometry-a**: param motor: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **lynk-co-07**: param motor: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **aion-lx-plus**: param range: conflict documented (note present) — still pending manual resolution
+- [⑤ conflict] **avatr-06t**: param type: conflict documented (note present) — still pending manual resolution
 - [⑧ high-risk] **aion-y.price_usd**: Price marked partial — 待核验 (pending manual review)
 - [⑧ high-risk] **aion-y.price_type**: Price marked partial — 待核验 (pending manual review)
 - [⑧ high-risk] **aion-y.currency**: Price marked partial — 待核验 (pending manual review)
@@ -246,15 +237,5 @@
 - [⑧ high-risk] **chery-tiggo-9.certification_notes**: Certification marked partial — 待核验 (pending manual review)
 - [⑧ high-risk] **chery-tiggo-9.hs_code**: HS Code marked partial — 待核验 (pending manual review)
 - [⑧ high-risk] **denza-z9-gt.price_usd**: Price marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **denza-z9-gt.price_type**: Price marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **denza-z9-gt.currency**: Price marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **denza-z9-gt.range_cltc_km**: Range marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **denza-z9-gt.range_long_km**: Range marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **denza-z9-gt.certification_notes**: Certification marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **denza-z9-gt.hs_code**: HS Code marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **exeed-exlantix-es.price_usd**: Price marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **exeed-exlantix-es.price_type**: Price marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **exeed-exlantix-es.currency**: Price marked partial — 待核验 (pending manual review)
-- [⑧ high-risk] **exeed-exlantix-es.range_cltc_km**: Range marked partial — 待核验 (pending manual review)
-- … 及另外 124 项
+- … 及另外 134 项
 

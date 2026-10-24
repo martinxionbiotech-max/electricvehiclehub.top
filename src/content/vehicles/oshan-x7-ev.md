@@ -8,7 +8,7 @@ powertrain: "BEV"
 price_usd: 22210.0
 price_type: "China ex-factory reference price"
 currency: "USD"
-range_long_km: 405.0
+range_cltc_km: 405
 battery_kwh: 59.9
 motor_power_kw: 150.0
 torque_nm: 310.0

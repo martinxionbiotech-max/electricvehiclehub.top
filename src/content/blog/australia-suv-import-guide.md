@@ -95,7 +95,7 @@ In Australia's zero-duty, no-CVD structure, all four SUVs land at a +28% to +46%
 
 1. China EV Mart vehicle records — Atto 3 / G6 / L60 / 7X frontmatter (`price_usd`, `battery_kwh`, `range_cltc_km`, `charging_interface`, `landed_cost_markets`) — accessed 2026-10-23
 2. China EV Mart `tariffs.json` — Australia 0% duty, 10% GST — data date 2026-09-15
-3. China EV Mart [Australia import guide](/blog/australia-import-guide/) and [Australia zero-duty analysis](/blog/australia-import-zero-duty/)
+3. China EV Mart [Australia import guide](/docs/regional-import-guides/) and [Australia zero-duty analysis](/blog/australia-import-zero-duty/)
 
 ---
 

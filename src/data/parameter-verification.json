@@ -2069,7 +2069,8 @@
         "status": "conflict",
         "confidence": "high",
         "model_year": null,
-        "trim": null
+        "trim": null,
+        "note": "field type=Sedan; Z9 GT is a shooting brake / station wagon. Value kept for manual reconciliation."
       }
     },
     "denza-n8l": {
@@ -2090,7 +2091,8 @@
         "confidence": "medium",
         "model_year": null,
         "trim": null,
-        "test_standard": "CLTC"
+        "test_standard": "CLTC",
+        "note": "field 230 km electric vs Wikipedia N8 80/100 km — N8L is a 2025 facelift (model/year mismatch). Value kept for manual reconciliation."
       },
       "battery": {
         "value": 46.99,
@@ -2546,7 +2548,8 @@
         "confidence": "medium",
         "model_year": null,
         "trim": null,
-        "test_standard": "NEDC"
+        "test_standard": "NEDC",
+        "note": "field 555 km CLTC vs Wikipedia 640 km NEDC — test-standard / trim mismatch. Value kept for manual reconciliation."
       },
       "battery": {
         "value": 64.31,
@@ -2555,7 +2558,8 @@
         "status": "conflict",
         "confidence": "medium",
         "model_year": null,
-        "trim": null
+        "trim": null,
+        "note": "field 64.31 kWh vs Wikipedia 83.5 kWh — multi-pack (64.31 / 83.49 kWh). Value kept for manual reconciliation."
       },
       "motor": {
         "value": 150,
@@ -3899,7 +3903,8 @@
         "status": "conflict",
         "confidence": "high",
         "model_year": null,
-        "trim": null
+        "trim": null,
+        "note": "field type=Sedan; 007 GT is a shooting brake. Value kept for manual reconciliation."
       }
     },
     "geometry-a": {
@@ -3929,7 +3934,8 @@
         "status": "conflict",
         "confidence": "medium",
         "model_year": null,
-        "trim": null
+        "trim": null,
+        "note": "field 46.1 kWh vs Wikipedia 51.9 / 61.9 kWh (2019 launch vs 2024 facelift uses 46.1). Value kept for manual reconciliation."
       },
       "motor": {
         "value": 100,
@@ -3938,7 +3944,8 @@
         "status": "conflict",
         "confidence": "medium",
         "model_year": null,
-        "trim": null
+        "trim": null,
+        "note": "field 100 kW vs Wikipedia 120 kW (facelift vs original). Value kept for manual reconciliation."
       },
       "accel": {
         "value": null,
@@ -3995,7 +4002,8 @@
         "status": "conflict",
         "confidence": "medium",
         "model_year": null,
-        "trim": null
+        "trim": null,
+        "note": "field 180 kW vs Wikipedia 160 kW front motor. Value kept for manual reconciliation."
       },
       "accel": {
         "value": 6.5,
@@ -4100,7 +4108,8 @@
         "confidence": "medium",
         "model_year": null,
         "trim": null,
-        "test_standard": "NEDC"
+        "test_standard": "NEDC",
+        "note": "field 1008 km recorded as CLTC but is the NEDC figure (Wikipedia 503–1008 km NEDC). Test-standard label needs correction. Value kept for manual reconciliation."
       },
       "battery": {
         "value": 144.4,
@@ -4487,7 +4496,8 @@
         "status": "conflict",
         "confidence": "high",
         "model_year": null,
-        "trim": null
+        "trim": null,
+        "note": "field type=Sedan; 06T is a station wagon variant. Value kept for manual reconciliation."
       }
     },
     "avatr-07-erev": {
