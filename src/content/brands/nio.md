@@ -1,5 +1,5 @@
 ---
-title: "NIO: Chinese EV Brand Profile & Export Data"
+title: "NIO: 10 Models — Factory $41,850–$108,170, Germany Landed Cost"
 description: "NIO (premium Hefei-based EV maker, founded 2014, battery-swapping NIO Power network) — 10 models catalogued with factory prices and Germany landed-cost breakdowns (+64% to +74% import premium on a 20.7% EU countervailing duty)."
 brand_name: "NIO"
 established: "2014"

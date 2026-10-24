@@ -1,6 +1,6 @@
 ---
-title: "MG: Chinese EV Brand Profile & Export Data"
-description: "MG is a global automotive brand with British heritage and Chinese innovation, now owned and operated by SAIC Motor Corporation Limited. Originally fou..."
+title: "MG: 6 Models — Factory $9,690–$23,170, Germany Landed Cost"
+description: "MG (British-founded SAIC brand) — 6 models catalogued with factory prices and Germany landed-cost breakdowns (+59% to +145% import premium on a 35.3% EU countervailing duty)."
 brand_name: "MG"
 established: "1924"
 parent_manufacturer: "SAIC"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [MG, Chinese EV brand, EV export]
 ---
 
-MG is a global automotive brand with British heritage and Chinese innovation, now owned and operated by SAIC Motor Corporation Limited. Originally founded in Oxford, England, in 1924, MG earned fame for its classic roadsters and racing pedigree. Today, under SAIC’s leadership, the brand has been reborn as a pioneer in affordable, intelligent, and electrified mobility — blending nearly a century of craftsmanship with cutting-edge technology.
+MG is a global brand with British heritage, founded in Oxford in 1924 and now owned and operated by SAIC Motor. We catalogue 6 MG models, whose factory prices span roughly $9,690 to $23,170; in Germany, landed cost runs about $23,762 to $36,930, a +59% to +145% premium over the sticker price after a 35.3% EU countervailing duty on the BEV portion of the line-up.

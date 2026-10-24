@@ -1,6 +1,6 @@
 ---
-title: "Maxus: Chinese EV Brand Profile & Export Data"
-description: "Maxus, also known internationally as SAIC Maxus or LDV Maxus, is a global commercial and lifestyle vehicle brand under SAIC Motor Corporation Limited...."
+title: "Maxus: 7 Models — Factory $22,510–$42,150, Germany Landed Cost"
+description: "Maxus (SAIC's LDV-derived brand) — 7 models catalogued with factory prices and Germany landed-cost breakdowns (+48% to +102% import premium on a 35.3% EU countervailing duty)."
 brand_name: "Maxus"
 established: "2011"
 parent_manufacturer: "SAIC"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Maxus, Chinese EV brand, EV export]
 ---
 
-Maxus, also known internationally as SAIC Maxus or LDV Maxus, is a global commercial and lifestyle vehicle brand under SAIC Motor Corporation Limited. Originating from the historic British LDV (Leyland DAF Vans) marque acquired by SAIC in 2010, Maxus has grown into an international symbol of innovation, versatility, and intelligent mobility, serving both business and personal users across more than 70 countries.
+Maxus, also sold as SAIC Maxus or LDV Maxus, is SAIC Motor's global commercial and lifestyle brand descended from Britain's LDV marque. Maxus is represented here by 7 models, with ex-factory prices from about $22,510 to $42,150 and German landed cost around $36,066 to $81,251 — +48% to +102% above the sticker price, with its BEV models carrying a 35.3% EU countervailing duty.

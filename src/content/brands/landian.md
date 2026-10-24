@@ -1,6 +1,6 @@
 ---
-title: "Landian: Chinese EV Brand Profile & Export Data"
-description: "Landian is the value-oriented new-energy brand of Seres Group, established in 2023 and headquartered in Chongqing, offering affordable electrified SUVs built on Seres' manufacturing and powertrain expertise."
+title: "Landian: 4 Models — Factory $13,860–$19,420, Germany Landed Cost"
+description: "Landian (Seres' value NEV brand) — 4 models catalogued with factory prices and Germany landed-cost breakdowns (+65% to +92% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Landian"
 established: "2023"
 parent_manufacturer: "Seres Group"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-15"
 tags: [Landian, Chinese EV brand, EV export]
 ---
 
-Landian is the budget new-energy vehicle brand of Seres Group, launched in 2023 and based in Chongqing. It slots beneath Seres' premium AITO and Seres marques, delivering affordable electrified SUVs that reuse Seres Group's proven e-powertrain and manufacturing platform for cost-sensitive domestic and export buyers.
+Landian is Seres Group's value-oriented new-energy brand, launched in 2023 with affordable electrified SUVs. The 4 Landian models we track carry factory prices from roughly $13,860 to $19,420; landed in Germany, that becomes about $24,743 to $37,283, a +65% to +92% uplift — a 20.7% EU countervailing duty applies to its BEV models.

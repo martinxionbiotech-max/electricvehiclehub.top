@@ -1,6 +1,6 @@
 ---
-title: "Onvo: Chinese EV Brand Profile & Export Data"
-description: "Onvo is a family-oriented electric vehicle brand created to make premium intelligent mobility accessible to more users. Introduced in 2024, Onvo repre..."
+title: "Onvo: 3 Models — Factory $29,140–$37,440, Germany Landed Cost"
+description: "Onvo (NIO's family brand) — 3 models catalogued with factory prices and Germany landed-cost breakdowns (+76% to +81% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Onvo"
 established: "2024"
 parent_manufacturer: "NIO"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Onvo, Chinese EV brand, EV export]
 ---
 
-Onvo is a family-oriented electric vehicle brand created to make premium intelligent mobility accessible to more users. Introduced in 2024, Onvo represents NIO’s expansion beyond the luxury segment, focusing on practicality, comfort, and smart technology designed specifically for modern families. The brand name “Onvo,” derived from “On Voyage,” symbolizes joyful journeys and the shared experiences that define family travel.
+Onvo is NIO's family-oriented brand, introduced in 2024 to extend the group beyond the luxury segment. Our catalogue tracks 3 Onvo models, with factory prices spanning roughly $29,140 to $37,440 and landed costs in Germany running from about $52,640 to $65,754 — a premium of +76% to +81% over the Chinese sticker price on a 20.7% EU countervailing-duty rate.

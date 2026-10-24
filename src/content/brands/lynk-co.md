@@ -1,6 +1,6 @@
 ---
-title: "Lynk & Co: Chinese EV Brand Profile & Export Data"
-description: "Lynk & Co is a global mobility brand jointly created by Geely Auto Group and Volvo Cars, designed for a new generation of connected, design-conscious,..."
+title: "Lynk & Co: 12 Models — Factory $15,260–$43,650, Germany Landed Cost"
+description: "Lynk & Co (Geely–Volvo mobility brand) — 12 models catalogued with factory prices and Germany landed-cost breakdowns (+46% to +99% import premium on an 18.8% EU countervailing duty)."
 brand_name: "Lynk & Co"
 established: "2016"
 parent_manufacturer: "Geely"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Lynk & Co, Chinese EV brand, EV export]
 ---
 
-Lynk & Co is a global mobility brand jointly created by Geely Auto Group and Volvo Cars, designed for a new generation of connected, design-conscious, and sustainability-minded drivers. Founded in 2016, Lynk & Co bridges the gap between traditional automotive ownership and digital lifestyle, offering vehicles that are as much about experience and community as they are about performance.
+Lynk & Co is a global mobility brand jointly created by Geely Auto Group and Volvo Cars, founded in 2016. Our catalogue tracks 12 Lynk & Co models, with factory prices spanning roughly $15,260 to $43,650 and landed costs in Germany running from about $30,331 to $63,738 — a premium of +46% to +99% over the Chinese sticker price — a 18.8% EU countervailing duty applies to its BEV models.

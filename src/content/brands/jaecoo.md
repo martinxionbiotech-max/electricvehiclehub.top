@@ -1,6 +1,6 @@
 ---
-title: "Jaecoo: Chinese EV Brand Profile & Export Data"
-description: "Jaecoo is an urban off-road and lifestyle vehicle brand under Chery Automobile Co., Ltd., created to redefine modern adventure through intelligent des..."
+title: "Jaecoo: 1 Model — Factory $16,890, Germany Landed Cost"
+description: "Jaecoo (Chery's urban off-road brand) — 1 model catalogued with factory prices and Germany landed-cost breakdowns (+70% import premium with no EU countervailing duty)."
 brand_name: "Jaecoo"
 established: "2023"
 parent_manufacturer: "Chery"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Jaecoo, Chinese EV brand, EV export]
 ---
 
-Jaecoo is an urban off-road and lifestyle vehicle brand under Chery Automobile Co., Ltd., created to redefine modern adventure through intelligent design, refined capability, and global sophistication. Officially launched in 2023 alongside its sibling brand Omoda, Jaecoo represents Chery’s new-generation strategy for international markets — blending rugged performance with urban elegance.
+Jaecoo is Chery Automobile's urban off-road and lifestyle brand, launched in 2023 alongside sibling Omoda for international markets. We catalogue 1 Jaecoo model, whose factory prices span roughly $16,890; in Germany, landed cost runs about $28,709, a +70% premium over the sticker price; no EU countervailing duty applies to these PHEV/EREV/HEV powertrains.

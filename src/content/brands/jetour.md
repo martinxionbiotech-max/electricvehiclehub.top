@@ -1,6 +1,6 @@
 ---
-title: "Jetour: Chinese EV Brand Profile & Export Data"
-description: "Jetour is a dynamic automobile brand under Chery Automobile, established in 2018 to meet the growing demand for smart, stylish, and versatile vehicles..."
+title: "Jetour: 11 Models — Factory $17,450–$46,460, Germany Landed Cost"
+description: "Jetour (Chery's SUV brand) — 11 models catalogued with factory prices and Germany landed-cost breakdowns (+45% to +69% import premium with no EU countervailing duty)."
 brand_name: "Jetour"
 established: "2018"
 parent_manufacturer: "Chery"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Jetour, Chinese EV brand, EV export]
 ---
 
-Jetour is a dynamic automobile brand under Chery Automobile, established in 2018 to meet the growing demand for smart, stylish, and versatile vehicles designed for family travel and leisure lifestyles. Positioned as an “intelligent travel companion,” Jetour focuses on SUVs and crossovers that combine spacious design, advanced connectivity, and dependable performance at accessible prices. The name “Jetour,” derived from “Jet” and “Tour,” embodies the brand’s philosophy of “Travel + Enjoyment,” reflecting its mission to help customers explore life with freedom, comfort, and confidence.
+Jetour is Chery Automobile's SUV and crossover brand, established in 2018 around family travel and leisure. The 11 Jetour models we track carry factory prices from roughly $17,450 to $46,460; landed in Germany, that becomes about $29,442 to $67,416, a +45% to +69% uplift, since these PHEV/EREV/HEV powertrains fall outside the EU countervailing-duty scope.
