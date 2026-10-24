@@ -123,3 +123,49 @@ No near-duplicate pages. Each brand/country/vehicle-pair is a distinct entity or
 ## 7. Verification
 
 - Build + 3-page render + git commit/push recorded in the delivery report (see commit log, `p1-unique-*` tag).
+
+---
+
+## 8. Execution record — p1-unique-batch66 (2026-10-24, executed)
+
+Disposition executed: **66 brand-page rewrites + title unification** (user approved「继续」). Merge/supplement classes: 0 (none found).
+
+### 8.1 Rewrites by class
+
+| Family | Rewritten | Notes |
+|---|---|---|
+| Brand pages | **66** | 72 − 3 keep (aito/arcfox/im) − 3 pilot (byd/xpeng/nio) |
+| Country guides | 0 | all keep (data-rich, per audit §3.2) |
+| Comparison articles | 0 | all keep (per audit §3.3) |
+| **Total** | **66** | — |
+
+### 8.2 Title unification
+
+**72/72** brand pages: the identical `"…: Chinese EV Brand Profile & Export Data"` suffix replaced with unique per-brand data titles, e.g. `"BYD: 46 Models — Factory $8,940–$32,370, Germany Landed Cost"`. The 6 already-data-rich pages (aito/arcfox/im + byd/xpeng/nio) got title-only changes; the other 66 got title + body + description.
+
+### 8.3 Description truncation cleanup
+
+**51 → 0** descriptions carrying the literal `...` truncation artefact.
+
+### 8.4 Template-rate retest (before → after)
+
+Measured against baseline commit `4c473a9`.
+
+| Metric | Before | After |
+|---|---|---|
+| Identical title suffix | 72 | 0 |
+| Boilerplate `"brand under [parent]"` occurrences | 34 | 0 |
+| Truncated descriptions (`...`) | 51 | 0 |
+| Verbatim duplicate sentences | 0 | 0 |
+
+The rewrite replaces the thin `「X is a [descriptor] brand under [parent]… [philosophy]」` skeleton with a **unique identity sentence** (real parent/JV/heritage/positioning facts, hand-varied openers) + a **computed data sentence** (model count · factory price range · Germany landed-cost range · premium range · brand CVD tier, from `vehicles` + `tariffs.json`). CVD is stated only where it applies: BEV-only rate for pure-BEV brands, "for its BEV models" for mixed-powertrain brands, and "no EU countervailing duty" for the 8 PHEV/EREV/HEV-only brands. No facts changed, no new claims without a data source.
+
+### 8.5 Build + gate
+
+- **Build**: `npm run build` → 910 pages, exit 0.
+- **Gate**: `npm run gate` → baseline 17 BLOCK / 19 blocking **unchanged** (no new BLOCK introduced; all 19 pre-existing blocking issues are vehicle-level trim/conflict/standard, unrelated to brand pages).
+
+### 8.6 Commits
+
+- `p1-unique-batch66(1/4)` … `(4/4)` — 72 brand files in 4 batches (18/18/18/18), pushed to `main`.
+- Final marker: `p1-unique-batch66` (this report).
