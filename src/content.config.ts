@@ -106,6 +106,7 @@ const vehicles = defineCollection({
       .record(
         z.object({
           source: z.string(),
+          source_url: z.string().url().optional(),
           verified_at: z.string().optional(),
           model_year: z.number().nullable().optional(),
           trim: z.string().optional(),

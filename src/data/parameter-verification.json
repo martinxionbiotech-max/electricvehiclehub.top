@@ -253,7 +253,8 @@
         "status": "unverifiable",
         "confidence": "low",
         "model_year": null,
-        "trim": "豪华版 / 越野玩家版"
+        "trim": "豪华版 / 越野玩家版",
+        "source_url": null
       },
       "range": {
         "value": 180,
@@ -263,7 +264,8 @@
         "confidence": "high",
         "note": "Resolved 2026-10-24: body corrected to 180 km (CLTC, electric-only); was 780 km (combined range-extended, also incorrect). Field kept as 180 km electric-only per BYD official.",
         "model_year": null,
-        "trim": "豪华版 / 越野玩家版"
+        "trim": "豪华版 / 越野玩家版",
+        "source_url": "https://en.wikipedia.org/wiki/Yangwang_U8"
       },
       "battery": {
         "value": 49.05,
@@ -273,7 +275,8 @@
         "confidence": "high",
         "value_ref": "49.05 kWh",
         "model_year": null,
-        "trim": "豪华版 / 越野玩家版"
+        "trim": "豪华版 / 越野玩家版",
+        "source_url": "https://en.wikipedia.org/wiki/Yangwang_U8"
       },
       "motor": {
         "value": 880,
@@ -283,7 +286,8 @@
         "confidence": "high",
         "value_ref": "880 kW",
         "model_year": null,
-        "trim": "豪华版 / 越野玩家版"
+        "trim": "豪华版 / 越野玩家版",
+        "source_url": "https://en.wikipedia.org/wiki/Yangwang_U8"
       },
       "accel": {
         "value": 3.6,
@@ -293,7 +297,8 @@
         "confidence": "high",
         "note": "Resolved 2026-10-24: body corrected to 3.6 s; was 3.9 s. Field kept 3.6 s per BYD official.",
         "model_year": null,
-        "trim": "豪华版 / 越野玩家版"
+        "trim": "豪华版 / 越野玩家版",
+        "source_url": "https://en.wikipedia.org/wiki/Yangwang_U8"
       },
       "charge": {
         "value": "18 min (30-80%)",
@@ -302,7 +307,8 @@
         "status": "unverifiable",
         "confidence": "low",
         "model_year": null,
-        "trim": "豪华版 / 越野玩家版"
+        "trim": "豪华版 / 越野玩家版",
+        "source_url": "https://www.yangwangauto.com/"
       }
     },
     "nio-et9": {

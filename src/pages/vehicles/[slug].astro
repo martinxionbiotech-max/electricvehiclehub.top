@@ -493,7 +493,12 @@ const jsonLd = {
 
     {/* ⑨ sources / last-checked / unresolved */}
     <section class="mb-10">
-      <h2 class="text-2xl font-bold mb-4 text-gray-900">Data provenance &amp; verification</h2>
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Data sources &amp; verification</h2>
+      <p class="text-sm text-gray-600 mb-4 leading-relaxed">
+        Every corrected or verified field on this page is annotated at the parameter level with its source
+        (source URL + verification date) in the key-parameter verification table. Figures not confirmed by the
+        manufacturer or an authoritative public reference are shown as N/A or marked pending — never estimated.
+      </p>
       <div class="rounded-xl border border-gray-200 overflow-hidden">
         <table class="w-full text-sm">
           <tbody>
@@ -550,6 +555,7 @@ const jsonLd = {
                   </td>
                   <td class="px-4 py-3 text-gray-700">
                     {r.cell.source || '—'}
+                    {r.cell.source_url ? <a href={r.cell.source_url} rel="nofollow noopener" target="_blank" class="ml-1 text-green-700 underline break-all">↗ source</a> : ''}
                     {r.cell.test_standard ? <span class="text-gray-500"> · {r.cell.test_standard}</span> : ''}
                   </td>
                   <td class="px-4 py-3 text-gray-700">{r.cell.verified_at || '—'}</td>
