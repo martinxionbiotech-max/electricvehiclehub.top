@@ -1,6 +1,6 @@
 ---
 title: "BYD: Chinese EV Brand Profile & Export Data"
-description: "BYD is a pioneering Chinese automotive brand under BYD Company Limited, symbolizing innovation and sustainability in mobility. Since entering the auto..."
+description: "BYD (Build Your Dreams) — China's highest-volume new-energy vehicle maker, in autos since 2003 under BYD Company Limited — 46 models catalogued with factory prices and Germany landed-cost breakdowns (+51% to +127% import premium on a 17.0% EU countervailing duty)."
 brand_name: "BYD"
 established: "2003"
 parent_manufacturer: "BYD"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [BYD, Chinese EV brand, EV export]
 ---
 
-BYD is a pioneering Chinese automotive brand under BYD Company Limited, symbolizing innovation and sustainability in mobility. Since entering the automobile industry in 2003, BYD has transformed from a newcomer into a global leader in new energy vehicles. Its brand philosophy — Build Your Dreams — reflects a commitment to making electric mobility accessible and inspiring a cleaner future.
+BYD (Build Your Dreams) is the automotive brand of BYD Company Limited, the Shenzhen-headquartered group founded in 1995 that entered the car business in 2003. It is one of China's highest-volume new-energy vehicle makers and one of the few that manufacture their own battery cells, which keeps its catalogue aggressive on price. Our catalogue tracks 46 BYD models — the largest line-up on China EV Mart — with factory prices spanning roughly $8,940 to $32,370 and landed costs in Germany running from about $20,292 to $56,176, a premium of +51% to +127% over the Chinese sticker price, shaped by BYD's 17.0% EU countervailing-duty rate.
