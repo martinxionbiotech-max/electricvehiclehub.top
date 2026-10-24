@@ -1,6 +1,6 @@
 ---
-title: "Stelato: Chinese EV Brand Profile & Export Data"
-description: "Stelato is a premium electric vehicle brand launched in 2024 under the Harmony Intelligent Mobility Alliance (HIMA), born from the collaboration betwe..."
+title: "Stelato: 3 Models — Factory $43,030–$55,530, Germany Landed Cost"
+description: "Stelato (BAIC–Huawei HIMA brand) — 3 models catalogued with factory prices and Germany landed-cost breakdowns (+46% to +73% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Stelato"
 established: "2024"
 parent_manufacturer: "BAIC"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Stelato, Chinese EV brand, EV export]
 ---
 
-Stelato is a premium electric vehicle brand launched in 2024 under the Harmony Intelligent Mobility Alliance (HIMA), born from the collaboration between BAIC BluePark and Huawei. Created to embody the next level of intelligent luxury, Stelato fuses Huawei’s software and smart mobility capabilities with BAIC’s automotive engineering know-how.
+Stelato is the premium EV brand launched in 2024 from BAIC BluePark and Huawei under the HIMA framework. Stelato fields 3 models in our catalogue, priced from roughly $43,030 to $55,530 at the factory gate and landing in Germany between about $62,926 to $94,335, for a +46% to +73% premium — a 20.7% EU countervailing duty applies to its BEV models.

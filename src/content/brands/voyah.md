@@ -1,6 +1,6 @@
 ---
-title: "Voyah: Chinese EV Brand Profile & Export Data"
-description: "Voyah is a premium intelligent electric vehicle brand under Dongfeng Motor Corporation, created to lead the group’s transformation toward high-end, el..."
+title: "Voyah: 8 Models — Factory $28,580–$53,510, Germany Landed Cost"
+description: "Voyah (Dongfeng's premium EV brand) — 8 models catalogued with factory prices and Germany landed-cost breakdowns (+43% to +81% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Voyah"
 established: "2019"
 parent_manufacturer: "Dongfeng"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-05"
 tags: [Voyah, Chinese EV brand, EV export]
 ---
 
-Voyah is a premium intelligent electric vehicle brand under Dongfeng Motor Corporation, created to lead the group’s transformation toward high-end, electrified mobility. Officially launched in 2020, Voyah represents Dongfeng’s vision of blending luxury craftsmanship with cutting-edge technology to deliver refined, intelligent, and sustainable driving experiences.
+Voyah is Dongfeng Motor's premium intelligent EV brand, launched in 2020 to lead the group's high-end electrification. Across the 8 Voyah models we catalogue, factory prices run from roughly $28,580 to $53,510; landed in Germany they reach about $47,140 to $80,005, a +43% to +81% import premium after a 20.7% EU countervailing duty on the BEV portion of the line-up.

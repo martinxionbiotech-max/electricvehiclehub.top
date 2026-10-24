@@ -1,6 +1,6 @@
 ---
-title: "Oshan: Chinese EV Brand Profile & Export Data"
-description: "Oshan is a Changan Automobile brand established in 2018 and based in Chongqing, spanning family SUVs and MPVs, with electrified variants serving budget and mid-range buyers."
+title: "Oshan: 3 Models — Factory $21,640–$23,170, Germany Landed Cost"
+description: "Oshan (Changan's family-SUV brand) — 3 models catalogued with factory prices and Germany landed-cost breakdowns (+61% to +88% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Oshan"
 established: "2018"
 parent_manufacturer: "Changan"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-15"
 tags: [Oshan, Chinese EV brand, EV export]
 ---
 
-Oshan is a passenger vehicle brand under Changan Automobile, established in 2018 and headquartered in Chongqing. Evolved from Changan's commercial-vehicle line, Oshan now covers family-oriented SUVs and MPVs, with plug-in hybrid and battery-electric variants that bring Changan's mainstream engineering to cost-conscious households and export markets.
+Oshan is a Changan Automobile brand for family SUVs and MPVs, established in 2018 with electrified variants. Oshan is represented here by 3 models, with ex-factory prices from about $21,640 to $23,170 and German landed cost around $34,927 to $43,208 — +61% to +88% above the sticker price after a 20.7% EU countervailing duty on the BEV portion of the line-up.

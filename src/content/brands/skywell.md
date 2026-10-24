@@ -1,6 +1,6 @@
 ---
-title: "Skywell: Chinese EV Brand Profile & Export Data"
-description: "Skywell is an electric vehicle brand from Skywell Group, established in 2019 and based in Nanjing, backed by consumer-electronics giant Skyworth and built on Nanjing Golden Dragon's commercial-EV heritage."
+title: "Skywell: 2 Models — Factory $20,390–$21,110, Germany Landed Cost"
+description: "Skywell (Skyworth-backed EV brand) — 2 models catalogued with factory prices and Germany landed-cost breakdowns (+63% to +89% import premium on a 20.7% EU countervailing duty)."
 brand_name: "Skywell"
 established: "2019"
 parent_manufacturer: "Skywell Group"
@@ -12,4 +12,4 @@ publishedDate: "2026-09-15"
 tags: [Skywell, Chinese EV brand, EV export]
 ---
 
-Skywell is an electric vehicle brand launched in 2019 and based in Nanjing, Jiangsu. It is backed by Skyworth Group, one of China's largest consumer-electronics companies, and draws on the electric-bus expertise of Nanjing Golden Dragon. Skywell produces electric SUVs that pair commercial-vehicle durability with Skyworth's connected-cabin technology for domestic and early export markets.
+Skywell is a Nanjing-based EV brand backed by consumer-electronics giant Skyworth, launched in 2019. Skywell contributes 2 models to the catalogue, factory-priced from about $20,390 to $21,110 and landing in Germany around $33,291 to $39,953 — a +63% to +89% import premium after a 20.7% EU countervailing duty on the BEV portion of the line-up.

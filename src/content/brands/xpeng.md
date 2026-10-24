@@ -1,5 +1,5 @@
 ---
-title: "XPeng: Chinese EV Brand Profile & Export Data"
+title: "XPeng: 10 Models — Factory $16,800–$43,630, Germany Landed Cost"
 description: "XPeng (Guangzhou smart-EV maker, founded 2014, XNGP autonomous-driving stack) — 10 models catalogued with factory prices and Germany landed-cost breakdowns (+48% to +97% import premium on a 20.7% EU countervailing duty)."
 brand_name: "XPeng"
 established: "2014"
