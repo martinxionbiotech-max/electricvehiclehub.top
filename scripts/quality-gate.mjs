@@ -100,6 +100,66 @@ for (const v of vehicles) {
   }
 }
 
+// ── 6. P2 pre-publish checks (⑤ conflict / ⑥ canonical / ⑦ structured data) ──
+const p2 = { conflictUnresolved: 0, conflictDocumented: 0, canonicalBad: 0, ldForbidden: 0 };
+const p2ConflictList = [];
+const p2CanonicalList = [];
+const p2LdList = [];
+
+// ⑤ conflict interception (parameter-verification.json `conflict` status)
+{
+  const pv = load('src/data/parameter-verification.json');
+  for (const [slug, cells] of Object.entries(pv.vehicles ?? {})) {
+    for (const [param, c] of Object.entries(cells)) {
+      if (c?.status !== 'conflict') continue;
+      const documented = !!c.note && c.note.trim().length > 0;
+      if (documented) p2.conflictDocumented++;
+      else { p2.conflictUnresolved++; p2ConflictList.push(`${slug}.${param}`); }
+    }
+  }
+}
+
+// ⑥ canonical domain
+{
+  const SITE = 'https://chinaevmart.com';
+  const siteTs = existsSync(join(ROOT, 'src/config/site.ts'))
+    ? readFileSync(join(ROOT, 'src/config/site.ts'), 'utf8')
+    : '';
+  const astroCfg = existsSync(join(ROOT, 'astro.config.mjs'))
+    ? readFileSync(join(ROOT, 'astro.config.mjs'), 'utf8')
+    : '';
+  const env = existsSync(join(ROOT, '.env.example'))
+    ? readFileSync(join(ROOT, '.env.example'), 'utf8')
+    : '';
+  const grab = (src, re) => { const m = src.match(re); return m ? m[1] : null; };
+  const checks = [
+    ['.env.example SITE_URL', grab(env, /SITE_URL\s*=\s*(\S+)/)],
+    ['site.ts url fallback', grab(siteTs, /url\s*=\s*import\.meta\.env\.SITE_URL\s*\|\|\s*'([^']+)'/)],
+    ['site.ts company.url', grab(siteTs, /url:\s*'([^']+)',\s*\n\s*logo/s)],
+    ['astro.config siteUrl fallback', grab(astroCfg, /siteUrl\s*=\s*process\.env\.SITE_URL\s*\|\|\s*'([^']+)'/)],
+  ];
+  for (const [label, v] of checks) {
+    if (!v) { p2.canonicalBad++; p2CanonicalList.push(`${label} not found`); }
+    else if (v !== SITE) { p2.canonicalBad++; p2CanonicalList.push(`${label}=${v}`); }
+  }
+}
+
+// ⑦ structured data — no fabricated fields
+{
+  const LD_FORBIDDEN = ['rating', 'review', 'aggregateRating', 'award', 'sku', 'mpn', 'gtin', 'productID'];
+  for (const rel of ['src/components/common/SEO.astro', 'src/pages/vehicles/[slug].astro']) {
+    const p = join(ROOT, rel);
+    if (!existsSync(p)) continue;
+    const src = readFileSync(p, 'utf8');
+    for (const key of LD_FORBIDDEN) {
+      if (new RegExp(`\\b${key}\\s*:`).test(src)) {
+        p2.ldForbidden++;
+        p2LdList.push(`${rel}: ${key}`);
+      }
+    }
+  }
+}
+
 // ── 报告输出 ──
 const today = new Date().toISOString().split('T')[0];
 const lines = [];
@@ -141,9 +201,22 @@ if (suggestions.size === 0) {
 } else {
   for (const [k, v] of suggestions) lines.push(`- **${k}**: ${v}`);
 }
+
+// ── P2 pre-publish checks section ──
+lines.push('');
+lines.push('## P2 发布前检查（⑤ conflict / ⑥ canonical / ⑦ structured data）');
+lines.push('');
+lines.push(`- ⑤ conflict 未解决（无 note）：**${p2.conflictUnresolved}**`);
+lines.push(`- ⑤ conflict 已标注（有 note，仍待人工）：**${p2.conflictDocumented}**`);
+lines.push(`- ⑥ canonical 域异常：**${p2.canonicalBad}**`);
+lines.push(`- ⑦ JSON-LD 虚构字段：**${p2.ldForbidden}**`);
+if (p2ConflictList.length) lines.push(`- conflict 未解决项：${p2ConflictList.join('、')}`);
+if (p2CanonicalList.length) lines.push(`- canonical 异常：${p2CanonicalList.join('、')}`);
+if (p2LdList.length) lines.push(`- 虚构字段：${p2LdList.join('、')}`);
 writeFileSync(join(ROOT, 'docs/indexation-quality-gate.md'), lines.join('\n') + '\n');
 
 console.log(`=== Quality Gate ===`);
 for (const g of gateNames) console.log(`  ${g}: ${results[g]}/${vehicles.length} pass`);
 console.log(`  incomplete records: ${incomplete.length}`);
+console.log(`  P2: conflict-unresolved=${p2.conflictUnresolved} conflict-documented=${p2.conflictDocumented} canonical-bad=${p2.canonicalBad} ld-forbidden=${p2.ldForbidden}`);
 console.log(`→ docs/indexation-quality-gate.md written`);

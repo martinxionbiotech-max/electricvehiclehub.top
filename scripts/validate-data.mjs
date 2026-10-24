@@ -128,12 +128,50 @@ for (const vf of vehFiles) {
   // family (nameplate) presence
   if (!str(fm, 'family')) flag('missing-family', slug, 'missing family');
 
+  // ── ① trim / version consistency (P2 gate) ──
+  const trim = str(fm, 'trim');
+  const pwt = str(fm, 'powertrain');
+  if (trim && num(fm, 'model_year') == null) {
+    flag('trim-unpinned', slug, `trim present but model_year missing (version unpinned)`);
+  }
+  if (trim && pwt && POWERTRAINS.has(pwt)) {
+    const TL = trim.toLowerCase();
+    const PT_KW = { BEV: ['纯电'], EREV: ['增程'], PHEV: ['插混', '插电'], HEV: ['油混', '非插电'] };
+    for (const [other, kws] of Object.entries(PT_KW)) {
+      if (other !== pwt && kws.some((k) => TL.includes(k))) {
+        flag('trim-powertrain-mismatch', slug, `trim "${trim.slice(0, 32)}" spans ${other} but powertrain=${pwt}`);
+      }
+    }
+  }
+
+  // ── ② parameter unit enum (bare numbers only; unit lives in field name) ──
+  const UNIT_FIELDS = ['price_usd','fob_price_usd_min','fob_price_usd_max','battery_kwh','range_cltc_km','range_wltp_km','range_epa_km','range_nedc_km','range_long_km','motor_power_kw','total_power_kw','torque_nm','accel_0_100_s','top_speed_kmh','length_mm','width_mm','height_mm','wheelbase_mm','weight_kg','gross_weight_kg','ground_clearance_mm','trunk_l','efficiency_kwh_100km','drag_coefficient'];
+  for (const uf of UNIT_FIELDS) {
+    const raw = fm[uf];
+    if (raw == null || raw === '' || raw === 'null') continue;
+    if (!/^-?\d+(\.\d+)?$/.test(raw.replace(/^"|"$/g, ''))) {
+      flag('unit-not-bare-number', slug, `${uf}=${raw.slice(0, 20)} not a bare number`);
+    }
+  }
+
+  // ── ③ test-standard labels (every range value must belong to CLTC/WLTP/EPA/NEDC) ──
+  const stdRange = ['range_cltc_km','range_wltp_km','range_epa_km','range_nedc_km'].some((k) => num(fm, k) != null);
+  if (num(fm, 'range_long_km') != null && !stdRange) {
+    flag('range-standard-ambiguous', slug, 'range_long_km present with no CLTC/WLTP/EPA/NEDC field');
+  }
+
+  // ── ④ source + price date presence ──
+  if (!str(fm, 'data_source')) flag('missing-data-source', slug, 'missing data_source');
+  const du = str(fm, 'data_updated');
+  if (!du) flag('missing-data-updated', slug, 'missing data_updated (price has no date basis)');
+  else if (!/^\d{4}-\d{2}-\d{2}$/.test(du)) flag('bad-data-updated', slug, `data_updated=${du} not YYYY-MM-DD`);
+
   // brand relationship
   const brand = str(fm, 'brand');
   if (brand && !brandSlugs.has(brand)) flag('unknown-brand', slug, `brand=${brand} not in brands`);
   if (brand) brandModelCounts.set(brand, (brandModelCounts.get(brand) ?? 0) + 1);
 }
-ok.push(`vehicles: ${vehFiles.length} (required fields, enums, units, family, brand relation checked)`);
+ok.push(`vehicles: ${vehFiles.length} (required fields, enums, units, trim/version, test-standard, source/date, family, brand relation checked)`);
 
 // ── 3. Brand <-> vehicle bidirectional consistency ──
 for (const bf of brandFiles) {
