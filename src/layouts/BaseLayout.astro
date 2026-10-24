@@ -29,8 +29,8 @@ const {
   breadcrumb,
 } = Astro.props;
 
-// 预览部署默认 noindex（方案 C：.pages.dev 过渡期不入索引）；正式 .top 域名上线时在 CF Pages 设 PUBLIC_INDEXABLE=1 即放开
-const indexable = import.meta.env.PUBLIC_INDEXABLE === '1';
+// 索引开关（opt-in noindex）：默认可索引（生产 chinaevmart.com 正常收录）；仅当 CF Pages 构建环境设 PUBLIC_NOINDEX=1 时 noindex（.pages.dev 预览项目专用）
+const noindex = import.meta.env.PUBLIC_NOINDEX === '1';
 ---
 
 <!doctype html>
@@ -51,7 +51,7 @@ const indexable = import.meta.env.PUBLIC_INDEXABLE === '1';
       modifiedDate={modifiedDate}
       author={author}
       tags={tags}
-      robots={indexable ? robots : 'noindex, nofollow'}
+      robots={noindex ? 'noindex, nofollow' : robots}
       breadcrumb={breadcrumb}
     />
     <!-- Theme and announcement initialization - runs before page render to prevent flash -->
