@@ -183,7 +183,7 @@ const prefilledPrice = url.searchParams.get('price') || '';
     function buildMailto(event: Event) {
       event.preventDefault();
       const form = document.getElementById('quote-form') as HTMLFormElement;
-      const toEmail = form.dataset.email || 'info@chinaevmart.com';
+      const toEmail = form.dataset.email || 'admin@chinaevmart.com';
       const get = (id: string) => (form.elements.namedItem(id) as HTMLInputElement)?.value?.trim() ?? '';
       const name = get('name');
       const email = get('email');

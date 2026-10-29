@@ -11,9 +11,9 @@ import type { ContactInfo, ContactMethod, ContactFAQ } from '../lib/types';
 
 /** Contact information used across contact page and legal pages */
 export const contact: ContactInfo = {
-  email: 'info@chinaevmart.com',
-  supportEmail: 'info@chinaevmart.com',
-  salesEmail: 'info@chinaevmart.com',
+  email: 'admin@chinaevmart.com',
+  supportEmail: 'admin@chinaevmart.com',
+  salesEmail: 'admin@chinaevmart.com',
   address: {
     street: '',
     city: 'Jinzhou',
@@ -28,8 +28,8 @@ export const contactMethods: ContactMethod[] = [
   {
     icon: 'lucide:mail',
     label: 'Email',
-    value: 'info@chinaevmart.com',
-    href: 'mailto:info@chinaevmart.com',
+    value: 'admin@chinaevmart.com',
+    href: 'mailto:admin@chinaevmart.com',
   },
 ];
 
