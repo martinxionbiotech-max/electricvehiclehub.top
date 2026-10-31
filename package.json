@@ -2,7 +2,7 @@
   "name": "ev-hub",
   "type": "module",
   "version": "1.4.1",
-  "description": "China EV Mart \u2014 Chinese EV product database: specifications, versions, technology, and market comparison data.",
+  "description": "China EV Mart — Chinese EV product database: specifications, versions, technology, and market comparison data.",
   "keywords": [
     "astro",
     "theme",
@@ -18,7 +18,7 @@
   "homepage": "https://virex.erland.me",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/generate-markdown.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "lint": "eslint .",
@@ -52,6 +52,7 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-astro": "^1.5.0",
     "globals": "^16.5.0",
+    "node-html-markdown": "^2.0.0",
     "prettier": "^3.7.4",
     "prettier-plugin-astro": "^0.14.1",
     "tailwindcss": "^4.0.0",
